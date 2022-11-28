@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  app:
+    build: .
+    working_dir: /app
+    command: ["npm", "run", "dev"]
+    volumes:
+      - ./:/app
+    ports:
+      - 127.0.0.1:6600:3000
+      - 127.0.0.1:24678:24678
+    environment:
+      NODE_OPTIONS: "--openssl-legacy-provider"
+      AIRTABLE_API_KEY:

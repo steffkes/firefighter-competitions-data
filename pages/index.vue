@@ -1,9 +1,5 @@
 <template>
   <div>
-    <label class="checkbox">
-      <input type="checkbox" v-model="displayPastCompetitions" />
-      Zeige vergangene Wettkämpfe an
-    </label>
     <span
       :class="['tag', kind.FCC.type, { 'is-light': !competitionFilter.FCC }]"
     >
@@ -20,6 +16,10 @@
         FSR
       </label>
     </span>
+    <label class="checkbox">
+      <input type="checkbox" v-model="displayPastCompetitions" />
+      Zeige vergangene Wettkämpfe an
+    </label>
     <table class="table is-striped">
       <thead>
         <tr>

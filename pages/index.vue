@@ -16,7 +16,12 @@
         </tr>
       </tfoot>
       <tbody>
-        <tr v-for="competition in competitions">
+        <tr
+          v-for="competition in competitions"
+          :class="{
+            'has-text-grey-light': isPast(competition),
+          }"
+        >
           <td>
             {{
               competition.date.toLocaleDateString("de-DE", {
@@ -54,6 +59,9 @@ export default {
       },
     },
   }),
+  methods: {
+    isPast: (competition) => new Date() - competition.date > 0,
+  },
   async asyncData({ params, $axios }) {
     const airtable = $axios.create({
       baseURL: "https://api.airtable.com/v0/",

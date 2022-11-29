@@ -42,7 +42,7 @@
             'has-text-grey-light': isPast(competition),
           }"
         >
-          <td>
+          <td class="date">
             {{
               competition.date.toLocaleDateString("de-DE", {
                 year: "2-digit",
@@ -148,3 +148,10 @@ export default {
   },
 };
 </script>
+
+<style>
+table td.date {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+</style>

@@ -58,7 +58,10 @@
               >{{ competition.kind }}</span
             >
           </td>
-          <td>{{ competition.location.city }}</td>
+          <td>
+            {{ flag(competition.location.country_code) }}
+            {{ competition.location.city }}
+          </td>
         </tr>
       </tbody>
     </table>
@@ -86,6 +89,12 @@ export default {
   }),
   methods: {
     isPast: (competition) => new Date() - competition.date > 0,
+    flag: (countryCode) =>
+      countryCode
+        .toUpperCase()
+        .replace(/./g, (char) =>
+          String.fromCodePoint(127397 + char.charCodeAt())
+        ),
   },
   computed: {
     filteredCompetitions() {
@@ -122,6 +131,7 @@ export default {
         date: new Date(record.fields.Datum),
         location: {
           city: record.fields.Ort,
+          country_code: record.fields.Land,
         },
       };
     };

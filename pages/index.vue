@@ -1,5 +1,9 @@
 <template>
   <div>
+    <label class="checkbox">
+      <input type="checkbox" v-model="displayPastCompetitions" />
+      Zeige vergangene Wettkämpfe an
+    </label>
     <table class="table is-striped">
       <thead>
         <tr>
@@ -17,7 +21,7 @@
       </tfoot>
       <tbody>
         <tr
-          v-for="competition in competitions"
+          v-for="competition in filteredCompetitions"
           :class="{
             'has-text-grey-light': isPast(competition),
           }"
@@ -48,6 +52,7 @@
 <script>
 export default {
   data: () => ({
+    displayPastCompetitions: false,
     kind: {
       FCC: {
         title: "Firefighter Combat Challenge",
@@ -61,6 +66,19 @@ export default {
   }),
   methods: {
     isPast: (competition) => new Date() - competition.date > 0,
+  },
+  computed: {
+    filteredCompetitions() {
+      let competitions = this.competitions;
+
+      if (!this.displayPastCompetitions) {
+        competitions = this.competitions.filter(
+          (competition) => !this.isPast(competition)
+        );
+      }
+
+      return competitions;
+    },
   },
   async asyncData({ params, $axios }) {
     const airtable = $axios.create({

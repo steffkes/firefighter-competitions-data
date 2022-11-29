@@ -1,6 +1,6 @@
 <template>
   <div>
-    <table class="table">
+    <table class="table is-striped">
       <thead>
         <tr>
           <th>Datum</th>

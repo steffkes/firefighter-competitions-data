@@ -51,7 +51,7 @@ export default {
     const mapper = (kind, record) => {
       return {
         kind,
-        date: record.fields.Datum ? new Date(record.fields.Datum) : null,
+        date: new Date(record.fields.Datum),
         location: {
           city: record.fields.Ort,
         },
@@ -61,14 +61,14 @@ export default {
     const [stairruns, challenges] = await Promise.all([
       airtable
         .get("appF8BPHzWCy6OKVF/tbl7nlGCJYqn3uF7C")
-        .then((response) =>
-          response.data.records.map(mapper.bind(null, "FSR"))
-        ),
+        .then((response) => response.data.records)
+        .then((records) => records.filter((record) => record.fields.Datum))
+        .then((records) => records.map(mapper.bind(null, "FSR"))),
       airtable
         .get("appF8BPHzWCy6OKVF/tblRWTfwwmzoImHq1")
-        .then((response) =>
-          response.data.records.map(mapper.bind(null, "FCC"))
-        ),
+        .then((response) => response.data.records)
+        .then((records) => records.filter((record) => record.fields.Datum))
+        .then((records) => records.map(mapper.bind(null, "FCC"))),
     ]);
 
     const competitions = [].concat(stairruns, challenges);

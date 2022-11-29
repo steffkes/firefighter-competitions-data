@@ -1,28 +1,42 @@
 <template>
   <div>
-    <b-table :data="competitions" :sort-multiple="false">
-      <b-table-column label="Datum" width="50" v-slot="props">
-        <template v-if="props.row.date">
-          {{
-            props.row.date.toLocaleDateString("de-DE", {
-              year: "2-digit",
-              month: "2-digit",
-              day: "2-digit",
-            })
-          }}
-        </template>
-      </b-table-column>
-      <b-table-column label="Art" width="20" v-slot="props">
-        <b-tag
-          :title="kind[props.row.kind].title"
-          :type="kind[props.row.kind].type"
-          >{{ props.row.kind }}</b-tag
-        >
-      </b-table-column>
-      <b-table-column label="Stadt" v-slot="props">
-        {{ props.row.location.city }}
-      </b-table-column>
-    </b-table>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Datum</th>
+          <th><abbr title="Art des Wettkampfes">Art</abbr></th>
+          <th>Ort</th>
+        </tr>
+      </thead>
+      <tfoot>
+        <tr>
+          <th>Datum</th>
+          <th><abbr title="Art des Wettkampfes">Art</abbr></th>
+          <th>Ort</th>
+        </tr>
+      </tfoot>
+      <tbody>
+        <tr v-for="competition in competitions">
+          <td>
+            {{
+              competition.date.toLocaleDateString("de-DE", {
+                year: "2-digit",
+                month: "2-digit",
+                day: "2-digit",
+              })
+            }}
+          </td>
+          <td>
+            <span
+              :title="kind[competition.kind].title"
+              :class="['tag', kind[competition.kind].type]"
+              >{{ competition.kind }}</span
+            >
+          </td>
+          <td>{{ competition.location.city }}</td>
+        </tr>
+      </tbody>
+    </table>
   </div>
 </template>
 

@@ -4,6 +4,22 @@
       <input type="checkbox" v-model="displayPastCompetitions" />
       Zeige vergangene Wettkämpfe an
     </label>
+    <span
+      :class="['tag', kind.FCC.type, { 'is-light': !competitionFilter.FCC }]"
+    >
+      <label class="checkbox" :title="kind.FCC.title">
+        <input type="checkbox" v-model="competitionFilter.FCC" />
+        FCC
+      </label>
+    </span>
+    <span
+      :class="['tag', kind.FSR.type, { 'is-light': !competitionFilter.FSR }]"
+    >
+      <label class="checkbox" :title="kind.FSR.title">
+        <input type="checkbox" v-model="competitionFilter.FSR" />
+        FSR
+      </label>
+    </span>
     <table class="table is-striped">
       <thead>
         <tr>
@@ -53,6 +69,10 @@
 export default {
   data: () => ({
     displayPastCompetitions: false,
+    competitionFilter: {
+      FCC: true,
+      FSR: true,
+    },
     kind: {
       FCC: {
         title: "Firefighter Combat Challenge",
@@ -72,9 +92,17 @@ export default {
       let competitions = this.competitions;
 
       if (!this.displayPastCompetitions) {
-        competitions = this.competitions.filter(
+        competitions = competitions.filter(
           (competition) => !this.isPast(competition)
         );
+      }
+
+      if (!this.competitionFilter.FSR) {
+        competitions = competitions.filter(({ kind }) => kind != "FSR");
+      }
+
+      if (!this.competitionFilter.FCC) {
+        competitions = competitions.filter(({ kind }) => kind != "FCC");
       }
 
       return competitions;

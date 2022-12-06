@@ -15,6 +15,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
     "core-js": "^3.25.3",
+    "ical-generator": "^3.6.0",
     "nuxt": "^2.15.8",
     "nuxt-buefy": "^0.4.24",
     "vue": "^2.7.10",

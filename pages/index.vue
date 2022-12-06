@@ -16,10 +16,17 @@
         FSR
       </label>
     </span>
+    <a :href="calendarPath">
+      <button class="button is-link is-small">
+        <b-icon icon="calendar"> </b-icon>
+        <span>Wettkämpfe für deinen Kalendar</span>
+      </button>
+    </a>
     <label class="checkbox">
       <input type="checkbox" v-model="displayPastCompetitions" />
       Zeige vergangene Wettkämpfe an
     </label>
+
     <table class="table is-striped">
       <thead>
         <tr>
@@ -69,6 +76,8 @@
 </template>
 
 <script>
+const competitionProvider = require("../competition-provider");
+
 export default {
   data: () => ({
     displayPastCompetitions: false,
@@ -97,6 +106,14 @@ export default {
         ),
   },
   computed: {
+    calendarPath() {
+      return (
+        Object.keys(this.kind)
+          .filter((kind) => this.competitionFilter[kind])
+          .join("-")
+          .toLowerCase() + ".ics"
+      );
+    },
     filteredCompetitions() {
       let competitions = this.competitions;
 
@@ -117,43 +134,9 @@ export default {
       return competitions;
     },
   },
-  async asyncData({ params, $axios }) {
-    const airtable = $axios.create({
-      baseURL: "https://api.airtable.com/v0/",
-      headers: {
-        Authorization: "Bearer " + process.env.AIRTABLE_API_KEY,
-      },
-    });
-
-    const mapper = (kind, record) => {
-      return {
-        kind,
-        date: new Date(record.fields.Datum),
-        location: {
-          city: record.fields.Ort,
-          country_code: record.fields.Land,
-        },
-      };
-    };
-
-    const [stairruns, challenges] = await Promise.all([
-      airtable
-        .get("appF8BPHzWCy6OKVF/tbl7nlGCJYqn3uF7C")
-        .then((response) => response.data.records)
-        .then((records) => records.filter((record) => record.fields.Datum))
-        .then((records) => records.map(mapper.bind(null, "FSR"))),
-      airtable
-        .get("appF8BPHzWCy6OKVF/tblRWTfwwmzoImHq1")
-        .then((response) => response.data.records)
-        .then((records) => records.filter((record) => record.fields.Datum))
-        .then((records) => records.map(mapper.bind(null, "FCC"))),
-    ]);
-
-    const competitions = [].concat(stairruns, challenges);
-    competitions.sort(({ date: a_date }, { date: b_date }) => a_date - b_date);
-
+  async asyncData() {
     return {
-      competitions,
+      competitions: await competitionProvider(),
     };
   },
 };

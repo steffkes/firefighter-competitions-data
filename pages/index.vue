@@ -51,11 +51,21 @@
         >
           <td class="date">
             {{
-              competition.date.toLocaleDateString("de-DE", {
-                year: "2-digit",
-                month: "2-digit",
-                day: "2-digit",
-              })
+              [
+                ...new Set(
+                  [competition.date.start, competition.date.end].map((d) =>
+                    d.getTime()
+                  )
+                ),
+              ]
+                .map((n) =>
+                  new Date(n).toLocaleDateString("de-DE", {
+                    year: "2-digit",
+                    month: "2-digit",
+                    day: "2-digit",
+                  })
+                )
+                .join(" - ")
             }}
           </td>
           <td>
@@ -97,7 +107,7 @@ export default {
     },
   }),
   methods: {
-    isPast: (competition) => new Date() - competition.date > 0,
+    isPast: (competition) => new Date() - competition.date.end > 0,
     flag: (countryCode) =>
       countryCode
         .toUpperCase()

@@ -57,8 +57,8 @@ export default {
 
           for (const competition of filtered) {
             calendar.createEvent({
-              start: competition.date,
-              end: competition.date,
+              start: competition.date.start,
+              end: competition.date.end,
               allDay: true,
               summary: competition.kind + ": " + competition.location.city,
               location:

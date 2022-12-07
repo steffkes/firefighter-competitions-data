@@ -11,7 +11,10 @@ module.exports = async () => {
   const mapper = (kind, record) => {
     return {
       kind,
-      date: new Date(record.fields.Datum),
+      date: {
+        start: new Date(record.fields.Datum),
+        end: new Date(record.fields["Datum bis"] || record.fields.Datum),
+      },
       location: {
         city: record.fields.Ort,
         country_code: record.fields.Land,
@@ -33,7 +36,10 @@ module.exports = async () => {
   ]);
 
   const competitions = [].concat(stairruns, challenges);
-  competitions.sort(({ date: a_date }, { date: b_date }) => a_date - b_date);
+  competitions.sort(
+    ({ date: { start: a_date } }, { date: { start: b_date } }) =>
+      a_date - b_date
+  );
 
   return competitions;
 };

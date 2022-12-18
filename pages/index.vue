@@ -50,23 +50,15 @@
           }"
         >
           <td class="date">
-            {{
-              [
-                ...new Set(
-                  [competition.date.start, competition.date.end].map((d) =>
-                    d.getTime()
-                  )
-                ),
-              ]
-                .map((n) =>
-                  new Date(n).toLocaleDateString("de-DE", {
-                    year: "2-digit",
-                    month: "2-digit",
-                    day: "2-digit",
-                  })
-                )
-                .join(" - ")
-            }}
+            {{ formatDate(competition.date.start) }}
+            <span
+              v-if="
+                formatDate(competition.date.start) !=
+                formatDate(competition.date.end)
+              "
+              style="white-space: nowrap"
+              >- {{ formatDate(competition.date.end) }}</span
+            >
           </td>
           <td>
             <span
@@ -114,6 +106,12 @@ export default {
         .replace(/./g, (char) =>
           String.fromCodePoint(127397 + char.charCodeAt())
         ),
+    formatDate: (date) =>
+      date.toLocaleDateString("de-DE", {
+        year: "2-digit",
+        month: "2-digit",
+        day: "2-digit",
+      }),
   },
   computed: {
     calendarPath() {

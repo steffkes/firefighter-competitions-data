@@ -14,6 +14,7 @@ module.exports = async () => {
       date: {
         start: new Date(record.fields.Datum),
         end: new Date(record.fields["Datum bis"] || record.fields.Datum),
+        is_draft: record.fields["Vorläufig"],
       },
       location: {
         city: record.fields.Ort,

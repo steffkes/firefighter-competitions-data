@@ -46,10 +46,18 @@
         <tr
           v-for="competition in filteredCompetitions"
           :class="{
-            'has-text-grey-light': isPast(competition),
+            'has-text-grey-lighter': isPast(competition),
+            'has-text-grey-light': competition.date.is_draft,
+            'has-text-weight-light': competition.date.is_draft,
           }"
         >
           <td class="date">
+            <span
+              v-if="competition.date.is_draft"
+              style="cursor: help"
+              title="Der Termin dieser Veranstaltung ist noch nicht endgültig"
+              >❓</span
+            >
             {{ formatDate(competition.date.start) }}
             <span
               v-if="

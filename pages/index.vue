@@ -30,14 +30,14 @@
     <table class="table is-striped">
       <thead>
         <tr>
-          <th>Datum</th>
+          <th class="date">Datum</th>
           <th><abbr title="Art des Wettkampfes">Art</abbr></th>
           <th>Ort</th>
         </tr>
       </thead>
       <tfoot>
         <tr>
-          <th>Datum</th>
+          <th class="date">Datum</th>
           <th><abbr title="Art des Wettkampfes">Art</abbr></th>
           <th>Ort</th>
         </tr>
@@ -159,8 +159,9 @@ export default {
 </script>
 
 <style>
+table th.date,
 table td.date {
-  text-align: right;
+  text-align: right !important;
   font-variant-numeric: tabular-nums;
 }
 </style>

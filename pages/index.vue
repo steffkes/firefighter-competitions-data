@@ -16,11 +16,9 @@
         FSR
       </label>
     </span>
-    <a :href="calendarPath">
-      <button class="button is-link is-small">
-        <b-icon icon="calendar"> </b-icon>
-        <span>Wettkämpfe für deinen Kalendar</span>
-      </button>
+    <a :href="calendarPath" class="button is-primary is-small">
+      <b-icon icon="calendar"> </b-icon>
+      <span>Wettkämpfe für deinen Kalendar</span>
     </a>
     <label class="checkbox">
       <input type="checkbox" v-model="displayPastCompetitions" />

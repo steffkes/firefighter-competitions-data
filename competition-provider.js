@@ -11,6 +11,7 @@ module.exports = async () => {
   const mapper = (kind, record) => {
     return {
       kind,
+      name: record.fields["Name"],
       date: {
         start: new Date(record.fields.Datum),
         end: new Date(record.fields["Datum bis"] || record.fields.Datum),

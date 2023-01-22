@@ -31,6 +31,7 @@
           <th class="date">Datum</th>
           <th><abbr title="Art des Wettkampfes">Art</abbr></th>
           <th>Ort</th>
+          <th>Wettkampf</th>
         </tr>
       </thead>
       <tfoot>
@@ -38,6 +39,7 @@
           <th class="date">Datum</th>
           <th><abbr title="Art des Wettkampfes">Art</abbr></th>
           <th>Ort</th>
+          <th>Wettkampf</th>
         </tr>
       </tfoot>
       <tbody>
@@ -76,6 +78,9 @@
           <td>
             {{ flag(competition.location.country_code) }}
             {{ competition.location.city }}
+          </td>
+          <td>
+            {{ competition.name }}
           </td>
         </tr>
       </tbody>

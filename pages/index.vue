@@ -45,6 +45,7 @@
       <tbody>
         <tr
           v-for="competition in filteredCompetitions"
+          :id="competition.id"
           :class="{
             'has-text-grey-lighter': isPast(competition),
             'has-text-grey-light': competition.date.is_draft,
@@ -167,5 +168,9 @@ table th.date,
 table td.date {
   text-align: right !important;
   font-variant-numeric: tabular-nums;
+}
+
+:target {
+  background-color: #ffa;
 }
 </style>

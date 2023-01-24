@@ -10,6 +10,7 @@ module.exports = async () => {
 
   const mapper = (kind, record) => {
     return {
+      id: record["id"],
       kind,
       name: record.fields["Name"],
       date: {

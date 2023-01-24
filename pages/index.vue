@@ -45,11 +45,12 @@
       <tbody>
         <tr
           v-for="competition in filteredCompetitions"
-          :id="competition.id"
+          @click="highlight(competition)"
           :class="{
             'has-text-grey-lighter': isPast(competition),
             'has-text-grey-light': competition.date.is_draft,
             'has-text-weight-light': competition.date.is_draft,
+            'is-selected': competition.id == selectedCompetition,
           }"
         >
           <td class="date">
@@ -94,6 +95,7 @@ const competitionProvider = require("../competition-provider");
 
 export default {
   data: () => ({
+    selectedCompetition: null,
     displayPastCompetitions: false,
     competitionFilter: {
       FCC: true,
@@ -125,6 +127,11 @@ export default {
         month: "2-digit",
         day: "2-digit",
       }),
+    highlight: (competition) => {
+      console.debug({ competition });
+      window.location.hash = "#" + competition.id;
+    },
+    competitionFromHash: () => window.location.hash.slice(1),
   },
   computed: {
     calendarPath() {
@@ -160,6 +167,13 @@ export default {
       competitions: await competitionProvider(),
     };
   },
+  mounted() {
+    const readCompetition = () => {
+      this.selectedCompetition = this.competitionFromHash();
+    };
+    window.addEventListener("hashchange", readCompetition);
+    readCompetition();
+  },
 };
 </script>
 
@@ -168,9 +182,5 @@ table th.date,
 table td.date {
   text-align: right !important;
   font-variant-numeric: tabular-nums;
-}
-
-:target {
-  background-color: #ffa;
 }
 </style>

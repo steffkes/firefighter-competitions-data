@@ -128,7 +128,6 @@ export default {
         day: "2-digit",
       }),
     highlight: (competition) => {
-      console.debug({ competition });
       window.location.hash = "#" + competition.id;
     },
     competitionFromHash: () => window.location.hash.slice(1),

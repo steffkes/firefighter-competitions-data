@@ -1,10 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-const ical = require("ical-generator");
-const competitionProvider = require("./competition-provider");
-
-const variants = [["FCC", "FSR"], ["FCC"], ["FSR"]];
+const calendarProvider = require("./calendar-provider");
 
 export default {
   target: "static",
@@ -35,46 +32,19 @@ export default {
     baseURL: "/",
   },
 
+  serverMiddleware: ["~/server-middleware/calendar"],
+
   hooks: {
     generate: {
       async done(generator, errors) {
-        console.info("generate done");
-        const competitions = await competitionProvider();
-
-        for (const variant of variants) {
-          const slug = variant.join("-");
-          const filtered = competitions.filter(({ kind }) =>
-            variant.includes(kind)
-          );
-          const calendar = ical({
-            name: "Feuerwehr Wettkämpfe: " + variant.join(" & "),
-            prodId: {
-              company: "gelungen.es",
-              product: "firefighter-competitions",
-              language: "de",
-            },
-          });
-
-          for (const competition of filtered) {
-            calendar.createEvent({
-              status: ["CONFIRMED", "TENTATIVE"][+competition.date.is_draft],
-              start: competition.date.start,
-              end: competition.date.end,
-              allDay: true,
-              summary: competition.kind + ": " + competition.location.city,
-              location:
-                competition.location.city +
-                ", " +
-                new Intl.DisplayNames(["de"], { type: "region" }).of(
-                  competition.location.country_code
-                ),
-            });
-          }
-
+        for (const [calendarPath, calendarContent] of Object.entries(
+          calendarProvider
+        )) {
           fs.writeFileSync(
-            path.join(generator.distPath, slug.toLowerCase() + ".ics"),
-            calendar.toString()
+            path.join(generator.distPath, calendarPath),
+            await calendarContent()
           );
+          console.info("calendar " + calendarPath + " exported");
         }
       },
     },

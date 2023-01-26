@@ -46,6 +46,7 @@
         <tr
           v-for="competition in filteredCompetitions"
           @click="highlight(competition)"
+          :id="competition.id"
           :class="{
             'has-text-grey-lighter': isPast(competition),
             'has-text-grey-light': competition.date.is_draft,

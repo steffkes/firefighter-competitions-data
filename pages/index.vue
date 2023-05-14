@@ -17,7 +17,6 @@
       </label>
     </span>
     <a :href="calendarPath" class="button is-primary is-small">
-      <b-icon icon="calendar"> </b-icon>
       <span>Wettkämpfe für deinen Kalendar</span>
     </a>
     <label class="checkbox">
@@ -29,17 +28,13 @@
       <thead>
         <tr>
           <th class="date">Datum</th>
-          <th><abbr title="Art des Wettkampfes">Art</abbr></th>
-          <th>Ort</th>
-          <th>Wettkampf</th>
+          <th>Art / Ort / Wettkampf</th>
         </tr>
       </thead>
       <tfoot>
         <tr>
           <th class="date">Datum</th>
-          <th><abbr title="Art des Wettkampfes">Art</abbr></th>
-          <th>Ort</th>
-          <th>Wettkampf</th>
+          <th>Art / Ort / Wettkampf</th>
         </tr>
       </tfoot>
       <tbody>
@@ -77,12 +72,8 @@
               :class="['tag', kind[competition.kind].type]"
               >{{ competition.kind }}</span
             >
-          </td>
-          <td>
             {{ flag(competition.location.country_code) }}
-            {{ competition.location.city }}
-          </td>
-          <td>
+            {{ competition.location.city }}<br />
             {{ competition.name }}
           </td>
         </tr>
@@ -91,96 +82,102 @@
   </div>
 </template>
 
-<script>
-const competitionProvider = require("../competition-provider");
-
-export default {
-  data: () => ({
-    selectedCompetition: null,
-    displayPastCompetitions: false,
-    competitionFilter: {
-      FCC: true,
-      FSR: true,
-    },
-    kind: {
-      FCC: {
-        title: "Firefighter Combat Challenge",
-        type: "is-warning",
-      },
-      FSR: {
-        title: "Firefighter Stair Run",
-        type: "is-info",
-      },
-    },
-  }),
-  methods: {
-    isPast: (competition) => new Date() - competition.date.end > 0,
-    flag: (countryCode) =>
-      countryCode
-        .toUpperCase()
-        .replace(/./g, (char) =>
-          String.fromCodePoint(127397 + char.charCodeAt())
-        ),
-    formatDate: (date) =>
-      date.toLocaleDateString("de-DE", {
-        weekday: "short",
-        year: "2-digit",
-        month: "2-digit",
-        day: "2-digit",
-      }),
-    highlight: (competition) => {
-      window.location.hash = "#" + competition.id;
-    },
-    competitionFromHash: () => window.location.hash.slice(1),
-  },
-  computed: {
-    calendarPath() {
-      return (
-        Object.keys(this.kind)
-          .filter((kind) => this.competitionFilter[kind])
-          .join("-")
-          .toLowerCase() + ".ics"
-      );
-    },
-    filteredCompetitions() {
-      let competitions = this.competitions;
-
-      if (!this.displayPastCompetitions) {
-        competitions = competitions.filter(
-          (competition) => !this.isPast(competition)
-        );
-      }
-
-      if (!this.competitionFilter.FSR) {
-        competitions = competitions.filter(({ kind }) => kind != "FSR");
-      }
-
-      if (!this.competitionFilter.FCC) {
-        competitions = competitions.filter(({ kind }) => kind != "FCC");
-      }
-
-      return competitions;
-    },
-  },
-  async asyncData() {
-    return {
-      competitions: await competitionProvider(),
-    };
-  },
-  mounted() {
-    const readCompetition = () => {
-      this.selectedCompetition = this.competitionFromHash();
-    };
-    window.addEventListener("hashchange", readCompetition);
-    readCompetition();
-  },
-};
-</script>
-
-<style>
+<style scoped>
 table th.date,
 table td.date {
   text-align: right !important;
   font-variant-numeric: tabular-nums;
 }
 </style>
+
+<script setup>
+const selectedCompetition = ref(null);
+const displayPastCompetitions = ref(false);
+const competitionFilter = ref({
+  FCC: true,
+  FSR: true,
+});
+const kind = {
+  FCC: {
+    title: "Firefighter Combat Challenge",
+    type: "is-warning",
+  },
+  FSR: {
+    title: "Firefighter Stair Run",
+    type: "is-info",
+  },
+};
+
+const isPast = (competition) => new Date() - new Date(competition.date.end) > 0;
+
+const { data: competitions } = await useFetch("/api/competitions");
+
+const filteredCompetitions = computed(() => {
+  let filteredCompetitions = competitions.value;
+  if (!displayPastCompetitions.value) {
+    filteredCompetitions = filteredCompetitions.filter(
+      (competition) => !isPast(competition)
+    );
+  }
+
+  if (!competitionFilter.value.FSR) {
+    filteredCompetitions = filteredCompetitions.filter(
+      ({ kind }) => kind != "FSR"
+    );
+  }
+
+  if (!competitionFilter.value.FCC) {
+    filteredCompetitions = filteredCompetitions.filter(
+      ({ kind }) => kind != "FCC"
+    );
+  }
+
+  return filteredCompetitions;
+});
+
+const formatDate = (date) =>
+  new Date(date).toLocaleDateString("de-DE", {
+    weekday: "short",
+    year: "2-digit",
+    month: "2-digit",
+    day: "2-digit",
+  });
+
+const flag = (countryCode) =>
+  countryCode
+    .toUpperCase()
+    .replace(/./g, (char) => String.fromCodePoint(127397 + char.charCodeAt()));
+
+const calendarPath = computed(
+  () =>
+    Object.keys(kind)
+      .filter((kind) => competitionFilter.value[kind])
+      .join("-")
+      .toLowerCase() + ".ics"
+);
+
+const highlight = (competition) => {
+  window.location.hash = "#" + competition.id;
+};
+const competitionFromHash = () => window.location.hash.slice(1);
+
+if (process.client) {
+  const readCompetition = () => {
+    selectedCompetition.value = competitionFromHash();
+  };
+  window.addEventListener("hashchange", readCompetition);
+  readCompetition();
+}
+
+useHead({
+  title: "Feuerwehr Wettkämpfe",
+  viewport: "width=device-width, initial-scale=1, maximum-scale=1",
+  charset: "utf-8",
+  link: [
+    {
+      rel: "stylesheet",
+      href: "https://unpkg.com/bulma@0.9.4/css/bulma.min.css",
+    },
+  ],
+});
+</script>

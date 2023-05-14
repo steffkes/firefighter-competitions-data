@@ -1,6 +1,7 @@
+import { defineEventHandler } from "h3"; // needed for test
 import { ofetch } from "ofetch";
 
-module.exports = async () => {
+export default defineEventHandler(async (event) => {
   const mapper = (kind, record) => {
     return {
       id: record["id"],
@@ -49,4 +50,4 @@ module.exports = async () => {
   );
 
   return competitions;
-};
+});

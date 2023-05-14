@@ -1,52 +1,26 @@
-import fs from "fs";
-import path from "path";
+import { writeFileSync } from "fs";
+import { join } from "path";
+import calendarProvider from "./calendar-provider";
 
-const calendarProvider = require("./calendar-provider");
-
-export default {
-  target: "static",
-
-  server: {
-    host: "0.0.0.0",
-  },
-
-  head: {
-    title: "Feuerwehr Wettkämpfe",
-    htmlAttrs: {
-      lang: "de",
-    },
-    meta: [
-      { charset: "utf-8" },
-      { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "" },
-      { name: "format-detection", content: "telephone=no" },
-    ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
-  },
-
-  components: true,
-
-  modules: ["nuxt-buefy", "@nuxtjs/axios"],
-
-  axios: {
-    baseURL: "/",
-  },
-
-  serverMiddleware: ["~/server-middleware/calendar"],
-
-  hooks: {
-    generate: {
-      async done(generator, errors) {
-        for (const [calendarPath, calendarContent] of Object.entries(
-          calendarProvider
-        )) {
-          fs.writeFileSync(
-            path.join(generator.distPath, calendarPath),
-            await calendarContent()
-          );
-          console.info("calendar " + calendarPath + " exported");
-        }
+export default defineNuxtConfig({
+  vite: {
+    server: {
+      hmr: {
+        clientPort: 6601,
       },
     },
   },
-};
+  hooks: {
+    "nitro:build:public-assets": async (_nitro) => {
+      for (const [calendarPath, calendarContent] of Object.entries(
+        calendarProvider
+      )) {
+        writeFileSync(
+          join("./.output/public", calendarPath),
+          await calendarContent()
+        );
+        console.info("calendar " + calendarPath + " exported");
+      }
+    },
+  },
+});

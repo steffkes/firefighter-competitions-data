@@ -10,6 +10,7 @@ export default defineNuxtConfig({
       },
     },
   },
+  css: ["@/node_modules/bulma/css/bulma.min.css"],
   hooks: {
     "nitro:build:public-assets": async (nitro) => {
       for (const [calendarPath, calendarContent] of Object.entries(

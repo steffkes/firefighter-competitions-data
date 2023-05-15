@@ -11,12 +11,12 @@ export default defineNuxtConfig({
     },
   },
   hooks: {
-    "nitro:build:public-assets": async (_nitro) => {
+    "nitro:build:public-assets": async (nitro) => {
       for (const [calendarPath, calendarContent] of Object.entries(
         calendarProvider
       )) {
         writeFileSync(
-          join("./.output/public", calendarPath),
+          join(nitro.options.output.publicDir, calendarPath),
           await calendarContent()
         );
         console.info("calendar " + calendarPath + " exported");

@@ -2,6 +2,11 @@ import { ofetch } from "ofetch";
 
 export default async () => {
   const mapper = (kind, record) => {
+    let coordinates = null;
+    if (record.fields["Koordinaten"]) {
+      const [lat, lng] = record.fields["Koordinaten"].split(",");
+      coordinates = { lat: parseFloat(lat), lng: parseFloat(lng) };
+    }
     return {
       id: record["id"],
       kind,
@@ -14,6 +19,7 @@ export default async () => {
       location: {
         city: record.fields.Ort,
         country_code: record.fields.Land,
+        coordinates,
       },
     };
   };

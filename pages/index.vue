@@ -24,61 +24,111 @@
       Zeige vergangene Wettkämpfe an
     </label>
 
-    <table class="table is-striped">
-      <thead>
-        <tr>
-          <th class="date">Datum</th>
-          <th>Art / Ort / Wettkampf</th>
-        </tr>
-      </thead>
-      <tfoot>
-        <tr>
-          <th class="date">Datum</th>
-          <th>Art / Ort / Wettkampf</th>
-        </tr>
-      </tfoot>
-      <tbody>
-        <tr
-          v-for="competition in filteredCompetitions"
-          @click="highlight(competition)"
-          :id="competition.id"
-          :class="{
-            'has-text-grey-lighter': isPast(competition),
-            'has-text-grey-light': competition.date.is_draft,
-            'has-text-weight-light': competition.date.is_draft,
-            'is-selected': competition.id == selectedCompetition,
-          }"
-        >
-          <td class="date">
-            <span
-              v-if="competition.date.is_draft"
-              style="cursor: help"
-              title="Der Termin dieser Veranstaltung ist noch nicht endgültig"
-              >❓</span
+    <div class="columns">
+      <div class="column">
+        <table class="table is-fullwidth is-striped is-hoverable">
+          <thead>
+            <tr>
+              <th class="date">Datum</th>
+              <th>Art / Ort / Wettkampf</th>
+            </tr>
+          </thead>
+          <tfoot>
+            <tr>
+              <th class="date">Datum</th>
+              <th>Art / Ort / Wettkampf</th>
+            </tr>
+          </tfoot>
+          <tbody>
+            <tr
+              v-for="competition in filteredCompetitions"
+              @click="highlight(competition)"
+              :id="competition.id"
+              :class="{
+                'has-text-grey-lighter': isPast(competition),
+                'has-text-grey-light': competition.date.is_draft,
+                'has-text-weight-light': competition.date.is_draft,
+                'is-selected': competition.id == selectedCompetition,
+              }"
             >
-            {{ formatDate(competition.date.start) }}
-            <span
-              v-if="
-                formatDate(competition.date.start) !=
-                formatDate(competition.date.end)
-              "
-              style="white-space: nowrap"
-              >- {{ formatDate(competition.date.end) }}</span
+              <td class="date">
+                <span
+                  v-if="competition.date.is_draft"
+                  style="cursor: help"
+                  title="Der Termin dieser Veranstaltung ist noch nicht endgültig"
+                  >❓</span
+                >
+                {{ formatDate(competition.date.start) }}
+                <span
+                  v-if="
+                    formatDate(competition.date.start) !=
+                    formatDate(competition.date.end)
+                  "
+                  style="white-space: nowrap"
+                  >- {{ formatDate(competition.date.end) }}</span
+                >
+              </td>
+              <td>
+                <span
+                  :title="kind[competition.kind].title"
+                  :class="['tag', kind[competition.kind].type]"
+                  >{{ competition.kind }}</span
+                >
+                {{ flag(competition.location.country_code) }}
+                {{ competition.location.city }}<br />
+                {{ competition.name }}
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="column">
+        <ClientOnly>
+          <div style="height: 100vh; width: 100%">
+            <l-map
+              :use-global-leaflet="false"
+              v-model:zoom="zoom"
+              :center="center"
             >
-          </td>
-          <td>
-            <span
-              :title="kind[competition.kind].title"
-              :class="['tag', kind[competition.kind].type]"
-              >{{ competition.kind }}</span
-            >
-            {{ flag(competition.location.country_code) }}
-            {{ competition.location.city }}<br />
-            {{ competition.name }}
-          </td>
-        </tr>
-      </tbody>
-    </table>
+              <l-tile-layer
+                url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+              ></l-tile-layer>
+
+              <l-marker
+                v-for="competition in filteredCompetitions.filter(
+                  ({ location: { coordinates } }) => coordinates
+                )"
+                :id="competition.id"
+                :lat-lng="[
+                  competition.location.coordinates.lat,
+                  competition.location.coordinates.lng,
+                ]"
+              >
+                <l-popup>
+                  {{ formatDate(competition.date.start) }}
+                  <span
+                    v-if="
+                      formatDate(competition.date.start) !=
+                      formatDate(competition.date.end)
+                    "
+                    style="white-space: nowrap"
+                    >- {{ formatDate(competition.date.end) }}</span
+                  ><br />
+                  <span
+                    :title="kind[competition.kind].title"
+                    :class="['tag', kind[competition.kind].type]"
+                    >{{ competition.kind }}</span
+                  >
+                  {{ flag(competition.location.country_code) }}
+                  {{ competition.location.city }}<br />
+                  {{ competition.name }}
+                </l-popup>
+              </l-marker>
+            </l-map>
+          </div>
+        </ClientOnly>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -174,4 +224,10 @@ useHead({
   viewport: "width=device-width, initial-scale=1, maximum-scale=1",
   charset: "utf-8",
 });
+
+import { LMap, LTileLayer, LMarker, LPopup } from "@vue-leaflet/vue-leaflet";
+import "leaflet/dist/leaflet.css";
+
+const zoom = ref(5);
+const center = ref([47.3749871, 10.270242]);
 </script>

@@ -1,5 +1,6 @@
 <template>
   <div>
+    👨‍🚒 
     <span
       :class="['tag', kind.FCC.type, { 'is-light': !competitionFilter.FCC }]"
     >
@@ -17,7 +18,7 @@
       </label>
     </span>
     <a :href="calendarPath" class="button is-primary is-small">
-      <span>Wettkämpfe für deinen Kalendar</span>
+      <span>🗓️ Wettkämpfe für deinen Kalendar</span>
     </a>
     <label class="checkbox">
       <input type="checkbox" v-model="displayPastCompetitions" />

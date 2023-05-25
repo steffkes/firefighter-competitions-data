@@ -27,7 +27,8 @@ module.exports = Object.fromEntries(
             start: competition.date.start,
             end: competition.date.end,
             allDay: true,
-            summary: competition.kind + ": " + competition.location.city,
+            summary:
+              "👨‍🚒 " + competition.kind + ": " + competition.location.city,
             location:
               competition.location.city +
               ", " +

@@ -1,6 +1,6 @@
 import { ofetch } from "ofetch";
 
-module.exports = async () => {
+export default async () => {
   const mapper = (kind, record) => {
     return {
       id: record["id"],

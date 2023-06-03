@@ -1,29 +1,64 @@
 <template>
-  <div>
-    👨‍🚒 
-    <span
-      :class="['tag', kind.FCC.type, { 'is-light': !competitionFilter.FCC }]"
-    >
-      <label class="checkbox" :title="kind.FCC.title">
-        <input type="checkbox" v-model="competitionFilter.FCC" />
-        FCC
-      </label>
-    </span>
-    <span
-      :class="['tag', kind.FSR.type, { 'is-light': !competitionFilter.FSR }]"
-    >
-      <label class="checkbox" :title="kind.FSR.title">
-        <input type="checkbox" v-model="competitionFilter.FSR" />
-        FSR
-      </label>
-    </span>
-    <a :href="calendarPath" class="button is-primary is-small">
-      <span>🗓️ Wettkämpfe für deinen Kalendar</span>
-    </a>
-    <label class="checkbox">
-      <input type="checkbox" v-model="displayPastCompetitions" />
-      Zeige vergangene Wettkämpfe an
-    </label>
+  <div class="container">
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="/"> 👨‍🚒 </a>
+
+        <a
+          role="button"
+          class="navbar-burger"
+          :class="{ 'is-active': activeNavbar }"
+          aria-label="menu"
+          aria-expanded="false"
+          @click="activeNavbar = !activeNavbar"
+        >
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div class="navbar-menu" :class="{ 'is-active': activeNavbar }">
+        <div class="navbar-start">
+          <a
+            class="navbar-item"
+            :class="[kind.FCC.type, { 'is-light': !competitionFilter.FCC }]"
+          >
+            <label class="checkbox" :title="kind.FCC.title">
+              <input type="checkbox" v-model="competitionFilter.FCC" />
+              FCC
+            </label>
+          </a>
+
+          <a
+            class="navbar-item"
+            :class="[kind.FSR.type, { 'is-light': !competitionFilter.FSR }]"
+          >
+            <label class="checkbox" :title="kind.FSR.title">
+              <input type="checkbox" v-model="competitionFilter.FSR" />
+              FSR
+            </label>
+          </a>
+
+          <a class="navbar-item">
+            <label class="checkbox">
+              <input type="checkbox" v-model="displayPastCompetitions" />
+              Zeige vergangene Wettkämpfe an
+            </label>
+          </a>
+        </div>
+
+        <div class="navbar-end">
+          <div class="navbar-item">
+            <div class="buttons">
+              <a :href="calendarPath" class="button is-primary">
+                🗓️ Wettkämpfe für deinen Kalendar
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
 
     <div class="columns">
       <div class="column">
@@ -231,4 +266,5 @@ import "leaflet/dist/leaflet.css";
 
 const zoom = ref(5);
 const center = ref([47.3749871, 10.270242]);
+const activeNavbar = ref(false);
 </script>

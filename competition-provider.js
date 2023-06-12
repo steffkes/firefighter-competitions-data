@@ -11,6 +11,7 @@ export default async () => {
       id: record["id"],
       kind,
       name: record.fields["Name"],
+      url: record.fields["Webseite"],
       date: {
         start: new Date(record.fields.Datum),
         end: new Date(record.fields["Datum bis"] || record.fields.Datum),

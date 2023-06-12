@@ -104,6 +104,13 @@
                 >
               </td>
               <td>
+                <a
+                  v-if="competition.url"
+                  :href="competition.url"
+                  style="display: block"
+                  >{{ competition.name }}</a
+                >
+                <div v-else>{{ competition.name }}</div>
                 <div class="tags">
                   <span
                     :title="kind[competition.kind].title"
@@ -115,7 +122,6 @@
                     {{ competition.location.city }}</span
                   >
                 </div>
-                {{ competition.name }}
               </td>
             </tr>
           </tbody>
@@ -153,6 +159,13 @@
                     style="white-space: nowrap"
                     >- {{ formatDate(competition.date.end) }}</span
                   >
+                  <a
+                    v-if="competition.url"
+                    :href="competition.url"
+                    style="display: block"
+                    >{{ competition.name }}</a
+                  >
+                  <div v-else>{{ competition.name }}</div>
                   <div class="tags">
                     <span
                       :title="kind[competition.kind].title"
@@ -164,7 +177,6 @@
                       {{ competition.location.city }}</span
                     >
                   </div>
-                  {{ competition.name }}
                 </l-popup>
               </l-marker>
             </l-map>

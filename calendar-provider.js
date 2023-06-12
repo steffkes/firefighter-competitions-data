@@ -23,6 +23,7 @@ module.exports = Object.fromEntries(
         for (const competition of filtered) {
           calendar.createEvent({
             id: competition.id,
+            url: competition.url,
             status: ["CONFIRMED", "TENTATIVE"][+competition.date.is_draft],
             start: competition.date.start,
             end: competition.date.end,

@@ -84,7 +84,6 @@
                 'has-text-grey-lighter': isPast(competition),
                 'has-text-grey-light': competition.date.is_draft,
                 'has-text-weight-light': competition.date.is_draft,
-                'is-selected': competition.id == selectedCompetition,
               }"
             >
               <td class="date">
@@ -174,10 +173,14 @@ table td.date {
   text-align: right !important;
   font-variant-numeric: tabular-nums;
 }
+
+tr:target {
+  background-color: #00d1b2 !important;
+  color: #fff;
+}
 </style>
 
 <script setup>
-const selectedCompetition = ref(null);
 const displayPastCompetitions = ref(false);
 const competitionFilter = ref({
   FCC: true,
@@ -245,15 +248,6 @@ const calendarPath = computed(
 const highlight = (competition) => {
   window.location.hash = "#" + competition.id;
 };
-const competitionFromHash = () => window.location.hash.slice(1);
-
-if (process.client) {
-  const readCompetition = () => {
-    selectedCompetition.value = competitionFromHash();
-  };
-  window.addEventListener("hashchange", readCompetition);
-  readCompetition();
-}
 
 useHead({
   title: "Feuerwehr Wettkämpfe",

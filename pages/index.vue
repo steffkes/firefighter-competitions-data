@@ -104,13 +104,17 @@
                 >
               </td>
               <td>
-                <span
-                  :title="kind[competition.kind].title"
-                  :class="['tag', kind[competition.kind].type]"
-                  >{{ competition.kind }}</span
-                >
-                {{ flag(competition.location.country_code) }}
-                {{ competition.location.city }}<br />
+                <div class="tags">
+                  <span
+                    :title="kind[competition.kind].title"
+                    :class="['tag', kind[competition.kind].type]"
+                    >{{ competition.kind }}</span
+                  >
+                  <span class="tag">
+                    {{ flag(competition.location.country_code) }}
+                    {{ competition.location.city }}</span
+                  >
+                </div>
                 {{ competition.name }}
               </td>
             </tr>
@@ -148,14 +152,18 @@
                     "
                     style="white-space: nowrap"
                     >- {{ formatDate(competition.date.end) }}</span
-                  ><br />
-                  <span
-                    :title="kind[competition.kind].title"
-                    :class="['tag', kind[competition.kind].type]"
-                    >{{ competition.kind }}</span
                   >
-                  {{ flag(competition.location.country_code) }}
-                  {{ competition.location.city }}<br />
+                  <div class="tags">
+                    <span
+                      :title="kind[competition.kind].title"
+                      :class="['tag', kind[competition.kind].type]"
+                      >{{ competition.kind }}</span
+                    >
+                    <span class="tag">
+                      {{ flag(competition.location.country_code) }}
+                      {{ competition.location.city }}</span
+                    >
+                  </div>
                   {{ competition.name }}
                 </l-popup>
               </l-marker>

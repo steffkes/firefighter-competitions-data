@@ -12,7 +12,7 @@ module.exports = Object.fromEntries(
         );
 
         const calendar = ical({
-          name: "Feuerwehr Wettkämpfe: " + variant.join(" & "),
+          name: "👨‍🚒 " + "Feuerwehr Wettkämpfe: " + variant.join(" & "),
           prodId: {
             company: "gelungen.es",
             product: "firefighter-competitions",

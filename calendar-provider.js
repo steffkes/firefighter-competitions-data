@@ -21,10 +21,17 @@ module.exports = Object.fromEntries(
         });
 
         for (const competition of filtered) {
+          let status = "CONFIRMED";
+          if (competition.date.is_draft) {
+            status = "TENTATIVE";
+          }
+          if (competition.date.is_canceled) {
+            status = "CANCELLED";
+          }
           calendar.createEvent({
             id: competition.id,
             url: competition.url,
-            status: ["CONFIRMED", "TENTATIVE"][+competition.date.is_draft],
+            status,
             start: competition.date.start,
             end: competition.date.end,
             allDay: true,

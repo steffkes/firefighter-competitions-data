@@ -84,33 +84,44 @@
                 'has-text-grey-lighter': isPast(competition),
                 'has-text-grey-light': competition.date.is_draft,
                 'has-text-weight-light': competition.date.is_draft,
+                'has-text-grey-lighter': competition.date.is_canceled,
               }"
             >
               <td class="date">
+                <span
+                  v-if="competition.date.is_canceled"
+                  style="cursor: help"
+                  title="Diese Veranstaltung wurde abgesagt"
+                  >❌
+                </span>
                 <span
                   v-if="competition.date.is_draft"
                   style="cursor: help"
                   title="Der Termin dieser Veranstaltung ist noch nicht endgültig"
                   >❓</span
                 >
-                {{ formatDate(competition.date.start) }}
-                <span
-                  v-if="
-                    formatDate(competition.date.start) !=
-                    formatDate(competition.date.end)
-                  "
-                  style="white-space: nowrap"
-                  >- {{ formatDate(competition.date.end) }}</span
-                >
+                <component :is="competition.date.is_canceled ? 's' : 'span'">
+                  {{ formatDate(competition.date.start) }}
+                  <span
+                    v-if="
+                      formatDate(competition.date.start) !=
+                      formatDate(competition.date.end)
+                    "
+                    style="white-space: nowrap"
+                    >- {{ formatDate(competition.date.end) }}</span
+                  >
+                </component>
               </td>
               <td>
-                <a
-                  v-if="competition.url"
-                  :href="competition.url"
-                  style="display: block"
-                  >{{ competition.name }}</a
-                >
-                <div v-else>{{ competition.name }}</div>
+                <component :is="competition.date.is_canceled ? 's' : 'div'">
+                  <a
+                    v-if="competition.url"
+                    :href="competition.url"
+                    style="display: block"
+                    >{{ competition.name }}</a
+                  >
+                  <div v-else>{{ competition.name }}</div>
+                </component>
                 <div class="tags">
                   <span
                     :title="kind[competition.kind].title"
@@ -150,33 +161,35 @@
                 ]"
               >
                 <l-popup>
-                  {{ formatDate(competition.date.start) }}
-                  <span
-                    v-if="
-                      formatDate(competition.date.start) !=
-                      formatDate(competition.date.end)
-                    "
-                    style="white-space: nowrap"
-                    >- {{ formatDate(competition.date.end) }}</span
-                  >
-                  <a
-                    v-if="competition.url"
-                    :href="competition.url"
-                    style="display: block"
-                    >{{ competition.name }}</a
-                  >
-                  <div v-else>{{ competition.name }}</div>
-                  <div class="tags">
+                  <component :is="competition.date.is_canceled ? 's' : 'div'">
+                    {{ formatDate(competition.date.start) }}
                     <span
-                      :title="kind[competition.kind].title"
-                      :class="['tag', kind[competition.kind].type]"
-                      >{{ competition.kind }}</span
+                      v-if="
+                        formatDate(competition.date.start) !=
+                        formatDate(competition.date.end)
+                      "
+                      style="white-space: nowrap"
+                      >- {{ formatDate(competition.date.end) }}</span
                     >
-                    <span class="tag">
-                      {{ flag(competition.location.country_code) }}
-                      {{ competition.location.city }}</span
+                    <a
+                      v-if="competition.url"
+                      :href="competition.url"
+                      style="display: block"
+                      >{{ competition.name }}</a
                     >
-                  </div>
+                    <div v-else>{{ competition.name }}</div>
+                    <div class="tags">
+                      <span
+                        :title="kind[competition.kind].title"
+                        :class="['tag', kind[competition.kind].type]"
+                        >{{ competition.kind }}</span
+                      >
+                      <span class="tag">
+                        {{ flag(competition.location.country_code) }}
+                        {{ competition.location.city }}</span
+                      >
+                    </div>
+                  </component>
                 </l-popup>
               </l-marker>
             </l-map>

@@ -16,6 +16,7 @@ export default async () => {
         start: new Date(record.fields.Datum),
         end: new Date(record.fields["Datum bis"] || record.fields.Datum),
         is_draft: record.fields["Vorläufig"],
+        is_canceled: record.fields["Abgesagt"],
       },
       location: {
         city: record.fields.Ort,

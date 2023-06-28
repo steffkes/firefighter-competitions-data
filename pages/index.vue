@@ -48,7 +48,7 @@
           </a>
         </div>
 
-        <div class="navbar-end">
+        <div v-if="filteredCompetitions.length" class="navbar-end">
           <div class="navbar-item">
             <div class="buttons">
               <a :href="calendarPath" class="button is-primary">
@@ -76,6 +76,11 @@
             </tr>
           </tfoot>
           <tbody>
+            <tr v-if="!filteredCompetitions.length" class="has-text-grey-light">
+              <td colspan="2">
+                Mit der getroffenen Auswahl gibt es keine Wettkämpfe.
+              </td>
+            </tr>
             <tr
               v-for="competition in filteredCompetitions"
               @click="highlight(competition)"

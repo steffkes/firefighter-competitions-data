@@ -36,12 +36,20 @@ module.exports = Object.fromEntries(
             end: competition.date.end,
             allDay: true,
             summary: "👨‍🚒 " + competition.kind + ": " + competition.name,
-            location:
-              competition.location.city +
-              ", " +
-              new Intl.DisplayNames(["de"], { type: "region" }).of(
-                competition.location.country_code
-              ),
+            location: {
+              title:
+                competition.location.city +
+                ", " +
+                new Intl.DisplayNames(["de"], { type: "region" }).of(
+                  competition.location.country_code
+                ),
+              geo: competition.location.coordinates
+                ? {
+                    lat: competition.location.coordinates.lat,
+                    lon: competition.location.coordinates.lng,
+                  }
+                : null,
+            },
           });
         }
 

@@ -66,13 +66,13 @@
           <thead>
             <tr>
               <th class="date">Datum</th>
-              <th>Art / Ort / Wettkampf</th>
+              <th>Wettkampf / Art / Ort</th>
             </tr>
           </thead>
           <tfoot>
             <tr>
               <th class="date">Datum</th>
-              <th>Art / Ort / Wettkampf</th>
+              <th>Wettkampf / Art / Ort</th>
             </tr>
           </tfoot>
           <tbody>

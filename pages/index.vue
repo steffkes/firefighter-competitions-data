@@ -289,6 +289,7 @@ const highlight = (competition) => {
 
 useHead({
   title: "Feuerwehr Wettkämpfe",
+  description: "Alle Termine deutschlandweit & darüber hinaus.",
   viewport: "width=device-width, initial-scale=1, maximum-scale=1",
   charset: "utf-8",
   meta: [{

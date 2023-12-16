@@ -291,6 +291,10 @@ useHead({
   title: "Feuerwehr Wettkämpfe",
   viewport: "width=device-width, initial-scale=1, maximum-scale=1",
   charset: "utf-8",
+  meta: [{
+    property: "og:image",
+    content: "https://firefighter-competitions.vercel.app/firefighter-competitions.jpg"
+  }]
 });
 
 import { LMap, LTileLayer, LMarker, LPopup } from "@vue-leaflet/vue-leaflet";

@@ -83,6 +83,7 @@
             </tr>
             <tr
               v-for="competition in filteredCompetitions"
+              :key="competition.id"
               @click="highlight(competition)"
               :id="competition.id"
               :class="{

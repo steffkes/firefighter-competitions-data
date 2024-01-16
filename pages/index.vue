@@ -138,6 +138,10 @@
                     {{ flag(competition.location.country_code) }}
                     {{ competition.location.city }}</span
                   >
+                  <ParticipantCounter
+                    v-if="competition.showParticipantCount"
+                    :competition="competition"
+                  />
                 </div>
               </td>
             </tr>

@@ -12,6 +12,7 @@ export default async () => {
       kind,
       name: record.fields["Name"],
       url: record.fields["Webseite"],
+      showParticipantCount: record.fields["Teilnehmerzahl"],
       date: {
         start: new Date(record.fields.Datum),
         end: new Date(record.fields["Datum bis"] || record.fields.Datum),

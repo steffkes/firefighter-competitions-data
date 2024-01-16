@@ -27,9 +27,9 @@ export default defineNuxtConfig({
   nitro: {
     prerender: {
       routes: [
-        "/api/competitions/recbbcQl0KFKj7Ox4",
-        "/api/competitions/recqjh5V3DUAzgLYQ",
-        "/api/competitions/recxAxWccPrMWcVVv",
+        "/api/competitions/recbbcQl0KFKj7Ox4.json",
+        "/api/competitions/recqjh5V3DUAzgLYQ.json",
+        "/api/competitions/recxAxWccPrMWcVVv.json",
       ],
     },
   },

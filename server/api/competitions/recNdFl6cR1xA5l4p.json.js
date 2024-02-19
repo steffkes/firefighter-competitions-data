@@ -22,7 +22,9 @@ export default defineEventHandler(async (event) => {
     )
   ).flatMap(({ value }) => value);
 
-  const uniq = [...new Map(data.map((entry) => [entry.id, entry])).values()];
+  const uniq = [
+    ...new Map(data.map((entry) => [entry.entryid, entry])).values(),
+  ];
 
   return uniq.length;
 });

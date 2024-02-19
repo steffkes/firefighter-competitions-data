@@ -1,8 +1,24 @@
 <template>
+  <div class="modal" :class="{ 'is-active': activeModal }">
+    <div class="modal-background"></div>
+    <div class="modal-content">
+      <img src="/qr-code.svg" />
+    </div>
+    <button
+      class="modal-close is-large"
+      aria-label="close"
+      @click="activeModal = false"
+    ></button>
+  </div>
+
   <div class="container">
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <a class="navbar-item" href="/"> 👨‍🚒 </a>
+
+        <a class="navbar-item is-hidden-desktop" @click="activeModal = true"
+          ><img src="/qr-code.svg" style="opacity: 0.1"
+        /></a>
 
         <a
           role="button"
@@ -322,4 +338,5 @@ import "leaflet/dist/leaflet.css";
 const zoom = ref(5);
 const center = ref([47.3749871, 10.270242]);
 const activeNavbar = ref(false);
+const activeModal = ref(false);
 </script>

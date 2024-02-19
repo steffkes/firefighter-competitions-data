@@ -307,6 +307,13 @@ useHead({
         "https://firefighter-competitions.vercel.app/firefighter-competitions.jpg",
     },
   ],
+  script: [
+    {
+      src: "https://plausible.io/js/script.js",
+      "data-domain": "firefighter-competitions.vercel.app",
+      defer: true,
+    },
+  ],
 });
 
 import { LMap, LTileLayer, LMarker, LPopup } from "@vue-leaflet/vue-leaflet";

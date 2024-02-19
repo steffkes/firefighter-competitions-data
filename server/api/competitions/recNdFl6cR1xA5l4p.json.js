@@ -1,0 +1,28 @@
+import { ofetch } from "ofetch";
+
+export default defineEventHandler(async (event) => {
+  const data = (
+    await Promise.allSettled(
+      "abcdefghijklmnopqrstuvwxyz".split("").map(
+        async (character) =>
+          new Promise(async (resolve) => {
+            const data = await ofetch(
+              "https://apiah.endu.net/events/91215/entries",
+              {
+                query: {
+                  limit: 100000,
+                  teamname: "a",
+                },
+              }
+            );
+
+            return resolve(data);
+          })
+      )
+    )
+  ).flatMap(({ value }) => value);
+
+  const uniq = [...new Map(data.map((entry) => [entry.id, entry])).values()];
+
+  return uniq.length;
+});

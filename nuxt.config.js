@@ -29,6 +29,7 @@ export default defineNuxtConfig({
       routes: [
         "/api/competitions/recbbcQl0KFKj7Ox4.json",
         "/api/competitions/recqjh5V3DUAzgLYQ.json",
+        "/api/competitions/recNdFl6cR1xA5l4p.json",
         "/api/competitions/recxAxWccPrMWcVVv.json",
       ],
     },

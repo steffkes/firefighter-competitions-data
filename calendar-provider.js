@@ -24,7 +24,7 @@ export default async (variant) => {
       status = "CANCELLED";
     }
 
-    calendar.createEvent({
+    const event = {
       id: competition.id,
       url: competition.url,
       status,
@@ -52,7 +52,25 @@ export default async (variant) => {
             }
           : null,
       },
-    });
+    };
+
+    // reminder that registrations opens
+    if (
+      competition.date.registration_opens instanceof Date &&
+      !isNaN(competition.date.registration_opens)
+    ) {
+      calendar.createEvent({
+        ...event,
+        id: event.id + "~RO",
+        start: competition.date.registration_opens,
+        end: competition.date.registration_opens,
+        summary: "⏰ " + competition.name,
+        description: "Ameldung öffnet heute!",
+      });
+    }
+
+    // the event itself
+    calendar.createEvent(event);
   }
 
   return calendar.toString();

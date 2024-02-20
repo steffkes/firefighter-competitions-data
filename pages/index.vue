@@ -132,6 +132,23 @@
                     >- {{ formatDate(competition.date.end) }}</span
                   >
                 </component>
+                <p>
+                  <span
+                    class="tag is-success"
+                    v-if="
+                      competition.date.registration_opens &&
+                      new Date() -
+                        new Date(competition.date.registration_opens) <
+                        0
+                    "
+                    :title="
+                      'Anmeldung startet am ' +
+                      formatDate(competition.date.registration_opens)
+                    "
+                  >
+                    ⏰ {{ formatDate(competition.date.registration_opens) }}
+                  </span>
+                </p>
               </td>
               <td>
                 <component :is="competition.date.is_canceled ? 's' : 'div'">

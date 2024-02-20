@@ -18,6 +18,7 @@ export default async () => {
         end: new Date(record.fields["Datum bis"] || record.fields.Datum),
         is_draft: record.fields["Vorläufig"],
         is_canceled: record.fields["Abgesagt"],
+        registration_opens: new Date(record.fields.Anmeldestart),
       },
       location: {
         city: record.fields.Ort,

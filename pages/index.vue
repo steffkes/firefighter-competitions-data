@@ -197,6 +197,20 @@
                       style="white-space: nowrap"
                       >- {{ formatDate(competition.date.end) }}</span
                     >
+
+                    <span
+                      v-if="competition.date.is_canceled"
+                      style="cursor: help"
+                      title="Diese Veranstaltung wurde abgesagt"
+                      >❌
+                    </span>
+                    <span
+                      v-if="competition.date.is_draft"
+                      style="cursor: help"
+                      title="Der Termin dieser Veranstaltung ist noch nicht endgültig"
+                      >❓</span
+                    >
+
                     <a
                       v-if="competition.url"
                       :href="competition.url"

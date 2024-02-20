@@ -37,12 +37,14 @@ export default async (variant) => {
       allDay: true,
       summary: "👨‍🚒 " + competition.kind + ": " + competition.name,
       location: {
-        title:
-          competition.location.city +
-          ", " +
+        title: [
+          competition.location.city,
           new Intl.DisplayNames(["de"], { type: "region" }).of(
             competition.location.country_code
           ),
+        ]
+          .filter(Boolean)
+          .join(", "),
         geo: competition.location.coordinates
           ? {
               lat: competition.location.coordinates.lat,

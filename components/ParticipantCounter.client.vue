@@ -1,6 +1,6 @@
 <template>
   <span
-    v-if="count"
+    v-if="count != null"
     class="tag is-primary"
     :title="'bislang ' + count + ' Anmeldungen'"
     style="cursor: help"

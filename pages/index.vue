@@ -259,6 +259,12 @@ footer a {
 }
 </style>
 
+<style>
+.leaflet-popup-content {
+  min-width: 200px;
+}
+</style>
+
 <script setup>
 const displayPastCompetitions = ref(false);
 const competitionFilter = ref({

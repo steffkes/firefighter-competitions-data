@@ -11,6 +11,9 @@ export default defineNuxtConfig({
   },
   css: ["@/node_modules/bulma/css/bulma.min.css"],
   nitro: {
+    devServer: {
+      watch: ["./calendar-provider.js", "./competition-provider.js"],
+    },
     prerender: {
       routes: [
         "/api/competitions/recbbcQl0KFKj7Ox4.json",

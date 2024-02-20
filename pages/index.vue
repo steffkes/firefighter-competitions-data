@@ -154,8 +154,8 @@
                 <component :is="competition.date.is_canceled ? 's' : 'div'">
                   <a
                     v-if="competition.url"
+                    class="is-block"
                     :href="competition.url"
-                    style="display: block"
                     >{{ competition.name }}</a
                   >
                   <div v-else>{{ competition.name }}</div>

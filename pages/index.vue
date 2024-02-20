@@ -224,6 +224,18 @@
       </div>
     </div>
   </div>
+
+  <footer class="footer mt-6">
+    <div class="content has-text-centered">
+      <p>
+        Hast du Fragen zum Kalender? Oder weißt von Wettkämpfen die hier noch
+        fehlen?<br />
+        Melde dich bitte bei <strong>Stefan</strong>:
+        <a href="tel:004916097048114">📞 0160 970 48 114</a>&nbsp;
+        <a href="mailto:stefan@mathe.is">✉️ stefan@mathe.is</a>
+      </p>
+    </div>
+  </footer>
 </template>
 
 <style scoped>
@@ -236,6 +248,10 @@ table td.date {
 tr:target {
   background-color: #00d1b2 !important;
   color: #fff;
+}
+
+footer a {
+  white-space: nowrap;
 }
 </style>
 

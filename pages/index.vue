@@ -100,7 +100,6 @@
             <tr
               v-for="competition in filteredCompetitions"
               :key="competition.id"
-              @click="highlight(competition)"
               :id="competition.id"
               :class="{
                 'has-text-grey-lighter': isPast(competition),
@@ -343,10 +342,6 @@ const calendarPath = computed(
       .join("-")
       .toLowerCase() + ".ics"
 );
-
-const highlight = (competition) => {
-  window.location.hash = "#" + competition.id;
-};
 
 useHead({
   title: "Feuerwehr Wettkämpfe",

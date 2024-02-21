@@ -135,12 +135,7 @@
                 <p>
                   <span
                     class="tag is-success"
-                    v-if="
-                      competition.date.registration_opens &&
-                      new Date() -
-                        new Date(competition.date.registration_opens) <
-                        0
-                    "
+                    v-if="competition.has_registration_pending"
                     :title="
                       'Anmeldung startet am ' +
                       formatDate(competition.date.registration_opens)
@@ -171,7 +166,7 @@
                     {{ competition.location.city }}</span
                   >
                   <ParticipantCounter
-                    v-if="competition.showParticipantCount"
+                    v-if="competition.has_registration_open"
                     :competition="competition"
                   />
                 </div>
@@ -215,6 +210,17 @@
                     >
 
                     <span
+                      class="tag is-success"
+                      v-if="competition.has_registration_pending"
+                      :title="
+                        'Anmeldung startet am ' +
+                        formatDate(competition.date.registration_opens)
+                      "
+                    >
+                      ⏰ {{ formatDate(competition.date.registration_opens) }}
+                    </span>
+
+                    <span
                       v-if="competition.date.is_canceled"
                       style="cursor: help"
                       title="Diese Veranstaltung wurde abgesagt"
@@ -245,7 +251,7 @@
                         {{ competition.location.city }}</span
                       >
                       <ParticipantCounter
-                        v-if="competition.showParticipantCount"
+                        v-if="competition.has_registration_open"
                         :competition="competition"
                       />
                     </div>
@@ -335,6 +341,19 @@ const filteredCompetitions = computed(() => {
       ({ kind }) => kind != "FCC"
     );
   }
+
+  filteredCompetitions = filteredCompetitions.map((competition) => {
+    const has_registration_pending =
+      competition.date.registration_opens &&
+      new Date() - new Date(competition.date.registration_opens) < 0;
+
+    return {
+      ...competition,
+      has_registration_pending,
+      has_registration_open:
+        !has_registration_pending && competition.showParticipantCount,
+    };
+  });
 
   return filteredCompetitions;
 });

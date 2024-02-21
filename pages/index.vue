@@ -136,6 +136,7 @@
                   <span
                     class="tag is-success"
                     v-if="competition.has_registration_pending"
+                    style="cursor: help"
                     :title="
                       'Anmeldung startet am ' +
                       formatDate(competition.date.registration_opens)
@@ -212,6 +213,7 @@
                     <span
                       class="tag is-success"
                       v-if="competition.has_registration_pending"
+                      style="cursor: help"
                       :title="
                         'Anmeldung startet am ' +
                         formatDate(competition.date.registration_opens)

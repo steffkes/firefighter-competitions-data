@@ -21,6 +21,7 @@ export default defineNuxtConfig({
         "/api/competitions/recNdFl6cR1xA5l4p.json",
         "/api/competitions/recxAxWccPrMWcVVv.json",
         "/api/competitions/recVzAj3TgO0th7JC.json",
+        "/api/competitions/recRqH7LW1AQQ66FR.json",
         "/fcc.ics",
         "/fsr.ics",
         "/fcc-fsr.ics",

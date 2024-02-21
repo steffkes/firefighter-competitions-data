@@ -210,19 +210,19 @@
                         style="white-space: nowrap"
                         >- {{ formatDate(competition.date.end) }}</span
                       >
-                    </p>
 
-                    <span
-                      class="tag is-success"
-                      v-if="competition.has_registration_pending"
-                      style="cursor: help"
-                      :title="
-                        'Anmeldung startet am ' +
-                        formatDate(competition.date.registration_opens)
-                      "
-                    >
-                      ⏰ {{ formatDate(competition.date.registration_opens) }}
-                    </span>
+                      <span
+                        class="tag is-success"
+                        v-if="competition.has_registration_pending"
+                        style="cursor: help"
+                        :title="
+                          'Anmeldung startet am ' +
+                          formatDate(competition.date.registration_opens)
+                        "
+                      >
+                        ⏰ {{ formatDate(competition.date.registration_opens) }}
+                      </span>
+                    </p>
 
                     <span
                       v-if="competition.date.is_canceled"

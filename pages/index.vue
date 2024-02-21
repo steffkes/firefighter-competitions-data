@@ -200,15 +200,17 @@
               >
                 <l-popup>
                   <component :is="competition.date.is_canceled ? 's' : 'div'">
-                    {{ formatDate(competition.date.start) }}
-                    <span
-                      v-if="
-                        formatDate(competition.date.start) !=
-                        formatDate(competition.date.end)
-                      "
-                      style="white-space: nowrap"
-                      >- {{ formatDate(competition.date.end) }}</span
-                    >
+                    <p class="m-0 has-text-grey-light">
+                      {{ formatDate(competition.date.start) }}
+                      <span
+                        v-if="
+                          formatDate(competition.date.start) !=
+                          formatDate(competition.date.end)
+                        "
+                        style="white-space: nowrap"
+                        >- {{ formatDate(competition.date.end) }}</span
+                      >
+                    </p>
 
                     <span
                       class="tag is-success"
@@ -235,13 +237,15 @@
                       >❓</span
                     >
 
-                    <a
-                      v-if="competition.url"
-                      :href="competition.url"
-                      style="display: block"
-                      >{{ competition.name }}</a
-                    >
-                    <div v-else>{{ competition.name }}</div>
+                    <p class="m-0 my-2">
+                      <a
+                        v-if="competition.url"
+                        :href="competition.url"
+                        class="is-block"
+                        >{{ competition.name }}</a
+                      >
+                      <span v-else>{{ competition.name }}</span>
+                    </p>
                     <div class="tags">
                       <span
                         :title="kind[competition.kind].title"
@@ -300,6 +304,8 @@ footer a {
 <style>
 .leaflet-popup-content {
   min-width: 200px;
+  line-height: initial;
+  font-size: initial;
 }
 </style>
 

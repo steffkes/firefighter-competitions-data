@@ -16,7 +16,7 @@ export default defineEventHandler(async (event) => {
                 },
               }
             );
-            return resolve(data.length ? Object.values(data)[0].length : 0);
+            return resolve(data.length);
           })
       )
     )

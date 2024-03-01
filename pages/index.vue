@@ -134,7 +134,15 @@
                 </component>
                 <p>
                   <span
-                    class="tag is-success"
+                    :class="{
+                      tag: true,
+                      'is-success':
+                        formatDate(competition.date.registration_opens) !=
+                        formatDate(new Date()),
+                      'is-dark':
+                        formatDate(competition.date.registration_opens) ==
+                        formatDate(new Date()),
+                    }"
                     v-if="competition.has_registration_pending"
                     style="cursor: help"
                     :title="
@@ -353,7 +361,10 @@ const filteredCompetitions = computed(() => {
   filteredCompetitions = filteredCompetitions.map((competition) => {
     const has_registration_pending =
       competition.date.registration_opens &&
-      new Date() - new Date(competition.date.registration_opens) < 0;
+      new Date().toISOString().split("T")[0] <=
+        new Date(competition.date.registration_opens)
+          .toISOString()
+          .split("T")[0];
 
     return {
       ...competition,

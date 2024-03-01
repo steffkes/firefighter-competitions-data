@@ -359,18 +359,19 @@ const filteredCompetitions = computed(() => {
   }
 
   filteredCompetitions = filteredCompetitions.map((competition) => {
-    const has_registration_pending =
-      competition.date.registration_opens &&
-      new Date().toISOString().split("T")[0] <=
-        new Date(competition.date.registration_opens)
-          .toISOString()
-          .split("T")[0];
-
     return {
       ...competition,
-      has_registration_pending,
+      has_registration_pending:
+        competition.date.registration_opens &&
+        new Date().toISOString().split("T")[0] <=
+          new Date(competition.date.registration_opens)
+            .toISOString()
+            .split("T")[0],
       has_registration_open:
-        !has_registration_pending && competition.showParticipantCount,
+        new Date().toISOString().split("T")[0] >=
+          new Date(competition.date.registration_opens)
+            .toISOString()
+            .split("T")[0] && competition.showParticipantCount,
     };
   });
 

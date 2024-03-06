@@ -307,6 +307,17 @@ tr:target {
 footer a {
   white-space: nowrap;
 }
+
+@media screen and (max-width: 1024px) {
+  table .date {
+    width: 10%;
+  }
+}
+@media screen and (min-width: 1024px) {
+  table .date {
+    width: 40%;
+  }
+}
 </style>
 
 <style>

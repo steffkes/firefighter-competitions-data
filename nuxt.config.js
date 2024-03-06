@@ -1,5 +1,5 @@
-import { writeFileSync } from "fs";
-import { join } from "path";
+import glob from "fast-glob";
+import { basename } from "path";
 
 export default defineNuxtConfig({
   vite: {
@@ -15,18 +15,20 @@ export default defineNuxtConfig({
       watch: ["./calendar-provider.js", "./competition-provider.js"],
     },
     prerender: {
-      routes: [
-        "/api/competitions/recbbcQl0KFKj7Ox4.json",
-        "/api/competitions/recqjh5V3DUAzgLYQ.json",
-        "/api/competitions/recNdFl6cR1xA5l4p.json",
-        "/api/competitions/recxAxWccPrMWcVVv.json",
-        "/api/competitions/recVzAj3TgO0th7JC.json",
-        "/api/competitions/recRqH7LW1AQQ66FR.json",
-        "/api/competitions/recyC5LmxecehTxWD.json",
-        "/fcc.ics",
-        "/fsr.ics",
-        "/fcc-fsr.ics",
-      ],
+      routes: ["/fcc.ics", "/fsr.ics", "/fcc-fsr.ics"],
+    },
+  },
+  hooks: {
+    async "nitro:config"(nitroConfig) {
+      if (nitroConfig.dev) return;
+
+      nitroConfig.prerender.routes.push(
+        ...(
+          await glob(["api/competitions/*.json.js"], {
+            cwd: "./server",
+          })
+        ).map((path) => "/" + path.replace(/\.js$/, ""))
+      );
     },
   },
 });

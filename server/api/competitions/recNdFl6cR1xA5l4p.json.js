@@ -1,6 +1,6 @@
 import { ofetch } from "ofetch";
 
-export default defineEventHandler(async (event) => {
+export const count = async () => {
   const data = (
     await Promise.allSettled(
       "abcdefghijklmnopqrstuvwxyz".split("").map(
@@ -27,4 +27,6 @@ export default defineEventHandler(async (event) => {
   ];
 
   return uniq.length;
-});
+};
+
+export default defineEventHandler(async (event) => await count());

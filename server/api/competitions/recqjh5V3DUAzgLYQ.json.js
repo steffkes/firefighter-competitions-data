@@ -1,7 +1,7 @@
 import { ofetch } from "ofetch";
 
-export default defineEventHandler(async (event) => {
-  return (
+export const count = async () =>
+  (
     await Promise.allSettled(
       [3].map(
         async (contest) =>
@@ -23,4 +23,5 @@ export default defineEventHandler(async (event) => {
   )
     .map(({ value }) => value)
     .reduce((state, curr) => state + curr, 0);
-});
+
+export default defineEventHandler(async (event) => await count());

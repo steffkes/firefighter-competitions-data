@@ -1,4 +1,5 @@
 import { ofetch } from "ofetch";
+import { defineEventHandler } from "h3";
 
 export const count = async () =>
   (

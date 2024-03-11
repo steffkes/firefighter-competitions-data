@@ -78,6 +78,8 @@
 
     <div class="columns">
       <div class="column">
+        <ExplainerBox />
+
         <table class="table is-fullwidth is-striped is-hoverable">
           <thead>
             <tr>

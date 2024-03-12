@@ -10,7 +10,9 @@
       <button @click="remove" class="delete" aria-label="delete"></button>
     </div>
     <div class="message-body">
-      <p>Damit ihr euch zurecht findet, eine kurze Erklärung was hier was ist:</p>
+      <p>
+        Damit ihr euch zurecht findet, eine kurze Erklärung was hier was ist:
+      </p>
 
       <table class="table mt-3" style="background-color: transparent">
         <tbody>

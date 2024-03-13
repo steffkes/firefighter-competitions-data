@@ -17,7 +17,7 @@ export const count = async () =>
                 },
               }
             );
-            return resolve(Object.values(data)[0].length);
+            return resolve(Object.values(data)[0].length * 2);
           })
       )
     )

@@ -12,8 +12,8 @@ export const count = async () =>
               {
                 query: {
                   key: "b43c7682c8720d9ae73fe4b5f1939e3b",
-                  contest: 5,
-                  listname: "07 - Teilnehmer|Teilnehmerliste ABC Team",
+                  contest,
+                  listname: "07 - Teilnehmer|Teilnehmerliste ABC",
                 },
               }
             );

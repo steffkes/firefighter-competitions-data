@@ -1,33 +1,34 @@
 import { ofetch } from "ofetch";
 import { defineEventHandler } from "h3";
 
-export const count = async () => {
-  const data = (
-    await Promise.allSettled(
-      "abcdefghijklmnopqrstuvwxyz".split("").map(
-        async (character) =>
-          new Promise(async (resolve) => {
-            const data = await ofetch(
-              "https://apiah.endu.net/events/91215/entries",
-              {
-                query: {
-                  limit: 100000,
-                  teamname: "a",
-                },
-              }
-            );
+const raw = (
+  await Promise.allSettled(
+    "abcdefghijklmnopqrstuvwxyz".split("").map(
+      async (character) =>
+        new Promise(async (resolve) => {
+          const data = await ofetch(
+            "https://apiah.endu.net/events/91215/entries",
+            {
+              query: {
+                limit: 100000,
+                teamname: character,
+              },
+            }
+          );
 
-            return resolve(data);
-          })
-      )
+          return resolve(data);
+        })
     )
-  ).flatMap(({ value }) => value);
+  )
+)
+  .flatMap(({ value }) => value)
+  .map(({ entryid, firstname, lastname }) => [
+    entryid,
+    firstname + " " + lastname,
+  ]);
 
-  const uniq = [
-    ...new Map(data.map((entry) => [entry.entryid, entry])).values(),
-  ];
+const data = Object.values(Object.fromEntries(raw));
 
-  return uniq.length;
-};
+export const count = () => data.length;
 
 export default defineEventHandler(async (event) => await count());

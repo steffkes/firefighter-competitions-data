@@ -17,6 +17,12 @@ export default defineNuxtConfig({
     prerender: {
       routes: ["/fcc.ics", "/fsr.ics", "/fcc-fsr.ics"],
     },
+
+    esbuild: {
+      options: {
+        target: "esnext",
+      },
+    },
   },
   hooks: {
     async "nitro:config"(nitroConfig) {

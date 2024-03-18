@@ -29,6 +29,7 @@ const raw = (
 
 const data = Object.values(Object.fromEntries(raw));
 
+export const participants = () => data;
 export const count = () => data.length;
 
 export default defineEventHandler(async (event) => await count());

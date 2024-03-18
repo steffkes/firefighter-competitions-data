@@ -15,4 +15,5 @@ jobs:
           node-version: 16
       - run: npm install
       - run: node count.js >> data/counts.jsonl
+      - run: node participants.js
       - uses: stefanzweifel/git-auto-commit-action@v4

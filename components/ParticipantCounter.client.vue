@@ -1,7 +1,7 @@
 <template>
   <span
     v-if="count != null"
-    class="tag is-primary"
+    class="tag"
     :title="'bislang ' + count + ' Anmeldungen'"
     style="cursor: help"
     >👨‍🚒 {{ count }}</span

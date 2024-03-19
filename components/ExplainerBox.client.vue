@@ -55,7 +55,7 @@
             <td>Datum zu dem die Anmeldung öffnet</td>
           </tr>
           <tr>
-            <td class="exp"><span class="tag is-primary">👨‍🚒 42</span></td>
+            <td class="exp"><span class="tag">👨‍🚒 42</span></td>
             <td>Bislang angemeldete Teilnehmer</td>
           </tr>
 

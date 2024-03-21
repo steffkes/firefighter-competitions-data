@@ -19,7 +19,7 @@ const data = (
               },
             }
           );
-          return resolve(data.rows);
+          return resolve(data.rows || []);
         })
     )
   )

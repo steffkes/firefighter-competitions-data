@@ -16,7 +16,7 @@ const data = (
               },
             }
           );
-          return resolve(Object.values(data)[0] || []);
+          return resolve(data || []);
         })
     )
   )

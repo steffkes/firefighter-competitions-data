@@ -21,6 +21,7 @@ jobs:
           body: 'merge collected data'
           commit-message: 'merge collected data'
       - name: Enable Pull Request Automerge
+        if: steps.cpr.outputs.pull-request-operation == 'created'
         run: gh pr merge --merge --auto ${{ steps.cpr.outputs.pull-request-number }}
         env:
           GH_TOKEN: ${{ github.token }}

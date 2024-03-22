@@ -15,6 +15,8 @@ jobs:
       - name: Create Pull Request
         id: cpr
         run: gh pr create --base ${{ github.event.repository.default_branch }} --title "merge collected data" --body "merge collected data"
+        env:
+          GH_TOKEN: ${{ github.token }}
       - name: Enable Pull Request Automerge
         if: steps.cpr.outputs.pull-request-operation == 'created'
         run: gh pr merge --merge --auto ${{ steps.cpr.outputs.pull-request-number }}

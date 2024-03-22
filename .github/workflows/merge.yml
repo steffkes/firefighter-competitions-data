@@ -19,7 +19,6 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
       - name: Enable Pull Request Automerge
-        if: steps.cpr.outputs.pull-request-operation == 'created'
-        run: gh pr merge --merge --auto ${{ steps.cpr.outputs.pull-request-number }}
+        run: gh pr merge --merge --auto ${{ steps.cpr.outputs.stdout }}
         env:
           GH_TOKEN: ${{ github.token }}

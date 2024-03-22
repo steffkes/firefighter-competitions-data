@@ -16,8 +16,11 @@ jobs:
         id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
+          base: ${{ github.event.repository.default_branch }}
           title: 'merge collected data'
           body: 'merge collected data'
           commit-message: 'merge collected data'
       - name: Enable Pull Request Automerge
         run: gh pr merge --merge --auto ${{ steps.cpr.outputs.pull-request-number }}
+        env:
+          GH_TOKEN: ${{ github.token }}

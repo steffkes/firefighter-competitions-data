@@ -1,0 +1,23 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 9,15 * * *"
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: data-collection
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          title: 'merge collected data'
+          body: 'merge collected data'
+          commit-message: 'merge collected data'
+      - name: Enable Pull Request Automerge
+        run: gh pr merge --merge --auto ${{ steps.cpr.outputs.pull-request-number }}

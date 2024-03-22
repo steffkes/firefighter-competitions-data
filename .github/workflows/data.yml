@@ -10,6 +10,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: data-collection
       - uses: actions/setup-node@v2.1.2
         with:
           node-version: 16

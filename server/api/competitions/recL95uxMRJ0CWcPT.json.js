@@ -26,7 +26,8 @@ const data = (
 )
   .flatMap(({ value }) => value)
   .flatMap(({ cell: { name: names } }) => names.split("<br>"))
-  .map((name) => name.match(/^(.+)\s+\w\s+\d+$/)[1]);
+  .map((name) => name.match(/^(.+)\s+\w\s+\d+$/)[1])
+  .map((name) => name.split(" ").reverse().join(" "));
 
 export const participants = () => data;
 export const count = () => data.length;

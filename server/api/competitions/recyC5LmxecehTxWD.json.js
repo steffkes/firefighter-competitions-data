@@ -1,6 +1,12 @@
 import { ofetch } from "ofetch";
 import { defineEventHandler } from "h3";
 
+function* chunks(arr, n) {
+  for (let i = 0; i < arr.length; i += n) {
+    yield arr.slice(i, i + n);
+  }
+}
+
 const data = (
   await Promise.allSettled(
     [1].map(
@@ -35,7 +41,8 @@ const data = (
     )
   );
 
+export const teams = () => [...chunks(data, 2)];
 export const participants = () => data;
-export const count = () => data.length;
+export const count = () => participants().length;
 
 export default defineEventHandler(async (event) => await count());

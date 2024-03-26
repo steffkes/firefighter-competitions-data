@@ -27,9 +27,10 @@ const raw = (
     firstname + " " + lastname,
   ]);
 
-const data = Object.values(Object.fromEntries(raw));
+const data = Object.values(Object.fromEntries(raw)).map((name) => [name]);
 
-export const participants = () => data;
-export const count = () => data.length;
+export const teams = () => data;
+export const participants = () => teams().flat();
+export const count = () => participants().length;
 
 export default defineEventHandler(async (event) => await count());

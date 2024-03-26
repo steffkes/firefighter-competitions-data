@@ -25,10 +25,18 @@ const data = (
   )
 )
   .flatMap(({ value }) => value)
-  .flatMap(({ cell: { name: names } }) => names.split("<br>"))
-  .map((name) => name.match(/^(.+)\s+\w\s+\d+$/)[1]);
+  .map(({ cell: { name: names } }) =>
+    names.split("<br>").map((name) =>
+      name
+        .match(/^(.+)\s+\w\s+\d+$/)[1]
+        .split(" ")
+        .reverse()
+        .join(" ")
+    )
+  );
 
-export const participants = () => data;
-export const count = () => data.length;
+export const teams = () => data;
+export const participants = () => teams().flat();
+export const count = () => participants().length;
 
 export default defineEventHandler(async (event) => await count());

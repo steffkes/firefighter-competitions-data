@@ -1,6 +1,8 @@
 import { ofetch } from "ofetch";
 import { defineEventHandler } from "h3";
 
+const reverseName = (name) => name.split(", ").reverse().join(" ");
+
 const data = (
   await Promise.allSettled(
     [3].map(
@@ -26,9 +28,10 @@ const data = (
     ([_bib, _bib2, name, _nationality, _byear, _gender, _category, _team]) =>
       name
   )
-  .map((name) => name.split(", ").reverse().join(" "));
+  .map((name) => [reverseName(name)]);
 
-export const participants = () => data;
-export const count = () => data.length;
+export const teams = () => data;
+export const participants = () => teams().flat();
+export const count = () => participants().length;
 
 export default defineEventHandler(async (event) => await count());

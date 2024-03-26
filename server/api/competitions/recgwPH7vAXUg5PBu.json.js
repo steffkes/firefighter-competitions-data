@@ -12,7 +12,7 @@ const data = (
               query: {
                 key: "1a92069df75cc5903748fe12993e7e8b",
                 contest,
-                listname: "07 - Teilnehmer - PUBLIC|Teilnehmer ABC",
+                listname: "07 - Teilnehmer - PUBLIC|Teilnehmer ABC-Team",
               },
             }
           );
@@ -22,10 +22,10 @@ const data = (
   )
 )
   .flatMap(({ value }) => value)
-  .map(([_id, _bib, name, _byear, _gender, _team]) => name)
-  .map((name) => name.split(", ").reverse().join(" "));
+  .map(([_id, _bib, _team, names, _category]) => names.split(" / "));
 
-export const participants = () => data;
-export const count = () => data.length;
+export const teams = () => data;
+export const participants = () => teams().flat();
+export const count = () => participants().length;
 
 export default defineEventHandler(async (event) => await count());

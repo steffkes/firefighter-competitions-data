@@ -22,12 +22,12 @@ const data = (
   )
 )
   .flatMap(({ value }) => value)
-  .flatMap(([_bib, _empty, _team, _origin, names, _category]) =>
-    names.split(" / ")
-  )
-  .map((name) => name.match(/^[^\(]+/)[0].trim());
+  .map(([_bib, _empty, _team, _origin, names, _category]) =>
+    names.split(" / ").map((name) => name.match(/^[^\(]+/)[0].trim())
+  );
 
-export const participants = () => data;
-export const count = () => data.length;
+export const teams = () => data;
+export const participants = () => teams().flat();
+export const count = () => participants().length;
 
 export default defineEventHandler(async (event) => await count());

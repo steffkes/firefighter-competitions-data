@@ -1,0 +1,558 @@
+{
+  "date": "2024-03-26T19:43:57.379Z",
+  "competition": "recbbcQl0KFKj7Ox4",
+  "teams": [
+    [
+      "Louisa Tölke",
+      "Johannes Schöne"
+    ],
+    [
+      "Tim Mitterer",
+      "Tim Josten"
+    ],
+    [
+      "Stefan Matheis",
+      "Matthias Weickmann"
+    ],
+    [
+      "Jan-Philipp Sebald",
+      "Jan Finke"
+    ],
+    [
+      "Alexander Berghoff",
+      "Louis Tebbe"
+    ],
+    [
+      "Hendrik Pieper",
+      "Janic Steinberg"
+    ],
+    [
+      "Sebastian Lösaus",
+      "Marcel Tolle"
+    ],
+    [
+      "Stefan Matheis",
+      "Dominik Thiel"
+    ],
+    [
+      "Matthias Weickmann",
+      "Christian Mitsch"
+    ],
+    [
+      "Toni Müller",
+      "Otto Chimm"
+    ],
+    [
+      "Fabian Missfelder",
+      "Samuel Glemser"
+    ],
+    [
+      "Pascal Paulus",
+      "Yannik Benz"
+    ],
+    [
+      "Robin Gölz",
+      "Anna-Lena Wieland"
+    ],
+    [
+      "Martin Littfinski",
+      "Marcel Haefke"
+    ],
+    [
+      "Lukas Scholten",
+      "Sebastian Deckers"
+    ],
+    [
+      "Christophe Hoffmann",
+      "Martin Loos"
+    ],
+    [
+      "Claude Kaufmann",
+      "Remy Harpes"
+    ],
+    [
+      "Christophe Theiß",
+      "Remy Harpes"
+    ],
+    [
+      "Jasmin Bohun",
+      "Theresa Maaß"
+    ],
+    [
+      "Alexander Wigger",
+      "Lena Kurz"
+    ],
+    [
+      "Torben Nölte",
+      "Rafael Dudczak"
+    ],
+    [
+      "Florian Schwandner",
+      "Alexander Rudolf"
+    ],
+    [
+      "Christoph Lewe",
+      "Paulina Lewe"
+    ],
+    [
+      "Mia Baum",
+      "Hannah Heilmann"
+    ],
+    [
+      "Leif Daniels",
+      "Dirk Hirtz"
+    ],
+    [
+      "Finn Marten Kumpe",
+      "Frank Haever"
+    ],
+    [
+      "Florian Hafner",
+      "Stefan Gunkel"
+    ],
+    [
+      "Lucas Endt",
+      "Grei Papa"
+    ],
+    [
+      "Manuel Greber",
+      "Niklas Greber"
+    ],
+    [
+      "Jasmin Bohun",
+      "Damian Pyka"
+    ],
+    [
+      "Christian Franzen",
+      "Leon Klug"
+    ],
+    [
+      "Christian Schmidt",
+      "Hans-Georg Buckenmaier"
+    ],
+    [
+      "Patrick Fecker",
+      "Cedric Schulz"
+    ],
+    [
+      "Mike Löffler",
+      "Lukas Sauter"
+    ],
+    [
+      "Lutz Lüdke",
+      "Martin Bergholz"
+    ],
+    [
+      "Dominik Hess",
+      "Sebastian Lenzing"
+    ],
+    [
+      "Oliver Thelen",
+      "Tim Breickmann"
+    ],
+    [
+      "Patrick Hermes",
+      "Joachim Thelen"
+    ],
+    [
+      "Gerardo Gallucci",
+      "Raphael Schmitz-Hennek"
+    ],
+    [
+      "Andreas Hülser",
+      "Marvin Böhm"
+    ],
+    [
+      "Dennis Knabben",
+      "Dennis Paulußen"
+    ],
+    [
+      "Ole Weiße",
+      "Fabian Kunde"
+    ],
+    [
+      "Niklas Vetten",
+      "Daniel Forselen"
+    ],
+    [
+      "Robert Guther",
+      "Arne Wäschenbach"
+    ],
+    [
+      "Felix Hartmann",
+      "Lukas Winheller"
+    ],
+    [
+      "Jan-Lukas Hepe",
+      "Michael- Pascal Schäfer"
+    ],
+    [
+      "Martin Eichenlaub",
+      "Elisa Ehmer"
+    ],
+    [
+      "Stephan Korn",
+      "Marco Montillon"
+    ],
+    [
+      "Kai Klinkenberg",
+      "Marcel Santana"
+    ],
+    [
+      "Matihas Hipp",
+      "Florian Bach"
+    ],
+    [
+      "Johannes Kammerer",
+      "Daniel Rapp"
+    ],
+    [
+      "André Wendel",
+      "Lukas Rebmann"
+    ],
+    [
+      "Felix Fleig",
+      "Simon Rebmann"
+    ],
+    [
+      "Christopher Wiest",
+      "Philipp Rebmann"
+    ],
+    [
+      "Stephan Lewerenz",
+      "Florian Lukas"
+    ],
+    [
+      "Patrick Gillies",
+      "Simon Trinczek"
+    ],
+    [
+      "Peter Klassen",
+      "Thomas Rondinella"
+    ],
+    [
+      "Tim Rothfuß",
+      "Philipp Ehniss"
+    ],
+    [
+      "Michael Sander",
+      "Thomas Ehlen"
+    ],
+    [
+      "Simon Doll",
+      "Jochen Bürk"
+    ],
+    [
+      "Manuel Schulz",
+      "Dennis Bürk"
+    ],
+    [
+      "Madeleine Krammer",
+      "Helena Höfer"
+    ],
+    [
+      "Manfred Freimut",
+      "Gunther Fuchs"
+    ],
+    [
+      "Julian Schaible",
+      "Günter Schulz"
+    ],
+    [
+      "Jahn-Louis Blessing",
+      "Ben Brodbeck"
+    ],
+    [
+      "Florian Schweickard",
+      "Pirmin Prokein"
+    ],
+    [
+      "Simon Hoffmann",
+      "Robert Götze"
+    ],
+    [
+      "Michael Dreßen",
+      "Christian Schulze"
+    ],
+    [
+      "Ingo Petri",
+      "Tobias Diehl"
+    ],
+    [
+      "Marvin Schäfer",
+      "Tim Schall"
+    ],
+    [
+      "Flemming Erik Kühn",
+      "Olaf Zimmermann"
+    ],
+    [
+      "Anne-Kathrin Weiß",
+      "Jennifer Krimm"
+    ],
+    [
+      "Hagen Scherer",
+      "Ronny Becker"
+    ],
+    [
+      "Fabian Huberty",
+      "Jan Kirchhoff"
+    ],
+    [
+      "Fabian Nowitzki",
+      "Sten Höft"
+    ],
+    [
+      "Fabian Kluge",
+      "Maimuna Krüger"
+    ],
+    [
+      "Nicole Tuchbreiter",
+      "Enrico Kohl"
+    ],
+    [
+      "Rene Krumstroh",
+      "Kirsten Schneidereit"
+    ],
+    [
+      "Vincent Gellissen",
+      "Patrick Hohlfeldt"
+    ],
+    [
+      "Michael Kuper",
+      "Patrick Köhrmann"
+    ],
+    [
+      "David Leefers",
+      "Justus Wanko"
+    ],
+    [
+      "Martin Hofmann",
+      "Noah Münter"
+    ],
+    [
+      "Luis Probst",
+      "Phillipp Wunderle"
+    ],
+    [
+      "Leon Göbel",
+      "Lukas Dylong"
+    ],
+    [
+      "Mario Fleerkortte",
+      "Guido Suhrmeyer"
+    ],
+    [
+      "Gabriel Jaudas",
+      "Fabian Mai"
+    ],
+    [
+      "Nico Schäfer",
+      "Niklas Binkert"
+    ],
+    [
+      "Bob Karier",
+      "Manuel Correia"
+    ],
+    [
+      "Ben Haupt",
+      "Jana Straus"
+    ],
+    [
+      "Pol Konz",
+      "Tom Pepin"
+    ],
+    [
+      "Cliff Delvaux",
+      "Charel Hoffmann"
+    ],
+    [
+      "Jan Pönitz",
+      "Sebastian Hauröder"
+    ],
+    [
+      "Manuel Fakler",
+      "Vito Elias Zimmermann"
+    ],
+    [
+      "Yannik Backes",
+      "Florian Krass"
+    ],
+    [
+      "Michael Sundmacher",
+      "Nils Lindemann"
+    ],
+    [
+      "Martin Sonnenberg",
+      "Felix Joost"
+    ],
+    [
+      "Kira Sauer",
+      "Katharina Küchler"
+    ],
+    [
+      "Leon Meyer",
+      "Leon Koppe"
+    ],
+    [
+      "Dominik Bär",
+      "Jan Schmid"
+    ],
+    [
+      "Theile Suhren",
+      "Steffen Lindemann"
+    ],
+    [
+      "Sebastian Blechmann",
+      "Jan Groll"
+    ],
+    [
+      "Maurice Holz",
+      "Daniel Sternsdorf"
+    ],
+    [
+      "Michelangelo Giacobbe",
+      "Axel Bezler"
+    ],
+    [
+      "Maurice Wilder",
+      "Florian Heinz"
+    ],
+    [
+      "Mona Ebermann",
+      "Johann Irmer"
+    ],
+    [
+      "Matthias Weickmann",
+      "Nicole Tuchbreiter"
+    ],
+    [
+      "Luisa von Iljin",
+      "Justin Schnurbusch"
+    ],
+    [
+      "Michelle Kaps",
+      "Laura Bürger"
+    ],
+    [
+      "Emily Schroeder",
+      "Robert Below"
+    ],
+    [
+      "Jonas Eichelbaum",
+      "Jonas Jahnke"
+    ],
+    [
+      "Steve Roidl",
+      "Cornelia Schneider"
+    ],
+    [
+      "Björn Herborn",
+      "Andre Herborn"
+    ],
+    [
+      "Karsten Ehrhardt",
+      "Peter Zöller"
+    ],
+    [
+      "Thomas Ciolek",
+      "Martin Brieden"
+    ],
+    [
+      "Leon Doerenkamp",
+      "Daniel Krude"
+    ],
+    [
+      "Oliver Berg",
+      "Christoph Biegel"
+    ],
+    [
+      "Tobias Sief",
+      "Tobias Weide"
+    ],
+    [
+      "Hendrik Görgens",
+      "Luca Schulten"
+    ],
+    [
+      "Matthias Hüwels",
+      "Florian Hüwels"
+    ],
+    [
+      "Marcus Klauck",
+      "Lena Marie Harenberg"
+    ],
+    [
+      "Andreas Ten Hoevel",
+      "Markus Kraiger"
+    ],
+    [
+      "Petra Koch",
+      "Christian Maier"
+    ],
+    [
+      "Felix Fuhrer",
+      "Erik Hertkorn"
+    ],
+    [
+      "Jemema Hansmann",
+      "André Schäfer"
+    ],
+    [
+      "Steve Roidl",
+      "Damian Pyka"
+    ],
+    [
+      "Damian Pyka",
+      "Jörg Bohun"
+    ],
+    [
+      "Markus Braun",
+      "Oliver Söll"
+    ],
+    [
+      "Thorsten Otto-Döbbe",
+      "Chantal Stötzer"
+    ],
+    [
+      "Julia Dawid",
+      "Michael Dawid"
+    ],
+    [
+      "Peter Nübel",
+      "Lennard Kuna"
+    ],
+    [
+      "Sebastian Burkard",
+      "Tim Rothe"
+    ],
+    [
+      "Lukas Keller",
+      "Julien Schmidt"
+    ],
+    [
+      "Jasmin Bohun",
+      "Nicole Mrosek"
+    ],
+    [
+      "Andreas Bleser",
+      "Gianluca Sparda"
+    ],
+    [
+      "Cyril Lickes",
+      "Gilles Mergen"
+    ],
+    [
+      "Franjo Stefanetti",
+      "Larry Blasius"
+    ],
+    [
+      "Frank Henrichs",
+      "Nils Henrichs"
+    ],
+    [
+      "Theresa Maaß",
+      "Thomas Ciolek"
+    ]
+  ]
+}

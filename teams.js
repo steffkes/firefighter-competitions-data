@@ -7,17 +7,18 @@ const str = (object) =>
   JSON.stringify({ date: date.toISOString(), ...object }, null, 2);
 
 const extension = ".json.js";
-for (const path of await glob(["./server/api/competitions/*" + extension])) {
-  await writeFile("data/participants/" + competition + ".json", result);
+for (const path of await glob([
+  "./server/api/competitions/" + (process.argv[2] ?? "*") + extension,
+])) {
   try {
-    const { participants } = await import(path);
+    const { teams } = await import(path);
     const competition = basename(path, extension);
     const result = str({
       competition,
-      participants: participants(),
+      teams: teams(),
     });
     console.log(result);
-    await writeFile("data/participants/" + competition + ".json", result);
+    await writeFile("data/teams/" + competition + ".json", result);
   } catch (error) {
     console.error({ path, error });
   }

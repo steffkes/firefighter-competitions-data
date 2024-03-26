@@ -8,7 +8,6 @@ const str = (object) =>
 
 const extension = ".json.js";
 for (const path of await glob(["./server/api/competitions/*" + extension])) {
-  await writeFile("data/participants/" + competition + ".json", result);
   try {
     const { participants } = await import(path);
     const competition = basename(path, extension);

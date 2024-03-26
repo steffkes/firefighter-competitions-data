@@ -7,7 +7,9 @@ const str = (object) =>
   JSON.stringify({ date: date.toISOString(), ...object }, null, 2);
 
 const extension = ".json.js";
-for (const path of await glob(["./server/api/competitions/*" + extension])) {
+for (const path of await glob([
+  "./server/api/competitions/" + (process.argv[2] ?? "*") + extension,
+])) {
   try {
     const { participants } = await import(path);
     const competition = basename(path, extension);

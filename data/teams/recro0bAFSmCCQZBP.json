@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-27T16:25:28.905Z",
+  "date": "2024-03-27T16:41:12.425Z",
   "competition": "recro0bAFSmCCQZBP",
-  "count": 22,
+  "count": 24,
   "teams": [
     [
       "Strauß Martin",
@@ -46,6 +46,10 @@
     [
       "Elina Görler",
       "Florian Löffler"
+    ],
+    [
+      "Max Leibelt",
+      "Philipp Leibelt"
     ]
   ]
 }

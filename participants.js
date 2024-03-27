@@ -11,10 +11,11 @@ for (const path of await glob([
   "./server/api/competitions/" + (process.argv[2] ?? "*") + extension,
 ])) {
   try {
-    const { participants } = await import(path);
+    const { count, participants } = await import(path);
     const competition = basename(path, extension);
     const result = str({
       competition,
+      count: count(),
       participants: participants(),
     });
     console.log(result);

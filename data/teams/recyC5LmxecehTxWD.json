@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-27T17:40:15.496Z",
+  "date": "2024-03-27T17:52:28.001Z",
   "competition": "recyC5LmxecehTxWD",
-  "count": 158,
+  "count": 160,
   "teams": [
     [
       "Bohun Jasmin",
@@ -318,6 +318,10 @@
     [
       "Basti Hartmann",
       "Nils Buchholzer"
+    ],
+    [
+      "Moritz Gula",
+      "Heiko Bertleff"
     ]
   ]
 }

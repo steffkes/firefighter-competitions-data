@@ -35,7 +35,7 @@
               >
             </td>
             <td>
-              <b>F</b>irefighter <b>C</b>ombat <b>C</b>hallenge (oder ähmlicher
+              <b>F</b>irefighter <b>C</b>ombat <b>C</b>hallenge (oder ähnlicher
               Wettkampf)
             </td>
           </tr>
@@ -46,7 +46,7 @@
                 Musterhausen</span
               >
             </td>
-            <td>Ort bzw. Land der Veranstaltung</td>
+            <td>Ort und Land des Wettkampfes</td>
           </tr>
           <tr>
             <td class="exp">
@@ -65,12 +65,12 @@
 
           <tr>
             <td class="exp">❌</td>
-            <td>Diese Veranstaltung wurde abgesagt</td>
+            <td>Dieser Wettkampf wurde abgesagt</td>
           </tr>
 
           <tr>
             <td class="exp">❓</td>
-            <td>Der Termin dieser Veranstaltung ist noch nicht endgültig</td>
+            <td>Der Termin dieses Wettkampfes ist noch nicht endgültig</td>
           </tr>
         </tbody>
       </table>
@@ -97,18 +97,17 @@ table .exp {
 const kind = {
   FCC: {
     title: "Firefighter Combat Challenge",
-    type: "is-warning",
+    type: "is-warning is-light",
   },
   FSR: {
     title: "Firefighter Stair Run",
-    type: "is-info",
+    type: "is-info is-light",
   },
 };
 
 const formatDate = (date) =>
   new Date(date).toLocaleDateString("de-DE", {
     weekday: "short",
-    year: "2-digit",
     month: "2-digit",
     day: "2-digit",
   });

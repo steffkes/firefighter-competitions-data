@@ -394,7 +394,6 @@ const filteredCompetitions = computed(() => {
 const formatDate = (date) =>
   new Date(date).toLocaleDateString("de-DE", {
     weekday: "short",
-    year: "2-digit",
     month: "2-digit",
     day: "2-digit",
   });

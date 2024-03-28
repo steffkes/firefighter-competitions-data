@@ -58,6 +58,10 @@
             <td class="exp"><span class="tag">👨‍🚒 42</span></td>
             <td>Bislang angemeldete Teilnehmer</td>
           </tr>
+          <tr>
+            <td class="exp"><span class="tag is-link">🤚 42</span></td>
+            <td>Offene Gesuche für eine/n Laufpartner/in</td>
+          </tr>
 
           <tr>
             <td class="exp">❌</td>

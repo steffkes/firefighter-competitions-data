@@ -180,6 +180,10 @@
                     v-if="competition.has_registration_open"
                     :competition="competition"
                   />
+                  <SingleboerseCounter
+                    v-if="singleboerse[competition.id]"
+                    :id="singleboerse[competition.id]"
+                  />
                 </div>
               </td>
             </tr>
@@ -345,6 +349,10 @@ const kind = {
     title: "Firefighter Stair Run",
     type: "is-info is-light",
   },
+};
+
+const singleboerse = {
+  recyC5LmxecehTxWD: "240511-schonach",
 };
 
 const isPast = (competition) => new Date() - new Date(competition.date.end) > 0;

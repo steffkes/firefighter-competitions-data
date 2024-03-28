@@ -339,11 +339,11 @@ const competitionFilter = ref({
 const kind = {
   FCC: {
     title: "Firefighter Combat Challenge",
-    type: "is-warning",
+    type: "is-warning is-light",
   },
   FSR: {
     title: "Firefighter Stair Run",
-    type: "is-info",
+    type: "is-info is-light",
   },
 };
 

@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-29T11:39:27.790Z",
+  "date": "2024-03-29T11:51:24.922Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 256,
+  "count": 258,
   "teams": [
     [
       "Lukas Dobler",
@@ -222,6 +222,10 @@
     [
       "Manuel Müller",
       "Timo Mungenast"
+    ],
+    [
+      "Nicolas Reis",
+      "Daniel Penzl"
     ],
     [
       "Elias Vogt",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-29T07:29:58.934Z",
+  "date": "2024-03-29T07:42:05.389Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 224,
+  "count": 226,
   "teams": [
     [
       "Lukas Dobler",
@@ -116,16 +116,16 @@
       "Florian Beck"
     ],
     [
-      "Tobias Müller",
-      "Luca Berg"
+      "Yannik Ortmann",
+      "Benedikt Paulus"
     ],
     [
       "Marius Beck",
       "Florian Beck"
     ],
     [
-      "Yannik Ortmann",
-      "Benedikt Paulus"
+      "Tobias Müller",
+      "Luca Berg"
     ],
     [
       "Thomas Monreal",
@@ -390,6 +390,10 @@
     [
       "André Emeling",
       "Niklas Friese"
+    ],
+    [
+      "Florian Omasreither",
+      "Thomas Zollner"
     ],
     [
       "Felix Fuhrer",

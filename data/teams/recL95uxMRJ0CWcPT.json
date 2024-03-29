@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-29T09:37:21.537Z",
+  "date": "2024-03-29T09:49:16.323Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 244,
+  "count": 246,
   "teams": [
     [
       "Lukas Dobler",
@@ -76,12 +76,12 @@
       "Volker Müller"
     ],
     [
-      "Philipp Grimm",
-      "Michael Wetzel"
-    ],
-    [
       "Vjaceslav Negoda",
       "Tim Häfele"
+    ],
+    [
+      "Philipp Grimm",
+      "Michael Wetzel"
     ],
     [
       "Sascha Mehlig",
@@ -156,7 +156,7 @@
       "Stefan Kröber"
     ],
     [
-      "Philipp Jan Jungwirth",
+      "Jan-Phillip Jungwirth",
       "Leonard Brost"
     ],
     [
@@ -210,6 +210,10 @@
     [
       "Julian Krieg",
       "Ralf Merkel"
+    ],
+    [
+      "Manuel Müller",
+      "Timo Mungenast"
     ],
     [
       "Elias Vogt",

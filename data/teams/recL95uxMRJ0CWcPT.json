@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-29T08:37:27.868Z",
+  "date": "2024-03-29T08:49:29.244Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 234,
+  "count": 240,
   "teams": [
     [
       "Lukas Dobler",
@@ -14,6 +14,14 @@
     [
       "Michael Wetzel",
       "Sascha Engelhardt"
+    ],
+    [
+      "Julian Abendschön",
+      "Nico Knuth"
+    ],
+    [
+      "Florian Neumaier",
+      "Philipp Leitschuh"
     ],
     [
       "Marcel Sander",
@@ -222,6 +230,10 @@
     [
       "Florian Schmock",
       "Paul Schulz"
+    ],
+    [
+      "Lucas Mai",
+      "Pit Sander"
     ],
     [
       "Sebastian Hafner",

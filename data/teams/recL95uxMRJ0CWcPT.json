@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-29T15:30:24.233Z",
+  "date": "2024-03-29T18:39:18.827Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 280,
+  "count": 314,
   "teams": [
     [
       "Lukas Dobler",
@@ -32,6 +32,14 @@
       "Sebastian Neumaier"
     ],
     [
+      "Christian Eckert",
+      "Benjamin Lamprecht"
+    ],
+    [
+      "Fabian Wendel",
+      "Pierre Dörfler"
+    ],
+    [
       "Marcel Haefke",
       "Martin Littfinski"
     ],
@@ -42,6 +50,10 @@
     [
       "Claude Kaufmann",
       "Christophe Theiß"
+    ],
+    [
+      "Stephan Lehmann",
+      "Sven Rust"
     ],
     [
       "Michael Woidich",
@@ -144,6 +156,10 @@
       "Jakub Gnatowski"
     ],
     [
+      "Stefan Spiß",
+      "Marvin Müller"
+    ],
+    [
       "Michael Roth",
       "Christian Roth"
     ],
@@ -174,6 +190,10 @@
     [
       "Tobias Müller",
       "Luca Berg"
+    ],
+    [
+      "Christian Kreit",
+      "Andreas Fischer"
     ],
     [
       "Thomas Monreal",
@@ -312,6 +332,14 @@
       "Schönberg Werner"
     ],
     [
+      "Madeleine Krammer",
+      "Helena Höfer"
+    ],
+    [
+      "Jonas Kirstein",
+      "Raphael Pfleghaar"
+    ],
+    [
       "Robin Kirchmaier",
       "Michael Arnegger"
     ],
@@ -322,6 +350,10 @@
     [
       "Thomas Kern",
       "Markus Klink"
+    ],
+    [
+      "Lorenz Hilebrand",
+      "Gabriel Pfleghaar"
     ],
     [
       "Dominik Thiel",
@@ -362,6 +394,14 @@
     [
       "Johannes Vogg",
       "Josef Band"
+    ],
+    [
+      "David Wiedemann",
+      "Christian Hartmann"
+    ],
+    [
+      "Kilian Grimme",
+      "Tim Hiemeyer"
     ],
     [
       "Manuel Rösch",
@@ -464,6 +504,10 @@
       "Andre Herborn"
     ],
     [
+      "Dominic Scholz",
+      "Simon Gapp"
+    ],
+    [
       "Marco Juffa",
       "Verena Urbach"
     ],
@@ -524,12 +568,28 @@
       "Felix Holschuh"
     ],
     [
+      "Peter Sontheim",
+      "Christian Göppel"
+    ],
+    [
       "Patrick Liebhäuser",
       "Marius Ortmann"
     ],
     [
+      "Christian Fleschhut",
+      "Markus König"
+    ],
+    [
       "Marcus Wichner",
       "Pierre Huber"
+    ],
+    [
+      "Moritz Kraus",
+      "Leonard Schenkel"
+    ],
+    [
+      "Marius Lucius",
+      "Nils Hechtelberger"
     ],
     [
       "Christine Thalmair",
@@ -552,8 +612,16 @@
       "Benedikt Butzer"
     ],
     [
+      "Frank Strobel",
+      "Steffen Haag"
+    ],
+    [
       "Sebastian Stein",
       "Herbert Stefan Seidel"
+    ],
+    [
+      "Boris Hildebrand",
+      "Rainer Hage"
     ],
     [
       " Kala Karsten Kohrs",

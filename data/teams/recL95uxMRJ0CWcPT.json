@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-28T21:17:23.689Z",
+  "date": "2024-03-29T09:04:20.760Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 180,
+  "count": 242,
   "teams": [
     [
       "Lukas Dobler",
@@ -10,6 +10,22 @@
     [
       "Benjamin Fleischer",
       "Matthias Buttig"
+    ],
+    [
+      "Michael Wetzel",
+      "Sascha Engelhardt"
+    ],
+    [
+      "Julian Abendschön",
+      "Nico Knuth"
+    ],
+    [
+      "Florian Neumaier",
+      "Philipp Leitschuh"
+    ],
+    [
+      "Marcel Sander",
+      "Marvin Sander"
     ],
     [
       "Marcel Haefke",
@@ -60,8 +76,20 @@
       "Volker Müller"
     ],
     [
+      "Vjaceslav Negoda",
+      "Tim Häfele"
+    ],
+    [
+      "Philipp Grimm",
+      "Michael Wetzel"
+    ],
+    [
       "Sascha Mehlig",
       "Erik Hörr"
+    ],
+    [
+      "Martin Köberle",
+      "Nick Hespeler"
     ],
     [
       "Stephan Reither",
@@ -76,8 +104,24 @@
       "Andreas Gleich"
     ],
     [
+      "Bernhard Dobmaier",
+      "Dominik Wulff"
+    ],
+    [
+      "Caroline Guggenberger",
+      "Simon Betz"
+    ],
+    [
+      "Michael Guggenberger",
+      "Benedikt Weisl"
+    ],
+    [
       "Marco Fischer",
       "Patrick Haid"
+    ],
+    [
+      "Andreas Maurus",
+      "Max Schönfeld"
     ],
     [
       "Joshua Wolf",
@@ -86,6 +130,22 @@
     [
       "Nikolas Öhlenschläger",
       "Jakub Gnatowski"
+    ],
+    [
+      "Tobias Müller",
+      "Luca Berg"
+    ],
+    [
+      "Marius Beck",
+      "Florian Beck"
+    ],
+    [
+      "Yannik Ortmann",
+      "Benedikt Paulus"
+    ],
+    [
+      "Marius Beck",
+      "Florian Beck"
     ],
     [
       "Thomas Monreal",
@@ -136,6 +196,22 @@
       "Andreas Schmitt"
     ],
     [
+      "Mark Finkbeiner",
+      "Nico Zapf"
+    ],
+    [
+      "Simon Gerstner",
+      "Anton Stößer"
+    ],
+    [
+      "Dominik Schoch",
+      "Manuel Schäfer"
+    ],
+    [
+      "Julian Krieg",
+      "Ralf Merkel"
+    ],
+    [
       "Elias Vogt",
       "Tobias Daser"
     ],
@@ -156,8 +232,20 @@
       "Michael Maier"
     ],
     [
+      "Florian Schmock",
+      "Paul Schulz"
+    ],
+    [
+      "Lucas Mai",
+      "Pit Sander"
+    ],
+    [
       "Sebastian Hafner",
       "Benni Haupt"
+    ],
+    [
+      "Christian Rombach",
+      "Fabian Bässgen"
     ],
     [
       "Paul Wendel",
@@ -184,12 +272,20 @@
       "Schönberg Werner"
     ],
     [
+      "Robin Kirchmaier",
+      "Michael Arnegger"
+    ],
+    [
       "Armin Kirchner",
       "Adrian Kirchner"
     ],
     [
       "Thomas Kern",
       "Markus Klink"
+    ],
+    [
+      "Dominik Thiel",
+      "Mandy Wohlan"
     ],
     [
       "Anne-Kathrin Weiß",
@@ -214,6 +310,10 @@
     [
       "Michael Klein",
       "Fabian Grabowski"
+    ],
+    [
+      "Benedikt Zeberle",
+      "Maria Zeberle"
     ],
     [
       "Paul Unger",
@@ -288,6 +388,10 @@
       "Kevin Korczyk"
     ],
     [
+      "Marco Henkel",
+      "Mario Henkel"
+    ],
+    [
       "Martin Hebenstreit",
       "Dennis Mikanovic"
     ],
@@ -304,12 +408,24 @@
       "Christian Schessl"
     ],
     [
+      "Björn Herborn",
+      "Andre Herborn"
+    ],
+    [
       "Florian Maaß",
       "Jasper Lettow"
     ],
     [
       "André Emeling",
       "Niklas Friese"
+    ],
+    [
+      "Florian Omasreither",
+      "Thomas Zollner"
+    ],
+    [
+      "Maximilian Niebler",
+      "Maximilian Heuschneider"
     ],
     [
       "Felix Fuhrer",
@@ -324,12 +440,20 @@
       "Timo Keller"
     ],
     [
+      "Julia Rauh",
+      "Sarah Degelmann"
+    ],
+    [
       "Jannik Volk",
       "Alina Krastel"
     ],
     [
       "Lea Weis",
       "Felix Holschuh"
+    ],
+    [
+      "Patrick Liebhäuser",
+      "Marius Ortmann"
     ],
     [
       "Marcus Wichner",

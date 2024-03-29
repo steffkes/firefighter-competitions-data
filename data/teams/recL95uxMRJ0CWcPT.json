@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-29T09:23:01.085Z",
+  "date": "2024-03-29T13:17:50.406Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 242,
+  "count": 270,
   "teams": [
     [
       "Lukas Dobler",
@@ -26,6 +26,10 @@
     [
       "Marcel Sander",
       "Marvin Sander"
+    ],
+    [
+      "Justin-Felipe Kull",
+      "Sebastian Neumaier"
     ],
     [
       "Marcel Haefke",
@@ -68,6 +72,10 @@
       "Christian Mitsch"
     ],
     [
+      "Manuel Greber",
+      "Niklas Greber"
+    ],
+    [
       "Richard Mehr",
       "Jakob Wiest"
     ],
@@ -76,12 +84,12 @@
       "Volker Müller"
     ],
     [
-      "Vjaceslav Negoda",
-      "Tim Häfele"
-    ],
-    [
       "Philipp Grimm",
       "Michael Wetzel"
+    ],
+    [
+      "Vjaceslav Negoda",
+      "Tim Häfele"
     ],
     [
       "Sascha Mehlig",
@@ -132,6 +140,18 @@
       "Jakub Gnatowski"
     ],
     [
+      "Michael Roth",
+      "Christian Roth"
+    ],
+    [
+      "Bernd Schneider",
+      "Michael Stark"
+    ],
+    [
+      "Bernd Seßler",
+      "Armin Roth"
+    ],
+    [
       "Marius Beck",
       "Florian Beck"
     ],
@@ -156,12 +176,16 @@
       "Stefan Kröber"
     ],
     [
-      "Philipp Jan Jungwirth",
+      "Jan-Phillip Jungwirth",
       "Leonard Brost"
     ],
     [
       "Jeroma Neckenich",
       "Pascal Krause"
+    ],
+    [
+      "Roswitha Kloidt",
+      "Franziska Elmas"
     ],
     [
       "Niko Tursky",
@@ -210,6 +234,14 @@
     [
       "Julian Krieg",
       "Ralf Merkel"
+    ],
+    [
+      "Manuel Müller",
+      "Timo Mungenast"
+    ],
+    [
+      "Nicolas Reis",
+      "Daniel Penzl"
     ],
     [
       "Elias Vogt",
@@ -360,6 +392,10 @@
       "Patrick Raapke"
     ],
     [
+      "Patrick Kapschick",
+      "Niklas Coppel"
+    ],
+    [
       "Ronny Weber",
       "Daniel Brunner"
     ],
@@ -420,6 +456,10 @@
       "Niklas Friese"
     ],
     [
+      "Alexander Weiß",
+      "Sven Spath"
+    ],
+    [
       "Florian Omasreither",
       "Thomas Zollner"
     ],
@@ -428,12 +468,20 @@
       "Maximilian Heuschneider"
     ],
     [
+      "Lena Reinker",
+      "Leon Kubanke"
+    ],
+    [
       "Felix Fuhrer",
       "Erik Hertkorn"
     ],
     [
       "Felix Fuhrer",
       "Erik Hertkorn"
+    ],
+    [
+      "Julian Abendschön",
+      "Nico Knuth"
     ],
     [
       "Alexander Bender",
@@ -446,6 +494,10 @@
     [
       "Jannik Volk",
       "Alina Krastel"
+    ],
+    [
+      "Lukas Schmeiser",
+      "Philipp Hagedorn"
     ],
     [
       "Lea Weis",
@@ -474,6 +526,10 @@
     [
       "Marco Ziegler",
       "Vinzenz Abele"
+    ],
+    [
+      "Andreas Butzer",
+      "Benedikt Butzer"
     ],
     [
       "Sebastian Stein",

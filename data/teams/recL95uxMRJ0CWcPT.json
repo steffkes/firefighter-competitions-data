@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-29T19:39:01.646Z",
+  "date": "2024-03-29T19:50:45.942Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 322,
+  "count": 324,
   "teams": [
     [
       "Lukas Dobler",
@@ -96,12 +96,12 @@
       "Volker Müller"
     ],
     [
-      "Philipp Grimm",
-      "Michael Wetzel"
-    ],
-    [
       "Vjaceslav Negoda",
       "Tim Häfele"
+    ],
+    [
+      "Philipp Grimm",
+      "Michael Wetzel"
     ],
     [
       "Sascha Mehlig",
@@ -180,16 +180,16 @@
       "Florian Beck"
     ],
     [
+      "Yannik Ortmann",
+      "Benedikt Paulus"
+    ],
+    [
       "Tobias Müller",
       "Luca Berg"
     ],
     [
       "Marius Beck",
       "Florian Beck"
-    ],
-    [
-      "Yannik Ortmann",
-      "Benedikt Paulus"
     ],
     [
       "Christian Kreit",
@@ -542,6 +542,10 @@
     [
       "Lena Reinker",
       "Leon Kubanke"
+    ],
+    [
+      "Sebastian Schade",
+      "Guffler Florian"
     ],
     [
       "Felix Fuhrer",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-29T15:57:23.385Z",
+  "date": "2024-03-29T16:23:53.829Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 284,
+  "count": 290,
   "teams": [
     [
       "Lukas Dobler",
@@ -44,6 +44,10 @@
       "Christophe Theiß"
     ],
     [
+      "Stephan Lehmann",
+      "Sven Rust"
+    ],
+    [
       "Michael Woidich",
       "Niko Reiss"
     ],
@@ -84,12 +88,12 @@
       "Volker Müller"
     ],
     [
-      "Philipp Grimm",
-      "Michael Wetzel"
-    ],
-    [
       "Vjaceslav Negoda",
       "Tim Häfele"
+    ],
+    [
+      "Philipp Grimm",
+      "Michael Wetzel"
     ],
     [
       "Sascha Mehlig",
@@ -328,6 +332,10 @@
       "Markus Klink"
     ],
     [
+      "Lorenz Hilebrand",
+      "Gabriel Pfleghaar"
+    ],
+    [
       "Dominik Thiel",
       "Mandy Wohlan"
     ],
@@ -370,6 +378,10 @@
     [
       "David Wiedemann",
       "Christian Hartmann"
+    ],
+    [
+      "Kilian Grimme",
+      "Tim Hiemeyer"
     ],
     [
       "Manuel Rösch",

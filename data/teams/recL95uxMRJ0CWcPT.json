@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-29T16:38:41.582Z",
+  "date": "2024-03-29T16:50:27.135Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 290,
+  "count": 298,
   "teams": [
     [
       "Lukas Dobler",
@@ -30,6 +30,10 @@
     [
       "Justin-Felipe Kull",
       "Sebastian Neumaier"
+    ],
+    [
+      "Fabian Wendel",
+      "Pierre Dörfler"
     ],
     [
       "Marcel Haefke",
@@ -88,12 +92,12 @@
       "Volker Müller"
     ],
     [
-      "Vjaceslav Negoda",
-      "Tim Häfele"
-    ],
-    [
       "Philipp Grimm",
       "Michael Wetzel"
+    ],
+    [
+      "Vjaceslav Negoda",
+      "Tim Häfele"
     ],
     [
       "Sascha Mehlig",
@@ -172,12 +176,12 @@
       "Benedikt Paulus"
     ],
     [
-      "Tobias Müller",
-      "Luca Berg"
-    ],
-    [
       "Marius Beck",
       "Florian Beck"
+    ],
+    [
+      "Tobias Müller",
+      "Luca Berg"
     ],
     [
       "Thomas Monreal",
@@ -552,6 +556,10 @@
       "Pierre Huber"
     ],
     [
+      "Moritz Kraus",
+      "Leonard Schenkel"
+    ],
+    [
       "Christine Thalmair",
       "Jörg Peters"
     ],
@@ -572,8 +580,16 @@
       "Benedikt Butzer"
     ],
     [
+      "Frank Strobel",
+      "Steffen Haag"
+    ],
+    [
       "Sebastian Stein",
       "Herbert Stefan Seidel"
+    ],
+    [
+      "Boris Hildebrand",
+      "Rainer Hage"
     ],
     [
       " Kala Karsten Kohrs",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-29T07:42:05.389Z",
+  "date": "2024-03-29T07:57:32.959Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 226,
+  "count": 232,
   "teams": [
     [
       "Lukas Dobler",
@@ -10,6 +10,10 @@
     [
       "Benjamin Fleischer",
       "Matthias Buttig"
+    ],
+    [
+      "Michael Wetzel",
+      "Sascha Engelhardt"
     ],
     [
       "Marcel Haefke",
@@ -112,6 +116,10 @@
       "Jakub Gnatowski"
     ],
     [
+      "Tobias Müller",
+      "Luca Berg"
+    ],
+    [
       "Marius Beck",
       "Florian Beck"
     ],
@@ -122,10 +130,6 @@
     [
       "Marius Beck",
       "Florian Beck"
-    ],
-    [
-      "Tobias Müller",
-      "Luca Berg"
     ],
     [
       "Thomas Monreal",
@@ -186,6 +190,10 @@
     [
       "Dominik Schoch",
       "Manuel Schäfer"
+    ],
+    [
+      "Julian Krieg",
+      "Ralf Merkel"
     ],
     [
       "Elias Vogt",
@@ -394,6 +402,10 @@
     [
       "Florian Omasreither",
       "Thomas Zollner"
+    ],
+    [
+      "Maximilian Niebler",
+      "Leon Kubanke"
     ],
     [
       "Felix Fuhrer",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-29T20:17:30.931Z",
+  "date": "2024-03-29T20:29:29.971Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 330,
+  "count": 332,
   "teams": [
     [
       "Lukas Dobler",
@@ -96,12 +96,12 @@
       "Volker Müller"
     ],
     [
-      "Philipp Grimm",
-      "Michael Wetzel"
-    ],
-    [
       "Vjaceslav Negoda",
       "Tim Häfele"
+    ],
+    [
+      "Philipp Grimm",
+      "Michael Wetzel"
     ],
     [
       "Sascha Mehlig",
@@ -294,6 +294,10 @@
     [
       "Simon Becker",
       "Michael Maier"
+    ],
+    [
+      "Silvio Pöhl",
+      "Vincent Pauli"
     ],
     [
       "Florian Schmock",

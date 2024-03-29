@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-29T09:23:01.085Z",
+  "date": "2024-03-29T09:37:21.537Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 242,
+  "count": 244,
   "teams": [
     [
       "Lukas Dobler",
@@ -76,12 +76,12 @@
       "Volker Müller"
     ],
     [
-      "Vjaceslav Negoda",
-      "Tim Häfele"
-    ],
-    [
       "Philipp Grimm",
       "Michael Wetzel"
+    ],
+    [
+      "Vjaceslav Negoda",
+      "Tim Häfele"
     ],
     [
       "Sascha Mehlig",
@@ -434,6 +434,10 @@
     [
       "Felix Fuhrer",
       "Erik Hertkorn"
+    ],
+    [
+      "Julian Abendschön",
+      "Nico Knuth"
     ],
     [
       "Alexander Bender",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-30T11:59:07.643Z",
+  "date": "2024-03-30T12:31:43.818Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 366,
+  "count": 364,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -188,20 +188,16 @@
       "Armin Roth"
     ],
     [
+      "Tobias Müller",
+      "Luca Berg"
+    ],
+    [
       "Marius Beck",
       "Florian Beck"
     ],
     [
       "Yannik Ortmann",
       "Benedikt Paulus"
-    ],
-    [
-      "Marius Beck",
-      "Florian Beck"
-    ],
-    [
-      "Tobias Müller",
-      "Luca Berg"
     ],
     [
       "Christian Kreit",
@@ -548,6 +544,10 @@
       "Enrico Kohl"
     ],
     [
+      "Martin Franke",
+      "Joachim Heilig"
+    ],
+    [
       "Martin Schuberth",
       "Kevin Korczyk"
     ],
@@ -622,10 +622,6 @@
     [
       "Andreas Kaupp",
       "Florian Mayerhofer"
-    ],
-    [
-      "Felix Fuhrer",
-      "Erik Hertkorn"
     ],
     [
       "Felix Fuhrer",

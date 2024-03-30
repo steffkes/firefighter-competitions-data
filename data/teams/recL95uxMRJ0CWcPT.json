@@ -1,5 +1,5 @@
 {
-  "date": "2024-03-30T03:22:50.107Z",
+  "date": "2024-03-30T03:39:03.431Z",
   "competition": "recL95uxMRJ0CWcPT",
   "count": 346,
   "teams": [
@@ -100,12 +100,12 @@
       "Volker Müller"
     ],
     [
-      "Philipp Grimm",
-      "Michael Wetzel"
-    ],
-    [
       "Vjaceslav Negoda",
       "Tim Häfele"
+    ],
+    [
+      "Philipp Grimm",
+      "Michael Wetzel"
     ],
     [
       "Sascha Mehlig",
@@ -180,10 +180,6 @@
       "Armin Roth"
     ],
     [
-      "Tobias Müller",
-      "Luca Berg"
-    ],
-    [
       "Marius Beck",
       "Florian Beck"
     ],
@@ -194,6 +190,10 @@
     [
       "Marius Beck",
       "Florian Beck"
+    ],
+    [
+      "Tobias Müller",
+      "Luca Berg"
     ],
     [
       "Christian Kreit",

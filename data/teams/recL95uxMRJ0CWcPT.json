@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-30T10:25:42.871Z",
+  "date": "2024-03-30T10:37:13.663Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 360,
+  "count": 362,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -104,12 +104,12 @@
       "Volker Müller"
     ],
     [
-      "Philipp Grimm",
-      "Michael Wetzel"
-    ],
-    [
       "Vjaceslav Negoda",
       "Tim Häfele"
+    ],
+    [
+      "Philipp Grimm",
+      "Michael Wetzel"
     ],
     [
       "Sascha Mehlig",
@@ -122,6 +122,10 @@
     [
       "Stephan Reither",
       "Sebastian Brüstle"
+    ],
+    [
+      "Simpert Griesmann",
+      "Florian Hartmann"
     ],
     [
       "Tobias Bettenmann",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-30T18:49:52.011Z",
+  "date": "2024-03-30T19:03:23.300Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 93,
+  "count": 96,
   "teams": [
     [
       "Samuel Geiger",
@@ -157,6 +157,11 @@
       "Steve Roidl",
       "Maaß Theresa",
       "Koch Petra"
+    ],
+    [
+      "Peter Stein",
+      "Niels Ebeling",
+      "Miguel Alberti"
     ]
   ]
 }

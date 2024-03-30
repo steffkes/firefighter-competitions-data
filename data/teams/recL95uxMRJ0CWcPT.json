@@ -1,8 +1,12 @@
 {
-  "date": "2024-03-29T18:39:18.827Z",
+  "date": "2024-03-30T07:37:28.720Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 314,
+  "count": 348,
   "teams": [
+    [
+      "Jan-Frederik Höltke",
+      "Matthias Linde"
+    ],
     [
       "Lukas Dobler",
       "Simon Narr"
@@ -216,6 +220,10 @@
       "Franziska Elmas"
     ],
     [
+      "Matthias Richter",
+      "Denny Dittrich"
+    ],
+    [
       "Niko Tursky",
       "Michael Bahmann"
     ],
@@ -238,6 +246,14 @@
     [
       "Maximilian Bühler",
       "Jonas Ischer"
+    ],
+    [
+      "Maximilian Abröll",
+      "Tobias Hanglberger"
+    ],
+    [
+      "Andreas Negele",
+      "Marius Schweighofer"
     ],
     [
       "Marc Ernst",
@@ -292,6 +308,10 @@
       "Michael Maier"
     ],
     [
+      "Silvio Pöhl",
+      "Vincent Pauli"
+    ],
+    [
       "Florian Schmock",
       "Paul Schulz"
     ],
@@ -330,6 +350,14 @@
     [
       "Jäger Markus",
       "Schönberg Werner"
+    ],
+    [
+      "Jochen Bürk",
+      "Dominik Frühm"
+    ],
+    [
+      "Simon Doll",
+      "Holger Rörich"
     ],
     [
       "Madeleine Krammer",
@@ -394,6 +422,14 @@
     [
       "Johannes Vogg",
       "Josef Band"
+    ],
+    [
+      "Maximilian Schneider",
+      "Andreas Martin"
+    ],
+    [
+      "Matthias Lorenz",
+      "Dennis Fleege"
     ],
     [
       "David Wiedemann",
@@ -536,6 +572,22 @@
       "Leon Kubanke"
     ],
     [
+      "Sebastian Schade",
+      "Guffler Florian"
+    ],
+    [
+      "Marco Mußbach",
+      "Lucas Netzel"
+    ],
+    [
+      "Peter Frömmrich",
+      "Markus Metty"
+    ],
+    [
+      "Andreas Kaupp",
+      "Florian Mayerhofer"
+    ],
+    [
       "Felix Fuhrer",
       "Erik Hertkorn"
     ],
@@ -558,6 +610,10 @@
     [
       "Jannik Volk",
       "Alina Krastel"
+    ],
+    [
+      "Carlo Kohler",
+      "Dominik Kohnle"
     ],
     [
       "Lukas Schmeiser",
@@ -608,6 +664,10 @@
       "Vinzenz Abele"
     ],
     [
+      "Norbert Dittrich",
+      "Steven Haag"
+    ],
+    [
       "Andreas Butzer",
       "Benedikt Butzer"
     ],
@@ -616,8 +676,16 @@
       "Steffen Haag"
     ],
     [
+      "Heiko Sonder",
+      "Rudi Wengert"
+    ],
+    [
       "Sebastian Stein",
       "Herbert Stefan Seidel"
+    ],
+    [
+      "Nils Lester",
+      "Jannik Münchow"
     ],
     [
       "Boris Hildebrand",

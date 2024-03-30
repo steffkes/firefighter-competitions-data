@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-30T11:30:36.056Z",
+  "date": "2024-03-30T11:47:29.654Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 364,
+  "count": 366,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -104,12 +104,12 @@
       "Volker Müller"
     ],
     [
-      "Vjaceslav Negoda",
-      "Tim Häfele"
-    ],
-    [
       "Philipp Grimm",
       "Michael Wetzel"
+    ],
+    [
+      "Vjaceslav Negoda",
+      "Tim Häfele"
     ],
     [
       "Sascha Mehlig",
@@ -398,6 +398,10 @@
     [
       "Thomas Kern",
       "Markus Klink"
+    ],
+    [
+      "Ulf Langwasser",
+      "Daniel Kister"
     ],
     [
       "Lorenz Hilebrand",

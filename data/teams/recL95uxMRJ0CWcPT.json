@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-30T15:28:11.754Z",
+  "date": "2024-03-31T13:49:07.293Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 364,
+  "count": 388,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -60,6 +60,10 @@
       "Sven Rust"
     ],
     [
+      "Kevin Lechler",
+      "Martin Ruhe"
+    ],
+    [
       "Michael Woidich",
       "Niko Reiss"
     ],
@@ -104,12 +108,20 @@
       "Volker Müller"
     ],
     [
-      "Vjaceslav Negoda",
-      "Tim Häfele"
+      "Christian Bihler",
+      "Stefan Hofmann"
+    ],
+    [
+      "Alan Dittrich",
+      "Moritz Bulach"
     ],
     [
       "Philipp Grimm",
       "Michael Wetzel"
+    ],
+    [
+      "Vjaceslav Negoda",
+      "Tim Häfele"
     ],
     [
       "Sascha Mehlig",
@@ -126,6 +138,14 @@
     [
       "Simpert Griesmann",
       "Florian Hartmann"
+    ],
+    [
+      "Roman Hefele",
+      "Florian Läufle"
+    ],
+    [
+      "Benedikt Zeberle",
+      "Maria Zeberle"
     ],
     [
       "Tobias Bettenmann",
@@ -304,6 +324,10 @@
       "Daniel Penzl"
     ],
     [
+      "Silas Guse",
+      "Simon Steinhauser"
+    ],
+    [
       "Elias Vogt",
       "Tobias Daser"
     ],
@@ -362,6 +386,14 @@
     [
       "Johannes Epple",
       "Stefan Heckelmiller"
+    ],
+    [
+      "Benedikt Bleck",
+      "Lukas Grözinger"
+    ],
+    [
+      "Thomas Lang",
+      "Florian Buhl"
     ],
     [
       "Jäger Markus",
@@ -436,10 +468,6 @@
       "Fabian Grabowski"
     ],
     [
-      "Benedikt Zeberle",
-      "Maria Zeberle"
-    ],
-    [
       "Paul Unger",
       "Patrick Ischwang"
     ],
@@ -458,6 +486,10 @@
     [
       "Matthias Lorenz",
       "Dennis Fleege"
+    ],
+    [
+      "Glemser Samuel",
+      "Tobias Missfelder"
     ],
     [
       "David Wiedemann",
@@ -498,6 +530,10 @@
     [
       "Didi Taupe",
       "Norbert Aigner"
+    ],
+    [
+      "Sven Reuter",
+      "Andreas Wilhelm"
     ],
     [
       "André Seifert",
@@ -712,12 +748,24 @@
       "Rudi Wengert"
     ],
     [
+      "Oliver Amling",
+      "Lara Seßler"
+    ],
+    [
+      "Rocky Dohrmann",
+      "Boris Chech-Madak"
+    ],
+    [
       "Sebastian Stein",
       "Herbert Stefan Seidel"
     ],
     [
       "Nils Lester",
       "Jannik Münchow"
+    ],
+    [
+      "Juliane Ruf",
+      "Fabian Missfelder"
     ],
     [
       "Boris Hildebrand",

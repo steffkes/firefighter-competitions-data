@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-31T15:37:39.640Z",
+  "date": "2024-03-31T15:49:17.646Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 390,
+  "count": 392,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -656,6 +656,10 @@
       "Markus Metty"
     ],
     [
+      "Martin Karg",
+      "Robert Jäger"
+    ],
+    [
       "Andreas Kaupp",
       "Florian Mayerhofer"
     ],
@@ -692,12 +696,12 @@
       "Christian Göppel"
     ],
     [
-      "Patrick Liebhäuser",
-      "Marius Ortmann"
-    ],
-    [
       "Marvin Scherf",
       "Guido Paulus"
+    ],
+    [
+      "Patrick Liebhäuser",
+      "Marius Ortmann"
     ],
     [
       "Christian Fleschhut",

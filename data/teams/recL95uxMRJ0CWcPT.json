@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-31T19:51:18.935Z",
+  "date": "2024-03-31T20:17:46.339Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 398,
+  "count": 400,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -292,6 +292,10 @@
       "Julia Gusman"
     ],
     [
+      "Manuel Müller",
+      "Timo Mungenast"
+    ],
+    [
       "Mark Finkbeiner",
       "Nico Zapf"
     ],
@@ -306,10 +310,6 @@
     [
       "Julian Krieg",
       "Ralf Merkel"
-    ],
-    [
-      "Manuel Müller",
-      "Timo Mungenast"
     ],
     [
       "Nicolas Reis",
@@ -382,6 +382,10 @@
     [
       "Robin Holschuh",
       "Manfred Schmahl"
+    ],
+    [
+      "Thorsten Kummerow",
+      "Thomas Urbantat"
     ],
     [
       "Johannes Epple",

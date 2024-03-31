@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-31T10:47:22.081Z",
+  "date": "2024-03-31T10:59:03.059Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 386,
+  "count": 388,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -208,16 +208,16 @@
       "Armin Roth"
     ],
     [
-      "Tobias Müller",
-      "Luca Berg"
-    ],
-    [
       "Marius Beck",
       "Florian Beck"
     ],
     [
       "Yannik Ortmann",
       "Benedikt Paulus"
+    ],
+    [
+      "Tobias Müller",
+      "Luca Berg"
     ],
     [
       "Christian Kreit",
@@ -486,6 +486,10 @@
     [
       "Matthias Lorenz",
       "Dennis Fleege"
+    ],
+    [
+      "Glemser Samuel",
+      "Fabian Missfelder"
     ],
     [
       "David Wiedemann",

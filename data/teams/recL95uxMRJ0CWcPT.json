@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-31T15:21:21.838Z",
+  "date": "2024-03-31T15:37:39.640Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 388,
+  "count": 390,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -18,14 +18,6 @@
     [
       "Michael Wetzel",
       "Sascha Engelhardt"
-    ],
-    [
-      "Marcel Sander",
-      "Marvin Sander"
-    ],
-    [
-      "Christian Eckert",
-      "Benjamin Lamprecht"
     ],
     [
       "Fabian Wendel",
@@ -322,6 +314,14 @@
     [
       "Nicolas Reis",
       "Daniel Penzl"
+    ],
+    [
+      "Marcel Sander",
+      "Marvin Sander"
+    ],
+    [
+      "Christian Eckert",
+      "Benjamin Lamprecht"
     ],
     [
       "Silas Guse",
@@ -694,6 +694,10 @@
     [
       "Patrick Liebhäuser",
       "Marius Ortmann"
+    ],
+    [
+      "Marvin Scherf",
+      "Guido Paulus"
     ],
     [
       "Christian Fleschhut",

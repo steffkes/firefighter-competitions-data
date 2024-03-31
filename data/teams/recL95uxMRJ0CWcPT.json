@@ -1,5 +1,5 @@
 {
-  "date": "2024-03-31T13:49:07.293Z",
+  "date": "2024-03-31T15:21:21.838Z",
   "competition": "recL95uxMRJ0CWcPT",
   "count": 388,
   "teams": [
@@ -20,20 +20,8 @@
       "Sascha Engelhardt"
     ],
     [
-      "Florian Neumaier",
-      "Philipp Leitschuh"
-    ],
-    [
       "Marcel Sander",
       "Marvin Sander"
-    ],
-    [
-      "Justin-Felipe Kull",
-      "Sebastian Neumaier"
-    ],
-    [
-      "Prochota Andreas",
-      "Daniel Kiesel"
     ],
     [
       "Christian Eckert",
@@ -258,6 +246,18 @@
     [
       "Matthias Richter",
       "Denny Dittrich"
+    ],
+    [
+      "Prochota Andreas",
+      "Daniel Kiesel"
+    ],
+    [
+      "Florian Neumaier",
+      "Philipp Leitschuh"
+    ],
+    [
+      "Justin-Felipe Kull",
+      "Sebastian Neumaier"
     ],
     [
       "Niko Tursky",
@@ -664,10 +664,6 @@
       "Erik Hertkorn"
     ],
     [
-      "Julian Abendschön",
-      "Nico Knuth"
-    ],
-    [
       "Alexander Bender",
       "Timo Keller"
     ],
@@ -702,6 +698,10 @@
     [
       "Christian Fleschhut",
       "Markus König"
+    ],
+    [
+      "Julian Abendschön",
+      "Nico Knuth"
     ],
     [
       "Marcus Wichner",

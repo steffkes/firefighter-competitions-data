@@ -1,7 +1,7 @@
 {
-  "date": "2024-03-31T15:21:21.838Z",
+  "date": "2024-04-01T09:29:41.833Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 388,
+  "count": 412,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -18,14 +18,6 @@
     [
       "Michael Wetzel",
       "Sascha Engelhardt"
-    ],
-    [
-      "Marcel Sander",
-      "Marvin Sander"
-    ],
-    [
-      "Christian Eckert",
-      "Benjamin Lamprecht"
     ],
     [
       "Fabian Wendel",
@@ -158,6 +150,10 @@
     [
       "Michael Guggenberger",
       "Benedikt Weisl"
+    ],
+    [
+      "Nick Eichenlaub",
+      "Joshua Hoffmann"
     ],
     [
       "Marco Fischer",
@@ -296,8 +292,8 @@
       "Julia Gusman"
     ],
     [
-      "Simon Walter",
-      "Andreas Schmitt"
+      "Manuel Müller",
+      "Timo Mungenast"
     ],
     [
       "Mark Finkbeiner",
@@ -316,12 +312,16 @@
       "Ralf Merkel"
     ],
     [
-      "Manuel Müller",
-      "Timo Mungenast"
-    ],
-    [
       "Nicolas Reis",
       "Daniel Penzl"
+    ],
+    [
+      "Marcel Sander",
+      "Marvin Sander"
+    ],
+    [
+      "Christian Eckert",
+      "Benjamin Lamprecht"
     ],
     [
       "Silas Guse",
@@ -384,8 +384,20 @@
       "Manfred Schmahl"
     ],
     [
+      "Thorsten Kummerow",
+      "Thomas Urbantat"
+    ],
+    [
       "Johannes Epple",
       "Stefan Heckelmiller"
+    ],
+    [
+      "Manuel Gerstlauer",
+      "Jakob Klumpp"
+    ],
+    [
+      "Bastian Engelmayer",
+      "Roman Böck"
     ],
     [
       "Benedikt Bleck",
@@ -500,6 +512,14 @@
       "Tim Hiemeyer"
     ],
     [
+      "Biebl Andreas",
+      "Spengler Benedikt"
+    ],
+    [
+      "Dennis Nägele",
+      "Martin Bechteler"
+    ],
+    [
       "Manuel Rösch",
       "Frank Pelger"
     ],
@@ -534,6 +554,10 @@
     [
       "Sven Reuter",
       "Andreas Wilhelm"
+    ],
+    [
+      "Simon Walter",
+      "Andreas Schmitt"
     ],
     [
       "André Seifert",
@@ -576,6 +600,10 @@
       "Oliver Slusarenko"
     ],
     [
+      "Sabrina Briese",
+      "Jan Rachel"
+    ],
+    [
       "Nicole Tuchbreiter",
       "Enrico Kohl"
     ],
@@ -598,6 +626,10 @@
     [
       "Dorian Mikanovic",
       "Julian Pflanz"
+    ],
+    [
+      "Nina Schneider",
+      "Yannick Dorn"
     ],
     [
       "Maximilian Meindl",
@@ -656,6 +688,18 @@
       "Markus Metty"
     ],
     [
+      "Alexander Fleischer",
+      "Michael Möstl"
+    ],
+    [
+      "Corinna Matzek",
+      "Luca Gänswürger"
+    ],
+    [
+      "Martin Karg",
+      "Robert Jäger"
+    ],
+    [
       "Andreas Kaupp",
       "Florian Mayerhofer"
     ],
@@ -690,6 +734,10 @@
     [
       "Peter Sontheim",
       "Christian Göppel"
+    ],
+    [
+      "Marvin Scherf",
+      "Guido Paulus"
     ],
     [
       "Patrick Liebhäuser",

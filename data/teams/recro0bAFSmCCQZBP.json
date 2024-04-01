@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-01T13:20:39.854Z",
+  "date": "2024-04-01T13:37:40.701Z",
   "competition": "recro0bAFSmCCQZBP",
-  "count": 26,
+  "count": 28,
   "teams": [
     [
       "Strauß Martin",
@@ -54,6 +54,10 @@
     [
       "André Zimmermann",
       "Florian Ehmler"
+    ],
+    [
+      "Immanuel Borau",
+      "Eric Zimmermann"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-02T09:28:42.314Z",
+  "date": "2024-04-02T15:19:32.105Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 458,
+  "count": 464,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -596,6 +596,14 @@
       "Malte Gekat"
     ],
     [
+      "Fabio Palma Di",
+      "Finn Sonsalla"
+    ],
+    [
+      "Mirko Schweizer",
+      "Benjamin Bihler"
+    ],
+    [
       "Simon Walter",
       "Andreas Schmitt"
     ],
@@ -720,6 +728,10 @@
       "Johannes Prem"
     ],
     [
+      "Daniel Unglert",
+      "Matthias Zettler"
+    ],
+    [
       "Korbinian Ebert",
       "Regina Flöther"
     ],
@@ -808,12 +820,12 @@
       "Christian Göppel"
     ],
     [
-      "Marvin Scherf",
-      "Guido Paulus"
-    ],
-    [
       "Patrick Liebhäuser",
       "Marius Ortmann"
+    ],
+    [
+      "Marvin Scherf",
+      "Guido Paulus"
     ],
     [
       "Christian Fleschhut",

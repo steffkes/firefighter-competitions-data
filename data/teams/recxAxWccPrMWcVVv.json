@@ -1,711 +1,535 @@
 {
-  "date": "2024-04-02T20:30:16.087Z",
+  "date": "2024-04-02T20:42:08.433Z",
   "competition": "recxAxWccPrMWcVVv",
-  "count": 352,
+  "count": 176,
   "teams": [
     [
-      "Peter Häusler",
-      "Martin Zeunemann"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Simon Schmidt",
-      "Kevin Schneider"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Björn Herborn",
-      "André Herborn"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Marcel Lehmann",
-      "Max Langguth"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Claude Kaufmann",
-      "Luca Kaufmann"
+      "[img:flags/LU.gif]"
     ],
     [
-      "Daniel Müller",
-      "Frank Schneider"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Kevin Grigat",
-      "Martin Heinicke"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Nick Matthias Ziegenbalg",
-      "Marcel Thierbach"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Jonas Bössel",
-      "Pascal Koch"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Marc Lontke",
-      "Kristoffer Theiss"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Joshua Regier",
-      "Korbinian Rudloff"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Marcel Imling",
-      "Maximilian Hohnhaus"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Kevin Bernsdorf",
-      "Michael Becker"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Jonas Bott",
-      "Sebastian Grebner"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Tom Bergmann",
-      "Dennis Roth"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Eric Koch",
-      "Robert Judis"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Markus Pahn",
-      "Tobias Hannusch"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Sebastian Fröbel",
-      "Jonas Wicklein"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Paul Steiner",
-      "Mirko Großmann"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Sebastian Stegner",
-      "Nick Lautensack"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Philipp Maximilian Zenker",
-      "Michel Khan"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Vincent Gerber",
-      "Ronny Eichhorn"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Niklas Schulz",
-      "Patrick Zeugner"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Luca Ratzmann",
-      "Daniel Eichner"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Hendrik Schirra",
-      "Alexander Weiß"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Jan Hoffmann",
-      "Moritz Nagel"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Nick Zeh",
-      "Lukas Dörr"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Holger Schwencke",
-      "Robin Greiner"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Fabian Schmidt",
-      "Christian Jung"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Sebastian Brandt",
-      "Jannik Futh"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Marcel Thierbach",
-      "Bert Raabe"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Oliver Adelhardt",
-      "Patrick Heinritz"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Dominic Scholz",
-      "Simon Gapp"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Martin Strauß",
-      "Marc Heene"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Stefan Matheis",
-      "Dominik Thiel"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Markus Müller",
-      "Stefan Reifig"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Christophe Hoffmann",
-      "Martin Loos"
+      "[img:flags/LU.gif]"
     ],
     [
-      "Torsten Leipold",
-      "Michael Wicht"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Michael Bott",
-      "Sven Bergmann"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Torsten Schmied",
-      "Nils Dembeck"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Guido Suhrmeyer",
-      "Mario Fleerkortte"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Maik Wagner",
-      "Felix Roßberg"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Andreas Friedrich",
-      "Tönges Alexander"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Stefan Matheis",
-      "Damian Pyka"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Steve Roidl",
-      "Matthias Weickmann"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Franziska Weiland",
-      "Christoph Müller"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Isabell Schütz",
-      "Sebastian Schütz"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Mario Kropp",
-      "Christoph Böttger"
+      "[img:flags/DE.gif]"
     ],
     [
-      "André Scholz",
-      "Erik Schneider"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Dominik Pahn",
-      "Ben Boese"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Robert Schulz",
-      "Svenja Passek"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Max Wurdinger",
-      "Ine Marie Heitzenröder"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Hendrik Schirra",
-      "Jennifer Krimm"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Kerstin Igl",
-      "Moritz Thoben"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Sebastian Rohrer",
-      "Lea Riemann"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Anne-Kathrin Weiß",
-      "Alexander Weiß"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Silke Kallmeyer",
-      "Anne Kirchberg"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Julia Steppacher",
-      "Anna Lena Steurer"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Tugce Zinal",
-      "Alexandra Fuchs"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Jasmin Bohun",
-      "Nicole Tuchbreiter"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Emma Eibisch",
-      "Vanessa Hahn"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Julian Mildner",
-      "Friedrich Jäschke"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Daniel Tischer",
-      "Leon Mittelsdorf"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Daniel Kraus",
-      "Tobias Junge"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Simon Schäfer",
-      "Sebastian Schäfer"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Leon Auweiler",
-      "Christoph Siebert"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Tristan Hose",
-      "Thomas Dechert"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Maurice Deubel",
-      "Florian Schädler"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Mario Siegel",
-      "Markus Brill"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Florian Laubach",
-      "Lukas Groß"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Lasse Vopicka",
-      "Lukas Degenhardt"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Niklas Steurer",
-      "Alexander Lohr"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Matthias Lohrer",
-      "Andreas Ehinger"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Jahn Schmalbach",
-      "Jan Weber"
+      "[img:flags/DE.gif]"
     ],
     [
-      "André Otto",
-      "Paul Seidel"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Peter Reinhardt",
-      "Matthias Strobach"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Matthias Dechert",
-      "Michael Loest"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Jannis Heider",
-      "Jens Hammer"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Bernd Ulshöfer",
-      "Fabian Saller"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Florian Graef",
-      "Lukas Krahl"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Stephan Graef",
-      "Ofner Wolfgang"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Sven Kallmeyer",
-      "Chris Wulle"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Christoph Löffler",
-      "Marcel Machalett"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Dennis Ruhl",
-      "René Sonke"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Kay Galler",
-      "André Möckl"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Tommy Büttner",
-      "Justin Maaser"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Carlo Schlegel",
-      "Willy Gerber"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Stefan Dürschmied",
-      "Paul Kötschau"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Norbert Ohnesorge",
-      "Semjon Fick"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Steven Precht",
-      "Ronny Langbein"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Sebastian Bothur",
-      "Dominik Sigg"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Stefan Göbel",
-      "Niklas Reinhardt"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Moritz Reinhardt",
-      "Daniel Ernst"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Fabian Gleitsmann",
-      "Tizian Linhose"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Dave Peetzen",
-      "Fabian Hägele"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Robin Scheuring",
-      "Marcel Pult"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Maximilian Jacob",
-      "Tristan Schmidt"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Moritz Bauer",
-      "Jonas Fritzlar"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Danny Bänsch",
-      "Enrico Stade"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Thilo Prakesch",
-      "Philipp Weineck"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Julius Kluger",
-      "Paul Siebenborn"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Enrico Kohl",
-      "Steve Roidl"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Michael Wenk",
-      "Dorian Stein"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Christian Metz",
-      "Karsten Ritter"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Miguel Bröde",
-      "Karl Vincent Schröpfer"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Tobias Fröhlich",
-      "Florian Sickert"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Franz Armin Engelhardt",
-      "Martin Albert Oehmichen"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Lars Homeyer",
-      "Marc Habermann"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Nils Köber",
-      "Henning Rawe"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Manuel Thiel",
-      "Florian Schmidt"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Michael Nortmann",
-      "Johannes Vogl"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Tim Fichtner",
-      "Eric Wagner"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Norman Zenne",
-      "Felix Zimmermann"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Malte Bebensee",
-      "Jonas Henke"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Lennart Giese",
-      "Grzegorz Pawlak"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Leander Albrecht",
-      "Nico Heyder"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Florian Görms",
-      "Tom Spaleck"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Heiko Richter",
-      "Markus Apel"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Nils Herrmann",
-      "Ropte Michael"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Karsten Neupert",
-      "Kay Hain"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Andre Köcher",
-      "Martin Kunze"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Thomas Hügle",
-      "Alexander Kool"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Tobias Gräfe",
-      "Dirk Rudloff"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Michael Steurer",
-      "Alexander Möller"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Roland Kohler",
-      "Manuel Endres"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Tim Pobitschka",
-      "Martin Mörtl"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Volker Heuschkel",
-      "Mike Störmer"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Markus Moser",
-      "Andreas Bezikofer"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Andreas Engelhardt",
-      "Christian Rau"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Steffen Bruhnke",
-      "Andreas Drachsler"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Matthias Kaden",
-      "Michael Kaufmann"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Marc Quecke",
-      "Jörg Hartmann"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Christoph Schäfer",
-      "Rainer Hefter"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Enrico Kohl",
-      "Frank Saupe"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Matthias Sömmer",
-      "Rene Seydewitz"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Andre Tomkowiak",
-      "Sascha Müller"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Alexander Fromme",
-      "Torben Voigt"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Frank Henrichs",
-      "Matthias Hüwels"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Emily Westerhoff",
-      "Ulrike Westerhoff"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Julia Dawid",
-      "Michael Dawid"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Denis Weinreich",
-      "Bianka Berninger"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Katja Schack",
-      "Jannes Weigel"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Christopj Kreutzer",
-      "Ninve Warda"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Jan Hörschelmann",
-      "Renée Stein"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Tobias Hauss",
-      "Tobias Büchner"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Maik Wagner",
-      "Martin Heinicke"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Ivo Hausdörfer",
-      "Nine Knoß"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Lukas Vetter",
-      "Antje Vetter"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Mario Wulf",
-      "Susanne Wolf"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Alexander Fromme",
-      "Verena Schmitz"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Oliver Schetzkens",
-      "Yasmin Schröder"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Silke Heider",
-      "Dean Schäfer"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Sophia Gallant",
-      "Benjamin Wegele"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Sophie Bayer",
-      "Nicolas Häfele"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Dominik Thiel",
-      "Mandy Wohlan"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Karolin Barcsik",
-      "Jan Barcsik"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Isabell Kottlick",
-      "Simon Stöber"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Sebastian Oertel",
-      "Gloria Haaß"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Jörn Köllmer",
-      "Felicitas Thiel"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Uwe Hüttenmüller",
-      "Sarah Montag"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Fabian Schröter",
-      "Susann Horn"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Anke Grieger-Hilpert",
-      "Daniel Schröder"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Melanie Lorber",
-      "Tom Falkner"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Ann-Kathrin Schechter",
-      "Felix Restle"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Kay Hagenbach",
-      "Larissa Horst"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Romana Hefter",
-      "Tobias Bozem"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Claudia Koch",
-      "Sebastian Zühlsdorff"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Tobias Langer",
-      "Isabell Müller"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Jasmin Bohun",
-      "Damian Pyka"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Matthias Weickmann",
-      "Nicole Tuchbreiter"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Rene Krumstroh",
-      "Kirsten Schneidereit"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Anne Winkler",
-      "Mario Maximilian Lange"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Doreen Otto",
-      "Sebastian Rosenbrock"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Jessy Frede",
-      "Bastian Freudenstein"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Nick Patzer",
-      "Anke Topf"
+      "[img:flags/DE.gif]"
     ],
     [
-      "Christian Gasmann",
-      "Babette Wulf"
+      "[img:flags/DE.gif]"
     ]
   ]
 }

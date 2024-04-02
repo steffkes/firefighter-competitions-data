@@ -1,5 +1,5 @@
 {
-  "date": "2024-04-02T13:29:51.524Z",
+  "date": "2024-04-02T13:41:27.192Z",
   "competition": "recL95uxMRJ0CWcPT",
   "count": 462,
   "teams": [
@@ -100,12 +100,12 @@
       "Moritz Bulach"
     ],
     [
-      "Philipp Grimm",
-      "Michael Wetzel"
-    ],
-    [
       "Vjaceslav Negoda",
       "Tim Häfele"
+    ],
+    [
+      "Philipp Grimm",
+      "Michael Wetzel"
     ],
     [
       "Sascha Mehlig",
@@ -468,10 +468,6 @@
       "Jennifer Krimm"
     ],
     [
-      "Matthias Schöll",
-      "Stefan Helchenberg"
-    ],
-    [
       "Markus Rist",
       "Roman Rist"
     ],
@@ -482,6 +478,10 @@
     [
       "Lukas Mößlang",
       "Tobias Kristen"
+    ],
+    [
+      "Matthias Schöll",
+      "Stefan Helchenberg"
     ],
     [
       "Tom Klein",
@@ -816,12 +816,12 @@
       "Christian Göppel"
     ],
     [
-      "Patrick Liebhäuser",
-      "Marius Ortmann"
-    ],
-    [
       "Marvin Scherf",
       "Guido Paulus"
+    ],
+    [
+      "Patrick Liebhäuser",
+      "Marius Ortmann"
     ],
     [
       "Christian Fleschhut",

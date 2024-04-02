@@ -1,5 +1,5 @@
 {
-  "date": "2024-04-02T19:57:32.739Z",
+  "date": "2024-04-02T20:18:44.170Z",
   "competition": "recxAxWccPrMWcVVv",
   "count": 352,
   "teams": [
@@ -62,6 +62,10 @@
     [
       "Tom Bergmann",
       "Dennis Roth"
+    ],
+    [
+      "Eric Koch",
+      "Robert Judis"
     ],
     [
       "Markus Pahn",
@@ -160,10 +164,6 @@
       "Nils Dembeck"
     ],
     [
-      "Eric Koch",
-      "Robert Judis"
-    ],
-    [
       "Guido Suhrmeyer",
       "Mario Fleerkortte"
     ],
@@ -246,14 +246,6 @@
     [
       "Emma Eibisch",
       "Vanessa Hahn"
-    ],
-    [
-      "Karsten Neupert",
-      "Kay Hain"
-    ],
-    [
-      "Andre Köcher",
-      "Martin Kunze"
     ],
     [
       "Julian Mildner",
@@ -412,10 +404,6 @@
       "Philipp Weineck"
     ],
     [
-      "Christoph Schäfer",
-      "Rainer Hefter"
-    ],
-    [
       "Julius Kluger",
       "Paul Siebenborn"
     ],
@@ -492,6 +480,14 @@
       "Ropte Michael"
     ],
     [
+      "Karsten Neupert",
+      "Kay Hain"
+    ],
+    [
+      "Andre Köcher",
+      "Martin Kunze"
+    ],
+    [
       "Thomas Hügle",
       "Alexander Kool"
     ],
@@ -534,6 +530,10 @@
     [
       "Marc Quecke",
       "Jörg Hartmann"
+    ],
+    [
+      "Christoph Schäfer",
+      "Rainer Hefter"
     ],
     [
       "Enrico Kohl",
@@ -676,7 +676,7 @@
       "Isabell Müller"
     ],
     [
-      "Bohun Jasmin",
+      "Jasmin Bohun",
       "Damian Pyka"
     ],
     [

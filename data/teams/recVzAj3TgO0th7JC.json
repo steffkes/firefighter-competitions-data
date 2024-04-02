@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-02T08:39:45.653Z",
+  "date": "2024-04-02T08:51:35.074Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 99,
+  "count": 102,
   "teams": [
     [
       "Samuel Geiger",
@@ -167,6 +167,11 @@
       "Peter Stein",
       "Niels Ebeling",
       "Miguel Alberti"
+    ],
+    [
+      "Christian Nill",
+      "Florian Wagner",
+      "Matthias Blaschke"
     ]
   ]
 }

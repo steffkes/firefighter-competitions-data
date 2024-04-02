@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-02T08:08:29.213Z",
+  "date": "2024-04-02T08:27:14.919Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 448,
+  "count": 450,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -468,6 +468,10 @@
       "Jennifer Krimm"
     ],
     [
+      "Matthias Schöll",
+      "Stefan Helchenberg"
+    ],
+    [
       "Markus Rist",
       "Roman Rist"
     ],
@@ -478,10 +482,6 @@
     [
       "Lukas Mößlang",
       "Tobias Kristen"
-    ],
-    [
-      "Matthias Schöll",
-      "Stefan Helchenberg"
     ],
     [
       "Tom Klein",
@@ -606,6 +606,10 @@
     [
       "Tobias Zimmermann",
       "Felix Eckle"
+    ],
+    [
+      "Janek Krauter",
+      "Alexander Heinrich"
     ],
     [
       "Sebastian Herrmann",

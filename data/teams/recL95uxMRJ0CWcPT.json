@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-01T15:24:05.578Z",
+  "date": "2024-04-02T08:27:14.919Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 432,
+  "count": 450,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -46,6 +46,10 @@
     [
       "Michael Woidich",
       "Niko Reiss"
+    ],
+    [
+      "Stephan Maier",
+      "David Klima"
     ],
     [
       "Christian Mallaun",
@@ -96,12 +100,12 @@
       "Moritz Bulach"
     ],
     [
-      "Vjaceslav Negoda",
-      "Tim Häfele"
-    ],
-    [
       "Philipp Grimm",
       "Michael Wetzel"
+    ],
+    [
+      "Vjaceslav Negoda",
+      "Tim Häfele"
     ],
     [
       "Sascha Mehlig",
@@ -192,16 +196,16 @@
       "Armin Roth"
     ],
     [
+      "Tobias Müller",
+      "Luca Berg"
+    ],
+    [
       "Marius Beck",
       "Florian Beck"
     ],
     [
-      "Yannik Ortmann",
+      "Yannic Ortmann",
       "Benedikt Paulus"
-    ],
-    [
-      "Tobias Müller",
-      "Luca Berg"
     ],
     [
       "Christian Kreit",
@@ -334,6 +338,10 @@
     [
       "Markus Weber",
       "Nicolai Sommer"
+    ],
+    [
+      "Werner Dietrich",
+      "Tobias Schreck"
     ],
     [
       "Steffen Kolb",
@@ -600,6 +608,10 @@
       "Felix Eckle"
     ],
     [
+      "Janek Krauter",
+      "Alexander Heinrich"
+    ],
+    [
       "Sebastian Herrmann",
       "Sandro Stängle"
     ],
@@ -684,6 +696,18 @@
       "Sven Spath"
     ],
     [
+      "Dennis Heitzenröther",
+      "Robin Witt"
+    ],
+    [
+      "Stephan Zettler",
+      "Johannes Prem"
+    ],
+    [
+      "Korbinian Ebert",
+      "Regina Flöther"
+    ],
+    [
       "Florian Omasreither",
       "Thomas Zollner"
     ],
@@ -750,6 +774,10 @@
     [
       "Florian Schlutt",
       "Daniel Zimmermann"
+    ],
+    [
+      "Anna Glasel",
+      "Simon Edlich"
     ],
     [
       "Lukas Schmeiser",
@@ -844,6 +872,10 @@
       "Luca Ellerbrock"
     ],
     [
+      "Christian Müller",
+      "Alexander Wörz"
+    ],
+    [
       "Juliane Ruf",
       "Fabian Missfelder"
     ],
@@ -858,6 +890,10 @@
     [
       "Thomas Altmüller",
       "Julian Ebenhofer"
+    ],
+    [
+      "Maximilian Jetzlsperger",
+      "Fabian Böhr"
     ],
     [
       "Matthias Braukmann",

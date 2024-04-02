@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-02T19:40:51.080Z",
+  "date": "2024-04-02T19:57:32.739Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 478,
+  "count": 480,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -112,12 +112,12 @@
       "Moritz Bulach"
     ],
     [
-      "Vjaceslav Negoda",
-      "Tim Häfele"
-    ],
-    [
       "Philipp Grimm",
       "Michael Wetzel"
+    ],
+    [
+      "Vjaceslav Negoda",
+      "Tim Häfele"
     ],
     [
       "Sascha Mehlig",
@@ -212,16 +212,16 @@
       "Armin Roth"
     ],
     [
+      "Tobias Müller",
+      "Luca Berg"
+    ],
+    [
       "Marius Beck",
       "Florian Beck"
     ],
     [
       "Yannic Ortmann",
       "Benedikt Paulus"
-    ],
-    [
-      "Tobias Müller",
-      "Luca Berg"
     ],
     [
       "Christian Kreit",
@@ -384,6 +384,10 @@
       "Pit Sander"
     ],
     [
+      "Felix Zimmermann",
+      "Maxi Horn"
+    ],
+    [
       "Sebastian Hafner",
       "Benni Haupt"
     ],
@@ -488,20 +492,20 @@
       "Jennifer Krimm"
     ],
     [
-      "Lukas Mößlang",
-      "Tobias Kristen"
-    ],
-    [
-      "Matthias Schöll",
-      "Stefan Helchenberg"
-    ],
-    [
       "Markus Rist",
       "Roman Rist"
     ],
     [
       "Christian Merk",
       "Jürgen Merk"
+    ],
+    [
+      "Lukas Mößlang",
+      "Tobias Kristen"
+    ],
+    [
+      "Matthias Schöll",
+      "Stefan Helchenberg"
     ],
     [
       "Tom Klein",

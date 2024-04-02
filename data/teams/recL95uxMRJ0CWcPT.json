@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-02T21:17:25.730Z",
+  "date": "2024-04-02T21:29:11.611Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 482,
+  "count": 484,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -22,6 +22,10 @@
     [
       "Fabian Wendel",
       "Pierre Dörfler"
+    ],
+    [
+      "Michael Scurla",
+      "Marco Nickel"
     ],
     [
       "Marcel Haefke",
@@ -856,12 +860,12 @@
       "Christian Göppel"
     ],
     [
-      "Marvin Scherf",
-      "Guido Paulus"
-    ],
-    [
       "Patrick Liebhäuser",
       "Marius Ortmann"
+    ],
+    [
+      "Marvin Scherf",
+      "Guido Paulus"
     ],
     [
       "Christian Fleschhut",

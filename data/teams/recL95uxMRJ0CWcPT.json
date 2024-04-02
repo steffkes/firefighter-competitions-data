@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-02T19:03:51.787Z",
+  "date": "2024-04-02T19:17:17.152Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 468,
+  "count": 474,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -98,6 +98,10 @@
     [
       "Jörg Bogenschütz",
       "Volker Müller"
+    ],
+    [
+      "Yannik Hirt",
+      "Pascal Seifried"
     ],
     [
       "Christian Bihler",
@@ -520,6 +524,14 @@
       "Josef Band"
     ],
     [
+      "Tobias Kreienkamp",
+      "Yannik Fuß"
+    ],
+    [
+      "Sebastian Geyer",
+      "Sebastian Schwing"
+    ],
+    [
       "Pascal Garbotz",
       "Martin Sänger"
     ],
@@ -828,12 +840,12 @@
       "Christian Göppel"
     ],
     [
-      "Marvin Scherf",
-      "Guido Paulus"
-    ],
-    [
       "Patrick Liebhäuser",
       "Marius Ortmann"
+    ],
+    [
+      "Marvin Scherf",
+      "Guido Paulus"
     ],
     [
       "Christian Fleschhut",

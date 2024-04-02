@@ -1,9 +1,10 @@
 <template>
-  <span
+  <a
+    :href="'https://match-me-if-you-can.vercel.app/' + id"
     class="tag is-link"
     :title="'aktuell ' + count + ' Gesuche'"
     style="cursor: help"
-    >🤚 {{ count }}</span
+    >🤚 {{ count }}</a
   >
 </template>
 

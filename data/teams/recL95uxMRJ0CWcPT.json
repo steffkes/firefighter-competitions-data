@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-03T08:32:19.850Z",
+  "date": "2024-04-03T08:47:11.055Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 498,
+  "count": 500,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -196,6 +196,10 @@
       "Jakub Gnatowski"
     ],
     [
+      "Lars Hoffmann",
+      "Leon Hoffmann"
+    ],
+    [
       "Stefan Spiß",
       "Marvin Müller"
     ],
@@ -220,12 +224,12 @@
       "Armin Roth"
     ],
     [
-      "Marius Beck",
-      "Florian Beck"
-    ],
-    [
       "Yannic Ortmann",
       "Benedikt Paulus"
+    ],
+    [
+      "Marius Beck",
+      "Florian Beck"
     ],
     [
       "Tobias Müller",

@@ -1,5 +1,5 @@
 {
-  "date": "2024-04-03T15:01:47.036Z",
+  "date": "2024-04-03T15:21:55.191Z",
   "competition": "recL95uxMRJ0CWcPT",
   "count": 500,
   "teams": [
@@ -512,10 +512,6 @@
       "Jennifer Krimm"
     ],
     [
-      "Lukas Mößlang",
-      "Tobias Kristen"
-    ],
-    [
       "Matthias Schöll",
       "Stefan Helchenberg"
     ],
@@ -526,6 +522,10 @@
     [
       "Christian Merk",
       "Jürgen Merk"
+    ],
+    [
+      "Lukas Mößlang",
+      "Tobias Kristen"
     ],
     [
       "Tom Klein",
@@ -884,12 +884,12 @@
       "Christian Göppel"
     ],
     [
-      "Marvin Scherf",
-      "Guido Paulus"
-    ],
-    [
       "Patrick Liebhäuser",
       "Marius Ortmann"
+    ],
+    [
+      "Marvin Scherf",
+      "Guido Paulus"
     ],
     [
       "Christian Fleschhut",

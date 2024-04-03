@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-03T06:39:57.905Z",
+  "date": "2024-04-03T06:51:39.510Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 490,
+  "count": 494,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -120,12 +120,12 @@
       "Moritz Bulach"
     ],
     [
-      "Vjaceslav Negoda",
-      "Tim Häfele"
-    ],
-    [
       "Philipp Grimm",
       "Michael Wetzel"
+    ],
+    [
+      "Vjaceslav Negoda",
+      "Tim Häfele"
     ],
     [
       "Sascha Mehlig",
@@ -220,16 +220,16 @@
       "Armin Roth"
     ],
     [
+      "Tobias Müller",
+      "Luca Berg"
+    ],
+    [
       "Marius Beck",
       "Florian Beck"
     ],
     [
       "Yannic Ortmann",
       "Benedikt Paulus"
-    ],
-    [
-      "Tobias Müller",
-      "Luca Berg"
     ],
     [
       "Christian Kreit",
@@ -594,6 +594,14 @@
     [
       "Tim Schelenz",
       "Max Kowald"
+    ],
+    [
+      "Stefan Hagl",
+      "Vitus Forstner"
+    ],
+    [
+      "Florian Forstner",
+      "Maximilian Brünner"
     ],
     [
       "Axel Meyer",

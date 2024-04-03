@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-03T13:25:48.181Z",
+  "date": "2024-04-03T13:49:26.763Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 102,
+  "count": 105,
   "teams": [
     [
       "Samuel Geiger",
@@ -172,6 +172,11 @@
       "Christian Nill",
       "Florian Wagner",
       "Matthias Blaschke"
+    ],
+    [
+      "Tobias Wolf",
+      "Christian Mittelsdorf",
+      "Marcell Büttner"
     ]
   ]
 }

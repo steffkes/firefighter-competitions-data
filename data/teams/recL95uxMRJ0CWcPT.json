@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-02T15:19:32.105Z",
+  "date": "2024-04-03T09:21:03.165Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 464,
+  "count": 500,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -24,8 +24,20 @@
       "Pierre Dörfler"
     ],
     [
+      "Michael Scurla",
+      "Marco Nickel"
+    ],
+    [
+      "Kevin Schlerh",
+      "André Funk"
+    ],
+    [
       "Marcel Haefke",
       "Martin Littfinski"
+    ],
+    [
+      "Alexander Schröder",
+      "Jens Marx"
     ],
     [
       "Martin Loos",
@@ -34,6 +46,10 @@
     [
       "Claude Kaufmann",
       "Christophe Theiß"
+    ],
+    [
+      "Nico Kleer",
+      "Remy Harpes"
     ],
     [
       "Stephan Lehmann",
@@ -92,6 +108,10 @@
       "Volker Müller"
     ],
     [
+      "Yannik Hirt",
+      "Pascal Seifried"
+    ],
+    [
       "Christian Bihler",
       "Stefan Hofmann"
     ],
@@ -100,12 +120,12 @@
       "Moritz Bulach"
     ],
     [
-      "Philipp Grimm",
-      "Michael Wetzel"
-    ],
-    [
       "Vjaceslav Negoda",
       "Tim Häfele"
+    ],
+    [
+      "Philipp Grimm",
+      "Michael Wetzel"
     ],
     [
       "Sascha Mehlig",
@@ -176,8 +196,16 @@
       "Jakub Gnatowski"
     ],
     [
+      "Lars Hoffmann",
+      "Leon Hoffmann"
+    ],
+    [
       "Stefan Spiß",
       "Marvin Müller"
+    ],
+    [
+      "Theresa Herb",
+      "Jasmin Galneder"
     ],
     [
       "Michael Roth",
@@ -196,16 +224,16 @@
       "Armin Roth"
     ],
     [
-      "Tobias Müller",
-      "Luca Berg"
+      "Yannic Ortmann",
+      "Benedikt Paulus"
     ],
     [
       "Marius Beck",
       "Florian Beck"
     ],
     [
-      "Yannic Ortmann",
-      "Benedikt Paulus"
+      "Tobias Müller",
+      "Luca Berg"
     ],
     [
       "Christian Kreit",
@@ -368,6 +396,10 @@
       "Pit Sander"
     ],
     [
+      "Felix Zimmermann",
+      "Maxi Horn"
+    ],
+    [
       "Sebastian Hafner",
       "Benni Haupt"
     ],
@@ -432,6 +464,18 @@
       "Helena Höfer"
     ],
     [
+      "Manfred Fremut",
+      "Gunther Fuchs"
+    ],
+    [
+      "Steffen Meyer",
+      "Leon Siegel"
+    ],
+    [
+      "Johannes Seelig",
+      "Melanie Horn"
+    ],
+    [
       "Jonas Kirstein",
       "Raphael Pfleghaar"
     ],
@@ -468,6 +512,10 @@
       "Jennifer Krimm"
     ],
     [
+      "Lukas Mößlang",
+      "Tobias Kristen"
+    ],
+    [
       "Matthias Schöll",
       "Stefan Helchenberg"
     ],
@@ -478,10 +526,6 @@
     [
       "Christian Merk",
       "Jürgen Merk"
-    ],
-    [
-      "Lukas Mößlang",
-      "Tobias Kristen"
     ],
     [
       "Tom Klein",
@@ -510,6 +554,14 @@
     [
       "Johannes Vogg",
       "Josef Band"
+    ],
+    [
+      "Tobias Kreienkamp",
+      "Yannik Fuß"
+    ],
+    [
+      "Sebastian Geyer",
+      "Sebastian Schwing"
     ],
     [
       "Pascal Garbotz",
@@ -550,6 +602,14 @@
     [
       "Tim Schelenz",
       "Max Kowald"
+    ],
+    [
+      "Stefan Hagl",
+      "Vitus Forstner"
+    ],
+    [
+      "Florian Forstner",
+      "Maximilian Brünner"
     ],
     [
       "Axel Meyer",
@@ -646,6 +706,10 @@
     [
       "Damian Pyka",
       "Petra Koch"
+    ],
+    [
+      "Sascha Unsöld",
+      "Lars Kottler"
     ],
     [
       "Thomas Ihns",
@@ -820,12 +884,12 @@
       "Christian Göppel"
     ],
     [
-      "Patrick Liebhäuser",
-      "Marius Ortmann"
-    ],
-    [
       "Marvin Scherf",
       "Guido Paulus"
+    ],
+    [
+      "Patrick Liebhäuser",
+      "Marius Ortmann"
     ],
     [
       "Christian Fleschhut",
@@ -888,6 +952,10 @@
       "Boris Chech-Madak"
     ],
     [
+      "Tim Klein",
+      "Nick Genz"
+    ],
+    [
       "Sebastian Stein",
       "Herbert Stefan Seidel"
     ],
@@ -906,6 +974,10 @@
     [
       "Juliane Ruf",
       "Fabian Missfelder"
+    ],
+    [
+      "Kalle Müller",
+      "Jörg Weimer"
     ],
     [
       "Boris Hildebrand",

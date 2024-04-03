@@ -22,7 +22,7 @@ const data = (
   )
 )
   .flatMap(({ value }) => value)
-  .map(([_bib, _empty, _team, _origin, names, _category]) =>
+  .map(([_bib, _empty, _team, _city, _origin, names, _category]) =>
     names.split(" / ").map((name) => name.match(/^[^\(]+/)[0].trim())
   );
 

@@ -1,5 +1,5 @@
 {
-  "date": "2024-04-06T18:38:30.934Z",
+  "date": "2024-04-06T18:50:13.367Z",
   "competition": "recL95uxMRJ0CWcPT",
   "count": 500,
   "teams": [
@@ -224,12 +224,12 @@
       "Armin Roth"
     ],
     [
-      "Yannic Ortmann",
-      "Benedikt Paulus"
-    ],
-    [
       "Marius Beck",
       "Florian Beck"
+    ],
+    [
+      "Yannic Ortmann",
+      "Benedikt Paulus"
     ],
     [
       "Tobias Müller",

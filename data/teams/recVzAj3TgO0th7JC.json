@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-07T15:19:06.513Z",
+  "date": "2024-04-08T09:28:53.686Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 117,
+  "count": 120,
   "teams": [
     [
       "Samuel Geiger",
@@ -197,6 +197,11 @@
       "Till Arnold",
       "Darius Fritsch",
       "Michele Giambrone"
+    ],
+    [
+      "Mark Seeger",
+      "Tjark Schoeltzke",
+      "Fabian Peter"
     ]
   ]
 }

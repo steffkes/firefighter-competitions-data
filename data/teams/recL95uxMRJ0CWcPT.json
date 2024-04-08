@@ -1,5 +1,5 @@
 {
-  "date": "2024-04-08T19:51:06.801Z",
+  "date": "2024-04-08T20:18:57.920Z",
   "competition": "recL95uxMRJ0CWcPT",
   "count": 500,
   "teams": [
@@ -224,12 +224,12 @@
       "Armin Roth"
     ],
     [
-      "Marius Beck",
-      "Florian Beck"
-    ],
-    [
       "Yannic Ortmann",
       "Benedikt Paulus"
+    ],
+    [
+      "Marius Beck",
+      "Florian Beck"
     ],
     [
       "Tobias Müller",
@@ -516,10 +516,6 @@
       "Jennifer Krimm"
     ],
     [
-      "Christian Merk",
-      "Jürgen Merk"
-    ],
-    [
       "Lukas Mößlang",
       "Tobias Kristen"
     ],
@@ -530,6 +526,10 @@
     [
       "Markus Rist",
       "Roman Rist"
+    ],
+    [
+      "Christian Merk",
+      "Jürgen Merk"
     ],
     [
       "Tom Klein",

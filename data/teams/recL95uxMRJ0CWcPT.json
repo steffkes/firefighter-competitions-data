@@ -1,5 +1,5 @@
 {
-  "date": "2024-04-08T06:38:19.078Z",
+  "date": "2024-04-08T06:50:27.057Z",
   "competition": "recL95uxMRJ0CWcPT",
   "count": 500,
   "teams": [
@@ -120,12 +120,12 @@
       "Moritz Bulach"
     ],
     [
-      "Philipp Grimm",
-      "Michael Wetzel"
-    ],
-    [
       "Vjaceslav Negoda",
       "Tim Häfele"
+    ],
+    [
+      "Philipp Grimm",
+      "Michael Wetzel"
     ],
     [
       "Sascha Mehlig",
@@ -224,16 +224,16 @@
       "Armin Roth"
     ],
     [
-      "Tobias Müller",
-      "Luca Berg"
-    ],
-    [
       "Marius Beck",
       "Florian Beck"
     ],
     [
       "Yannic Ortmann",
       "Benedikt Paulus"
+    ],
+    [
+      "Tobias Müller",
+      "Luca Berg"
     ],
     [
       "Christian Kreit",
@@ -476,12 +476,12 @@
       "Leon Siegel"
     ],
     [
-      "Jonas Kirstein",
-      "Raphael Pfleghaar"
-    ],
-    [
       "Johannes Seelig",
       "Melanie Horn"
+    ],
+    [
+      "Jonas Kirstein",
+      "Raphael Pfleghaar"
     ],
     [
       "Robin Kirchmaier",
@@ -516,6 +516,10 @@
       "Jennifer Krimm"
     ],
     [
+      "Lukas Mößlang",
+      "Tobias Kristen"
+    ],
+    [
       "Matthias Schöll",
       "Stefan Helchenberg"
     ],
@@ -526,10 +530,6 @@
     [
       "Christian Merk",
       "Jürgen Merk"
-    ],
-    [
-      "Lukas Mößlang",
-      "Tobias Kristen"
     ],
     [
       "Tom Klein",
@@ -888,12 +888,12 @@
       "Christian Göppel"
     ],
     [
-      "Patrick Liebhäuser",
-      "Marius Ortmann"
-    ],
-    [
       "Marvin Scherf",
       "Guido Paulus"
+    ],
+    [
+      "Patrick Liebhäuser",
+      "Marius Ortmann"
     ],
     [
       "Christian Fleschhut",

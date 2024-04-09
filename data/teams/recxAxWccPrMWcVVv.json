@@ -1,43 +1,51 @@
 {
-  "date": "2024-04-09T08:51:13.849Z",
+  "date": "2024-04-09T15:19:57.730Z",
   "competition": "recxAxWccPrMWcVVv",
   "count": 352,
   "teams": [
     [
-      "Peter Häusler",
-      "Martin Zeunemann"
-    ],
-    [
-      "Simon Schmidt",
-      "Kevin Schneider"
-    ],
-    [
-      "Björn Herborn",
-      "André Herborn"
-    ],
-    [
-      "Marcel Lehmann",
-      "Max Langguth"
-    ],
-    [
-      "Claude Kaufmann",
-      "Luca Kaufmann"
-    ],
-    [
-      "Daniel Müller",
-      "Frank Schneider"
-    ],
-    [
       "Kevin Grigat",
       "Martin Heinicke"
+    ],
+    [
+      "Dominic Scholz",
+      "Simon Gapp"
     ],
     [
       "Nick Matthias Ziegenbalg",
       "Marcel Thierbach"
     ],
     [
-      "Jonas Bössel",
-      "Pascal Koch"
+      "Daniel Müller",
+      "Frank Schneider"
+    ],
+    [
+      "Peter Häusler",
+      "Martin Zeunemann"
+    ],
+    [
+      "Marcel Lehmann",
+      "Max Langguth"
+    ],
+    [
+      "Björn Herborn",
+      "André Herborn"
+    ],
+    [
+      "Marcel Imling",
+      "Maximilian Hohnhaus"
+    ],
+    [
+      "Sebastian Fröbel",
+      "Jonas Wicklein"
+    ],
+    [
+      "Oliver Adelhardt",
+      "Patrick Heinritz"
+    ],
+    [
+      "Paul Steiner",
+      "Mirko Großmann"
     ],
     [
       "Marc Lontke",
@@ -48,124 +56,96 @@
       "Korbinian Rudloff"
     ],
     [
-      "Marcel Imling",
-      "Maximilian Hohnhaus"
-    ],
-    [
-      "Kevin Bernsdorf",
-      "Michael Becker"
-    ],
-    [
-      "Jonas Bott",
-      "Sebastian Grebner"
-    ],
-    [
-      "Tom Bergmann",
-      "Dennis Roth"
-    ],
-    [
-      "Eric Koch",
-      "Robert Judis"
-    ],
-    [
-      "Markus Pahn",
-      "Tobias Hannusch"
-    ],
-    [
-      "Sebastian Fröbel",
-      "Jonas Wicklein"
-    ],
-    [
-      "Paul Steiner",
-      "Mirko Großmann"
+      "Martin Strauß",
+      "Marc Heene"
     ],
     [
       "Sebastian Stegner",
       "Nick Lautensack"
     ],
     [
-      "Philipp Maximilian Zenker",
-      "Michel Khan"
-    ],
-    [
       "Vincent Gerber",
       "Ronny Eichhorn"
-    ],
-    [
-      "Niklas Schulz",
-      "Patrick Zeugner"
-    ],
-    [
-      "Luca Ratzmann",
-      "Daniel Eichner"
-    ],
-    [
-      "Hendrik Schirra",
-      "Alexander Weiß"
-    ],
-    [
-      "Jan Hoffmann",
-      "Moritz Nagel"
-    ],
-    [
-      "Nick Zeh",
-      "Lukas Dörr"
-    ],
-    [
-      "Holger Schwencke",
-      "Robin Greiner"
     ],
     [
       "Fabian Schmidt",
       "Christian Jung"
     ],
     [
-      "Sebastian Brandt",
-      "Jannik Futh"
+      "Nick Zeh",
+      "Lukas Dörr"
+    ],
+    [
+      "Markus Pahn",
+      "Tobias Hannusch"
     ],
     [
       "Marcel Thierbach",
       "Bert Raabe"
     ],
     [
-      "Oliver Adelhardt",
-      "Patrick Heinritz"
-    ],
-    [
-      "Dominic Scholz",
-      "Simon Gapp"
-    ],
-    [
-      "Martin Strauß",
-      "Marc Heene"
+      "Philipp Maximilian Zenker",
+      "Michel Khan"
     ],
     [
       "Stefan Matheis",
       "Dominik Thiel"
     ],
     [
+      "Niklas Schulz",
+      "Patrick Zeugner"
+    ],
+    [
+      "Sebastian Brandt",
+      "Jannik Futh"
+    ],
+    [
+      "Holger Schwencke",
+      "Robin Greiner"
+    ],
+    [
       "Markus Müller",
       "Stefan Reifig"
     ],
     [
-      "Christophe Hoffmann",
-      "Martin Loos"
+      "Jonas Bössel",
+      "Pascal Koch"
     ],
     [
-      "Torsten Leipold",
-      "Michael Wicht"
+      "Simon Schmidt",
+      "Kevin Schneider"
     ],
     [
-      "Michael Bott",
-      "Sven Bergmann"
+      "Luca Ratzmann",
+      "Daniel Eichner"
     ],
     [
-      "Torsten Schmied",
-      "Nils Dembeck"
+      "Jan Hoffmann",
+      "Moritz Nagel"
     ],
     [
-      "Guido Suhrmeyer",
-      "Mario Fleerkortte"
+      "Claude Kaufmann",
+      "Luca Kaufmann"
+    ],
+    [
+      "Hendrik Schirra",
+      "Alexander Weiß"
+    ],
+    [
+      "Kevin Bernsdorf",
+      "Michael Becker"
+    ],
+    [
+      "Tom Bergmann",
+      "Dennis Roth"
+    ],
+    [
+      "Jonas Bott",
+      "Sebastian Grebner"
+    ],
+    [
+      "Eric Koch",
+      "Robert Judis"
     ],
     [
       "Maik Wagner",
@@ -176,6 +156,14 @@
       "Tönges Alexander"
     ],
     [
+      "Torsten Leipold",
+      "Michael Wicht"
+    ],
+    [
+      "Torsten Schmied",
+      "Nils Dembeck"
+    ],
+    [
       "Stefan Matheis",
       "Damian Pyka"
     ],
@@ -184,48 +172,60 @@
       "Matthias Weickmann"
     ],
     [
-      "Franziska Weiland",
-      "Christoph Müller"
+      "Guido Suhrmeyer",
+      "Mario Fleerkortte"
     ],
     [
-      "Isabell Schütz",
-      "Sebastian Schütz"
+      "Christophe Hoffmann",
+      "Martin Loos"
     ],
     [
-      "Mario Kropp",
-      "Christoph Böttger"
+      "Michael Bott",
+      "Sven Bergmann"
     ],
     [
       "André Scholz",
       "Erik Schneider"
     ],
     [
+      "Franziska Weiland",
+      "Christoph Müller"
+    ],
+    [
       "Dominik Pahn",
       "Ben Boese"
+    ],
+    [
+      "Mario Kropp",
+      "Christoph Böttger"
+    ],
+    [
+      "Isabell Schütz",
+      "Sebastian Schütz"
+    ],
+    [
+      "Anne-Kathrin Weiß",
+      "Alexander Weiß"
     ],
     [
       "Robert Schulz",
       "Svenja Passek"
     ],
     [
-      "Max Wurdinger",
-      "Ine Marie Heitzenröder"
+      "Sebastian Rohrer",
+      "Lea Riemann"
     ],
     [
       "Hendrik Schirra",
       "Jennifer Krimm"
     ],
     [
+      "Max Wurdinger",
+      "Ine Marie Heitzenröder"
+    ],
+    [
       "Kerstin Igl",
       "Moritz Thoben"
-    ],
-    [
-      "Sebastian Rohrer",
-      "Lea Riemann"
-    ],
-    [
-      "Anne-Kathrin Weiß",
-      "Alexander Weiß"
     ],
     [
       "Silke Kallmeyer",
@@ -236,10 +236,6 @@
       "Anna Lena Steurer"
     ],
     [
-      "Tugce Zinal",
-      "Alexandra Fuchs"
-    ],
-    [
       "Jasmin Bohun",
       "Nicole Tuchbreiter"
     ],
@@ -248,16 +244,108 @@
       "Vanessa Hahn"
     ],
     [
-      "Julian Mildner",
-      "Friedrich Jäschke"
+      "Tugce Zinal",
+      "Alexandra Fuchs"
     ],
     [
-      "Daniel Tischer",
-      "Leon Mittelsdorf"
+      "Tommy Büttner",
+      "Justin Maaser"
     ],
     [
-      "Daniel Kraus",
-      "Tobias Junge"
+      "Mario Siegel",
+      "Markus Brill"
+    ],
+    [
+      "Christian Metz",
+      "Karsten Ritter"
+    ],
+    [
+      "Miguel Bröde",
+      "Karl Vincent Schröpfer"
+    ],
+    [
+      "Florian Laubach",
+      "Lukas Groß"
+    ],
+    [
+      "Steven Precht",
+      "Ronny Langbein"
+    ],
+    [
+      "André Otto",
+      "Paul Seidel"
+    ],
+    [
+      "Manuel Thiel",
+      "Florian Schmidt"
+    ],
+    [
+      "Michael Nortmann",
+      "Johannes Vogl"
+    ],
+    [
+      "Sven Kallmeyer",
+      "Chris Wulle"
+    ],
+    [
+      "Tim Fichtner",
+      "Eric Wagner"
+    ],
+    [
+      "Norman Zenne",
+      "Felix Zimmermann"
+    ],
+    [
+      "Dave Peetzen",
+      "Fabian Hägele"
+    ],
+    [
+      "Danny Bänsch",
+      "Enrico Stade"
+    ],
+    [
+      "Moritz Bauer",
+      "Jonas Fritzlar"
+    ],
+    [
+      "Stefan Göbel",
+      "Niklas Reinhardt"
+    ],
+    [
+      "Niklas Steurer",
+      "Alexander Lohr"
+    ],
+    [
+      "Matthias Lohrer",
+      "Andreas Ehinger"
+    ],
+    [
+      "Kay Galler",
+      "André Möckl"
+    ],
+    [
+      "Robin Scheuring",
+      "Marcel Pult"
+    ],
+    [
+      "Maximilian Jacob",
+      "Tristan Schmidt"
+    ],
+    [
+      "Moritz Reinhardt",
+      "Daniel Ernst"
+    ],
+    [
+      "Carlo Schlegel",
+      "Willy Gerber"
+    ],
+    [
+      "Stefan Dürschmied",
+      "Paul Kötschau"
+    ],
+    [
+      "Fabian Gleitsmann",
+      "Tizian Linhose"
     ],
     [
       "Simon Schäfer",
@@ -272,48 +360,108 @@
       "Thomas Dechert"
     ],
     [
-      "Maurice Deubel",
-      "Florian Schädler"
+      "Dennis Ruhl",
+      "René Sonke"
     ],
     [
-      "Mario Siegel",
-      "Markus Brill"
+      "Daniel Tischer",
+      "Leon Mittelsdorf"
     ],
     [
-      "Florian Laubach",
-      "Lukas Groß"
-    ],
-    [
-      "Lasse Vopicka",
-      "Lukas Degenhardt"
-    ],
-    [
-      "Niklas Steurer",
-      "Alexander Lohr"
-    ],
-    [
-      "Matthias Lohrer",
-      "Andreas Ehinger"
+      "Daniel Kraus",
+      "Tobias Junge"
     ],
     [
       "Jahn Schmalbach",
       "Jan Weber"
     ],
     [
-      "André Otto",
-      "Paul Seidel"
+      "Maurice Deubel",
+      "Florian Schädler"
+    ],
+    [
+      "Sebastian Bothur",
+      "Dominik Sigg"
+    ],
+    [
+      "Julian Mildner",
+      "Friedrich Jäschke"
+    ],
+    [
+      "Malte Bebensee",
+      "Jonas Henke"
+    ],
+    [
+      "Lennart Giese",
+      "Grzegorz Pawlak"
+    ],
+    [
+      "Franz Armin Engelhardt",
+      "Martin Albert Oehmichen"
+    ],
+    [
+      "Leander Albrecht",
+      "Nico Heyder"
+    ],
+    [
+      "Florian Görms",
+      "Tom Spaleck"
+    ],
+    [
+      "Lasse Vopicka",
+      "Lukas Degenhardt"
+    ],
+    [
+      "Christoph Löffler",
+      "Marcel Machalett"
+    ],
+    [
+      "Michael Wenk",
+      "Dorian Stein"
     ],
     [
       "Peter Reinhardt",
       "Matthias Strobach"
     ],
     [
-      "Matthias Dechert",
-      "Michael Loest"
+      "Enrico Kohl",
+      "Steve Roidl"
     ],
     [
       "Jannis Heider",
       "Jens Hammer"
+    ],
+    [
+      "Lars Homeyer",
+      "Marc Habermann"
+    ],
+    [
+      "Heiko Richter",
+      "Markus Apel"
+    ],
+    [
+      "Matthias Dechert",
+      "Michael Loest"
+    ],
+    [
+      "Norbert Ohnesorge",
+      "Semjon Fick"
+    ],
+    [
+      "Nils Köber",
+      "Henning Rawe"
+    ],
+    [
+      "Tobias Fröhlich",
+      "Florian Sickert"
+    ],
+    [
+      "Thilo Prakesch",
+      "Philipp Weineck"
+    ],
+    [
+      "Julius Kluger",
+      "Paul Siebenborn"
     ],
     [
       "Bernd Ulshöfer",
@@ -328,158 +476,6 @@
       "Ofner Wolfgang"
     ],
     [
-      "Sven Kallmeyer",
-      "Chris Wulle"
-    ],
-    [
-      "Christoph Löffler",
-      "Marcel Machalett"
-    ],
-    [
-      "Dennis Ruhl",
-      "René Sonke"
-    ],
-    [
-      "Kay Galler",
-      "André Möckl"
-    ],
-    [
-      "Tommy Büttner",
-      "Justin Maaser"
-    ],
-    [
-      "Carlo Schlegel",
-      "Willy Gerber"
-    ],
-    [
-      "Stefan Dürschmied",
-      "Paul Kötschau"
-    ],
-    [
-      "Norbert Ohnesorge",
-      "Semjon Fick"
-    ],
-    [
-      "Steven Precht",
-      "Ronny Langbein"
-    ],
-    [
-      "Sebastian Bothur",
-      "Dominik Sigg"
-    ],
-    [
-      "Stefan Göbel",
-      "Niklas Reinhardt"
-    ],
-    [
-      "Moritz Reinhardt",
-      "Daniel Ernst"
-    ],
-    [
-      "Fabian Gleitsmann",
-      "Tizian Linhose"
-    ],
-    [
-      "Dave Peetzen",
-      "Fabian Hägele"
-    ],
-    [
-      "Robin Scheuring",
-      "Marcel Pult"
-    ],
-    [
-      "Maximilian Jacob",
-      "Tristan Schmidt"
-    ],
-    [
-      "Moritz Bauer",
-      "Jonas Fritzlar"
-    ],
-    [
-      "Danny Bänsch",
-      "Enrico Stade"
-    ],
-    [
-      "Thilo Prakesch",
-      "Philipp Weineck"
-    ],
-    [
-      "Julius Kluger",
-      "Paul Siebenborn"
-    ],
-    [
-      "Enrico Kohl",
-      "Steve Roidl"
-    ],
-    [
-      "Michael Wenk",
-      "Dorian Stein"
-    ],
-    [
-      "Christian Metz",
-      "Karsten Ritter"
-    ],
-    [
-      "Miguel Bröde",
-      "Karl Vincent Schröpfer"
-    ],
-    [
-      "Tobias Fröhlich",
-      "Florian Sickert"
-    ],
-    [
-      "Franz Armin Engelhardt",
-      "Martin Albert Oehmichen"
-    ],
-    [
-      "Lars Homeyer",
-      "Marc Habermann"
-    ],
-    [
-      "Nils Köber",
-      "Henning Rawe"
-    ],
-    [
-      "Manuel Thiel",
-      "Florian Schmidt"
-    ],
-    [
-      "Michael Nortmann",
-      "Johannes Vogl"
-    ],
-    [
-      "Tim Fichtner",
-      "Eric Wagner"
-    ],
-    [
-      "Norman Zenne",
-      "Felix Zimmermann"
-    ],
-    [
-      "Malte Bebensee",
-      "Jonas Henke"
-    ],
-    [
-      "Lennart Giese",
-      "Grzegorz Pawlak"
-    ],
-    [
-      "Leander Albrecht",
-      "Nico Heyder"
-    ],
-    [
-      "Florian Görms",
-      "Tom Spaleck"
-    ],
-    [
-      "Heiko Richter",
-      "Markus Apel"
-    ],
-    [
-      "Nils Herrmann",
-      "Ropte Michael"
-    ],
-    [
       "Karsten Neupert",
       "Kay Hain"
     ],
@@ -488,12 +484,28 @@
       "Martin Kunze"
     ],
     [
-      "Thomas Hügle",
-      "Alexander Kool"
+      "Christoph Schäfer",
+      "Rainer Hefter"
+    ],
+    [
+      "Nils Herrmann",
+      "Ropte Michael"
     ],
     [
       "Tobias Gräfe",
       "Dirk Rudloff"
+    ],
+    [
+      "Thomas Hügle",
+      "Alexander Kool"
+    ],
+    [
+      "Marc Quecke",
+      "Jörg Hartmann"
+    ],
+    [
+      "Markus Moser",
+      "Andreas Bezikofer"
     ],
     [
       "Michael Steurer",
@@ -504,44 +516,24 @@
       "Manuel Endres"
     ],
     [
-      "Tim Pobitschka",
-      "Martin Mörtl"
+      "Matthias Kaden",
+      "Michael Kaufmann"
     ],
     [
       "Volker Heuschkel",
       "Mike Störmer"
     ],
     [
-      "Markus Moser",
-      "Andreas Bezikofer"
-    ],
-    [
-      "Andreas Engelhardt",
-      "Christian Rau"
-    ],
-    [
       "Steffen Bruhnke",
       "Andreas Drachsler"
     ],
     [
-      "Matthias Kaden",
-      "Michael Kaufmann"
-    ],
-    [
-      "Marc Quecke",
-      "Jörg Hartmann"
-    ],
-    [
-      "Christoph Schäfer",
-      "Rainer Hefter"
+      "Matthias Sömmer",
+      "Rene Seydewitz"
     ],
     [
       "Enrico Kohl",
       "Frank Saupe"
-    ],
-    [
-      "Matthias Sömmer",
-      "Rene Seydewitz"
     ],
     [
       "Andre Tomkowiak",
@@ -552,44 +544,40 @@
       "Torben Voigt"
     ],
     [
+      "Andreas Engelhardt",
+      "Christian Rau"
+    ],
+    [
       "Marcel Follmann",
       "Matthias Hüwels"
     ],
     [
-      "Emily Westerhoff",
-      "Ulrike Westerhoff"
-    ],
-    [
-      "Julia Dawid",
-      "Michael Dawid"
-    ],
-    [
-      "Denis Weinreich",
-      "Bianka Berninger"
-    ],
-    [
-      "Katja Schack",
-      "Jannes Weigel"
-    ],
-    [
-      "Christoph Kreutzer",
-      "Ninve Warda"
-    ],
-    [
-      "Jan Hörschelmann",
-      "Renée Stein"
-    ],
-    [
-      "Tobias Hauss",
-      "Tobias Büchner"
+      "Tim Pobitschka",
+      "Martin Mörtl"
     ],
     [
       "Maik Wagner",
       "Martin Heinicke"
     ],
     [
+      "Denis Weinreich",
+      "Bianka Berninger"
+    ],
+    [
+      "Emily Westerhoff",
+      "Ulrike Westerhoff"
+    ],
+    [
+      "Christoph Kreutzer",
+      "Ninve Warda"
+    ],
+    [
       "Ivo Hausdörfer",
       "Nine Knoß"
+    ],
+    [
+      "Julia Dawid",
+      "Michael Dawid"
     ],
     [
       "Lukas Vetter",
@@ -600,96 +588,32 @@
       "Susanne Wolf"
     ],
     [
+      "Jan Hörschelmann",
+      "Renée Stein"
+    ],
+    [
+      "Tobias Hauss",
+      "Tobias Büchner"
+    ],
+    [
+      "Katja Schack",
+      "Jannes Weigel"
+    ],
+    [
       "Alexander Fromme",
       "Verena Schmitz"
     ],
     [
-      "Oliver Schetzkens",
-      "Yasmin Schröder"
-    ],
-    [
-      "Silke Heider",
-      "Dean Schäfer"
-    ],
-    [
-      "Sophia Gallant",
-      "Benjamin Wegele"
-    ],
-    [
-      "Sophie Bayer",
-      "Nicolas Häfele"
-    ],
-    [
-      "Dominik Thiel",
-      "Mandy Wohlan"
-    ],
-    [
-      "Karolin Barcsik",
-      "Jan Barcsik"
-    ],
-    [
-      "Isabell Kottlick",
-      "Simon Stöber"
-    ],
-    [
-      "Sebastian Oertel",
-      "Gloria Haaß"
-    ],
-    [
-      "Jörn Köllmer",
-      "Felicitas Thiel"
-    ],
-    [
-      "Uwe Hüttenmüller",
-      "Sarah Montag"
-    ],
-    [
-      "Fabian Schröter",
-      "Susann Horn"
-    ],
-    [
-      "Anke Grieger-Hilpert",
-      "Daniel Schröder"
-    ],
-    [
-      "Melanie Lorber",
-      "Tom Falkner"
-    ],
-    [
-      "Ann-Kathrin Schechter",
-      "Felix Restle"
-    ],
-    [
-      "Kay Hagenbach",
-      "Larissa Horst"
-    ],
-    [
-      "Romana Hefter",
-      "Tobias Bozem"
+      "Anne Winkler",
+      "Mario Maximilian Lange"
     ],
     [
       "Claudia Koch",
       "Sebastian Zühlsdorff"
     ],
     [
-      "Tobias Langer",
-      "Isabell Müller"
-    ],
-    [
-      "Jasmin Bohun",
-      "Damian Pyka"
-    ],
-    [
-      "Matthias Weickmann",
-      "Nicole Tuchbreiter"
-    ],
-    [
-      "Rene Krumstroh",
-      "Kirsten Schneidereit"
-    ],
-    [
-      "Anne Winkler",
-      "Mario Maximilian Lange"
+      "Jörn Köllmer",
+      "Felicitas Thiel"
     ],
     [
       "Doreen Otto",
@@ -704,8 +628,84 @@
       "Anke Topf"
     ],
     [
+      "Melanie Lorber",
+      "Tom Falkner"
+    ],
+    [
+      "Ann-Kathrin Schechter",
+      "Felix Restle"
+    ],
+    [
+      "Anke Grieger-Hilpert",
+      "Daniel Schröder"
+    ],
+    [
+      "Sebastian Oertel",
+      "Gloria Haaß"
+    ],
+    [
+      "Kay Hagenbach",
+      "Larissa Horst"
+    ],
+    [
+      "Karolin Barcsik",
+      "Jan Barcsik"
+    ],
+    [
+      "Fabian Schröter",
+      "Susann Horn"
+    ],
+    [
+      "Isabell Kottlick",
+      "Simon Stöber"
+    ],
+    [
+      "Jasmin Bohun",
+      "Damian Pyka"
+    ],
+    [
       "Christian Gasmann",
       "Babette Wulf"
+    ],
+    [
+      "Dominik Thiel",
+      "Mandy Wohlan"
+    ],
+    [
+      "Rene Krumstroh",
+      "Kirsten Schneidereit"
+    ],
+    [
+      "Silke Heider",
+      "Dean Schäfer"
+    ],
+    [
+      "Matthias Weickmann",
+      "Nicole Tuchbreiter"
+    ],
+    [
+      "Oliver Schetzkens",
+      "Yasmin Schröder"
+    ],
+    [
+      "Uwe Hüttenmüller",
+      "Sarah Montag"
+    ],
+    [
+      "Tobias Langer",
+      "Isabell Müller"
+    ],
+    [
+      "Romana Hefter",
+      "Tobias Bozem"
+    ],
+    [
+      "Sophia Gallant",
+      "Benjamin Wegele"
+    ],
+    [
+      "Sophie Bayer",
+      "Nicolas Häfele"
     ]
   ]
 }

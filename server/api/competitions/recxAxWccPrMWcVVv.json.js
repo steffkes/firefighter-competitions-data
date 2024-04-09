@@ -12,7 +12,8 @@ const data = (
               query: {
                 key: "9cca7a2e787022b15a2c81b253b2dde6",
                 contest,
-                listname: "Online|Teilnehmer nach Team",
+                listname:
+                  "Online Ergebnisse und Listen|25 Teilnehmer nach Team",
               },
             }
           );
@@ -22,7 +23,7 @@ const data = (
   )
 )
   .flatMap(({ value }) => value)
-  .map(([_bib, _empty, _team, _city, _origin, names, _category]) =>
+  .map(([_bib, _empty, _time, _team, _city, _origin, names, _category]) =>
     names.split(" / ").map((name) => name.match(/^[^\(]+/)[0].trim())
   );
 

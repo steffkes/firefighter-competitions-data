@@ -1,5 +1,5 @@
 {
-  "date": "2024-04-11T11:59:34.177Z",
+  "date": "2024-04-11T12:35:24.804Z",
   "competition": "recL95uxMRJ0CWcPT",
   "count": 500,
   "teams": [
@@ -224,16 +224,16 @@
       "Armin Roth"
     ],
     [
+      "Tobias Müller",
+      "Luca Berg"
+    ],
+    [
       "Marius Beck",
       "Florian Beck"
     ],
     [
       "Yannic Ortmann",
       "Benedikt Paulus"
-    ],
-    [
-      "Tobias Müller",
-      "Luca Berg"
     ],
     [
       "Christian Kreit",
@@ -476,12 +476,12 @@
       "Leon Siegel"
     ],
     [
-      "Johannes Seelig",
-      "Melanie Horn"
-    ],
-    [
       "Jonas Kirstein",
       "Raphael Pfleghaar"
+    ],
+    [
+      "Johannes Seelig",
+      "Melanie Horn"
     ],
     [
       "Robin Kirchmaier",
@@ -516,10 +516,6 @@
       "Jennifer Krimm"
     ],
     [
-      "Lukas Mößlang",
-      "Tobias Kristen"
-    ],
-    [
       "Matthias Schöll",
       "Stefan Helchenberg"
     ],
@@ -530,6 +526,10 @@
     [
       "Christian Merk",
       "Jürgen Merk"
+    ],
+    [
+      "Lukas Mößlang",
+      "Tobias Kristen"
     ],
     [
       "Tom Klein",
@@ -888,12 +888,12 @@
       "Christian Göppel"
     ],
     [
-      "Patrick Liebhäuser",
-      "Marius Ortmann"
-    ],
-    [
       "Marvin Scherf",
       "Guido Paulus"
+    ],
+    [
+      "Patrick Liebhäuser",
+      "Marius Ortmann"
     ],
     [
       "Christian Fleschhut",

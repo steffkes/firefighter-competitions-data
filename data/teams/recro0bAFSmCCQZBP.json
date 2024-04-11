@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-11T19:18:10.814Z",
+  "date": "2024-04-11T19:30:22.826Z",
   "competition": "recro0bAFSmCCQZBP",
-  "count": 30,
+  "count": 32,
   "teams": [
     [
       "Strauß Martin",
@@ -62,6 +62,10 @@
     [
       "Jeremy Löffler",
       "Philipp Tischer"
+    ],
+    [
+      "Stephan Lehmann",
+      "Hänke Hans"
     ]
   ]
 }

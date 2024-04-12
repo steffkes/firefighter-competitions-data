@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-12T09:20:11.722Z",
+  "date": "2024-04-12T15:20:44.550Z",
   "competition": "recxAxWccPrMWcVVv",
-  "count": 354,
+  "count": 356,
   "teams": [
     [
       "Kevin Grigat",
@@ -45,7 +45,7 @@
     ],
     [
       "Paul Steiner",
-      "Mirko Großmann"
+      "Fabian Müller"
     ],
     [
       "Marc Lontke",
@@ -229,7 +229,7 @@
     ],
     [
       "Silke Kallmeyer",
-      "Anne Kirchberg"
+      "Anne-Katrin Pabst Pabst"
     ],
     [
       "Julia Steppacher",
@@ -265,7 +265,7 @@
     ],
     [
       "Miguel Bröde",
-      "Karl Vincent Schröpfer"
+      "Jochen Hauwetter"
     ],
     [
       "Florian Laubach",
@@ -316,20 +316,12 @@
       "Niklas Reinhardt"
     ],
     [
-      "Niklas Steurer",
-      "Alexander Lohr"
-    ],
-    [
-      "Matthias Lohrer",
-      "Andreas Ehinger"
-    ],
-    [
       "Kay Galler",
       "André Möckl"
     ],
     [
       "Robin Scheuring",
-      "Marcel Pult"
+      "Sebastian Fröbel"
     ],
     [
       "Maximilian Jacob",
@@ -480,12 +472,20 @@
       "Ofner Wolfgang"
     ],
     [
+      "Manuel Endres",
+      "Alexander Möller"
+    ],
+    [
       "Enrico Kohl",
       "Frank Saupe"
     ],
     [
       "Fabian Schröter",
       "Wayne Lüdecke"
+    ],
+    [
+      "Michael Steurer",
+      "Andreas Ehinger"
     ],
     [
       "Karsten Neupert",
@@ -518,14 +518,6 @@
     [
       "Markus Moser",
       "Andreas Bezikofer"
-    ],
-    [
-      "Michael Steurer",
-      "Alexander Möller"
-    ],
-    [
-      "Roland Kohler",
-      "Manuel Endres"
     ],
     [
       "Matthias Kaden",
@@ -562,6 +554,14 @@
     [
       "Tim Pobitschka",
       "Martin Mörtl"
+    ],
+    [
+      "Maik Bünger",
+      "Gordon Wachholz"
+    ],
+    [
+      "Roland Kohler",
+      "Manuel Endres"
     ],
     [
       "Maik Wagner",
@@ -610,6 +610,10 @@
     [
       "Alexander Fromme",
       "Verena Schmitz"
+    ],
+    [
+      "Niklas Steurer",
+      "Kathrin Schechter"
     ],
     [
       "Anne Winkler",

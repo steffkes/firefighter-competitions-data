@@ -1,5 +1,5 @@
 {
-  "date": "2024-04-12T17:25:23.051Z",
+  "date": "2024-04-12T17:37:40.281Z",
   "competition": "recL95uxMRJ0CWcPT",
   "count": 500,
   "teams": [
@@ -516,6 +516,10 @@
       "Jennifer Krimm"
     ],
     [
+      "Matthias Schöll",
+      "Stefan Helchenberg"
+    ],
+    [
       "Markus Rist",
       "Roman Rist"
     ],
@@ -526,10 +530,6 @@
     [
       "Lukas Mößlang",
       "Tobias Kristen"
-    ],
-    [
-      "Matthias Schöll",
-      "Stefan Helchenberg"
     ],
     [
       "Tom Klein",
@@ -560,12 +560,12 @@
       "Josef Band"
     ],
     [
-      "Sebastian Geyer",
-      "Sebastian Schwing"
-    ],
-    [
       "Tobias Kreienkamp",
       "Yannik Fuß"
+    ],
+    [
+      "Sebastian Geyer",
+      "Sebastian Schwing"
     ],
     [
       "Pascal Garbotz",

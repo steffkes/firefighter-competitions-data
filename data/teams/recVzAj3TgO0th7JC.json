@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-14T15:14:10.627Z",
+  "date": "2024-04-14T22:08:45.874Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 123,
+  "count": 129,
   "teams": [
     [
       "Samuel Geiger",
@@ -207,6 +207,16 @@
       "Mark Seeger",
       "Tjark Schoeltzke",
       "Fabian Peter"
+    ],
+    [
+      "Christian Strecker",
+      "Sebastian Fischer",
+      "Maximilian Wölfel"
+    ],
+    [
+      "Max Korn",
+      "Johannes Franz",
+      "Simon Franz"
     ]
   ]
 }

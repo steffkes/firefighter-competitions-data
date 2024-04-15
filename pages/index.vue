@@ -355,7 +355,9 @@ const singleboerse = {
   recyC5LmxecehTxWD: "240511-schonach",
 };
 
-const isPast = (competition) => new Date() - new Date(competition.date.end) > 0;
+const isPast = (competition) =>
+  new Date().toISOString().substring(0, 10) >
+  new Date(competition.date.end).toISOString().substring(0, 10);
 
 const { data: competitions } = await useFetch("/api/competitions");
 

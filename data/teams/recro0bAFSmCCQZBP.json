@@ -1,71 +1,55 @@
 {
-  "date": "2024-04-16T03:38:27.097Z",
+  "date": "2024-04-16T03:50:26.551Z",
   "competition": "recro0bAFSmCCQZBP",
-  "count": 32,
+  "count": 16,
   "teams": [
     [
-      "Strauß Martin",
-      "Heene Marc"
+      "m"
     ],
     [
-      "Christian Grüner",
-      "Toni Schubert"
+      "m"
     ],
     [
-      "Pascal Arne Lange",
-      "Erik Scheibe"
+      "a"
     ],
     [
-      "Thomas Dittrich",
-      "Johann Schnedelbach"
+      "m"
     ],
     [
-      "René Krumstroh",
-      "Kirsten Schneidereit"
+      "m"
     ],
     [
-      "Niclas Schuster",
-      "Marc Schuster"
+      "m"
     ],
     [
-      "Lukas Pahlisch",
-      "Tobias Kahnes"
+      "m"
     ],
     [
-      "Hans Schreiter",
-      "Stefan Marienthal"
+      "m"
     ],
     [
-      "Leon Näser",
-      "Kevin Lenk"
+      "m"
     ],
     [
-      "Philipp Simon",
-      "Julius Hardege"
+      "m"
     ],
     [
-      "Elina Görler",
-      "Florian Löffler"
+      "m"
     ],
     [
-      "Max Leibelt",
-      "Philipp Leibelt"
+      "m"
     ],
     [
-      "André Zimmermann",
-      "Florian Ehmler"
+      "m"
     ],
     [
-      "Immanuel Borau",
-      "Eric Zimmermann"
+      "m"
     ],
     [
-      "Jeremy Löffler",
-      "Philipp Tischer"
+      "a"
     ],
     [
-      "Stephan Lehmann",
-      "Hänke Hans"
+      "m"
     ]
   ]
 }

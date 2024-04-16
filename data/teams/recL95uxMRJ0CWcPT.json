@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-16T09:28:27.664Z",
+  "date": "2024-04-16T15:19:59.454Z",
   "competition": "recL95uxMRJ0CWcPT",
-  "count": 500,
+  "count": 556,
   "teams": [
     [
       "Jan-Frederik Höltke",
@@ -14,6 +14,22 @@
     [
       "Benjamin Fleischer",
       "Matthias Buttig"
+    ],
+    [
+      "Julius Römpp",
+      "Matthias Maurer"
+    ],
+    [
+      "Julian Kurz",
+      "Andreas Wirth"
+    ],
+    [
+      "Jan Rix",
+      "Jonas Wirth"
+    ],
+    [
+      "Nadine Rix",
+      "Jonas Maurer"
     ],
     [
       "Moritz Keller",
@@ -84,7 +100,7 @@
       "Michael Kalcher"
     ],
     [
-      "Schmid Fabian",
+      "Fabian Schmid",
       "Peter Auer"
     ],
     [
@@ -224,16 +240,16 @@
       "Armin Roth"
     ],
     [
+      "Tobias Müller",
+      "Luca Berg"
+    ],
+    [
       "Marius Beck",
       "Florian Beck"
     ],
     [
       "Yannic Ortmann",
       "Benedikt Paulus"
-    ],
-    [
-      "Tobias Müller",
-      "Luca Berg"
     ],
     [
       "Christian Kreit",
@@ -276,7 +292,7 @@
       "Denny Dittrich"
     ],
     [
-      "Prochota Andreas",
+      "Andreas Prochota",
       "Daniel Kiesel"
     ],
     [
@@ -448,8 +464,8 @@
       "Florian Buhl"
     ],
     [
-      "Jäger Markus",
-      "Schönberg Werner"
+      "Markus Jäger",
+      "Werner Schönberg"
     ],
     [
       "Jochen Bürk",
@@ -580,7 +596,7 @@
       "Dennis Fleege"
     ],
     [
-      "Glemser Samuel",
+      "Samuel Glemser",
       "Tobias Missfelder"
     ],
     [
@@ -592,8 +608,8 @@
       "Tim Hiemeyer"
     ],
     [
-      "Biebl Andreas",
-      "Spengler Benedikt"
+      "Andreas Biebl",
+      "Benedikt Spengler"
     ],
     [
       "Dennis Nägele",
@@ -842,6 +858,102 @@
     [
       "Martin Karg",
       "Robert Jäger"
+    ],
+    [
+      "Simon Sachsenmaier",
+      "Kai Moosbrugger"
+    ],
+    [
+      "Simon Mezger",
+      "Markus Mezger"
+    ],
+    [
+      "Oskar Katzke",
+      "Nicolas Ilg"
+    ],
+    [
+      "Adrian Dennochweiler",
+      "Raphael Dennochweiler"
+    ],
+    [
+      "Oliver Sauter",
+      "Marco Theuergarten"
+    ],
+    [
+      "Christian Daiß",
+      "Mark Winter"
+    ],
+    [
+      "Aron Dolderer",
+      "Johannes Leimbach"
+    ],
+    [
+      "Alexander Neumaier",
+      "Patrick Leimbach"
+    ],
+    [
+      "Xenia Theuergarten",
+      "Christoph Beinder"
+    ],
+    [
+      "Julian Schlotterbeck",
+      "Milena Schlotterbeck"
+    ],
+    [
+      "Sven Butscher",
+      "Roman Waldenmaier"
+    ],
+    [
+      "Matthias Werner",
+      "Simon Gostynski"
+    ],
+    [
+      "Johannes Wöller",
+      "Rene Altmann"
+    ],
+    [
+      "Christoph Wöller",
+      "Christoph Bleicher"
+    ],
+    [
+      "Lisa Stadelmaier",
+      "Evelyn Heinrich"
+    ],
+    [
+      "Fabian Werner",
+      "Simon Hägele"
+    ],
+    [
+      "Volker Behringer",
+      "Daniel Wiedmann"
+    ],
+    [
+      "Niklas Bretzler",
+      "Florian Schmid"
+    ],
+    [
+      "Theresa Geller",
+      "Jonas Trautwein"
+    ],
+    [
+      "Simon Allert",
+      "Heinz Pfisterer"
+    ],
+    [
+      "Christian Kehrlein",
+      "Michael Kehrlein"
+    ],
+    [
+      "Monika Ziegler",
+      "Raphael Spruck"
+    ],
+    [
+      "Marc Kley",
+      "Tobias Ilg"
+    ],
+    [
+      "Florian Hofmaier",
+      "Benedikt Behringer"
     ],
     [
       "Andreas Kaupp",

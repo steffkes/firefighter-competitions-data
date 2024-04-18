@@ -22,9 +22,10 @@ const data = (
   )
 )
   .flatMap(({ value }) => value)
-  .map(([_bib, _team, _unknown, names]) =>
+  .map(([_bib, _team, _unknown, _gender, names]) =>
     names.split(/[,\/]/).map((name) => name.trim())
-  );
+  )
+  .filter((team) => team.length == 2);
 
 export const teams = () => data;
 export const participants = () => teams().flat();

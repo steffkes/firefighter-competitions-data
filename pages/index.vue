@@ -108,6 +108,7 @@
                 'has-text-grey-light': competition.date.is_draft,
                 'has-text-weight-light': competition.date.is_draft,
                 'has-text-grey-lighter': competition.date.is_canceled,
+                'is-selected': isCurrent(competition),
               }"
             >
               <td class="date">
@@ -355,7 +356,16 @@ const singleboerse = {
   recyC5LmxecehTxWD: "240511-schonach",
 };
 
-const isPast = (competition) => new Date() - new Date(competition.date.end) > 0;
+const getDateFromDate = (date) => date.toISOString().substring(0, 10);
+
+const isPast = (competition) =>
+  getDateFromDate(new Date()) > getDateFromDate(new Date(competition.date.end));
+
+const isCurrent = (competition) =>
+  getDateFromDate(new Date()) >=
+    getDateFromDate(new Date(competition.date.start)) &&
+  getDateFromDate(new Date()) <=
+    getDateFromDate(new Date(competition.date.end));
 
 const { data: competitions } = await useFetch("/api/competitions");
 

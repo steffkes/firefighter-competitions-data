@@ -1,5 +1,5 @@
 {
-  "date": "2024-04-20T23:29:16.017Z",
+  "date": "2024-04-20T23:41:02.403Z",
   "competition": "recL95uxMRJ0CWcPT",
   "count": 556,
   "teams": [
@@ -492,12 +492,12 @@
       "Leon Siegel"
     ],
     [
-      "Johannes Seelig",
-      "Melanie Horn"
-    ],
-    [
       "Jonas Kirstein",
       "Raphael Pfleghaar"
+    ],
+    [
+      "Johannes Seelig",
+      "Melanie Horn"
     ],
     [
       "Robin Kirchmaier",
@@ -532,10 +532,6 @@
       "Jennifer Krimm"
     ],
     [
-      "Christian Merk",
-      "Jürgen Merk"
-    ],
-    [
       "Lukas Mößlang",
       "Tobias Kristen"
     ],
@@ -546,6 +542,10 @@
     [
       "Markus Rist",
       "Roman Rist"
+    ],
+    [
+      "Christian Merk",
+      "Jürgen Merk"
     ],
     [
       "Tom Klein",
@@ -1000,12 +1000,12 @@
       "Christian Göppel"
     ],
     [
-      "Patrick Liebhäuser",
-      "Marius Ortmann"
-    ],
-    [
       "Marvin Scherf",
       "Guido Paulus"
+    ],
+    [
+      "Patrick Liebhäuser",
+      "Marius Ortmann"
     ],
     [
       "Christian Fleschhut",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-22T15:20:32.793Z",
+  "date": "2024-04-22T19:57:38.523Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 153,
+  "count": 156,
   "teams": [
     [
       "Samuel Geiger",
@@ -248,7 +248,12 @@
       "N. N.",
       "Timo Knaupp",
       "Hauke Christians",
-      "Sebastian Lang"
+      "Sebastian Lang",
+      "Yannick Löffler"
+    ],
+    [
+      "Marcel Hiesel",
+      "Yves Rotstaedt"
     ]
   ]
 }

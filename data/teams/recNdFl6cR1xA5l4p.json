@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-23T21:40:56.770Z",
+  "date": "2024-04-23T21:57:15.120Z",
   "competition": "recNdFl6cR1xA5l4p",
-  "count": 100,
+  "count": 101,
   "teams": [
     [
       "Jannik Ronner"
@@ -302,6 +302,9 @@
     ],
     [
       "Romeo Giglio"
+    ],
+    [
+      "Loïc Macellaro"
     ]
   ]
 }

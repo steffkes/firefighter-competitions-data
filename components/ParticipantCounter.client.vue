@@ -11,6 +11,10 @@
 <script setup>
 const { competition } = defineProps(["competition"]);
 const { data: count } = await useFetch(
-  "/api/competitions/" + competition.id + ".json"
+  "/api/competitions/" +
+    competition.date.start.substr(2, 8).replaceAll("-", "") +
+    "_" +
+    competition.id +
+    ".json"
 );
 </script>

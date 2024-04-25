@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-25T07:51:44.172Z",
+  "date": "2024-04-25T08:21:42.358Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 156,
+  "count": 159,
   "teams": [
     [
       "Samuel Geiger",
@@ -253,7 +253,10 @@
     ],
     [
       "Marcel Hiesel",
-      "Yves Rotstaedt"
+      "Yves Rotstaedt",
+      "Ralf Proll",
+      "Andreas Kuntz",
+      "Andreas Jacob"
     ]
   ]
 }

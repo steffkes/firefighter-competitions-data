@@ -14,7 +14,7 @@ for (const path of await glob([
     const { count, teams } = await import(path);
     const competition = basename(path, extension);
     const result = str({
-      competition,
+      competition: competition.split("_")[1],
       count: count(),
       teams: teams(),
     });

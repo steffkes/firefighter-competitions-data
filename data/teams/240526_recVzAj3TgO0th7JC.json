@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-25T14:51:13.230Z",
-  "competition": "240526_recVzAj3TgO0th7JC",
-  "count": 159,
+  "date": "2024-04-25T15:18:06.656Z",
+  "competition": "recVzAj3TgO0th7JC",
+  "count": 165,
   "teams": [
     [
       "Samuel Geiger",
@@ -82,6 +82,11 @@
       "Jörn Erlenmaier",
       "Florian Erlenmaier",
       "Marvin Franz"
+    ],
+    [
+      "Moritz Mangel",
+      "Mischa Hundhausen",
+      "Fabian Lodyga"
     ],
     [
       "Phillipp Gründel",
@@ -256,7 +261,10 @@
       "Yves Rotstaedt",
       "Ralf Proll",
       "Andreas Kuntz",
-      "Andreas Jacob"
+      "Andreas Jacob",
+      "Marius Zarden",
+      "Marlon Di Vito",
+      "Carsten Meyer"
     ]
   ]
 }

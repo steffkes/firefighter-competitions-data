@@ -8,6 +8,9 @@ const extension = ".json.js";
 for (const path of await glob(["./server/api/competitions/*" + extension])) {
   const { count } = await import(path);
   console.log(
-    str({ competition: basename(path, extension).split("_")[1], count: await count() })
+    str({
+      competition: basename(path, extension).split("_")[1],
+      count: await count(),
+    })
   );
 }

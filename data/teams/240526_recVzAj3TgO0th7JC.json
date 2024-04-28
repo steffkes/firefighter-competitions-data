@@ -1,7 +1,7 @@
 {
-  "date": "2024-04-28T09:21:27.605Z",
+  "date": "2024-04-28T15:30:28.764Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 165,
+  "count": 174,
   "teams": [
     [
       "Samuel Geiger",
@@ -87,6 +87,11 @@
       "Moritz Mangel",
       "Mischa Hundhausen",
       "Fabian Lodyga"
+    ],
+    [
+      "Emilie Ebert",
+      "Antonia Lenz",
+      "Ida Ebert"
     ],
     [
       "Phillipp Gründel",
@@ -264,7 +269,15 @@
       "Andreas Jacob",
       "Marius Zarden",
       "Marlon Di Vito",
-      "Carsten Meyer"
+      "Carsten Meyer",
+      "Michael Hundegger",
+      "Julian Distelkamp"
+    ],
+    [
+      "Dominik Jaufmann",
+      "Christian Herkströter",
+      "Magnus Ebert",
+      "N. N."
     ]
   ]
 }

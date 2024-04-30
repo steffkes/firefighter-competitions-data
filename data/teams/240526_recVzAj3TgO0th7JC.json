@@ -1,5 +1,5 @@
 {
-  "date": "2024-04-30T07:28:05.593Z",
+  "date": "2024-04-30T09:30:36.385Z",
   "competition": "recVzAj3TgO0th7JC",
   "count": 180,
   "teams": [
@@ -241,10 +241,14 @@
     [
       "Marc Schwarz",
       "Tobias Menke",
-      "Alexander Schaper",
+      "Alexander Schaper"
+    ],
+    [
       "Jonas Eisenhauer",
       "Markus Brähler",
-      "N. N.",
+      "N. N."
+    ],
+    [
       "Nicholas Wolf",
       "Maximilian Schmitt",
       "N. N."
@@ -252,35 +256,49 @@
     [
       "Franziska Läßig",
       "Marvin Dirk Reinecke",
-      "N. N.",
+      "N. N."
+    ],
+    [
       "Stefan Reinhart",
       "Joachim Geiser",
-      "N. N.",
+      "N. N."
+    ],
+    [
       "Timo Knaupp",
       "Hauke Christians",
-      "Sebastian Lang",
-      "Yannick Löffler"
+      "Sebastian Lang"
     ],
     [
+      "Yannick Löffler",
       "Marcel Hiesel",
-      "Yves Rotstaedt",
+      "Yves Rotstaedt"
+    ],
+    [
       "Ralf Proll",
       "Andreas Kuntz",
-      "Andreas Jacob",
-      "Marius Zarden",
-      "Marlon Di Vito",
-      "Carsten Meyer",
-      "Michael Hundegger",
-      "Julian Distelkamp"
+      "Andreas Jacob"
     ],
     [
-      "Dominik Jaufmann",
+      "Marius Zarden",
+      "Marlon Di Vito",
+      "Carsten Meyer"
+    ],
+    [
+      "Michael Hundegger",
+      "Julian Distelkamp",
+      "Dominik Jaufmann"
+    ],
+    [
       "Christian Herkströter",
       "Magnus Ebert",
-      "N. N.",
+      "N. N."
+    ],
+    [
       "Janek Altenkirch",
       "Marko Petrovic",
-      "Maurice Samer",
+      "Maurice Samer"
+    ],
+    [
       "Alexander Bamberger",
       "Maximilian Stark",
       "Ivo Weihert"

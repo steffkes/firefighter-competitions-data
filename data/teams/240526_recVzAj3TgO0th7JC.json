@@ -1,5 +1,5 @@
 {
-  "date": "2024-04-30T08:21:28.373Z",
+  "date": "2024-04-30T08:39:00.434Z",
   "competition": "recVzAj3TgO0th7JC",
   "count": 180,
   "teams": [
@@ -241,10 +241,14 @@
     [
       "Marc Schwarz",
       "Tobias Menke",
-      "Alexander Schaper",
+      "Alexander Schaper"
+    ],
+    [
       "Jonas Eisenhauer",
       "Markus Brähler",
-      "N. N.",
+      "N. N."
+    ],
+    [
       "Nicholas Wolf",
       "Maximilian Schmitt",
       "N. N."
@@ -252,28 +256,34 @@
     [
       "Franziska Läßig",
       "Marvin Dirk Reinecke",
-      "N. N.",
-      "Stefan Reinhart",
-      "Joachim Geiser",
-      "N. N.",
-      "Timo Knaupp",
-      "Hauke Christians",
-      "Sebastian Lang",
-      "Yannick Löffler"
+      "N. N."
     ],
     [
+      "Stefan Reinhart",
+      "Joachim Geiser",
+      "N. N."
+    ],
+    [
+      "Timo Knaupp",
+      "Hauke Christians",
+      "Sebastian Lang"
+    ],
+    [
+      "Yannick Löffler",
       "Marcel Hiesel",
-      "Yves Rotstaedt",
+      "Yves Rotstaedt"
+    ],
+    [
       "Ralf Proll",
       "Andreas Kuntz",
-      "Andreas Jacob",
+      "Andreas Jacob"
+    ],
+    [
       "Marius Zarden",
       "Marlon Di Vito",
       "Carsten Meyer",
       "Michael Hundegger",
-      "Julian Distelkamp"
-    ],
-    [
+      "Julian Distelkamp",
       "Dominik Jaufmann",
       "Christian Herkströter",
       "Magnus Ebert",

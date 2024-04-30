@@ -26,14 +26,18 @@ const data = (
 )
   .flatMap(({ value }) => value)
   .map(({ cell: { name: names } }) =>
-    names.split("<br>").map((name) =>
-      name
-        .match(/^(.+)\s+\w\s+\d+$/)[1]
-        .split(" ")
-        .reverse()
-        .join(" ")
-    )
-  );
+    names
+      .split("<br>")
+      .map((name) =>
+        name
+          .match(/^(.+)\s+\w\s+\d+$/)[1]
+          .split(" ")
+          .reverse()
+          .join(" ")
+      )
+      .sort()
+  )
+  .sort();
 
 export const teams = () => data;
 export const participants = () => teams().flat();

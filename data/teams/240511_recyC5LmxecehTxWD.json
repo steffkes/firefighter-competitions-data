@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-02T19:06:23.226Z",
+  "date": "2024-05-02T19:18:39.612Z",
   "competition": "recyC5LmxecehTxWD",
-  "count": 228,
+  "count": 230,
   "teams": [
     [
       "Bohun Jasmin",
@@ -458,6 +458,10 @@
     [
       "Pascal Hilser",
       "Mario Steblaj"
+    ],
+    [
+      "Johannes Dannecker",
+      "Tim Schilli"
     ]
   ]
 }

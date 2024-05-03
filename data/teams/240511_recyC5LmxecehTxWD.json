@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-03T16:57:29.009Z",
+  "date": "2024-05-03T17:17:50.054Z",
   "competition": "recyC5LmxecehTxWD",
-  "count": 238,
+  "count": 240,
   "teams": [
     [
       "Bohun Jasmin",
@@ -478,6 +478,10 @@
     [
       "Stephan Groß",
       "Christofer Adamczyk"
+    ],
+    [
+      "Robin Adamczyk",
+      "Clemens Treyer"
     ]
   ]
 }

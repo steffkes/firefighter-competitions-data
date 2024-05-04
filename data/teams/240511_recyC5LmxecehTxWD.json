@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-04T06:37:25.234Z",
+  "date": "2024-05-04T06:49:22.534Z",
   "competition": "recyC5LmxecehTxWD",
-  "count": 242,
+  "count": 244,
   "teams": [
     [
       "Bohun Jasmin",
@@ -486,6 +486,10 @@
     [
       "Christian Trötschler",
       "Fabian Eckert"
+    ],
+    [
+      "Luca Ellerbrock",
+      "Jasmin Bohun"
     ]
   ]
 }

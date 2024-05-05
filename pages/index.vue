@@ -80,6 +80,112 @@
       <div class="column">
         <ExplainerBox />
 
+        <table
+          v-if="upcomingRegistrations.length"
+          class="table is-fullwidth is-striped is-hoverable mb-6"
+        >
+          <thead>
+            <tr>
+              <th></th>
+              <th>
+                Anmeldung bei diesen Wettkämpfen öffnet innerhalb der nächsten
+                vier Wochen
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr
+              v-for="competition in upcomingRegistrations"
+              :key="competition.id"
+              :id="competition.id"
+              :class="{
+                'has-text-grey-lighter': isPast(competition),
+                'has-text-grey-light': competition.date.is_draft,
+                'has-text-weight-light': competition.date.is_draft,
+                'has-text-grey-lighter': competition.date.is_canceled,
+                'is-selected': isCurrent(competition),
+              }"
+            >
+              <td class="date">
+                <span
+                  v-if="competition.date.is_canceled"
+                  style="cursor: help"
+                  title="Diese Veranstaltung wurde abgesagt"
+                  >❌
+                </span>
+                <span
+                  v-if="competition.date.is_draft"
+                  style="cursor: help"
+                  title="Der Termin dieser Veranstaltung ist noch nicht endgültig"
+                  >❓</span
+                >
+                <component :is="competition.date.is_canceled ? 's' : 'span'">
+                  {{ formatDate(competition.date.start) }}
+                  <span
+                    v-if="
+                      formatDate(competition.date.start) !=
+                      formatDate(competition.date.end)
+                    "
+                    style="white-space: nowrap"
+                    >- {{ formatDate(competition.date.end) }}</span
+                  >
+                </component>
+                <p>
+                  <span
+                    :class="{
+                      tag: true,
+                      'is-success':
+                        formatDate(competition.date.registration_opens) !=
+                        formatDate(new Date()),
+                      'is-dark':
+                        formatDate(competition.date.registration_opens) ==
+                        formatDate(new Date()),
+                    }"
+                    v-if="competition.has_registration_pending"
+                    style="cursor: help"
+                    :title="
+                      'Anmeldung startet am ' +
+                      formatDate(competition.date.registration_opens)
+                    "
+                  >
+                    ⏰ {{ formatDate(competition.date.registration_opens) }}
+                  </span>
+                </p>
+              </td>
+              <td>
+                <component :is="competition.date.is_canceled ? 's' : 'div'">
+                  <a
+                    v-if="competition.url"
+                    class="is-block"
+                    :href="competition.url"
+                    >{{ competition.name }}</a
+                  >
+                  <div v-else>{{ competition.name }}</div>
+                </component>
+                <div class="tags">
+                  <span
+                    :title="kind[competition.kind].title"
+                    :class="['tag', kind[competition.kind].type]"
+                    >{{ competition.kind }}</span
+                  >
+                  <span class="tag">
+                    {{ flag(competition.location.country_code) }}
+                    {{ competition.location.city }}</span
+                  >
+                  <ParticipantCounter
+                    v-if="competition.has_registration_open"
+                    :competition="competition"
+                  />
+                  <SingleboerseCounter
+                    v-if="singleboerse[competition.id]"
+                    :id="singleboerse[competition.id]"
+                  />
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
         <table class="table is-fullwidth is-striped is-hoverable">
           <thead>
             <tr>
@@ -336,6 +442,8 @@ footer a {
 </style>
 
 <script setup>
+import { differenceInDays, parseISO as parseIsoDate } from "date-fns";
+
 const displayPastCompetitions = ref(false);
 const competitionFilter = ref({
   FCC: true,
@@ -407,6 +515,18 @@ const filteredCompetitions = computed(() => {
   });
 
   return filteredCompetitions;
+});
+
+const upcomingRegistrations = computed(() => {
+  return filteredCompetitions.value.filter(
+    ({ date: { registration_opens } }) => {
+      const diffDays = differenceInDays(
+        parseIsoDate(registration_opens),
+        new Date()
+      );
+      return registration_opens && diffDays >= 0 && diffDays < 7 * 4;
+    }
+  );
 });
 
 const formatDate = (date) =>

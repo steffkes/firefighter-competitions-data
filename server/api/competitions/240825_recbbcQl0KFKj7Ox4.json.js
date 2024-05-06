@@ -1,9 +1,8 @@
 import { ofetch } from "ofetch";
-import { defineEventHandler } from "h3";
 
 const reverseName = (name) => name.split(", ").reverse().join(" ");
 
-const data = (
+const tmp = (
   await Promise.allSettled(
     [5, 6].map(
       async (contest) =>
@@ -28,8 +27,11 @@ const data = (
     names.split(" / ").map(reverseName)
   );
 
-export const teams = () => data;
+export const teams = () => tmp;
 export const participants = () => teams().flat();
 export const count = () => participants().length;
 
-export default defineEventHandler(async (event) => await count());
+import { defineEventHandler } from "h3";
+import data from "@/data/teams/240825_recbbcQl0KFKj7Ox4.json" assert { type: "json" };
+
+export default defineEventHandler(async (event) => data["count"]);

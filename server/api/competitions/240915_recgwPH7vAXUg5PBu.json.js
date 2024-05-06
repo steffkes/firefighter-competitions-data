@@ -1,7 +1,6 @@
 import { ofetch } from "ofetch";
-import { defineEventHandler } from "h3";
 
-const data = (
+const tmp = (
   await Promise.allSettled(
     [5, 6].map(
       async (contest) =>
@@ -24,8 +23,11 @@ const data = (
   .flatMap(({ value }) => value)
   .map(([_id, _bib, _team, names, _category]) => names.split(" / "));
 
-export const teams = () => data;
+export const teams = () => tmp;
 export const participants = () => teams().flat();
 export const count = () => participants().length;
 
-export default defineEventHandler(async (event) => await count());
+import { defineEventHandler } from "h3";
+import data from "@/data/teams/240915_recgwPH7vAXUg5PBu.json" assert { type: "json" };
+
+export default defineEventHandler(async (event) => data["count"]);

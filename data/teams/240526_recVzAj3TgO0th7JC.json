@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-07T16:23:50.391Z",
+  "date": "2024-05-07T16:39:52.368Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 195,
+  "count": 198,
   "teams": [
     [
       "Samuel Geiger",
@@ -327,6 +327,11 @@
       "Fabian Lange",
       "Rares Schuster",
       "Ralf Herp"
+    ],
+    [
+      "Martin Franke",
+      "Dennis Jacob Tor Weihen",
+      "Lars Volke"
     ]
   ]
 }

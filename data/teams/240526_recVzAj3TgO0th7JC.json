@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-08T17:40:33.745Z",
+  "date": "2024-05-08T17:52:13.945Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 225,
+  "count": 228,
   "teams": [
     [
       "Samuel Geiger",
@@ -377,6 +377,11 @@
       "Samuel Scherer",
       "Daniel Dux",
       "Alexander Stadler"
+    ],
+    [
+      "Fabian Missfelder",
+      "Julian Zimmermann",
+      "Lukas Zimmermann"
     ]
   ]
 }

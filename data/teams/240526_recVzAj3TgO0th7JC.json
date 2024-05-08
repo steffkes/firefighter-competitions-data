@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-08T06:08:09.187Z",
+  "date": "2024-05-08T06:26:14.218Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 219,
+  "count": 222,
   "teams": [
     [
       "Samuel Geiger",
@@ -367,6 +367,11 @@
       "Kristoffer Theiß",
       "Sebastian Rohrer",
       "Ulrich Droste"
+    ],
+    [
+      "Florian Schmidt",
+      "Nico Kreitmair",
+      "Fabian Blum"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-07T15:20:04.795Z",
+  "date": "2024-05-08T09:24:47.365Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 195,
+  "count": 222,
   "teams": [
     [
       "Samuel Geiger",
@@ -102,6 +102,16 @@
       "Peter Benz",
       "Julius Bruhn",
       "Julian Dehner"
+    ],
+    [
+      "Zelestin Ehrenheim",
+      "Ben Schimmel",
+      "Mario Benter"
+    ],
+    [
+      "Nils Bleich",
+      "Benjamin Höper",
+      "Ruslan Dvornitsyn"
     ],
     [
       "Phillipp Gründel",
@@ -327,6 +337,41 @@
       "Fabian Lange",
       "Rares Schuster",
       "Ralf Herp"
+    ],
+    [
+      "Martin Franke",
+      "Dennis Jacob Tor Weihen",
+      "Lars Volke"
+    ],
+    [
+      "Jennifer Krimm",
+      "Lea Riemann",
+      "Anne-Kathrin Weiß"
+    ],
+    [
+      "Tobias Weinaus",
+      "Hendrik Schirra",
+      "Christian Düfel"
+    ],
+    [
+      "Petre-Andrei Vintu",
+      "Alejandro Hernandez-Bonell",
+      "Korbinian Rudloff"
+    ],
+    [
+      "Joshua Regier",
+      "Maximilian Brandt",
+      "Stefan Klingauf"
+    ],
+    [
+      "Kristoffer Theiß",
+      "Sebastian Rohrer",
+      "Ulrich Droste"
+    ],
+    [
+      "Florian Schmidt",
+      "Nico Kreitmair",
+      "Fabian Blum"
     ]
   ]
 }

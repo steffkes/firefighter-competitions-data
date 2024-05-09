@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-08T15:24:10.416Z",
+  "date": "2024-05-09T09:20:26.513Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 222,
+  "count": 231,
   "teams": [
     [
       "Samuel Geiger",
@@ -112,6 +112,11 @@
       "Nils Bleich",
       "Benjamin Höper",
       "Ruslan Dvornitsyn"
+    ],
+    [
+      "Fabian Kluge",
+      "Maimuna Krüger",
+      "Lukas Keller"
     ],
     [
       "Phillipp Gründel",
@@ -372,6 +377,16 @@
       "Florian Schmidt",
       "Nico Kreitmair",
       "Fabian Blum"
+    ],
+    [
+      "Samuel Scherer",
+      "Daniel Dux",
+      "Alexander Stadler"
+    ],
+    [
+      "Fabian Missfelder",
+      "Julian Zimmermann",
+      "Lukas Zimmermann"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-10T09:24:45.951Z",
+  "date": "2024-05-10T15:20:44.504Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 234,
+  "count": 246,
   "teams": [
     [
       "Samuel Geiger",
@@ -392,6 +392,26 @@
       "Robert Richter",
       "Nicolas Keitz",
       "Bennet Heyen"
+    ],
+    [
+      "Gerd Itzenhäuser",
+      "Kevin Boppert",
+      "Tizian Kromer"
+    ],
+    [
+      "Elisa Fielbrand-Grösch",
+      "Christopher van Elsbergen",
+      "Kevin Schäfer"
+    ],
+    [
+      "Niclas Göthling",
+      "Leonard Faber",
+      "Philippe Prokasky"
+    ],
+    [
+      "Marc Becker",
+      "Jan Peter Schölei",
+      "Dawid Moczko"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-09T15:26:48.976Z",
+  "date": "2024-05-10T09:24:45.951Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 231,
+  "count": 234,
   "teams": [
     [
       "Samuel Geiger",
@@ -387,6 +387,11 @@
       "Fabian Missfelder",
       "Julian Zimmermann",
       "Lukas Zimmermann"
+    ],
+    [
+      "Robert Richter",
+      "Nicolas Keitz",
+      "Bennet Heyen"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-11T20:59:31.011Z",
+  "date": "2024-05-11T21:18:55.998Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 285,
+  "count": 291,
   "teams": [
     [
       "Samuel Geiger",
@@ -477,6 +477,16 @@
       "Niklas Koch",
       "Jan Eckhardt",
       "Martin Margraf"
+    ],
+    [
+      "Jan Cantow",
+      "Moritz Krieger",
+      "Dominik Volpert"
+    ],
+    [
+      "Jules Ambellouis",
+      "Alejandro Jose Diaz",
+      "Pia Rodriguez Peral"
     ]
   ]
 }

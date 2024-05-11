@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-11T13:52:23.064Z",
+  "date": "2024-05-11T14:14:53.584Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 270,
+  "count": 279,
   "teams": [
     [
       "Samuel Geiger",
@@ -137,6 +137,11 @@
       "Manuel Friedle",
       "Jennifer Messing",
       "Fabian Beck"
+    ],
+    [
+      "Florian Ludwig",
+      "Paul Herrmann",
+      "Simon Helfenstein"
     ],
     [
       "Phillipp Gründel",
@@ -452,6 +457,16 @@
       "N.julian N.volk",
       "Rosch Michael",
       "N.matthis N.eisenrich"
+    ],
+    [
+      "Eric Ebeling",
+      "Jannik Schwickart",
+      "Johannes Heyde"
+    ],
+    [
+      "Leon Pfeiffer",
+      "Paul Engelhard",
+      "N. N."
     ]
   ]
 }

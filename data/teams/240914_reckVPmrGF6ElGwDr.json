@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-11T23:30:57.475Z",
+  "date": "2024-05-11T23:47:19.002Z",
   "competition": "reckVPmrGF6ElGwDr",
-  "count": 42,
+  "count": 44,
   "teams": [
     [
       "Eike Will",
@@ -86,6 +86,10 @@
     [
       "Johann Molitor",
       "Elias Jantzer"
+    ],
+    [
+      "Benjamin Henrichs",
+      "Timo Cioch"
     ]
   ]
 }

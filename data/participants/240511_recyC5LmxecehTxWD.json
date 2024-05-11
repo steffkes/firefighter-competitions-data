@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-10T15:20:37.137Z",
+  "date": "2024-05-11T09:28:54.185Z",
   "competition": "recyC5LmxecehTxWD",
-  "count": 248,
+  "count": 252,
   "participants": [
     "Jasmin Bohun",
     "Theresa Maaß",
@@ -35,7 +35,7 @@
     "Jasmin Bohun",
     "Lukas Haller",
     "Elias Hils",
-    "Patrick Fecker",
+    "Christian Schmidt",
     "Cedric Schulz",
     "Tobias Kiefer",
     "Florian Meisinger",
@@ -103,7 +103,7 @@
     "Ralf Schneider",
     "Peter Finkbeiner",
     "Lucas Hermann",
-    "Lukas Schneider",
+    "Florian Kienzler",
     "Jonas Kammerer",
     "Stefan Schätzle",
     "Dominik Borho",
@@ -160,7 +160,7 @@
     "Steffen Scherer",
     "Valentin Schneck",
     "Basti Hartmann",
-    "Nils Buchholzer",
+    "Tom Galla",
     "Moritz Gula",
     "Heiko Bertleff",
     "Florian Mayerhofer",
@@ -214,7 +214,7 @@
     "Lukas Gönner",
     "Benedikt Schlegel",
     "Johannes Kienzler",
-    "Florian Kienzler",
+    "Lukas Schneider",
     "Robin Bertsche",
     "Felix Dold",
     "Johannes Kammerer",
@@ -250,6 +250,10 @@
     "Lukas Steiert",
     "Balazs Pollak",
     "Franz Burger",
-    "Dominik Brüstle"
+    "Dominik Brüstle",
+    "Tobias Diedrigkeit",
+    "Matthias Buttig",
+    "Wolfgang Buck",
+    "Sascha Unsöld"
   ]
 }

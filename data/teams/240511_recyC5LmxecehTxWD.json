@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-10T15:20:44.504Z",
+  "date": "2024-05-11T09:28:59.106Z",
   "competition": "recyC5LmxecehTxWD",
-  "count": 248,
+  "count": 252,
   "teams": [
     [
       "Jasmin Bohun",
@@ -68,7 +68,7 @@
       "Elias Hils"
     ],
     [
-      "Patrick Fecker",
+      "Christian Schmidt",
       "Cedric Schulz"
     ],
     [
@@ -204,7 +204,7 @@
       "Lucas Hermann"
     ],
     [
-      "Lukas Schneider",
+      "Florian Kienzler",
       "Jonas Kammerer"
     ],
     [
@@ -317,7 +317,7 @@
     ],
     [
       "Basti Hartmann",
-      "Nils Buchholzer"
+      "Tom Galla"
     ],
     [
       "Moritz Gula",
@@ -425,7 +425,7 @@
     ],
     [
       "Johannes Kienzler",
-      "Florian Kienzler"
+      "Lukas Schneider"
     ],
     [
       "Robin Bertsche",
@@ -498,6 +498,14 @@
     [
       "Franz Burger",
       "Dominik Brüstle"
+    ],
+    [
+      "Tobias Diedrigkeit",
+      "Matthias Buttig"
+    ],
+    [
+      "Wolfgang Buck",
+      "Sascha Unsöld"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-11T09:28:59.106Z",
+  "date": "2024-05-11T09:40:53.857Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 264,
+  "count": 267,
   "teams": [
     [
       "Samuel Geiger",
@@ -442,6 +442,11 @@
       "Mehran Mehrabian",
       "Alexander Wieczorek",
       "Martin Birkner"
+    ],
+    [
+      "N.johannes N.jausen",
+      "N.bock N.mauro",
+      "N.dominic N.talkenberger"
     ]
   ]
 }

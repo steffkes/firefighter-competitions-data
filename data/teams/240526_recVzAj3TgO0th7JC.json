@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-12T15:31:14.405Z",
+  "date": "2024-05-12T15:47:18.781Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 297,
+  "count": 306,
   "teams": [
     [
       "Samuel Geiger",
@@ -497,6 +497,21 @@
       "Marco Honecker",
       "Marie Schneider",
       "Calla Nico"
+    ],
+    [
+      "Alexander Buchtel",
+      "Pia Oberhofer",
+      "Yannick Ihl"
+    ],
+    [
+      "Luca Frank Blecher",
+      "Luca Brauburger",
+      "Kevin Splittstößer"
+    ],
+    [
+      "Patrick Lorenz",
+      "Thorsten Hopf",
+      "Justin Bühler"
     ]
   ]
 }

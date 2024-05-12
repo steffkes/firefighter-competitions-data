@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-12T18:29:36.874Z",
+  "date": "2024-05-12T18:41:19.749Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 309,
+  "count": 315,
   "teams": [
     [
       "Samuel Geiger",
@@ -151,7 +151,10 @@
     [
       "David Dürr",
       "Timo Dietl",
-      "Thomas Imhof"
+      "Thomas Imhof",
+      "Jan Kilb",
+      "Maximilian Springer",
+      "Benjamin Springer"
     ],
     [
       "Phillipp Gründel",
@@ -517,6 +520,11 @@
       "Wiktor Kowalicki",
       "Patrick Lorz",
       "Matthias Trost"
+    ],
+    [
+      "Niclas Weis",
+      "Alexander Haus",
+      "Yannik Weis"
     ]
   ]
 }

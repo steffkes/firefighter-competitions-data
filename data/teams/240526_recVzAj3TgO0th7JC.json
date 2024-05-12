@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-12T18:09:39.256Z",
+  "date": "2024-05-12T18:29:36.874Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 306,
+  "count": 309,
   "teams": [
     [
       "Samuel Geiger",
@@ -512,6 +512,11 @@
       "Patrick Lorenz",
       "Thorsten Hopf",
       "Justin Bühler"
+    ],
+    [
+      "Wiktor Kowalicki",
+      "Patrick Lorz",
+      "Matthias Trost"
     ]
   ]
 }

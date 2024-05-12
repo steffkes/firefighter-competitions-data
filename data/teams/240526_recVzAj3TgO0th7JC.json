@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-12T18:41:19.749Z",
+  "date": "2024-05-12T18:57:09.082Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 315,
+  "count": 318,
   "teams": [
     [
       "Samuel Geiger",
@@ -525,6 +525,11 @@
       "Niclas Weis",
       "Alexander Haus",
       "Yannik Weis"
+    ],
+    [
+      "Andreas Hartner",
+      "Noel Scharmann",
+      "Jens Bofinger"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-12T18:57:09.082Z",
+  "date": "2024-05-12T19:14:48.650Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 318,
+  "count": 324,
   "teams": [
     [
       "Samuel Geiger",
@@ -154,7 +154,10 @@
       "Thomas Imhof",
       "Jan Kilb",
       "Maximilian Springer",
-      "Benjamin Springer"
+      "Benjamin Springer",
+      "Robin Mack",
+      "Jan Abraham",
+      "Florian Schmidt"
     ],
     [
       "Phillipp Gründel",
@@ -530,6 +533,11 @@
       "Andreas Hartner",
       "Noel Scharmann",
       "Jens Bofinger"
+    ],
+    [
+      "Steffen Sala",
+      "Julius Becker",
+      "Matthias Berndorfer"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-11T15:27:25.018Z",
+  "date": "2024-05-12T09:21:57.255Z",
   "competition": "reckVPmrGF6ElGwDr",
-  "count": 34,
+  "count": 44,
   "teams": [
     [
       "Eike Will",
@@ -52,6 +52,22 @@
       "Daniel Mann"
     ],
     [
+      "Pascal Hofmann",
+      "Lennard Götz"
+    ],
+    [
+      "Sebastian Comont",
+      "Manuel Gerstel"
+    ],
+    [
+      "Max Kubsch",
+      "Dominik Sprung"
+    ],
+    [
+      "Christian Steigerwald",
+      "Martin Schreiber"
+    ],
+    [
       "Marlon Balbach",
       "Darius Luy"
     ],
@@ -70,6 +86,10 @@
     [
       "Johann Molitor",
       "Elias Jantzer"
+    ],
+    [
+      "Benjamin Henrichs",
+      "Timo Cioch"
     ]
   ]
 }

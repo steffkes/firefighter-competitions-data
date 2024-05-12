@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-12T09:21:57.255Z",
+  "date": "2024-05-12T15:19:29.631Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 291,
+  "count": 297,
   "teams": [
     [
       "Samuel Geiger",
@@ -147,6 +147,11 @@
       "Daniel Minnert",
       "Katharina Rheindorf",
       "Pamela Klein"
+    ],
+    [
+      "David Dürr",
+      "Timo Dietl",
+      "Thomas Imhof"
     ],
     [
       "Phillipp Gründel",
@@ -487,6 +492,11 @@
       "Jules Ambellouis",
       "Alejandro Jose Diaz",
       "Pia Rodriguez Peral"
+    ],
+    [
+      "Marco Honecker",
+      "Marie Schneider",
+      "Calla Nico"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-12T15:19:29.631Z",
+  "date": "2024-05-13T09:30:11.661Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 297,
+  "count": 327,
   "teams": [
     [
       "Samuel Geiger",
@@ -151,7 +151,18 @@
     [
       "David Dürr",
       "Timo Dietl",
-      "Thomas Imhof"
+      "Thomas Imhof",
+      "Jan Kilb",
+      "Maximilian Springer",
+      "Benjamin Springer",
+      "Robin Mack",
+      "Jan Abraham",
+      "Florian Schmidt"
+    ],
+    [
+      "Matthias Buttig",
+      "Tobias Diedrigkeit",
+      "Stefan Matheis"
     ],
     [
       "Phillipp Gründel",
@@ -497,6 +508,41 @@
       "Marco Honecker",
       "Marie Schneider",
       "Calla Nico"
+    ],
+    [
+      "Alexander Buchtel",
+      "Pia Oberhofer",
+      "Yannick Ihl"
+    ],
+    [
+      "Luca Frank Blecher",
+      "Luca Brauburger",
+      "Kevin Splittstößer"
+    ],
+    [
+      "Patrick Lorenz",
+      "Thorsten Hopf",
+      "Justin Bühler"
+    ],
+    [
+      "Wiktor Kowalicki",
+      "Patrick Lorz",
+      "Matthias Trost"
+    ],
+    [
+      "Niclas Weis",
+      "Alexander Haus",
+      "Yannik Weis"
+    ],
+    [
+      "Andreas Hartner",
+      "Noel Scharmann",
+      "Jens Bofinger"
+    ],
+    [
+      "Steffen Sala",
+      "Julius Becker",
+      "Matthias Berndorfer"
     ]
   ]
 }

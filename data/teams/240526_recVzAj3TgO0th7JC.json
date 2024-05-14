@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-14T15:52:08.270Z",
+  "date": "2024-05-14T16:22:56.211Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 330,
+  "count": 333,
   "teams": [
     [
       "Samuel Geiger",
@@ -552,6 +552,11 @@
       "Andreas Berberich",
       "Matthias Dechert",
       "N. N."
+    ],
+    [
+      "Marco Groh",
+      "Mike Fieber",
+      "Alexander Giller"
     ]
   ]
 }

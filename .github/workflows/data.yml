@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: tmp/improve-data-collection
+          ref: ${{ github.ref }}
       - uses: actions/setup-node@v2.1.2
         with:
           node-version: 16
@@ -18,6 +18,3 @@ jobs:
       - run: node participants.js
       - run: node teams.js
       - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          branch: tmp/improve-data-collection
-          create_branch: true

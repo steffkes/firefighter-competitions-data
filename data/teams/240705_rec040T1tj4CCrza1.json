@@ -1,13 +1,19 @@
 {
-  "date": "2024-05-06T17:13:19.440535",
+  "date": "2024-05-14T15:55:08.634114",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 541,
+  "count": 627,
   "teams": [
+    [
+      "Adam Spychała"
+    ],
     [
       "Alan Dittrich"
     ],
     [
       "Alessia Hörning"
+    ],
+    [
+      "Alexander Greis"
     ],
     [
       "Alexander Hellwig"
@@ -28,6 +34,12 @@
       "Alexander Schwarte"
     ],
     [
+      "Alexander Spät Kulhawy"
+    ],
+    [
+      "Alexander Tittelbach"
+    ],
+    [
       "Alotaibi Khaled"
     ],
     [
@@ -43,6 +55,9 @@
       "André Herborn"
     ],
     [
+      "André Kühne"
+    ],
+    [
       "Anja Riehn"
     ],
     [
@@ -53,6 +68,9 @@
     ],
     [
       "Anze Habjan"
+    ],
+    [
+      "Balandraux Vincent"
     ],
     [
       "Bastien Amelot"
@@ -85,6 +103,9 @@
       "Christian Schüller"
     ],
     [
+      "Christopher Trendowitz"
+    ],
+    [
       "Daniel Finster"
     ],
     [
@@ -98,6 +119,9 @@
     ],
     [
       "David Manera"
+    ],
+    [
+      "Dawid Hyżyk"
     ],
     [
       "Dennis Möller"
@@ -118,6 +142,9 @@
       "Erik Hoffmeister"
     ],
     [
+      "Erik Langenhahn"
+    ],
+    [
       "Fabian Kohlei"
     ],
     [
@@ -134,6 +161,9 @@
     ],
     [
       "Florian Rosenbaum"
+    ],
+    [
+      "Florian Wedel"
     ],
     [
       "Frank Peter"
@@ -190,7 +220,13 @@
       "Jasmin Bohun"
     ],
     [
+      "Jeremy Hoffmann"
+    ],
+    [
       "Jerome Dubois"
+    ],
+    [
+      "Joel Bloch"
     ],
     [
       "Jörg Eberhard"
@@ -247,6 +283,12 @@
       "Lukas Wickmann"
     ],
     [
+      "Lukas Wickmann"
+    ],
+    [
+      "Lukáš Navrátil"
+    ],
+    [
       "MARKUS BROCKERS"
     ],
     [
@@ -257,6 +299,15 @@
     ],
     [
       "Marcel Koch-Mühlinghaus"
+    ],
+    [
+      "Marcel Lehmann"
+    ],
+    [
+      "Marcel Schumacher"
+    ],
+    [
+      "Marian Brandes"
     ],
     [
       "Marina Nikic"
@@ -304,7 +355,16 @@
       "Matthias Weickmann"
     ],
     [
+      "Maurice Müller"
+    ],
+    [
       "Maurine Kronberger"
+    ],
+    [
+      "Max Langguth"
+    ],
+    [
+      "May Tommervold"
     ],
     [
       "May Tommervold"
@@ -317,6 +377,9 @@
     ],
     [
       "Michael Güth"
+    ],
+    [
+      "Michael Joseph"
     ],
     [
       "Michal Brousil"
@@ -332,6 +395,9 @@
     ],
     [
       "Miro Michlovský"
+    ],
+    [
+      "Miroslav Neveselý"
     ],
     [
       "Moritz Bulach"
@@ -367,6 +433,9 @@
       "Patrik Štefelin"
     ],
     [
+      "Paul Hild"
+    ],
+    [
       "Peter Schmidmair"
     ],
     [
@@ -374,6 +443,9 @@
     ],
     [
       "Phillip Blau"
+    ],
+    [
+      "Phillipp Kozin"
     ],
     [
       "Phul Heise"
@@ -440,6 +512,9 @@
     ],
     [
       "Simon Schoog-Döhring"
+    ],
+    [
+      "Simon Schwert"
     ],
     [
       "Stefan Fetting"
@@ -535,6 +610,10 @@
       "sully frillonnet"
     ],
     [
+      "Adam Spychała",
+      "Dawid Hyżyk"
+    ],
+    [
       "Alan Dittrich",
       "Moritz Bulach"
     ],
@@ -545,6 +624,10 @@
     [
       "Alessia Hörning",
       "Viktoria Klik"
+    ],
+    [
+      "Alexander Ackermann",
+      "Kevin Kaufmann"
     ],
     [
       "Alexander Herbrecht",
@@ -569,6 +652,10 @@
     [
       "Alotaibi Khaled",
       "Kanaan Khaled"
+    ],
+    [
+      "Amanda Mackey",
+      "Hanne Vandersmissen"
     ],
     [
       "Andreas Engel",
@@ -615,6 +702,10 @@
       "Gregor Stanonik"
     ],
     [
+      "Balandraux Vincent",
+      "Coolen Cassandra"
+    ],
+    [
       "Bastien Amelot",
       "Gerome Vidal"
     ],
@@ -631,6 +722,10 @@
       "Martin Remplbauer"
     ],
     [
+      "Birhte Plogh",
+      "Marian Brandes"
+    ],
+    [
       "Birthe Plohg",
       "Rebea Sonnenberg"
     ],
@@ -645,6 +740,10 @@
     [
       "Christian Bradler",
       "Tim Hoffmann"
+    ],
+    [
+      "Christopher Trendowitz",
+      "Michael Joseph"
     ],
     [
       "Damian Pyka",
@@ -685,6 +784,10 @@
     [
       "Dietmar Kirsch",
       "Ralf Sikorra"
+    ],
+    [
+      "Domenic Spalt",
+      "Eva-Nathalie Zapp"
     ],
     [
       "Domenic Spalt",
@@ -739,6 +842,10 @@
       "Nils Broch"
     ],
     [
+      "Gianluca Westerfeld",
+      "Phillipp Kozin"
+    ],
+    [
       "Hanne Vandersmissen",
       "Johnny Gheeraert"
     ],
@@ -749,6 +856,10 @@
     [
       "Heiko Gerke",
       "No Name"
+    ],
+    [
+      "Helge Sonnenberg",
+      "Marian Brandes"
     ],
     [
       "Helge Sonnenberg",
@@ -785,6 +896,18 @@
     [
       "Jannik Wagner",
       "Mike Stöbener"
+    ],
+    [
+      "Jasmin Bohun",
+      "Maria Strauch"
+    ],
+    [
+      "Joel Bloch",
+      "Nicole Mrosek"
+    ],
+    [
+      "Joel Bloch",
+      "Sascha Michala"
     ],
     [
       "Joel Cattaux",
@@ -831,6 +954,10 @@
       "Uwe Heise"
     ],
     [
+      "Luciano Lüthi",
+      "Nadine Walther"
+    ],
+    [
       "Luka Heim",
       "Michael Rachner"
     ],
@@ -841,6 +968,14 @@
     [
       "Magnus Metje",
       "Sören Warzok"
+    ],
+    [
+      "Marcel Lehmann",
+      "Max Langguth"
+    ],
+    [
+      "Marcel Schumacher",
+      "Niklas Novac"
     ],
     [
       "Mario Hansen",
@@ -863,6 +998,10 @@
       "Maurine Kronberger"
     ],
     [
+      "Martin Brieden",
+      "Michael Bartmann"
+    ],
+    [
       "Martin Plšek",
       "Tomáš Višňar"
     ],
@@ -875,12 +1014,20 @@
       "Michel Bantel"
     ],
     [
+      "Maurice Müller",
+      "Michael Joseph"
+    ],
+    [
       "Maurice Strauss",
       "Nicole Tuchbreiter"
     ],
     [
       "Maurice Strauss",
       "Stefan Matheis"
+    ],
+    [
+      "May Tommervold",
+      "Robin Altbürger"
     ],
     [
       "May Tømmervold",
@@ -939,6 +1086,10 @@
       "Stefan Fetting"
     ],
     [
+      "Sabine Sauer",
+      "Werner Sauer"
+    ],
+    [
       "Sebastjan Vovko",
       "Youseff Alqualaf"
     ],
@@ -970,6 +1121,11 @@
       "Alessia Hörning",
       "Lukas Himbert",
       "Viktoria Klik"
+    ],
+    [
+      "Alexander Sader",
+      "Laura Andres",
+      "Tobias Fischer"
     ],
     [
       "Anze Habjan",
@@ -1078,11 +1234,25 @@
       "Tim Hoffmann"
     ],
     [
+      "Alexander Ackermann",
+      "Kevin Kaufmann",
+      "Luca Martinelli",
+      "Luciano Lüthi",
+      "Nadine Walther"
+    ],
+    [
       "Alexander Herbrecht",
       "Dario Peter",
       "Mario Hansen",
       "Nick Kuhlen",
       "Simon Schoog-Döhring"
+    ],
+    [
+      "Alexander Sader",
+      "Alexander Tittelbach",
+      "Joel Bloch",
+      "Sascha Michalla",
+      "Tobias Fischer"
     ],
     [
       "Alotaibi Khaled",
@@ -1097,6 +1267,13 @@
       "Karsten Ehrhardt",
       "Simon Gapp",
       "Thomas Meißner"
+    ],
+    [
+      "André Kühne",
+      "Daniel Schimank",
+      "Martin Erbe",
+      "Michael Bartmann",
+      "Peer Schneider"
     ],
     [
       "Anja Sudholt",
@@ -1118,6 +1295,13 @@
       "Feuerhack Mirco",
       "Fleerkorte Mario",
       "Vogt Hans Jürgen"
+    ],
+    [
+      "Brandes Marian",
+      "Kulhawy Alexander",
+      "Plohg Birthe",
+      "Rebea Sonnenberg",
+      "Sonnenberg Helge"
     ],
     [
       "Damian Pyka",

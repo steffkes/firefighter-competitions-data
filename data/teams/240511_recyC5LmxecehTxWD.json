@@ -1,511 +1,511 @@
 {
-  "date": "2024-05-14T09:21:09.934Z",
-  "competition": "recyC5LmxecehTxWD",
+  "date": "2024-05-14T15:55:04.522324",
+  "competition_id": "recyC5LmxecehTxWD",
   "count": 252,
   "teams": [
     [
-      "Jasmin Bohun",
-      "Theresa Maaß"
+      "Adrian Jehle",
+      "Jonas Kirstein"
     ],
     [
-      "Damian Pyka",
-      "Steve Roidl"
-    ],
-    [
-      "Damian Pyka",
-      "Jasmin Bohun"
-    ],
-    [
-      "Julia Dawid",
-      "Michael Dawid"
-    ],
-    [
-      "Martin Köberle",
-      "Nick Hespeler"
-    ],
-    [
-      "Nicole Tuchbreiter",
-      "Matthias Weickmann"
-    ],
-    [
-      "Nadja Boesler",
-      "Silas Bösch"
-    ],
-    [
-      "Markus Klink",
-      "Manfred Wäscher"
-    ],
-    [
-      "Michael Arnegger",
-      "Robin Kirchmaier"
-    ],
-    [
-      "Stefan Graf",
-      "Tobias Zähringer"
-    ],
-    [
-      "Jörg Bogenschütz",
-      "Volker Müller"
-    ],
-    [
-      "Armin Kirchner",
-      "Adrian Kirchner"
-    ],
-    [
-      "Jonas Kirstein",
-      "Adrian Jehle"
+      "Adrian Kirchner",
+      "Armin Kirchner"
     ],
     [
       "Alan Dittrich",
       "Moritz Bulach"
     ],
     [
-      "Nicole Tuchbreiter",
-      "Jasmin Bohun"
-    ],
-    [
-      "Lukas Haller",
-      "Elias Hils"
-    ],
-    [
-      "Christian Schmidt",
-      "Cedric Schulz"
-    ],
-    [
-      "Tobias Kiefer",
-      "Florian Meisinger"
-    ],
-    [
-      "Florian Wein",
-      "Dennis Platz"
-    ],
-    [
-      "Manfred Freimut",
-      "Ralf Oberle"
-    ],
-    [
-      "Rares Schuster",
-      "Ralf Herp"
-    ],
-    [
-      "Lorenz Hilebrand",
-      "Gabriel Pfleghaar"
-    ],
-    [
-      "Erik Langenhahn",
-      "Matthias Weickmann"
-    ],
-    [
-      "Marc Schauer",
-      "Philipp Targosch"
-    ],
-    [
-      "Daniel Kister",
-      "Ulf Langwasser"
-    ],
-    [
-      "Florian Wirth",
-      "Mark Winter"
-    ],
-    [
-      "Andreas Wirth",
-      "Julius Römpp"
-    ],
-    [
-      "Tim Hessler",
-      "Vanessa Kopp"
-    ],
-    [
-      "Torsten Wölfel",
-      "Sebastian Schwer"
-    ],
-    [
-      "Nico Beha",
-      "Moritz Schaut"
-    ],
-    [
-      "Fabian Peter",
-      "Florian Auber"
-    ],
-    [
-      "Christoph Groß",
-      "Philipp Großmann"
-    ],
-    [
-      "Philip Strenger",
-      "Florian Blaffert"
-    ],
-    [
-      "Justin Otto",
-      "Benny Hagel"
-    ],
-    [
-      "Jacob Machauer",
-      "Florian Wolf"
-    ],
-    [
-      "Fabian Wendel",
-      "Christian Maier"
-    ],
-    [
-      "Stefan Hornstein",
-      "Felix Knoll"
-    ],
-    [
-      "Thomas Schindele",
-      "Lukas Choinowski"
-    ],
-    [
-      "Sven Reuter",
-      "Andreas Wilhelm"
-    ],
-    [
-      "Christian Bradler",
-      "Tim Hoffmann"
-    ],
-    [
-      "Marcel Specker",
-      "Paul Fräntzki"
-    ],
-    [
-      "Martin Weber",
-      "Albrecht Gutjahr"
-    ],
-    [
-      "Jörg Herzog",
-      "René Stuepp"
-    ],
-    [
-      "Sascha Müller",
-      "Marcel Schwer"
-    ],
-    [
-      "Theresa Schäfer",
-      "Lukas Dold"
-    ],
-    [
-      "Daniel Hepting",
-      "Tobias Dorer"
-    ],
-    [
-      "Valentin Strehle",
-      "Franziska Elmas"
-    ],
-    [
-      "Nikolas Öhlenschläger",
-      "Joshua Wolf"
-    ],
-    [
-      "Nicolas Faure",
-      "Ralf Schneider"
-    ],
-    [
-      "Peter Finkbeiner",
-      "Lucas Hermann"
-    ],
-    [
-      "Florian Kienzler",
-      "Jonas Kammerer"
-    ],
-    [
-      "Stefan Schätzle",
-      "Dominik Borho"
-    ],
-    [
-      "Wellhäußer Julian",
-      "Blaser Nico"
-    ],
-    [
-      "Markus Maier",
-      "Ralf Schneider"
-    ],
-    [
-      "Ilmo Gleim",
-      "Oliver Blum"
-    ],
-    [
-      "Ben Dümpelmann",
-      "Tim Kaltenbrunner"
-    ],
-    [
-      "Niklas Rottler",
-      "Yannis Dotter"
-    ],
-    [
-      "Fabian Persinger",
-      "Linus Hürler"
-    ],
-    [
-      "Jens Uttenweiler",
-      "Bernd Scherer"
-    ],
-    [
-      "Mario Maurer",
-      "Benjamin Flatt"
+      "Albrecht Gutjahr",
+      "Martin Weber"
     ],
     [
       "Alexander Fleig",
       "Florian Oßwald"
     ],
     [
-      "Johannes Blum",
-      "Alexander Schneider"
+      "Alexander Greis",
+      "Nicolas Faure"
+    ],
+    [
+      "Alexander Schneider",
+      "Johannes Blum"
     ],
     [
       "Alwin Lotzer",
       "Steffen Gühring"
     ],
     [
-      "Frank Rebholz",
-      "Pascal Rebholz"
+      "Andi Balaj",
+      "Felix Müller"
     ],
     [
-      "Stefan Waldinger",
-      "Florian Ips"
+      "Andre Vetter jan",
+      "Julia Koebcke"
     ],
     [
-      "Felix Müller",
-      "Andi Balaj"
-    ],
-    [
-      "Moritz Weber",
-      "Bastian Zehnle"
-    ],
-    [
-      "Felix Boos",
-      "Joshua Beck"
-    ],
-    [
-      "Hannes Schreiber",
-      "Michael Kalcher"
-    ],
-    [
-      "Betina Hettich",
-      "Uwe Götz"
-    ],
-    [
-      "Johannes Eberlen",
-      "Leonard Faul"
-    ],
-    [
-      "Sven Blessing",
-      "Moritz Schipper"
-    ],
-    [
-      "Martin Huber",
-      "Carsten Krämer"
-    ],
-    [
-      "Petra Koch",
-      "Christian Koch"
-    ],
-    [
-      "Fabian Missfelder",
-      "Stefan Matheis"
-    ],
-    [
-      "Ramon Kilian",
-      "Matthias Brand"
-    ],
-    [
-      "Tobias Breining",
-      "Benny Reyle"
-    ],
-    [
-      "Steffen Scherer",
-      "Valentin Schneck"
-    ],
-    [
-      "Basti Hartmann",
-      "Tom Galla"
-    ],
-    [
-      "Moritz Gula",
-      "Heiko Bertleff"
-    ],
-    [
-      "Florian Mayerhofer",
-      "Marco Fischer"
+      "Andreas Bezikofer",
+      "Markus Moser"
     ],
     [
       "Andreas Koball",
       "Lukas Merz"
     ],
     [
-      "Fabian Missfelder",
-      "Ramona Benitz"
+      "Andreas Wilhelm",
+      "Sven Reuter"
     ],
     [
-      "Luca Ellerbrock",
-      "Simon Rheiner"
+      "Andreas Wirth",
+      "Julius Römpp"
     ],
     [
-      "Theresa Maaß",
-      "Benjamin Ernst"
+      "Balazs Pollak",
+      "Lukas Steiert"
     ],
     [
-      "Ferdinand Oser",
-      "Stefanie Hägele"
+      "Basti Hartmann",
+      "Tom Galla"
     ],
     [
-      "Roman Götz",
-      "Tobias Rosen"
+      "Bastian Zehnle",
+      "Moritz Weber"
     ],
     [
-      "Norman Krämer",
-      "Jeremy Henninger"
+      "Ben Dümpelmann",
+      "Tim Kaltenbrunner"
     ],
     [
-      "Sören Thor",
-      "Olaf Thor"
+      "Benedikt Schlegel",
+      "Lukas Gönner"
     ],
     [
-      "Lucas Friedewald",
-      "Sarah Bruchowski"
+      "Benjamin Ernst",
+      "Theresa Maaß"
     ],
     [
-      "Julia Koebcke",
-      "Andre Vetter jan"
+      "Benjamin Flatt",
+      "Mario Maurer"
     ],
     [
-      "Kiet To han",
-      "Gerrit Knappe"
+      "Benny Hagel",
+      "Justin Otto"
     ],
     [
-      "Martin Lehmann",
-      "Ireneusz Rzepka"
+      "Benny Reyle",
+      "Tobias Breining"
     ],
     [
-      "Alexander Greis",
-      "Nicolas Faure"
+      "Bernd Scherer",
+      "Jens Uttenweiler"
     ],
     [
-      "Florian Bach",
-      "Matthias Hipp"
+      "Betina Hettich",
+      "Uwe Götz"
     ],
     [
-      "Matthias Kunle",
-      "Johannes Ummenhofer"
-    ],
-    [
-      "Lena Lieb",
-      "Max Gurel"
-    ],
-    [
-      "Luca Gurel",
-      "Jakob Thaler"
-    ],
-    [
-      "Michael Menzl marc",
-      "Guido Abele"
-    ],
-    [
-      "Marius Schätzle",
-      "Sascha Kaltenbach"
-    ],
-    [
-      "Georg Schröppel",
-      "Marcel König"
-    ],
-    [
-      "Willy Jäger",
-      "Jannis Mast"
-    ],
-    [
-      "Markus Moser",
-      "Andreas Bezikofer"
-    ],
-    [
-      "Lukas Zimmermann",
-      "Julian Zimmermann"
-    ],
-    [
-      "Lukas Gönner",
-      "Benedikt Schlegel"
-    ],
-    [
-      "Johannes Kienzler",
-      "Lukas Schneider"
-    ],
-    [
-      "Robin Bertsche",
-      "Felix Dold"
-    ],
-    [
-      "Johannes Kammerer",
-      "Daniel Rapp"
+      "Blaser Nico",
+      "Wellhäußer Julian"
     ],
     [
       "Boris Cech-medak",
       "Markus Berg"
     ],
     [
-      "Pauline Rudolph",
-      "Jonas Hormuth"
+      "Carsten Krämer",
+      "Martin Huber"
     ],
     [
-      "Marvin Hahn",
-      "Marcel Bauer"
+      "Cedric Schulz",
+      "Christian Schmidt"
     ],
     [
-      "Christopher Birkle",
-      "Fabian Vötsch"
+      "Christian Bradler",
+      "Tim Hoffmann"
     ],
     [
-      "Fabian Strobel",
-      "Steffen Hessing"
+      "Christian Koch",
+      "Petra Koch"
     ],
     [
-      "Pascal Hilser",
-      "Mario Steblaj"
-    ],
-    [
-      "Johannes Dannecker",
-      "Tim Schilli"
-    ],
-    [
-      "Silas Ringwald",
-      "Dennis Trojanski"
-    ],
-    [
-      "René Zandomeni",
-      "Daniel Schwer"
-    ],
-    [
-      "Nadja Will",
-      "Sebastian Metzler"
-    ],
-    [
-      "Stephan Groß",
-      "Christofer Adamczyk"
-    ],
-    [
-      "Robin Adamczyk",
-      "Clemens Treyer"
+      "Christian Maier",
+      "Fabian Wendel"
     ],
     [
       "Christian Trötschler",
       "Fabian Eckert"
     ],
     [
-      "Luca Ellerbrock",
+      "Christofer Adamczyk",
+      "Stephan Groß"
+    ],
+    [
+      "Christoph Groß",
+      "Philipp Großmann"
+    ],
+    [
+      "Christopher Birkle",
+      "Fabian Vötsch"
+    ],
+    [
+      "Clemens Treyer",
+      "Robin Adamczyk"
+    ],
+    [
+      "Damian Pyka",
       "Jasmin Bohun"
     ],
     [
-      "Lukas Steiert",
-      "Balazs Pollak"
+      "Damian Pyka",
+      "Steve Roidl"
     ],
     [
-      "Franz Burger",
-      "Dominik Brüstle"
+      "Daniel Hepting",
+      "Tobias Dorer"
     ],
     [
-      "Tobias Diedrigkeit",
-      "Matthias Buttig"
+      "Daniel Kister",
+      "Ulf Langwasser"
     ],
     [
-      "Wolfgang Buck",
-      "Sascha Unsöld"
+      "Daniel Rapp",
+      "Johannes Kammerer"
+    ],
+    [
+      "Daniel Schwer",
+      "René Zandomeni"
+    ],
+    [
+      "Dennis Platz",
+      "Florian Wein"
+    ],
+    [
+      "Dennis Trojanski",
+      "Silas Ringwald"
+    ],
+    [
+      "Dominik Borho",
+      "Stefan Schätzle"
+    ],
+    [
+      "Dominik Brüstle",
+      "Franz Burger"
+    ],
+    [
+      "Elias Hils",
+      "Lukas Haller"
+    ],
+    [
+      "Erik Langenhahn",
+      "Matthias Weickmann"
+    ],
+    [
+      "Fabian Missfelder",
+      "Ramona Benitz"
+    ],
+    [
+      "Fabian Missfelder",
+      "Stefan Matheis"
+    ],
+    [
+      "Fabian Persinger",
+      "Linus Hürler"
+    ],
+    [
+      "Fabian Peter",
+      "Florian Auber"
+    ],
+    [
+      "Fabian Strobel",
+      "Steffen Hessing"
+    ],
+    [
+      "Felix Boos",
+      "Joshua Beck"
+    ],
+    [
+      "Felix Dold",
+      "Robin Bertsche"
+    ],
+    [
+      "Felix Knoll",
+      "Stefan Hornstein"
+    ],
+    [
+      "Ferdinand Oser",
+      "Stefanie Hägele"
+    ],
+    [
+      "Florian Bach",
+      "Matthias Hipp"
+    ],
+    [
+      "Florian Blaffert",
+      "Philip Strenger"
+    ],
+    [
+      "Florian Ips",
+      "Stefan Waldinger"
+    ],
+    [
+      "Florian Kienzler",
+      "Jonas Kammerer"
+    ],
+    [
+      "Florian Mayerhofer",
+      "Marco Fischer"
+    ],
+    [
+      "Florian Meisinger",
+      "Tobias Kiefer"
+    ],
+    [
+      "Florian Wirth",
+      "Mark Winter"
+    ],
+    [
+      "Florian Wolf",
+      "Jacob Machauer"
+    ],
+    [
+      "Frank Rebholz",
+      "Pascal Rebholz"
+    ],
+    [
+      "Franziska Elmas",
+      "Valentin Strehle"
+    ],
+    [
+      "Gabriel Pfleghaar",
+      "Lorenz Hilebrand"
+    ],
+    [
+      "Georg Schröppel",
+      "Marcel König"
+    ],
+    [
+      "Gerrit Knappe",
+      "Kiet To han"
+    ],
+    [
+      "Guido Abele",
+      "Michael Menzl marc"
+    ],
+    [
+      "Hannes Schreiber",
+      "Michael Kalcher"
+    ],
+    [
+      "Heiko Bertleff",
+      "Moritz Gula"
+    ],
+    [
+      "Ilmo Gleim",
+      "Oliver Blum"
+    ],
+    [
+      "Ireneusz Rzepka",
+      "Martin Lehmann"
+    ],
+    [
+      "Jakob Thaler",
+      "Luca Gurel"
+    ],
+    [
+      "Jannis Mast",
+      "Willy Jäger"
+    ],
+    [
+      "Jasmin Bohun",
+      "Luca Ellerbrock"
+    ],
+    [
+      "Jasmin Bohun",
+      "Nicole Tuchbreiter"
+    ],
+    [
+      "Jasmin Bohun",
+      "Theresa Maaß"
+    ],
+    [
+      "Jeremy Henninger",
+      "Norman Krämer"
+    ],
+    [
+      "Johannes Dannecker",
+      "Tim Schilli"
+    ],
+    [
+      "Johannes Eberlen",
+      "Leonard Faul"
+    ],
+    [
+      "Johannes Kienzler",
+      "Lukas Schneider"
+    ],
+    [
+      "Johannes Ummenhofer",
+      "Matthias Kunle"
+    ],
+    [
+      "Jonas Hormuth",
+      "Pauline Rudolph"
+    ],
+    [
+      "Joshua Wolf",
+      "Nikolas Öhlenschläger"
+    ],
+    [
+      "Julia Dawid",
+      "Michael Dawid"
+    ],
+    [
+      "Julian Zimmermann",
+      "Lukas Zimmermann"
+    ],
+    [
+      "Jörg Bogenschütz",
+      "Volker Müller"
+    ],
+    [
+      "Jörg Herzog",
+      "René Stuepp"
+    ],
+    [
+      "Lena Lieb",
+      "Max Gurel"
+    ],
+    [
+      "Luca Ellerbrock",
+      "Simon Rheiner"
+    ],
+    [
+      "Lucas Friedewald",
+      "Sarah Bruchowski"
+    ],
+    [
+      "Lucas Hermann",
+      "Peter Finkbeiner"
+    ],
+    [
+      "Lukas Choinowski",
+      "Thomas Schindele"
+    ],
+    [
+      "Lukas Dold",
+      "Theresa Schäfer"
+    ],
+    [
+      "Manfred Freimut",
+      "Ralf Oberle"
+    ],
+    [
+      "Manfred Wäscher",
+      "Markus Klink"
+    ],
+    [
+      "Marc Schauer",
+      "Philipp Targosch"
+    ],
+    [
+      "Marcel Bauer",
+      "Marvin Hahn"
+    ],
+    [
+      "Marcel Schwer",
+      "Sascha Müller"
+    ],
+    [
+      "Marcel Specker",
+      "Paul Fräntzki"
+    ],
+    [
+      "Mario Steblaj",
+      "Pascal Hilser"
+    ],
+    [
+      "Marius Schätzle",
+      "Sascha Kaltenbach"
+    ],
+    [
+      "Markus Maier",
+      "Ralf Schneider"
+    ],
+    [
+      "Martin Köberle",
+      "Nick Hespeler"
+    ],
+    [
+      "Matthias Brand",
+      "Ramon Kilian"
+    ],
+    [
+      "Matthias Buttig",
+      "Tobias Diedrigkeit"
+    ],
+    [
+      "Matthias Weickmann",
+      "Nicole Tuchbreiter"
+    ],
+    [
+      "Michael Arnegger",
+      "Robin Kirchmaier"
+    ],
+    [
+      "Moritz Schaut",
+      "Nico Beha"
+    ],
+    [
+      "Moritz Schipper",
+      "Sven Blessing"
+    ],
+    [
+      "Nadja Boesler",
+      "Silas Bösch"
+    ],
+    [
+      "Nadja Will",
+      "Sebastian Metzler"
+    ],
+    [
+      "Nicolas Faure",
+      "Ralf Schneider"
+    ],
+    [
+      "Niklas Rottler",
+      "Yannis Dotter"
+    ],
+    [
+      "Olaf Thor",
+      "Sören Thor"
+    ],
+    [
+      "Ralf Herp",
+      "Rares Schuster"
+    ],
+    [
+      "Roman Götz",
+      "Tobias Rosen"
+    ],
+    [
+      "Sascha Unsöld",
+      "Wolfgang Buck"
+    ],
+    [
+      "Sebastian Schwer",
+      "Torsten Wölfel"
+    ],
+    [
+      "Stefan Graf",
+      "Tobias Zähringer"
+    ],
+    [
+      "Steffen Scherer",
+      "Valentin Schneck"
+    ],
+    [
+      "Tim Hessler",
+      "Vanessa Kopp"
     ]
   ]
 }

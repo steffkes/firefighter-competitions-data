@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-14T11:51:43.622Z",
+  "date": "2024-05-14T12:33:13.134Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 327,
+  "count": 330,
   "teams": [
     [
       "Samuel Geiger",
@@ -326,17 +326,17 @@
     [
       "Jonas Eisenhauer",
       "Markus Brähler",
-      "N. N."
+      "Maximilian Berg"
     ],
     [
       "Nicholas Wolf",
       "Maximilian Schmitt",
-      "N. N."
+      "Nouman Bazerji"
     ],
     [
       "Franziska Läßig",
       "Marvin Dirk Reinecke",
-      "N. N."
+      "Nick Naujoks"
     ],
     [
       "Stefan Reinhart",
@@ -547,6 +547,11 @@
       "Steffen Sala",
       "Julius Becker",
       "Matthias Berndorfer"
+    ],
+    [
+      "Andreas Berberich",
+      "Matthias Dechert",
+      "N. N."
     ]
   ]
 }

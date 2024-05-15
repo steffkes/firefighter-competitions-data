@@ -1,299 +1,299 @@
 {
-  "date": "2024-05-14T15:55:09.825550",
-  "competition_id": "recRqH7LW1AQQ66FR",
+  "date": "2024-05-14T09:21:09.934Z",
+  "competition": "recRqH7LW1AQQ66FR",
   "count": 146,
   "teams": [
     [
-      "Aaron Watzl",
-      "Fochler Peter"
+      "Richard Auwärter",
+      "Schneider Jonas"
     ],
     [
-      "Adams Jonas",
-      "Philipp Hartmann"
-    ],
-    [
-      "Alexander Danner",
-      "Treberg Heiko"
-    ],
-    [
-      "Alexander Vollmer",
-      "Kurz Fabian"
-    ],
-    [
-      "Andreas Kaupp",
-      "Großmann Philipp"
-    ],
-    [
-      "Auwärter Hannes",
-      "Markus Wolff"
-    ],
-    [
-      "Bastian Hartmann",
-      "Reyle Benny"
-    ],
-    [
-      "Ben Brand",
-      "Franke Theodor"
-    ],
-    [
-      "Benjamin Cugaly",
-      "Rieder Felix"
-    ],
-    [
-      "Benjamin Heid",
-      "Nauth Sebastian"
-    ],
-    [
-      "Benjamin Krämer",
-      "Lukas Schäch"
-    ],
-    [
-      "Bilwachs Marco",
-      "Yannik Grüneberg"
-    ],
-    [
-      "Brand Mona",
-      "Tamara Kilian"
-    ],
-    [
-      "Braun Tobias",
-      "Katharina Forster"
-    ],
-    [
-      "Christian Kröner",
-      "Tim Kröner"
-    ],
-    [
-      "Czotscher Jörg",
-      "Felix Conzelmann"
-    ],
-    [
-      "Daniel Tutsch",
-      "Gieck Stephan"
-    ],
-    [
-      "Dennis Pfleghaar",
-      "Erdenberger Mike"
-    ],
-    [
-      "Dettinger Daniel",
-      "Sascha Schneider"
-    ],
-    [
-      "Dietz Marcel",
-      "Philipp Werner"
-    ],
-    [
-      "Dirk Wenzel",
-      "Hänsler Florian"
-    ],
-    [
-      "Dominik Welke",
-      "Winteroll Bastian"
-    ],
-    [
-      "Dürr David",
-      "Timo Dietl"
-    ],
-    [
-      "Ehniss Philipp",
-      "Tim Rothfuß"
-    ],
-    [
-      "Elsäßer Jannick",
-      "Jens Bader"
-    ],
-    [
-      "Fabian Folsche",
-      "Heinzelmann Ruben"
-    ],
-    [
-      "Fabian Kiewning",
-      "Osswald Benjamin"
-    ],
-    [
-      "Felix Fuhrer",
-      "Hertkorn Erik"
-    ],
-    [
-      "Fell Marco",
-      "Thomas Krug"
-    ],
-    [
-      "Findler Max",
-      "Leo Wenzel"
-    ],
-    [
-      "Finn-Marvin Engel",
-      "Just Jan"
-    ],
-    [
-      "Fix Linda",
-      "Tobias Walter"
-    ],
-    [
-      "Florian Mayerhofer",
-      "Reitinger Dennis"
-    ],
-    [
-      "Florian Rieker",
-      "Kern Fabien"
-    ],
-    [
-      "Forster Louis",
-      "Louis Mödinger"
-    ],
-    [
-      "Frederick Reich",
-      "Walbert Andreas"
+      "Jens Bader",
+      "Elsäßer Jannick"
     ],
     [
       "Gabriel Bauer",
       "Kemeter Felix"
     ],
     [
-      "Gohlke Laurenz",
-      "Sascha Michel"
-    ],
-    [
-      "Größl Julia",
-      "Michelle Eisenhardt"
-    ],
-    [
-      "Hanna Knack",
-      "Paul Löffler"
-    ],
-    [
-      "Hoppe Stefan",
-      "Mareike Martin"
-    ],
-    [
-      "Jan Läpple",
-      "Wolf Oliver"
-    ],
-    [
-      "Jonas Mäurer",
-      "Rößler Rößler"
-    ],
-    [
-      "Joshua Maier",
-      "Notter Stefan"
-    ],
-    [
-      "Jörg Zipperle",
-      "Wacha Tobias"
-    ],
-    [
-      "Kalle Müller",
-      "Weimer Jörg"
-    ],
-    [
-      "Kapp Markus",
-      "Tobias Breining"
-    ],
-    [
-      "Katrin Schiffer",
-      "Rempe Armin"
-    ],
-    [
-      "Kilian Ramon",
-      "Matthias Brand"
-    ],
-    [
-      "Klein Kevin",
-      "Louisa Wein"
-    ],
-    [
-      "Lara Wagner",
-      "Peter Wagner"
-    ],
-    [
-      "Lars Heinzl",
-      "Martin-Widenhorn Andre"
-    ],
-    [
-      "Lena Brock",
-      "Störzer Lara"
-    ],
-    [
-      "Lieb Melissa",
-      "Max Mayer"
-    ],
-    [
-      "Lucas Hauser",
-      "Müller Sebastian"
-    ],
-    [
-      "Mannsdörfer Armin",
-      "Wolfgang Sorge"
-    ],
-    [
-      "Marcel Kilian",
-      "Scheffold Maximilian"
-    ],
-    [
-      "Marcel Vogel",
-      "Müller Manuel"
-    ],
-    [
       "Martin Bauer",
       "Pfister Patrick"
-    ],
-    [
-      "Matthias Bräuhauser",
-      "Müller Marcel"
-    ],
-    [
-      "Nadine Ochs",
-      "Wein Thomas"
-    ],
-    [
-      "Nauth Lucas",
-      "Rico Zischka"
-    ],
-    [
-      "Nick Rausch",
-      "Römmer Michael"
     ],
     [
       "Nicklas Beck",
       "Schätzle Leopold"
     ],
     [
+      "Ben Brand",
+      "Franke Theodor"
+    ],
+    [
+      "Matthias Brand",
+      "Kilian Ramon"
+    ],
+    [
+      "Matthias Bräuhauser",
+      "Müller Marcel"
+    ],
+    [
+      "Tobias Breining",
+      "Kapp Markus"
+    ],
+    [
+      "Lena Brock",
+      "Störzer Lara"
+    ],
+    [
       "Nils Buchholzer",
       "Widmaier Frank"
     ],
     [
-      "Oliver Söll",
-      "Schmidt Juliane"
+      "Felix Conzelmann",
+      "Czotscher Jörg"
+    ],
+    [
+      "Benjamin Cugaly",
+      "Rieder Felix"
+    ],
+    [
+      "Alexander Danner",
+      "Treberg Heiko"
+    ],
+    [
+      "Timo Dietl",
+      "Dürr David"
+    ],
+    [
+      "Michelle Eisenhardt",
+      "Größl Julia"
     ],
     [
       "Philipp Ellinghaus",
       "Schmitteckert Carsten"
     ],
     [
-      "Reinhardt Malte",
-      "Sebastian Schnell"
+      "Finn-Marvin Engel",
+      "Just Jan"
     ],
     [
-      "Repphun Elias",
-      "Robin Mohr"
+      "Fabian Folsche",
+      "Heinzelmann Ruben"
     ],
     [
-      "Richard Auwärter",
-      "Schneider Jonas"
+      "Katharina Forster",
+      "Braun Tobias"
     ],
     [
-      "Sascha Draheim",
-      "Tobias Spranz"
+      "Felix Fuhrer",
+      "Hertkorn Erik"
     ],
     [
-      "Sattelmayer Robert",
-      "Simon Haubner"
+      "Yannik Grüneberg",
+      "Bilwachs Marco"
     ],
     [
-      "Summer Andre",
-      "Tim Wein"
+      "Bastian Hartmann",
+      "Reyle Benny"
+    ],
+    [
+      "Philipp Hartmann",
+      "Adams Jonas"
+    ],
+    [
+      "Simon Haubner",
+      "Sattelmayer Robert"
+    ],
+    [
+      "Lucas Hauser",
+      "Müller Sebastian"
+    ],
+    [
+      "Benjamin Heid",
+      "Nauth Sebastian"
+    ],
+    [
+      "Lars Heinzl",
+      "Martin-Widenhorn Andre"
+    ],
+    [
+      "Andreas Kaupp",
+      "Großmann Philipp"
+    ],
+    [
+      "Fabian Kiewning",
+      "Osswald Benjamin"
+    ],
+    [
+      "Marcel Kilian",
+      "Scheffold Maximilian"
+    ],
+    [
+      "Tamara Kilian",
+      "Brand Mona"
+    ],
+    [
+      "Hanna Knack",
+      "Paul Löffler"
+    ],
+    [
+      "Christian Kröner",
+      "Tim Kröner"
+    ],
+    [
+      "Thomas Krug",
+      "Fell Marco"
+    ],
+    [
+      "Jan Läpple",
+      "Wolf Oliver"
+    ],
+    [
+      "Joshua Maier",
+      "Notter Stefan"
+    ],
+    [
+      "Mareike Martin",
+      "Hoppe Stefan"
+    ],
+    [
+      "Jonas Mäurer",
+      "Rößler Rößler"
+    ],
+    [
+      "Max Mayer",
+      "Lieb Melissa"
+    ],
+    [
+      "Florian Mayerhofer",
+      "Reitinger Dennis"
+    ],
+    [
+      "Sascha Michel",
+      "Gohlke Laurenz"
+    ],
+    [
+      "Louis Mödinger",
+      "Forster Louis"
+    ],
+    [
+      "Robin Mohr",
+      "Repphun Elias"
+    ],
+    [
+      "Kalle Müller",
+      "Weimer Jörg"
+    ],
+    [
+      "Nadine Ochs",
+      "Wein Thomas"
+    ],
+    [
+      "Dennis Pfleghaar",
+      "Erdenberger Mike"
+    ],
+    [
+      "Nick Rausch",
+      "Römmer Michael"
+    ],
+    [
+      "Frederick Reich",
+      "Walbert Andreas"
+    ],
+    [
+      "Florian Rieker",
+      "Kern Fabien"
+    ],
+    [
+      "Tim Rothfuß",
+      "Ehniss Philipp"
+    ],
+    [
+      "Lukas Schäch",
+      "Benjamin Krämer"
+    ],
+    [
+      "Katrin Schiffer",
+      "Rempe Armin"
+    ],
+    [
+      "Sascha Schneider",
+      "Dettinger Daniel"
+    ],
+    [
+      "Sebastian Schnell",
+      "Reinhardt Malte"
+    ],
+    [
+      "Oliver Söll",
+      "Schmidt Juliane"
+    ],
+    [
+      "Wolfgang Sorge",
+      "Mannsdörfer Armin"
+    ],
+    [
+      "Tobias Spranz",
+      "Sascha Draheim"
+    ],
+    [
+      "Daniel Tutsch",
+      "Gieck Stephan"
+    ],
+    [
+      "Marcel Vogel",
+      "Müller Manuel"
+    ],
+    [
+      "Alexander Vollmer",
+      "Kurz Fabian"
+    ],
+    [
+      "Peter Wagner",
+      "Lara Wagner"
+    ],
+    [
+      "Tobias Walter",
+      "Fix Linda"
+    ],
+    [
+      "Aaron Watzl",
+      "Fochler Peter"
+    ],
+    [
+      "Louisa Wein",
+      "Klein Kevin"
+    ],
+    [
+      "Tim Wein",
+      "Summer Andre"
+    ],
+    [
+      "Dominik Welke",
+      "Winteroll Bastian"
+    ],
+    [
+      "Dirk Wenzel",
+      "Hänsler Florian"
+    ],
+    [
+      "Leo Wenzel",
+      "Findler Max"
+    ],
+    [
+      "Philipp Werner",
+      "Dietz Marcel"
+    ],
+    [
+      "Markus Wolff",
+      "Auwärter Hannes"
+    ],
+    [
+      "Jörg Zipperle",
+      "Wacha Tobias"
+    ],
+    [
+      "Rico Zischka",
+      "Nauth Lucas"
     ]
   ]
 }

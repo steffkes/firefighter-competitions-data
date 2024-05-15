@@ -1,103 +1,103 @@
 {
-  "date": "2024-05-14T15:55:12.332407",
-  "competition_id": "reckVPmrGF6ElGwDr",
+  "date": "2024-05-14T09:21:09.934Z",
+  "competition": "reckVPmrGF6ElGwDr",
   "count": 48,
   "teams": [
     [
-      "Anna Henke",
-      "Christian Alflen"
-    ],
-    [
-      "Benjamin Henrichs",
-      "Timo Cioch"
-    ],
-    [
-      "Christian Steigerwald",
-      "Martin Schreiber"
-    ],
-    [
-      "Christoph Stengel",
-      "Tim Elsenheimer"
-    ],
-    [
-      "Daniel Mann",
-      "Ralph Brötzmann"
-    ],
-    [
-      "Daniel Muth",
-      "David Vowinkel"
-    ],
-    [
-      "Darius Luy",
-      "Marlon Balbach"
-    ],
-    [
-      "Dennis Herberg",
-      "Mathias Wald"
-    ],
-    [
-      "Dennis Stark",
-      "Oliver Stein"
+      "Eike Will",
+      "Viktor Luff"
     ],
     [
       "Desirée Reitz",
       "Elli Gottschalk"
     ],
     [
-      "Dominik Sprung",
-      "Max Kubsch"
-    ],
-    [
-      "Eike Will",
-      "Viktor Luff"
-    ],
-    [
-      "Elias Jantzer",
-      "Johann Molitor"
-    ],
-    [
-      "Enrico Piras",
-      "Marc Besch"
-    ],
-    [
-      "Fabian Wotzlaw",
-      "Tobias Steinmetz"
-    ],
-    [
-      "Florian Jung",
-      "Marvin Kolta"
-    ],
-    [
-      "Gerard Stengele",
-      "Tom Lukas"
+      "Mathias Wald",
+      "Dennis Herberg"
     ],
     [
       "Jannis Bull",
       "Matthias Schmies"
     ],
     [
-      "Johannes Merkel",
-      "Lukas Krengel"
+      "Tom Lukas",
+      "Gerard Stengele"
     ],
     [
-      "Jonas Krambs",
-      "Lukas Krämer"
+      "Patrick Henke",
+      "Marcel Ziefle"
+    ],
+    [
+      "Lukas Krengel",
+      "Johannes Merkel"
+    ],
+    [
+      "Lukas Krämer",
+      "Jonas Krambs"
+    ],
+    [
+      "David Vowinkel",
+      "Daniel Muth"
+    ],
+    [
+      "Marvin Kolta",
+      "Florian Jung"
+    ],
+    [
+      "Tim Elsenheimer",
+      "Christoph Stengel"
+    ],
+    [
+      "Ralph Brötzmann",
+      "Daniel Mann"
+    ],
+    [
+      "Tobias Steinmetz",
+      "Fabian Wotzlaw"
+    ],
+    [
+      "Oliver Stein",
+      "Dennis Stark"
+    ],
+    [
+      "Pascal Hofmann",
+      "Lennard Götz"
+    ],
+    [
+      "Sebastian Comont",
+      "Manuel Gerstel"
+    ],
+    [
+      "Max Kubsch",
+      "Dominik Sprung"
+    ],
+    [
+      "Christian Steigerwald",
+      "Martin Schreiber"
+    ],
+    [
+      "Marlon Balbach",
+      "Darius Luy"
     ],
     [
       "Julia Dawid",
       "Sebastian Frank"
     ],
     [
-      "Lennard Götz",
-      "Pascal Hofmann"
+      "Anna Henke",
+      "Christian Alflen"
     ],
     [
-      "Manuel Gerstel",
-      "Sebastian Comont"
+      "Enrico Piras",
+      "Marc Besch"
     ],
     [
-      "Marcel Ziefle",
-      "Patrick Henke"
+      "Johann Molitor",
+      "Elias Jantzer"
+    ],
+    [
+      "Benjamin Henrichs",
+      "Timo Cioch"
     ]
   ]
 }

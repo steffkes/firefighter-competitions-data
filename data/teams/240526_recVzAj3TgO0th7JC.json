@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-15T06:52:10.258Z",
+  "date": "2024-05-15T07:16:58.663Z",
   "competition": "recVzAj3TgO0th7JC",
-  "count": 333,
+  "count": 336,
   "teams": [
     [
       "Samuel Geiger",
@@ -557,6 +557,11 @@
       "Marco Groh",
       "Mike Fieber",
       "Alexander Giller"
+    ],
+    [
+      "Frederic Weinhold",
+      "Miriam Kopp",
+      "Hendrik Kellner"
     ]
   ]
 }

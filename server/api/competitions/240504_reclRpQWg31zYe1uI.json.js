@@ -1,5 +1,3 @@
-import { defineEventHandler } from "h3";
-
 const raw = `
 Tittelbach, Alexander;Günther, Sebastian;Oldies
 Hennig, Nico;Pause, Benjamin;Oldies
@@ -193,7 +191,7 @@ Landgraf, Max;Börno, Rico;Oldies
 Matte, Sarah;Rehwinkel, Sylvia;Ladies
 Ortlepp, Sven;Bossig, Christian;Oldies
 Schlickeisen, Thomas;Krause, Clemens;Youngster
-Freise, Florian Pommerening, Maria;Mix
+Freise, Florian;Pommerening, Maria;Mix
 Hentschel , Felix;Lemm, Matthias;Youngster
 Albert, Thomas;Juhnke, Torsten;Oldies XL
 Schmock, Florian;Schulz, Paul;Youngster
@@ -396,4 +394,7 @@ export const teams = () => raw.trim().split("\n").map(fixEntry);
 export const participants = () => teams().flat();
 export const count = () => participants().length;
 
-export default defineEventHandler(async (event) => await count());
+import { defineEventHandler } from "h3";
+import data from "@/data/teams/240504_reclRpQWg31zYe1uI.json" assert { type: "json" };
+
+export default defineEventHandler(async (event) => data["count"]);

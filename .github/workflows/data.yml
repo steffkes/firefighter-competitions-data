@@ -8,18 +8,18 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    defaults:
+      run:
+        working-directory: ./analysis
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: data-collection
-      - uses: actions/setup-node@v2.1.2
+          ref: ${{ github.ref }}
+      - uses: actions/setup-python@v5
         with:
-          node-version: 16
-      - run: npm install
-      - run: node count.js >> data/counts.jsonl
-      - run: node participants.js
-      - run: node teams.js
+          python-version: '3.12'
+          cache: 'pip'
+      - run: pip install -r requirements.txt
+      - run: find spider/ -name "*rec*.py" | sort | xargs -L1 scrapy runspider
+      - run: scrapy runspider collector.py
       - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          branch: data-collection
-          create_branch: true

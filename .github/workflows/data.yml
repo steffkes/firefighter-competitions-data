@@ -23,3 +23,5 @@ jobs:
       - run: find spider/ -name "*rec*.py" | sort | xargs -L1 scrapy runspider
       - run: scrapy runspider collector.py
       - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: data-collection

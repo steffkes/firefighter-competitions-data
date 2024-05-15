@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref }}
+          ref: data-collection
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'

@@ -1,103 +1,103 @@
 {
-  "date": "2024-05-15T07:16:58.663Z",
-  "competition": "reckVPmrGF6ElGwDr",
+  "date": "2024-05-15T07:29:43.950422",
+  "competition_id": "reckVPmrGF6ElGwDr",
   "count": 48,
   "teams": [
     [
-      "Eike Will",
-      "Viktor Luff"
+      "Anna Henke",
+      "Christian Alflen"
     ],
     [
-      "Desirée Reitz",
-      "Elli Gottschalk"
-    ],
-    [
-      "Mathias Wald",
-      "Dennis Herberg"
-    ],
-    [
-      "Jannis Bull",
-      "Matthias Schmies"
-    ],
-    [
-      "Tom Lukas",
-      "Gerard Stengele"
-    ],
-    [
-      "Patrick Henke",
-      "Marcel Ziefle"
-    ],
-    [
-      "Lukas Krengel",
-      "Johannes Merkel"
-    ],
-    [
-      "Lukas Krämer",
-      "Jonas Krambs"
-    ],
-    [
-      "David Vowinkel",
-      "Daniel Muth"
-    ],
-    [
-      "Marvin Kolta",
-      "Florian Jung"
-    ],
-    [
-      "Tim Elsenheimer",
-      "Christoph Stengel"
-    ],
-    [
-      "Ralph Brötzmann",
-      "Daniel Mann"
-    ],
-    [
-      "Tobias Steinmetz",
-      "Fabian Wotzlaw"
-    ],
-    [
-      "Oliver Stein",
-      "Dennis Stark"
-    ],
-    [
-      "Pascal Hofmann",
-      "Lennard Götz"
-    ],
-    [
-      "Sebastian Comont",
-      "Manuel Gerstel"
-    ],
-    [
-      "Max Kubsch",
-      "Dominik Sprung"
+      "Benjamin Henrichs",
+      "Timo Cioch"
     ],
     [
       "Christian Steigerwald",
       "Martin Schreiber"
     ],
     [
-      "Marlon Balbach",
-      "Darius Luy"
+      "Christoph Stengel",
+      "Tim Elsenheimer"
     ],
     [
-      "Julia Dawid",
-      "Sebastian Frank"
+      "Daniel Mann",
+      "Ralph Brötzmann"
     ],
     [
-      "Anna Henke",
-      "Christian Alflen"
+      "Daniel Muth",
+      "David Vowinkel"
+    ],
+    [
+      "Darius Luy",
+      "Marlon Balbach"
+    ],
+    [
+      "Dennis Herberg",
+      "Mathias Wald"
+    ],
+    [
+      "Dennis Stark",
+      "Oliver Stein"
+    ],
+    [
+      "Desirée Reitz",
+      "Elli Gottschalk"
+    ],
+    [
+      "Dominik Sprung",
+      "Max Kubsch"
+    ],
+    [
+      "Eike Will",
+      "Viktor Luff"
+    ],
+    [
+      "Elias Jantzer",
+      "Johann Molitor"
     ],
     [
       "Enrico Piras",
       "Marc Besch"
     ],
     [
-      "Johann Molitor",
-      "Elias Jantzer"
+      "Fabian Wotzlaw",
+      "Tobias Steinmetz"
     ],
     [
-      "Benjamin Henrichs",
-      "Timo Cioch"
+      "Florian Jung",
+      "Marvin Kolta"
+    ],
+    [
+      "Gerard Stengele",
+      "Tom Lukas"
+    ],
+    [
+      "Jannis Bull",
+      "Matthias Schmies"
+    ],
+    [
+      "Johannes Merkel",
+      "Lukas Krengel"
+    ],
+    [
+      "Jonas Krambs",
+      "Lukas Krämer"
+    ],
+    [
+      "Julia Dawid",
+      "Sebastian Frank"
+    ],
+    [
+      "Lennard Götz",
+      "Pascal Hofmann"
+    ],
+    [
+      "Manuel Gerstel",
+      "Sebastian Comont"
+    ],
+    [
+      "Marcel Ziefle",
+      "Patrick Henke"
     ]
   ]
 }

@@ -1,142 +1,154 @@
 {
-  "date": "2024-05-15T07:16:58.663Z",
-  "competition": "recNdFl6cR1xA5l4p",
-  "count": 101,
+  "date": "2024-05-15T07:29:36.837598",
+  "competition_id": "recNdFl6cR1xA5l4p",
+  "count": 120,
   "teams": [
     [
-      "JANNIK RONNER"
+      "ADRIAN THOMANN"
     ],
     [
-      "OMAR FERRI"
-    ],
-    [
-      "JOSHUA TIZIANI"
-    ],
-    [
-      "CARLO SOMAINI"
-    ],
-    [
-      "ARTUR MERAVIGLIA"
-    ],
-    [
-      "PASCAL WÜRSCHTEN"
-    ],
-    [
-      "KATIA PINI"
-    ],
-    [
-      "ANDREA SOLDATI"
-    ],
-    [
-      "ROBERTO ROTA"
-    ],
-    [
-      "JEROME CALVIA"
-    ],
-    [
-      "GABRIELE DELLA CA"
-    ],
-    [
-      "KIM CIMINO"
-    ],
-    [
-      "ALEX ITIN"
-    ],
-    [
-      "DE STEFFANI NINA"
-    ],
-    [
-      "CEREGHETTI MARCO"
-    ],
-    [
-      "ALEX VON RÜTTE"
-    ],
-    [
-      "JORDAN BICA-PERRES"
-    ],
-    [
-      "RICARDO SCAMPICCHIO"
-    ],
-    [
-      "LEON TREIER"
-    ],
-    [
-      "MICHELLE LOMBARDI"
-    ],
-    [
-      "NICOLAS ISELI"
-    ],
-    [
-      "SANDRA KOBEL"
-    ],
-    [
-      "PABLO FRANCISCHETTI"
-    ],
-    [
-      "HÜSSER DANIEL"
-    ],
-    [
-      "ANDREA CIULLO"
+      "ADRIEN GERBER"
     ],
     [
       "ALEJANDRO SCAMPICCHIO"
     ],
     [
-      "TEA RONCORONI"
+      "ALEX ITIN"
     ],
     [
-      "CHRISTIAN MONGILLO"
+      "ALEX TORMENA"
     ],
     [
-      "MATTIA LAFRANCHI"
+      "ALEX VON RÜTTE"
     ],
     [
-      "DAVID EMERY"
+      "ANDREA CIULLO"
     ],
     [
-      "MARCO GHIRLANDA"
+      "ANDREA FERRARI"
     ],
     [
-      "IHEKWOABA MAIKI"
+      "ANDREA SCIALPI"
     ],
     [
-      "GUIDO STERLINI"
-    ],
-    [
-      "BOZOGLAN AISCHA"
-    ],
-    [
-      "GIONA FIENI"
-    ],
-    [
-      "MARCO BORDONI"
-    ],
-    [
-      "ELIA UDRIOT"
-    ],
-    [
-      "BRANCA VERRO"
-    ],
-    [
-      "SAMIR MARINI"
-    ],
-    [
-      "MARCO PARETI"
-    ],
-    [
-      "FILIPE TORCATO"
+      "ANDREA SOLDATI"
     ],
     [
       "ANGELO FRASCHINI"
     ],
     [
-      "TOBIAS DIEDRIGKEIT"
+      "ARNAUD MEIER"
+    ],
+    [
+      "ARTUR MERAVIGLIA"
+    ],
+    [
+      "AUDREY NEMETH"
+    ],
+    [
+      "BEATRICE SICILIANO"
+    ],
+    [
+      "BEN JÄGER"
+    ],
+    [
+      "BENI RIPPSTEIN"
+    ],
+    [
+      "BENJAMIN CHARPIOT"
+    ],
+    [
+      "BENJAMIN THOMÉ"
+    ],
+    [
+      "BOZOGLAN AISCHA"
+    ],
+    [
+      "BRANCA VERRO"
+    ],
+    [
+      "CARLO SOMAINI"
+    ],
+    [
+      "CAROLE RAMSEYER"
+    ],
+    [
+      "CATALIN POP"
+    ],
+    [
+      "CEREGHETTI MARCO"
+    ],
+    [
+      "CHISTIAN SAUER"
+    ],
+    [
+      "CHRISTIAN CIPPÁ"
+    ],
+    [
+      "CHRISTIAN MONGILLO"
+    ],
+    [
+      "CLAUDIO BAILONI"
+    ],
+    [
+      "DAMIAN PYKA"
+    ],
+    [
+      "DANIEL BIEDERMANN"
+    ],
+    [
+      "DANIELE PIFFERINI"
+    ],
+    [
+      "DAVID CASTILLO"
+    ],
+    [
+      "DAVID EMERY"
+    ],
+    [
+      "DE STEFFANI NINA"
+    ],
+    [
+      "DOLORES CHIESA"
+    ],
+    [
+      "ELIA UDRIOT"
+    ],
+    [
+      "ELISA CHIESA"
     ],
     [
       "ELVIS GOBBI"
     ],
     [
-      "BEN JÄGER"
+      "EMANUEL ZAPPACOSTA"
+    ],
+    [
+      "FABRICE TONTI"
+    ],
+    [
+      "FEDERICO CURCURUTO"
+    ],
+    [
+      "FEDERICO FERRARIO"
+    ],
+    [
+      "FILIPE TORCATO"
+    ],
+    [
+      "GABRIELE DELLA CA"
+    ],
+    [
+      "GABRIELE FEDRIZZI"
+    ],
+    [
+      "GILLET GAUTHIER"
+    ],
+    [
+      "GIONA FIENI"
+    ],
+    [
+      "GIORDANO FERRARI"
     ],
     [
       "GIUSEPPE BORRELLO"
@@ -145,34 +157,142 @@
       "GRECU MARIO CIPRIAN"
     ],
     [
-      "NICOLAS MORTATI"
+      "GUIDO STERLINI"
     ],
     [
-      "MICHAEL HÄRING"
+      "Hugo Olmos Pacheco"
     ],
     [
-      "MATJAŽ ROZMAN"
+      "HÜSSER DANIEL"
+    ],
+    [
+      "IHEKWOABA MAIKI"
+    ],
+    [
+      "IRÉNÉE SCHOHN"
     ],
     [
       "JAKA STARE"
     ],
     [
-      "THIBAULT LEROYER"
+      "JANNIK RONNER"
     ],
     [
-      "AUDREY NEMETH"
+      "JASMIN BOHUN"
     ],
     [
-      "CHRISTIAN CIPPÁ"
+      "JEREMY WOOD"
     ],
     [
-      "CAROLE RAMSEYER"
+      "JEROME CALVIA"
     ],
     [
-      "DAVID CASTILLO"
+      "JOACHIM MOCK"
     ],
     [
-      "CHISTIAN SAUER"
+      "JORDAN BICA-PERRES"
+    ],
+    [
+      "JOSHUA TIZIANI"
+    ],
+    [
+      "KATIA PINI"
+    ],
+    [
+      "KIM CIMINO"
+    ],
+    [
+      "LEON TREIER"
+    ],
+    [
+      "LOÏC MACELLARO"
+    ],
+    [
+      "LUCA PASOTTO"
+    ],
+    [
+      "MARCO BORDONI"
+    ],
+    [
+      "MARCO GHIRLANDA"
+    ],
+    [
+      "MARCO PARETI"
+    ],
+    [
+      "MATJAŽ ROZMAN"
+    ],
+    [
+      "MATTEO LONGHI"
+    ],
+    [
+      "MATTIA LAFRANCHI"
+    ],
+    [
+      "MATTIA STEIB"
+    ],
+    [
+      "MATTIA VALENTINI"
+    ],
+    [
+      "MICHAEL HÄRING"
+    ],
+    [
+      "MICHELLE LOMBARDI"
+    ],
+    [
+      "MURER GILLES"
+    ],
+    [
+      "Matthias Buttig"
+    ],
+    [
+      "MÁTÉ FEGYVERNEKI"
+    ],
+    [
+      "NATHAN LEONCINI"
+    ],
+    [
+      "NATHANAËL DESBOEUFS"
+    ],
+    [
+      "NICOLAS DARRACQ"
+    ],
+    [
+      "NICOLAS ISELI"
+    ],
+    [
+      "NICOLAS MAFFEIS"
+    ],
+    [
+      "NICOLAS MORTATI"
+    ],
+    [
+      "NILE SCHMITTER"
+    ],
+    [
+      "NOAH REZZONICO"
+    ],
+    [
+      "OLIVER MAAG"
+    ],
+    [
+      "OLIVIER PRUNEAU"
+    ],
+    [
+      "OMAR FERRI"
+    ],
+    [
+      "PABLO FRANCISCHETTI"
+    ],
+    [
+      "PASCAL KIRN"
+    ],
+    [
+      "PASCAL WÜRSCHTEN"
+    ],
+    [
+      "PIETRO ORELLI"
     ],
     [
       "PRAVIN JUDE MILKAN"
@@ -181,130 +301,67 @@
       "RENAUD JAILLET"
     ],
     [
-      "PIETRO ORELLI"
-    ],
-    [
-      "PASCAL KIRN"
-    ],
-    [
-      "STEFAN MATHEIS"
-    ],
-    [
-      "BENJAMIN THOMÉ"
-    ],
-    [
-      "MÁTÉ FEGYVERNEKI"
-    ],
-    [
-      "IRÉNÉE SCHOHN"
-    ],
-    [
-      "DAMIAN PYKA"
-    ],
-    [
-      "STEVE ROIDL"
-    ],
-    [
-      "ARNAUD MEIER"
-    ],
-    [
-      "STEFANO VERONES"
-    ],
-    [
-      "JEREMY WOOD"
-    ],
-    [
-      "GILLET GAUTHIER"
-    ],
-    [
-      "MATTEO LONGHI"
-    ],
-    [
-      "CLAUDIO BAILONI"
-    ],
-    [
-      "NOAH REZZONICO"
-    ],
-    [
-      "ALEX TORMENA"
-    ],
-    [
-      "JASMIN BOHUN"
-    ],
-    [
-      "GABRIELE FEDRIZZI"
-    ],
-    [
-      "ANDREA FERRARI"
-    ],
-    [
-      "GIORDANO FERRARI"
-    ],
-    [
-      "CATALIN POP"
-    ],
-    [
-      "BEATRICE SICILIANO"
-    ],
-    [
-      "DANIELE PIFFERINI"
-    ],
-    [
-      "FEDERICO CURCURUTO"
-    ],
-    [
-      "EMANUEL ZAPPACOSTA"
-    ],
-    [
-      "SWEN BALDINGER"
-    ],
-    [
-      "MURER GILLES"
-    ],
-    [
-      "ELISA CHIESA"
-    ],
-    [
-      "VIKTORIJA ANASTASOVA"
-    ],
-    [
-      "NICOLAS DARRACQ"
-    ],
-    [
-      "DOLORES CHIESA"
-    ],
-    [
-      "OLIVIER PRUNEAU"
-    ],
-    [
-      "THIERRY DROZ"
-    ],
-    [
-      "BENJAMIN CHARPIOT"
-    ],
-    [
-      "FABRICE TONTI"
-    ],
-    [
-      "ADRIEN GERBER"
+      "RICARDO SCAMPICCHIO"
     ],
     [
       "ROBERTO MODICA"
     ],
     [
-      "SACHA HIRTER"
-    ],
-    [
-      "SÉBASTIEN SANCHO"
-    ],
-    [
-      "Hugo Olmos Pacheco"
+      "ROBERTO ROTA"
     ],
     [
       "ROMEO GIGLIO"
     ],
     [
-      "LOÏC MACELLARO"
+      "SACHA HIRTER"
+    ],
+    [
+      "SAMIR MARINI"
+    ],
+    [
+      "SANDRA KOBEL"
+    ],
+    [
+      "STEFAN MATHEIS"
+    ],
+    [
+      "STEFANO GIAVAZZOLI"
+    ],
+    [
+      "STEFANO VERONES"
+    ],
+    [
+      "STEVE ROIDL"
+    ],
+    [
+      "SWEN BALDINGER"
+    ],
+    [
+      "SÉBASTIEN SANCHO"
+    ],
+    [
+      "TEA RONCORONI"
+    ],
+    [
+      "THIBAULT LEROYER"
+    ],
+    [
+      "THIERRY DROZ"
+    ],
+    [
+      "THOMAS GRÜTTER"
+    ],
+    [
+      "TOBIAS DIEDRIGKEIT"
+    ],
+    [
+      "TOBIAS KUPFERSCHMID"
+    ],
+    [
+      "VIKTORIJA ANASTASOVA"
+    ],
+    [
+      "XAVIER SOLANO"
     ]
   ]
 }

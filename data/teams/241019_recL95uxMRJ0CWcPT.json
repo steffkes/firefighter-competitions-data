@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-16T15:50:53.086641",
+  "date": "2024-05-16T16:09:48.976241",
   "competition_id": "recL95uxMRJ0CWcPT",
-  "count": 580,
+  "count": 88,
   "teams": [
     [
       "Abele Vinzenz m 2000",
@@ -12,22 +12,6 @@
       "Knuth Nico m 1993"
     ],
     [
-      "Abröll Maximilian m 1991",
-      "Hanglberger Tobias m 1997"
-    ],
-    [
-      "Aigner Norbert m 1979",
-      "Taupe Didi m 1969"
-    ],
-    [
-      "Allert Simon m 1980",
-      "Pfisterer Heinz m 1990"
-    ],
-    [
-      "Altmann Rene m 1987",
-      "Wöller Johannes m 1990"
-    ],
-    [
       "Altmüller Thomas m 2004",
       "Ebenhofer Julian m 2003"
     ],
@@ -36,192 +20,28 @@
       "Seßler Lara w 2002"
     ],
     [
-      "Arnegger Michael m 1985",
-      "Kirchmaier Robin m 1994"
-    ],
-    [
-      "Auer Lukas m 2001",
-      "Munding Felix m 1999"
-    ],
-    [
-      "Auer Peter m 1977",
-      "Schmid Fabian m 1995"
-    ],
-    [
-      "Bahmann Michael m 1986",
-      "Tursky Niko m 1986"
-    ],
-    [
-      "Band Josef m 1996",
-      "Vogg Johannes m 2000"
-    ],
-    [
-      "Bechteler Martin m 1992",
-      "Nägele Dennis m 1999"
-    ],
-    [
-      "Beck Florian m 1989",
-      "Beck Marius m 1985"
-    ],
-    [
-      "Becker Simon m 1982",
-      "Maier Michael m 1985"
-    ],
-    [
-      "Behringer Benedikt m 2001",
-      "Hofmaier Florian m 1980"
-    ],
-    [
-      "Behringer Volker m 1970",
-      "Wiedmann Daniel m 1987"
-    ],
-    [
-      "Beinder Christoph m 1994",
-      "Theuergarten Xenia w 2004"
-    ],
-    [
       "Bender Alexander m 1982",
       "Keller Timo m 1988"
-    ],
-    [
-      "Bentele Lukas m 1998",
-      "Forschner Marcel m 1995"
-    ],
-    [
-      "Berend Tobias m 2002",
-      "Wendel Paul m 2003"
-    ],
-    [
-      "Berg Luca m 2004",
-      "Müller Tobias m 1999"
-    ],
-    [
-      "Bettenmann Tobias m 1987",
-      "Tischer Patrick m 1985"
     ],
     [
       "Betz Patrick m 1991",
       "Tauporn Florian m 1988"
     ],
     [
-      "Betz Simon m 1995",
-      "Guggenberger Caroline w 1988"
-    ],
-    [
-      "Biebl Andreas m 1995",
-      "Spengler Benedikt m 1998"
-    ],
-    [
-      "Bihler Benjamin m 1991",
-      "Schweizer Mirko m 1973"
-    ],
-    [
-      "Bihler Christian m 1996",
-      "Hofmann Stefan m 1990"
-    ],
-    [
-      "Bleck Benedikt m 1990",
-      "Grözinger Lukas m 1997"
-    ],
-    [
-      "Bleicher Christoph m 1996",
-      "Wöller Christoph m 1993"
-    ],
-    [
-      "Blöchinger Niklas m 2000",
-      "Maier Andreas m 1990"
-    ],
-    [
-      "Bogenschütz Jörg m 1981",
-      "Müller Volker m 1980"
-    ],
-    [
-      "Brandenburger Lukas m 2000",
-      "Krausgrill Jan m 2000"
-    ],
-    [
       "Braukmann Matthias m 1987",
       "Körner Matteo m 2003"
-    ],
-    [
-      "Bretzler Niklas m 1995",
-      "Schmid Florian m 1995"
-    ],
-    [
-      "Briese Sabrina w 1996",
-      "Rachel Jan m 2003"
-    ],
-    [
-      "Brost Leonard m 2005",
-      "Jungwirth Jan-Phillip m 1995"
-    ],
-    [
-      "Brunner Daniel m 1988",
-      "Weber Ronny m 1983"
-    ],
-    [
-      "Brünner Maximilian m 2000",
-      "Forstner Florian m 1995"
-    ],
-    [
-      "Brüstle Sebastian m 1987",
-      "Reither Stephan m 1987"
-    ],
-    [
-      "Buhl Florian m 1995",
-      "Lang Thomas m 1970"
-    ],
-    [
-      "Bulach Moritz m 2003",
-      "Dittrich Alan m 1982"
-    ],
-    [
-      "Butscher Sven m 1999",
-      "Waldenmaier Roman m 1984"
-    ],
-    [
-      "Buttig Matthias m 2001",
-      "Fleischer Benjamin m 1985"
     ],
     [
       "Butzer Andreas m 1990",
       "Butzer Benedikt m 1997"
     ],
     [
-      "Bässgen Fabian m 1991",
-      "Rombach Christian m 1988"
-    ],
-    [
-      "Böck Roman m 2001",
-      "Engelmayer Bastian m 1996"
-    ],
-    [
       "Böhr Fabian m 1994",
       "Jetzlsperger Maximilian m 2004"
     ],
     [
-      "Bühler Maximilian m 2001",
-      "Ischer Jonas m 2002"
-    ],
-    [
-      "Bürk Jochen m 1987",
-      "Frühm Dominik m 2000"
-    ],
-    [
       "Chech-Madak Boris m 1977",
       "Dohrmann Rocky m 1979"
-    ],
-    [
-      "Coppel Niklas m 1997",
-      "Kapschick Patrick m 1987"
-    ],
-    [
-      "Daiß Christian m 1985",
-      "Winter Mark m 1996"
-    ],
-    [
-      "Daser Tobias m 1997",
-      "Vogt Elias m 1993"
     ],
     [
       "Dawid Julia w 1982",
@@ -232,280 +52,28 @@
       "Rauh Julia w 1994"
     ],
     [
-      "Dennochweiler Adrian m 1987",
-      "Dennochweiler Raphael m 1992"
-    ],
-    [
-      "Deschl Lukas m 2001",
-      "Milarg Tobias m 2002"
-    ],
-    [
-      "Di Palma Fabio m 2000",
-      "Sonsalla Finn m 2005"
-    ],
-    [
-      "Dietrich Werner m 1982",
-      "Schreck Tobias m 1997"
-    ],
-    [
-      "Dittrich Denny m 2004",
-      "Richter Matthias m 2003"
-    ],
-    [
       "Dittrich Norbert m 1971",
       "Haag Steven m 2006"
-    ],
-    [
-      "Dobler Lukas m 1997",
-      "Narr Simon m 1995"
-    ],
-    [
-      "Dobmaier Bernhard m 1992",
-      "Wulff Dominik m 1990"
-    ],
-    [
-      "Dolderer Aron m 1991",
-      "Leimbach Johannes m 1998"
-    ],
-    [
-      "Doll Simon m 1999",
-      "Rörich Holger m 1984"
-    ],
-    [
-      "Dorn Yannick m 1999",
-      "Schneider Nina w 1986"
-    ],
-    [
-      "Dörfler Pierre m 1991",
-      "Wendel Fabian m 1987"
-    ],
-    [
-      "Düll Ina w 1982",
-      "Polzin Claudio m 1980"
-    ],
-    [
-      "Ebert Korbinian m 1998",
-      "Flöther Regina w 1981"
-    ],
-    [
-      "Eckert Christian m 1980",
-      "Lamprecht Benjamin m 1984"
-    ],
-    [
-      "Eckle Felix m 1992",
-      "Zimmermann Tobias m 1987"
     ],
     [
       "Edlich Simon m 1993",
       "Glasel Anna w 2003"
     ],
     [
-      "Ehrmann Felix m 1997",
-      "Schüll Johannes m 1981"
-    ],
-    [
-      "Eichenlaub Nick m 1997",
-      "Hoffmann Joshua m 1994"
-    ],
-    [
       "Ellerbrock Luca m 1998",
       "Maaß Theresa w 1991"
-    ],
-    [
-      "Elmas Franziska w 1996",
-      "Kloidt Roswitha w 1995"
-    ],
-    [
-      "Emeling André m 1979",
-      "Friese Niklas m 2004"
-    ],
-    [
-      "Engelhardt Sascha m 1984",
-      "Keller Moritz m 2004"
-    ],
-    [
-      "Englram Matthias m 2000",
-      "Meindl Maximilian m 2001"
-    ],
-    [
-      "Epple Johannes m 1989",
-      "Heckelmiller Stefan m 1996"
-    ],
-    [
-      "Ernst Marc m 1994",
-      "Gusman Julia w 1997"
     ],
     [
       "Fegebank Axel m 1972",
       "Kohrs Karsten Kala  m 1973"
     ],
     [
-      "Finkbeiner Mark m 1991",
-      "Zapf Nico m 1994"
-    ],
-    [
-      "Fischer Andreas m 1988",
-      "Kreit Christian m 1981"
-    ],
-    [
-      "Fischer Florian m 2000",
-      "Rösel Max m 2002"
-    ],
-    [
-      "Fischer Marco m 1986",
-      "Haid Patrick m 1998"
-    ],
-    [
-      "Fleege Dennis m 2000",
-      "Lorenz Matthias m 1985"
-    ],
-    [
-      "Fleischer Alexander m 1999",
-      "Möstl Michael m 1995"
-    ],
-    [
       "Fleschhut Christian m 1987",
       "König Markus m 1974"
     ],
     [
-      "Florian Guffler m 1987",
-      "Schade Sebastian m 1986"
-    ],
-    [
-      "Forstner Vitus m 1965",
-      "Hagl Stefan m 1969"
-    ],
-    [
-      "Franke Martin m 1985",
-      "Heilig Joachim m 1989"
-    ],
-    [
-      "Fremut Manfred m 1953",
-      "Fuchs Gunther m 1979"
-    ],
-    [
-      "Frölich Judith w 2001",
-      "Monreal Thomas m 1978"
-    ],
-    [
-      "Frömmrich Peter m 1984",
-      "Metty Markus m 1978"
-    ],
-    [
-      "Fuhrer Felix m 2001",
-      "Hertkorn Erik m 2001"
-    ],
-    [
-      "Funk André m 1978",
-      "Schlerh Kevin m 1991"
-    ],
-    [
-      "Funke Christoph m 1989",
-      "Schedel Julian m 1990"
-    ],
-    [
-      "Fuß Yannik m 2001",
-      "Kreienkamp Tobias m 1994"
-    ],
-    [
-      "Galneder Jasmin w 1985",
-      "Herb Theresa w 1996"
-    ],
-    [
-      "Gapp Simon m 1999",
-      "Scholz Dominic m 1989"
-    ],
-    [
-      "Garbotz Pascal m 1983",
-      "Sänger Martin m 1994"
-    ],
-    [
-      "Gekat Malte m 1990",
-      "Schiek Stephan m 1974"
-    ],
-    [
-      "Geller Theresa w 1997",
-      "Trautwein Jonas m 1980"
-    ],
-    [
-      "Genz Nick m 2005",
-      "Klein Tim m 2004"
-    ],
-    [
-      "Gerstlauer Manuel m 1999",
-      "Klumpp Jakob m 2001"
-    ],
-    [
-      "Gerstner Simon m 1999",
-      "Stößer Anton m 1998"
-    ],
-    [
-      "Geyer Sebastian m 1983",
-      "Schwing Sebastian m 1982"
-    ],
-    [
-      "Gieck Fabian m 1993",
-      "Sonsalla Leon m 2001"
-    ],
-    [
-      "Gleich Andreas m 1987",
-      "Strang Jörg m 1995"
-    ],
-    [
-      "Glemser Samuel m 1994",
-      "Missfelder Tobias m 1990"
-    ],
-    [
-      "Gnatowski Jakub m 1997",
-      "Öhlenschläger Nikolas m 1997"
-    ],
-    [
-      "Gostynski Simon m 1998",
-      "Werner Matthias m 1999"
-    ],
-    [
-      "Grabowski Fabian m 2000",
-      "Klein Michael m 1997"
-    ],
-    [
-      "Greber Manuel m 2000",
-      "Greber Niklas m 2002"
-    ],
-    [
-      "Griesmann Simpert m 1979",
-      "Hartmann Florian m 1981"
-    ],
-    [
-      "Grimm Philipp m 1996",
-      "Wetzel Michael m 1987"
-    ],
-    [
-      "Grimme Kilian m 2001",
-      "Hiemeyer Tim m 2003"
-    ],
-    [
-      "Große Philipp m 1988",
-      "Schirmer Christian m 1993"
-    ],
-    [
-      "Großmann Jakob m 1999",
-      "Hefele Melvin m 2002"
-    ],
-    [
       "Gröne Joshua m 2000",
       "Neuhaus Oliver m 2000"
-    ],
-    [
-      "Guggenberger Michael m 1993",
-      "Weisl Benedikt m 2004"
-    ],
-    [
-      "Guse Silas m 2000",
-      "Steinhauser Simon m 2003"
-    ],
-    [
-      "Gänswürger Luca m 2003",
-      "Matzek Corinna w 1997"
     ],
     [
       "Göppel Christian m 1994",
@@ -516,14 +84,6 @@
       "Strobel Frank m 1988"
     ],
     [
-      "Haefke Marcel m 1982",
-      "Littfinski Martin m 1984"
-    ],
-    [
-      "Hafner Sebastian m 1993",
-      "Haupt Benni m 1989"
-    ],
-    [
       "Hage Rainer m 1982",
       "Hildebrand Boris m 1968"
     ],
@@ -532,252 +92,24 @@
       "Schmeiser Lukas m 1996"
     ],
     [
-      "Hannibal Jan m 1984",
-      "Klein Tom m 1987"
-    ],
-    [
-      "Harpes Remy m 1979",
-      "Kleer Nico m 1985"
-    ],
-    [
-      "Hartmann Christian m 1991",
-      "Wiedemann David m 1991"
-    ],
-    [
-      "Hartmann Marco m 2001",
-      "Hartmann Stefan m 1998"
-    ],
-    [
-      "Hebenstreit Martin m 1980",
-      "Mikanovic Dennis m 1998"
-    ],
-    [
       "Hechtelberger Nils m 2001",
       "Lucius Marius m 2001"
-    ],
-    [
-      "Hefele Roman m 1986",
-      "Läufle Florian m 1993"
-    ],
-    [
-      "Heinrich Alexander m 2000",
-      "Krauter Janek m 2001"
-    ],
-    [
-      "Heinrich Evelyn w 1988",
-      "Stadelmaier Lisa w 1986"
-    ],
-    [
-      "Heitzenröther Dennis m 1996",
-      "Witt Robin m 2003"
-    ],
-    [
-      "Helchenberg Stefan m 1989",
-      "Schöll Matthias m 1987"
-    ],
-    [
-      "Henkel Marco m 1977",
-      "Henkel Mario m 1980"
-    ],
-    [
-      "Herborn Andre m 1992",
-      "Herborn Björn m 1987"
-    ],
-    [
-      "Herke Csaba m 1975",
-      "Herke Csaba m 1975"
-    ],
-    [
-      "Herrmann Sebastian m 1999",
-      "Stängle Sandro m 2002"
-    ],
-    [
-      "Hespeler Nick m 1996",
-      "Köberle Martin m 1986"
-    ],
-    [
-      "Heuschneider Maximilian m 2002",
-      "Niebler Maximilian m 1999"
-    ],
-    [
-      "Hilebrand Lorenz m 2001",
-      "Pfleghaar Gabriel m 2001"
-    ],
-    [
-      "Hirt Yannik m 1998",
-      "Seifried Pascal m 1996"
-    ],
-    [
-      "Hoffmann Christophe m 1981",
-      "Loos Martin m 1963"
-    ],
-    [
-      "Hoffmann Lars m 2002",
-      "Hoffmann Leon m 2002"
-    ],
-    [
-      "Holschuh Robin m 1995",
-      "Schmahl Manfred m 1994"
     ],
     [
       "Hormuth Joachim m 1982",
       "Hormuth Markus m 1980"
     ],
     [
-      "Hormuth Jonas m 2000",
-      "Kiefer Julius m 2004"
-    ],
-    [
-      "Horn Maxi m 2004",
-      "Zimmermann Felix m 2002"
-    ],
-    [
-      "Horn Melanie w 2004",
-      "Seelig Johannes m 2002"
-    ],
-    [
       "Huber Pierre m 1986",
       "Wichner Marcus m 1974"
-    ],
-    [
-      "Häfele Tim m 1991",
-      "Negoda Vjaceslav m 1987"
-    ],
-    [
-      "Hägele Simon m 2002",
-      "Werner Fabian m 2003"
     ],
     [
       "Händel Markus m 2001",
       "Lübben Lorant m 2004"
     ],
     [
-      "Häussermann Franziska w 1989",
-      "Steinbrenner Jonas m 1999"
-    ],
-    [
-      "Höfer Helena w 2001",
-      "Krammer Madeleine w 2001"
-    ],
-    [
-      "Höltke Jan-Frederik m 1987",
-      "Linde Matthias m 1979"
-    ],
-    [
-      "Hörr Erik m 1992",
-      "Mehlig Sascha m 1988"
-    ],
-    [
-      "Ihns Thomas m 1989",
-      "Slusarenko Oliver m 1988"
-    ],
-    [
-      "Ilg Nicolas m 1987",
-      "Katzke Oskar m 1992"
-    ],
-    [
-      "Ilg Tobias m 1994",
-      "Kley Marc m 2002"
-    ],
-    [
-      "Ischwang Patrick m 1994",
-      "Unger Paul m 1995"
-    ],
-    [
-      "Jagusch Adrian m 1991",
-      "Reichelt Kai m 1975"
-    ],
-    [
-      "Janzen Christian m 2000",
-      "Liebe Dario m 2000"
-    ],
-    [
-      "Juffa Marco m 1978",
-      "Urbach Verena w 1995"
-    ],
-    [
-      "Jäger Markus m 1976",
-      "Schönberg Werner m 1989"
-    ],
-    [
-      "Jäger Robert m 1980",
-      "Karg Martin m 1975"
-    ],
-    [
-      "Kalcher Michael m 1995",
-      "Schreiber Hannes m 1986"
-    ],
-    [
-      "Kasparbauer Stefan m 1999",
-      "Schessl Christian m 1991"
-    ],
-    [
-      "Katzenmeyer Ingo m 1973",
-      "Katzenmeyer Lucas m 2003"
-    ],
-    [
-      "Kaufmann Claude m 1973",
-      "Theiß Christophe m 1990"
-    ],
-    [
-      "Kaupp Andreas m 1974",
-      "Mayerhofer Florian m 1996"
-    ],
-    [
-      "Kehrlein Christian m 1980",
-      "Kehrlein Michael m 1980"
-    ],
-    [
-      "Kern Thomas m 1971",
-      "Klink Markus m 1973"
-    ],
-    [
-      "Kiesel Daniel m 1992",
-      "Prochota Andreas m 1993"
-    ],
-    [
-      "Kirchner Adrian m 1988",
-      "Kirchner Armin m 1981"
-    ],
-    [
-      "Kirstein Jonas m 2002",
-      "Pfleghaar Raphael m 2002"
-    ],
-    [
-      "Kister Daniel m 1990",
-      "Langwasser Ulf m 1975"
-    ],
-    [
-      "Klima David m 1994",
-      "Maier Stephan m 2002"
-    ],
-    [
-      "Koch Petra w 1981",
-      "Pyka Damian m 1975"
-    ],
-    [
-      "Kohl Enrico m 1990",
-      "Tuchbreiter Nicole w 1984"
-    ],
-    [
       "Kohler Carlo m 2001",
       "Kohnle Dominik m 2000"
-    ],
-    [
-      "Kolb Steffen m 1972",
-      "Rettenmaier Helmut m 1969"
-    ],
-    [
-      "Korczyk Kevin m 1993",
-      "Schuberth Martin m 1990"
-    ],
-    [
-      "Kottler Lars m 1991",
-      "Unsöld Sascha m 1974"
-    ],
-    [
-      "Kowald Max m 2003",
-      "Schelenz Tim m 2002"
     ],
     [
       "Krastel Alina w 1998",
@@ -788,172 +120,16 @@
       "Schenkel Leonard m 2002"
     ],
     [
-      "Krause Oliver m 1989",
-      "Krause Thomas m 1966"
-    ],
-    [
-      "Krause Pascal m 1999",
-      "Neckenich Jeroma m 1988"
-    ],
-    [
-      "Krieg Julian m 1998",
-      "Merkel Ralf m 1984"
-    ],
-    [
-      "Krimm Jennifer w 1997",
-      "Weiß Anne-Kathrin w 1991"
-    ],
-    [
-      "Kristen Tobias m 1998",
-      "Mößlang Lukas m 1992"
-    ],
-    [
-      "Krumstroh René m 1981",
-      "Schneidereit Kirsten w 2002"
-    ],
-    [
-      "Kröber Konrad m 1988",
-      "Kröber Stefan m 1988"
-    ],
-    [
-      "Kubanke Leon m 2002",
-      "Reinker Lena w 2000"
-    ],
-    [
-      "Kull Justin-Felipe m 2004",
-      "Neumaier Sebastian m 2002"
-    ],
-    [
-      "Kummerow Thorsten m 1981",
-      "Urbantat Thomas m 1978"
-    ],
-    [
-      "Kurz Julian m 1996",
-      "Wirth Andreas m 1988"
-    ],
-    [
-      "Köppler Sascha m 1991",
-      "Loesch Dominik m 1989"
-    ],
-    [
-      "Langenhahn Erik m 1999",
-      "Zahlmann Fabian m 2001"
-    ],
-    [
-      "Lechler Kevin m 1996",
-      "Ruhe Martin m 1971"
-    ],
-    [
-      "Lehmann Stephan m 1980",
-      "Rust Sven m 1978"
-    ],
-    [
-      "Leimbach Fabian m 2000",
-      "Vorstandslechner Marcel m 2000"
-    ],
-    [
-      "Leimbach Patrick m 1999",
-      "Neumaier Alexander m 1994"
-    ],
-    [
-      "Leitschuh Philipp m 1996",
-      "Neumaier Florian m 1999"
-    ],
-    [
       "Lester Nils m 2004",
       "Münchow Jannik m 2004"
-    ],
-    [
-      "Lettow Jasper m 2004",
-      "Maaß Florian m 1989"
     ],
     [
       "Liebhäuser Patrick m 1967",
       "Ortmann Marius m 1999"
     ],
     [
-      "Lohr Niklas m 1997",
-      "Maurer Pascal m 1986"
-    ],
-    [
-      "Lorenz Mathias m 1990",
-      "Ruder Daniel m 1994"
-    ],
-    [
-      "Mai Lucas m 2004",
-      "Sander Pit m 2003"
-    ],
-    [
-      "Mallaun Christian m 1997",
-      "Schmid Mathias m 1992"
-    ],
-    [
-      "Mann Michael m 1988",
-      "Staiger Tobias m 1994"
-    ],
-    [
-      "Martin Andreas m 1990",
-      "Schneider Maximilian m 1999"
-    ],
-    [
-      "Marx Jens m 1971",
-      "Schröder Alexander m 1984"
-    ],
-    [
-      "Maurer Jonas m 2000",
-      "Rix Nadine w 1990"
-    ],
-    [
-      "Maurer Matthias m 1977",
-      "Römpp Julius m 2002"
-    ],
-    [
-      "Maurus Andreas m 2004",
-      "Schönfeld Max m 2004"
-    ],
-    [
-      "Mehr Richard m 2001",
-      "Wiest Jakob m 1984"
-    ],
-    [
-      "Merk Christian m 1983",
-      "Merk Jürgen m 1987"
-    ],
-    [
-      "Meyer Axel m 1967",
-      "Peters Florian m 1978"
-    ],
-    [
-      "Meyer Steffen m 1999",
-      "Siegel Leon m 2004"
-    ],
-    [
-      "Mezger Markus m 1975",
-      "Mezger Simon m 2001"
-    ],
-    [
-      "Michalak Markus m 1998",
-      "Tribbensee Ben m 1999"
-    ],
-    [
-      "Michlbauer Dominik m 1996",
-      "Wurstbauer Patrick m 1994"
-    ],
-    [
-      "Mikanovic Dorian m 2000",
-      "Pflanz Julian m 2003"
-    ],
-    [
-      "Minosa Fabio m 1997",
-      "Stummer Fabian m 1991"
-    ],
-    [
       "Missfelder Fabian m 1990",
       "Ruf Juliane w 2002"
-    ],
-    [
-      "Mitsch Christian m 1995",
-      "Weickmann Matthias m 1981"
     ],
     [
       "Moore Matthias m 1978",
@@ -964,18 +140,6 @@
       "Sobisch Jürgen m 1967"
     ],
     [
-      "Moosbrugger Kai m 2001",
-      "Sachsenmaier Simon m 2002"
-    ],
-    [
-      "Mungenast Timo m 1995",
-      "Müller Manuel m 1985"
-    ],
-    [
-      "Mußbach Marco m 1995",
-      "Netzel Lucas m 1999"
-    ],
-    [
       "Müller Christian m 1997",
       "Wörz Alexander m 1987"
     ],
@@ -984,104 +148,16 @@
       "Weimer Jörg m 1963"
     ],
     [
-      "Müller Lukas m 2003",
-      "Müller Tobias m 2002"
-    ],
-    [
-      "Müller Marvin m 1993",
-      "Spiß Stefan m 1994"
-    ],
-    [
-      "Negele Andreas m 1994",
-      "Schweighofer Marius m 1988"
-    ],
-    [
-      "Nickel Marco m 2000",
-      "Scurla Michael m 1984"
-    ],
-    [
-      "Omasreither Florian m 1989",
-      "Zollner Thomas m 1988"
-    ],
-    [
-      "Ortmann Yannic m 1997",
-      "Paulus Benedikt m 2000"
-    ],
-    [
-      "Ott Rainer m 1988",
-      "Roth Matthias m 1988"
-    ],
-    [
-      "Pauli Vincent m 2000",
-      "Pöhl Silvio m 1985"
-    ],
-    [
       "Paulus Guido m 1964",
       "Scherf Marvin m 1998"
-    ],
-    [
-      "Pelger Frank m 1985",
-      "Rösch Manuel m 1994"
-    ],
-    [
-      "Penzl Daniel m 1994",
-      "Reis Nicolas m 1981"
     ],
     [
       "Peters Jörg m 1973",
       "Thalmair Christine w 1989"
     ],
     [
-      "Pieper Marcel m 1991",
-      "Raapke Patrick m 1989"
-    ],
-    [
-      "Prem Johannes m 1992",
-      "Zettler Stephan m 1992"
-    ],
-    [
-      "Reiss Niko m 1997",
-      "Woidich Michael m 1998"
-    ],
-    [
-      "Reuter Sven m 1977",
-      "Wilhelm Andreas m 1976"
-    ],
-    [
-      "Rist Markus m 1978",
-      "Rist Roman m 1995"
-    ],
-    [
-      "Rix Jan m 1980",
-      "Wirth Jonas m 1990"
-    ],
-    [
-      "Roth Armin m 1985",
-      "Seßler Bernd m 1977"
-    ],
-    [
-      "Roth Christian m 1990",
-      "Roth Michael m 1999"
-    ],
-    [
-      "Sander Marcel m 1996",
-      "Sander Marvin m 1997"
-    ],
-    [
-      "Sauter Oliver m 1997",
-      "Theuergarten Marco m 1999"
-    ],
-    [
-      "Sauter Simon m 1995",
-      "Wolf Joshua m 1994"
-    ],
-    [
       "Schinagel Hanna w 2008",
       "Weis Lea w 2006"
-    ],
-    [
-      "Schlotterbeck Julian m 1996",
-      "Schlotterbeck Milena w 1999"
     ],
     [
       "Schlutt Florian m 2006",
@@ -1092,76 +168,16 @@
       "Schuster Lucas m 2003"
     ],
     [
-      "Schmid Alexander m 1997",
-      "Österreicher Michael m 1993"
-    ],
-    [
-      "Schmidt Luca m 2004",
-      "Schmidt Tobias m 1986"
-    ],
-    [
-      "Schmitt Andreas m 1971",
-      "Walter Simon m 1986"
-    ],
-    [
-      "Schmock Florian m 2000",
-      "Schulz Paul m 2002"
-    ],
-    [
-      "Schneider Bernd m 1983",
-      "Stark Michael m 1978"
-    ],
-    [
       "Schneider Ralf m 1966",
       "Westerhoff Carsten m 1973"
-    ],
-    [
-      "Schoch Dominik m 2003",
-      "Schäfer Manuel m 1999"
-    ],
-    [
-      "Schulz Luca m 2001",
-      "Schulz Markus m 1976"
     ],
     [
       "Seidel Stefan Herbert m 1999",
       "Stein Sebastian m 1998"
     ],
     [
-      "Seifert André m 1981",
-      "Strehle Valentin m 1996"
-    ],
-    [
-      "Sommer Nicolai m 1988",
-      "Weber Markus m 1983"
-    ],
-    [
       "Sonder Heiko m 1991",
       "Wengert Rudi m 1975"
-    ],
-    [
-      "Spath Sven m 1971",
-      "Weiß Alexander m 1997"
-    ],
-    [
-      "Spruck Raphael m 1980",
-      "Ziegler Monika w 1996"
-    ],
-    [
-      "Sprunk Jeff m 1990",
-      "Wiggenhauser Hans m 1997"
-    ],
-    [
-      "Thiel Dominik m 1996",
-      "Wohlan Mandy w 1999"
-    ],
-    [
-      "Unglert Daniel m 1976",
-      "Zettler Matthias m 1993"
-    ],
-    [
-      "Zeberle Benedikt m 2000",
-      "Zeberle Maria w 2003"
     ]
   ]
 }

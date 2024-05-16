@@ -1,16 +1,55 @@
 {
-  "date": "2024-05-15T07:16:58.663Z",
-  "competition": "recqjh5V3DUAzgLYQ",
+  "date": "2024-05-16T09:26:14.471794",
+  "competition_id": "recqjh5V3DUAzgLYQ",
   "count": 71,
   "teams": [
     [
-      "Tobias Alber"
+      "Agostino Marulli"
     ],
     [
-      "Jens Bader"
+      "Albrecht Gutjahr"
     ],
     [
-      "Marc Becker"
+      "Andreas Bosse"
+    ],
+    [
+      "Andreas Walbert"
+    ],
+    [
+      "Andreas Zapf"
+    ],
+    [
+      "Bianca Schrader"
+    ],
+    [
+      "Cedric Dittus"
+    ],
+    [
+      "Christian Eckert"
+    ],
+    [
+      "Claude Kaufmann"
+    ],
+    [
+      "Daniel Senger"
+    ],
+    [
+      "Fabian Strobel"
+    ],
+    [
+      "Fabio Silva"
+    ],
+    [
+      "Florian Spengler"
+    ],
+    [
+      "Freddy Reich"
+    ],
+    [
+      "Gürntke Phillip"
+    ],
+    [
+      "Hanna Knack"
     ],
     [
       "Jan Bender"
@@ -19,28 +58,79 @@
       "Jasmin Bohun"
     ],
     [
-      "Leo Bönisch"
+      "Jens Bader"
     ],
     [
-      "Andreas Bosse"
-    ],
-    [
-      "Philipp Brüggemann"
-    ],
-    [
-      "Michael Büker"
+      "Jonah Zimmerer"
     ],
     [
       "Jost Claßen"
     ],
     [
-      "Cedric Dittus"
+      "Jörg Weimer"
     ],
     [
-      "Thomas Dobrokovsky"
+      "Kai Simon"
     ],
     [
-      "Christian Eckert"
+      "Kalle Müller"
+    ],
+    [
+      "Lars Kottler"
+    ],
+    [
+      "Leo Bönisch"
+    ],
+    [
+      "Louisa Wein"
+    ],
+    [
+      "Luka Treffz"
+    ],
+    [
+      "Manfred Freimut"
+    ],
+    [
+      "Marc Becker"
+    ],
+    [
+      "Marc Schäfer"
+    ],
+    [
+      "Marc Selinger"
+    ],
+    [
+      "Markus Henne"
+    ],
+    [
+      "Martin Loos"
+    ],
+    [
+      "Martin Weiss"
+    ],
+    [
+      "Max Trunsch"
+    ],
+    [
+      "Michael Büker"
+    ],
+    [
+      "Michael Metzler"
+    ],
+    [
+      "Michael Rentschler"
+    ],
+    [
+      "Michael Staubitz"
+    ],
+    [
+      "Michael Wetzel"
+    ],
+    [
+      "Nick Genz"
+    ],
+    [
+      "Nicolas Faure"
     ],
     [
       "Oliver Eder"
@@ -49,172 +139,82 @@
       "Oliver Fahrner"
     ],
     [
-      "Nicolas Faure"
+      "Petra Koch"
     ],
     [
-      "Manfred Freimut"
-    ],
-    [
-      "Thomas Galenziok"
-    ],
-    [
-      "Nick Genz"
+      "Philipp Brüggemann"
     ],
     [
       "Philipp Grimm"
     ],
     [
-      "Albrecht Gutjahr"
-    ],
-    [
-      "Tim Häfele"
+      "Reinhard Klaube"
     ],
     [
       "Remy Harpes"
     ],
     [
-      "Ruben Heinzelmann"
-    ],
-    [
-      "Markus Henne"
-    ],
-    [
-      "Steffen Hessing"
-    ],
-    [
-      "Sven Juvier"
-    ],
-    [
-      "Thorsten Katzmann"
-    ],
-    [
-      "Claude Kaufmann"
-    ],
-    [
-      "Reinhard Klaube"
-    ],
-    [
-      "Tim Klein"
-    ],
-    [
-      "Hanna Knack"
-    ],
-    [
-      "Petra Koch"
-    ],
-    [
-      "Lars Kottler"
-    ],
-    [
-      "Tino Leidel"
+      "Robert Sattelmayer"
     ],
     [
       "Robin Lohner"
     ],
     [
-      "Martin Loos"
-    ],
-    [
-      "Agostino Marulli"
-    ],
-    [
-      "Stefan Matheis"
-    ],
-    [
-      "Michael Metzler"
-    ],
-    [
-      "Kalle Müller"
-    ],
-    [
-      "Steven Müller"
-    ],
-    [
-      "Vjaceslav Negoda"
-    ],
-    [
-      "Gürntke Phillip"
-    ],
-    [
-      "Freddy Reich"
-    ],
-    [
-      "Michael Rentschler"
-    ],
-    [
-      "Thilo Riede"
-    ],
-    [
-      "Steve Roidl"
-    ],
-    [
-      "Robert Sattelmayer"
-    ],
-    [
-      "Marc Schäfer"
-    ],
-    [
-      "Bianca Schrader"
-    ],
-    [
-      "Marc Selinger"
-    ],
-    [
-      "Daniel Senger"
-    ],
-    [
-      "Fabio Silva"
-    ],
-    [
-      "Kai Simon"
-    ],
-    [
-      "Florian Spengler"
-    ],
-    [
-      "Michael Staubitz"
-    ],
-    [
-      "Simon Stierle"
-    ],
-    [
-      "Tim Stierle"
-    ],
-    [
-      "Fabian Strobel"
-    ],
-    [
-      "Sven Theiss"
-    ],
-    [
-      "Luka Treffz"
-    ],
-    [
-      "Max Trunsch"
+      "Ruben Heinzelmann"
     ],
     [
       "Sascha Unsöld"
     ],
     [
-      "Andreas Walbert"
+      "Simon Stierle"
     ],
     [
-      "Jörg Weimer"
+      "Stefan Matheis"
     ],
     [
-      "Louisa Wein"
+      "Steffen Hessing"
     ],
     [
-      "Martin Weiss"
+      "Steve Roidl"
     ],
     [
-      "Michael Wetzel"
+      "Steven Müller"
     ],
     [
-      "Andreas Zapf"
+      "Sven Juvier"
     ],
     [
-      "Jonah Zimmerer"
+      "Sven Theiss"
+    ],
+    [
+      "Thilo Riede"
+    ],
+    [
+      "Thomas Dobrokovsky"
+    ],
+    [
+      "Thomas Galenziok"
+    ],
+    [
+      "Thorsten Katzmann"
+    ],
+    [
+      "Tim Häfele"
+    ],
+    [
+      "Tim Klein"
+    ],
+    [
+      "Tim Stierle"
+    ],
+    [
+      "Tino Leidel"
+    ],
+    [
+      "Tobias Alber"
+    ],
+    [
+      "Vjaceslav Negoda"
     ]
   ]
 }

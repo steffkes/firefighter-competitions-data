@@ -1,63 +1,63 @@
 {
-  "date": "2024-05-15T07:16:58.663Z",
-  "competition": "recro0bAFSmCCQZBP",
+  "date": "2024-05-17T07:55:39.953269",
+  "competition_id": "recro0bAFSmCCQZBP",
   "count": 28,
   "teams": [
     [
-      "Pascal Arne Lange",
-      "Erik Scheibe"
+      "André Zimmermann",
+      "Florian Ehmler"
     ],
     [
-      "Philipp Simon",
-      "Julius Hardege"
+      "Christian Grüner",
+      "Toni Schubert"
     ],
     [
       "Elina Görler",
       "Florian Löffler"
     ],
     [
-      "Niclas Schuster",
-      "Marc Schuster"
+      "Eric Zimmermann",
+      "Immanuel Borau"
     ],
     [
-      "Lukas Pahlisch",
-      "Tobias Kahnes"
-    ],
-    [
-      "Max Leibelt",
-      "Philipp Leibelt"
-    ],
-    [
-      "André Zimmermann",
-      "Florian Ehmler"
-    ],
-    [
-      "Jeremy Löffler",
-      "Philipp Tischer"
+      "Erik Scheibe",
+      "Pascal Arne Lange"
     ],
     [
       "Hans Schreiter",
       "Stefan Marienthal"
     ],
     [
-      "René Krumstroh",
-      "Kirsten Schneidereit"
+      "Heene Marc",
+      "Spitzner Ernst"
     ],
     [
-      "Immanuel Borau",
-      "Eric Zimmermann"
+      "Jeremy Löffler",
+      "Philipp Tischer"
     ],
     [
-      "Leon Näser",
-      "Kevin Lenk"
+      "Julius Hardege",
+      "Philipp Simon"
     ],
     [
-      "Spitzner Ernst",
-      "Heene Marc"
+      "Kevin Lenk",
+      "Leon Näser"
     ],
     [
-      "Christian Grüner",
-      "Toni Schubert"
+      "Kirsten Schneidereit",
+      "René Krumstroh"
+    ],
+    [
+      "Lukas Pahlisch",
+      "Tobias Kahnes"
+    ],
+    [
+      "Marc Schuster",
+      "Niclas Schuster"
+    ],
+    [
+      "Max Leibelt",
+      "Philipp Leibelt"
     ]
   ]
 }

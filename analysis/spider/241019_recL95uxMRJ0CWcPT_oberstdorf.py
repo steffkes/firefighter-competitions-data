@@ -1,8 +1,6 @@
 import scrapy
 from datetime import datetime
 import re
-import itertools
-import string
 from util import JsonItemExporter, ParticipantItem, ResultItem
 
 
@@ -52,62 +50,16 @@ class Spider(scrapy.Spider):
             )
 
     def parse_starters(self, response):
+        reverseName = lambda name: " ".join(
+            reversed(list(map(str.strip, name.split(" "))))
+        )
+        fixName = lambda name: reverseName(
+            re.match(r"^(.+)\s+\w\s+\d+$", name).group(1).strip()
+        )
+
         data = response.json()["rows"]
         for entry in data:
             yield ParticipantItem(
                 competition_id=self.competition_id,
-                names=sorted(entry["cell"]["name"].split("<br>")),
+                names=sorted(map(fixName, entry["cell"]["name"].split("<br>"))),
             )
-
-
-"""
-import { ofetch } from "ofetch";
-
-const tmp = (
-  await Promise.allSettled(
-    [9026, 9027].map(
-      async (contest) =>
-        new Promise(async (resolve) => {
-          const data = await ofetch(
-            "https://www.anmeldungs-service.de/module/teilnehmer/staffel_cache.php",
-            {
-              parseResponse: JSON.parse,
-              headers: {
-                "X-Requested-With": "XMLHttpRequest",
-              },
-              query: {
-                wettid: contest,
-                totalrows: 2000,
-              },
-            }
-          );
-          return resolve(data.rows || []);
-        })
-    )
-  )
-)
-  .flatMap(({ value }) => value)
-  .map(({ cell: { name: names } }) =>
-    names
-      .split("<br>")
-      .map((name) =>
-        name
-          .match(/^(.+)\s+\w\s+\d+$/)[1]
-          .split(" ")
-          .reverse()
-          .join(" ")
-          .trim()
-      )
-      .sort()
-  );
-
-export const teams = () => tmp.sort();
-export const participants = () => teams().flat();
-export const count = () => participants().length;
-
-import { defineEventHandler } from "h3";
-import data from "@/data/teams/241019_recL95uxMRJ0CWcPT.json" assert { type: "json" };
-
-export default defineEventHandler(async (event) => data["count"]);
-
-"""

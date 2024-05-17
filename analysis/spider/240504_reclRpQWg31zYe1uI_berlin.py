@@ -1,5 +1,6 @@
 import scrapy
 from datetime import datetime
+from pathlib import Path
 from scrapy.utils.iterators import csviter
 from util import JsonItemExporter, ParticipantItem, ResultItem
 
@@ -36,10 +37,12 @@ class Spider(scrapy.spiders.CSVFeedSpider):
 
     def start_requests(self):
         yield scrapy.Request(
-            "file:///app/analysis/spider/data/240504_berlin_starter.csv",
+            "file://%s" % Path("spider/data/240504_berlin_starter.csv").resolve(),
             callback=self.parse_starters,
         )
-        yield scrapy.Request("file:///app/analysis/spider/data/240504_berlin.csv")
+        yield scrapy.Request(
+            "file://%s" % Path("spider/data/240504_berlin.csv").resolve()
+        )
 
     def parse_starters(self, response):
         fixName = lambda name: " ".join(reversed(name.split(", ")))

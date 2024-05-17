@@ -59,19 +59,18 @@ class Spider(scrapy.Spider):
 
     def parse_starters(self, response):
         fixName = lambda name: re.sub(
-        r"^(.+)\s(.+)$",
-        lambda match: "%s %s"
-        % (
-            match.group(2),
-            re.sub(
-                r"^(.)(.+)$",
-                lambda match: "%s%s" % (match.group(1), match.group(2).lower()),
-                match.group(1),
+            r"^(.+)\s(.+)$",
+            lambda match: "%s %s"
+            % (
+                match.group(2),
+                re.sub(
+                    r"^(.)(.+)$",
+                    lambda match: "%s%s" % (match.group(1), match.group(2).lower()),
+                    match.group(1),
+                ),
             ),
-        ),
-        name.strip(),
-    )
-
+            name.strip(),
+        )
 
         for [_bib1, name1, _gender1, _competition1, _birthyear1, _category1], [
             _bib2,
@@ -88,18 +87,18 @@ class Spider(scrapy.Spider):
 
     def parse(self, response):
         fixName = lambda name: re.sub(
-        r"^(.+)\s(.+)$",
-        lambda match: "%s %s"
-        % (
-            match.group(2),
-            re.sub(
-                r"^(.)(.+)$",
-                lambda match: "%s%s" % (match.group(1), match.group(2).lower()),
-                match.group(1),
+            r"^(.+)\s(.+)$",
+            lambda match: "%s %s"
+            % (
+                match.group(2),
+                re.sub(
+                    r"^(.)(.+)$",
+                    lambda match: "%s%s" % (match.group(1), match.group(2).lower()),
+                    match.group(1),
+                ),
             ),
-        ),
-        name.strip(),
-    )
+            name.strip(),
+        )
 
         for category, teams in response.json()["data"].items():
             is_mpa = "Mit PA" in category
@@ -109,7 +108,6 @@ class Spider(scrapy.Spider):
                     [_id1, bib, name1, gender1, _time1],
                     [_id2, _bib2, name2, gender2, _time2],
                 ] = names
-                print(team, names, duration, name1, name2)
                 yield ResultItem(
                     date=self.race_date,
                     competition_id=self.competition_id,

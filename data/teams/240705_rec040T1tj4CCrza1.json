@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-17T09:27:43.518641",
+  "date": "2024-05-17T15:25:31.628256",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 644,
+  "count": 640,
   "teams": [
     [
       "Adam Spychała"
@@ -194,9 +194,6 @@
     ],
     [
       "Hans-Jürgen Vogt"
-    ],
-    [
-      "Heiko Gerke"
     ],
     [
       "Helge Sonnenberg"
@@ -880,10 +877,6 @@
       "Vladyslav Oliinyk"
     ],
     [
-      "Heiko Gerke",
-      "No Name"
-    ],
-    [
       "Helge Sonnenberg",
       "Marian Brandes"
     ],
@@ -1215,6 +1208,12 @@
       "Phul Heise"
     ],
     [
+      "Dietmar Kirsch",
+      "Gerd Müller",
+      "Magnus Hirschfeld",
+      "Ralf Sikorra"
+    ],
+    [
       "Eric Keßler",
       "Patrick Kirsch",
       "Thorsten Fritz",
@@ -1367,13 +1366,6 @@
       "Jannik Wagner",
       "Marvin Stöbener",
       "Mike Stöbner"
-    ],
-    [
-      "Dietmar Kirsch",
-      "Gerd Müller",
-      "Heiko Gerke",
-      "Magnus Hirschfeld",
-      "Ralf Sikorra"
     ],
     [
       "Hans-Christian Marwedel",

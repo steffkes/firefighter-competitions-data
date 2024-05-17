@@ -17,8 +17,8 @@ jobs:
           ref: data-collection
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-          cache: 'pip'
+          python-version: "3.12"
+          cache: "pip"
       - run: pip install -r requirements.txt
       - run: find spider/ -name "*rec*.py" | sort | xargs -L1 scrapy runspider
       - run: scrapy runspider collector.py

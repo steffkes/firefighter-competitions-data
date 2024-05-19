@@ -42,6 +42,8 @@
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2121", "type": "OPA", "duration": "00:23:48.2", "cagegory": "M", "names": ["Jochen Reinke"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2072", "type": "OPA", "duration": "00:24:15.6", "cagegory": "M", "names": ["Sascha Köppler"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2251", "type": "OPA", "duration": "00:24:31.5", "cagegory": "M", "names": ["Felix Nielsen"]}
+{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2033", "type": "OPA", "duration": "00:25:04.1", "cagegory": "M", "names": ["Roman Reichhold"]}
+{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2221", "type": "OPA", "duration": "00:25:21.5", "cagegory": "M", "names": ["Peter Benz"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2722", "type": "MPA", "duration": "00:11:56.1", "cagegory": "M", "names": ["Tobias Weinaus"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2511", "type": "MPA", "duration": "00:13:19.7", "cagegory": "M", "names": ["Renato Ravanelli"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2513", "type": "MPA", "duration": "00:13:34.2", "cagegory": "M", "names": ["Christian Brandmann"]}
@@ -87,8 +89,10 @@
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2683", "type": "MPA", "duration": "00:17:47.8", "cagegory": "M", "names": ["Adrian Lovric"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2761", "type": "MPA", "duration": "00:17:49.1", "cagegory": "M", "names": ["Martin Karg"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2532", "type": "MPA", "duration": "00:17:57.5", "cagegory": "M", "names": ["Patrick Riegger"]}
-{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2033", "type": "OPA", "duration": "00:25:04.1", "cagegory": "M", "names": ["Roman Reichhold"]}
-{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2221", "type": "OPA", "duration": "00:25:21.5", "cagegory": "M", "names": ["Peter Benz"]}
+{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2681", "type": "MPA", "duration": "00:17:58.8", "cagegory": "M", "names": ["Jonas Eisenhauer"]}
+{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2653", "type": "MPA", "duration": "00:18:00.3", "cagegory": "M", "names": ["Björn Herborn"]}
+{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2692", "type": "MPA", "duration": "00:18:01.2", "cagegory": "M", "names": ["Markus Brähler"]}
+{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2533", "type": "MPA", "duration": "00:18:07.1", "cagegory": "M", "names": ["Tobias Missfelder"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2063", "type": "OPA", "duration": "00:25:37.2", "cagegory": "M", "names": ["Julian Schlutt"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2273", "type": "OPA", "duration": "00:25:44.8", "cagegory": "M", "names": ["Fabian Lodyga"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2023", "type": "OPA", "duration": "00:26:03.1", "cagegory": "M", "names": ["Marvin Franz"]}
@@ -124,10 +128,6 @@
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2013", "type": "OPA", "duration": "00:39:07.9", "cagegory": "W", "names": ["Katrin Hüfner"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2222", "type": "OPA", "duration": "00:39:24.8", "cagegory": "W", "names": ["Anja Zöller"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2141", "type": "OPA", "duration": "00:39:42.8", "cagegory": "W", "names": ["Miriam Schaub"]}
-{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2681", "type": "MPA", "duration": "00:17:58.8", "cagegory": "M", "names": ["Jonas Eisenhauer"]}
-{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2653", "type": "MPA", "duration": "00:18:00.3", "cagegory": "M", "names": ["Björn Herborn"]}
-{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2692", "type": "MPA", "duration": "00:18:01.2", "cagegory": "M", "names": ["Markus Brähler"]}
-{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2533", "type": "MPA", "duration": "00:18:07.1", "cagegory": "M", "names": ["Tobias Missfelder"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2562", "type": "MPA", "duration": "00:18:18.3", "cagegory": "M", "names": ["Marco Ebner"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2752", "type": "MPA", "duration": "00:18:19.3", "cagegory": "M", "names": ["Patrick Lorz"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2741", "type": "MPA", "duration": "00:18:21.4", "cagegory": "M", "names": ["Alejandro Hernandez-Bonell"]}

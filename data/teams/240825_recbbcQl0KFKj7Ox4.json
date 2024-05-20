@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-20T09:25:07.541832",
+  "date": "2024-05-20T15:23:39.712609",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 470,
+  "count": 480,
   "teams": [
     [
       "Adrian Feiler",
@@ -16,8 +16,16 @@
       "Louis Tebbe"
     ],
     [
+      "Alexander Dresp",
+      "Till Benninghaus"
+    ],
+    [
       "Alexander Hellwig",
       "Stefan Dahm"
+    ],
+    [
+      "Alexander Kühne",
+      "Tobias Fischer"
     ],
     [
       "Alexander Möller",
@@ -296,6 +304,10 @@
       "Maximilian Dustmann"
     ],
     [
+      "Dennis Berndt",
+      "Jens Wipperfürth"
+    ],
+    [
       "Dennis Bürk",
       "Manuel Schulz"
     ],
@@ -466,6 +478,10 @@
     [
       "Florian Hüwels",
       "Matthias Hüwels"
+    ],
+    [
+      "Florian Kohl",
+      "Tim Beckmann"
     ],
     [
       "Florian Krass",
@@ -846,6 +862,10 @@
     [
       "Otto Chimm",
       "Toni Müller"
+    ],
+    [
+      "Pascal Neidhöfer",
+      "Philip Lang"
     ],
     [
       "Pascal Paulus",

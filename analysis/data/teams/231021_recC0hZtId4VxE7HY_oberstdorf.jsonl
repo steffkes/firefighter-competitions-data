@@ -55,7 +55,6 @@
 {"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "1307", "type": "MPA", "duration": "00:15:44.5", "category": "M", "names": ["Till Schneider", "Tom Reichhardt"]}
 {"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "206", "type": "MPA", "duration": "00:15:51.9", "category": "M", "names": ["Arne Dersein", "Florian Mayr"]}
 {"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "509", "type": "MPA", "duration": "00:15:53.3", "category": "M", "names": ["Daniel Maurus", "Robert Holzheu"]}
-{"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "1206", "type": "MPA", "duration": "00:15:53.4", "category": "M", "names": ["Andreas Fischer", "Christian Kreit"]}
 {"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "1612", "type": "OPA", "duration": "00:11:12.7", "category": "M", "names": ["Marcus Woito", "Philipp Gürntke"]}
 {"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "1610", "type": "OPA", "duration": "00:12:33.0", "category": "M", "names": ["Daniel Zimmermann", "Florian Schlutt"]}
 {"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "1516", "type": "OPA", "duration": "00:12:54.6", "category": "X", "names": ["Fabian Missfelder", "Juliane Ruf"]}
@@ -87,6 +86,7 @@
 {"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "1502", "type": "OPA", "duration": "00:17:17.6", "category": "X", "names": ["Monika Ziegler", "Raphael Spruck"]}
 {"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "713", "type": "OPA", "duration": "00:17:23.1", "category": "W", "names": ["Juliana Seitz", "Lucia Huber"]}
 {"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "810", "type": "OPA", "duration": "00:17:36.1", "category": "M", "names": ["Patrick Leimbach", "Tim Hessler"]}
+{"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "1206", "type": "MPA", "duration": "00:15:53.4", "category": "M", "names": ["Andreas Fischer", "Christian Kreit"]}
 {"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "1110", "type": "MPA", "duration": "00:15:55.8", "category": "M", "names": ["Mattias Schneider", "Werner Schönberg"]}
 {"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "1205", "type": "MPA", "duration": "00:15:57.9", "category": "M", "names": ["Christian Göppel", "Peter Sontheim"]}
 {"date": "2023-10-21", "competition_id": "recC0hZtId4VxE7HY", "bib": "101", "type": "MPA", "duration": "00:16:01.3", "category": "M", "names": ["Damian Pyka", "Steve Roidl"]}

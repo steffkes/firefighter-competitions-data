@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-21T15:23:16.815011",
+  "date": "2024-05-22T09:20:30.119527",
   "competition_id": "recVzAj3TgO0th7JC",
-  "count": 339,
+  "count": 345,
   "teams": [
     [
       "Alex Duarte Faceira",
@@ -32,6 +32,11 @@
       "André Wendel",
       "Manuel Hesske",
       "Felix Fleig"
+    ],
+    [
+      "Carl Röcklebe",
+      "Cedric Peltier",
+      "Simon Groß"
     ],
     [
       "Christian Erbes",
@@ -202,6 +207,11 @@
       "Joachim Löffler",
       "Julian Schäfer",
       "Felix Bartholmä"
+    ],
+    [
+      "Jochen Reinke",
+      "Michael Erdmann",
+      "Mario Dietrich"
     ],
     [
       "Jonas Eisenhauer",

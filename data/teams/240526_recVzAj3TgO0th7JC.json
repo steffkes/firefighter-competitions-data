@@ -1,5 +1,5 @@
 {
-  "date": "2024-05-22T16:11:08.301362",
+  "date": "2024-05-22T16:34:03.326598",
   "competition_id": "recVzAj3TgO0th7JC",
   "count": 348,
   "teams": [
@@ -52,6 +52,11 @@
       "Christian Heß",
       "Alexander Hick",
       "Martin Glanzner"
+    ],
+    [
+      "Christian Klimaschka",
+      "Thorben Fries",
+      "Andreas Weißelberg"
     ],
     [
       "Christian Nill",
@@ -110,7 +115,7 @@
     ],
     [
       "Emma Schmarbeck",
-      "Christian Klimaschka",
+      "Julian Bruch",
       "Alexander Gohlke"
     ],
     [
@@ -165,7 +170,7 @@
     ],
     [
       "Frederik Gebbeken",
-      "Stephan Kesisoglu",
+      "Jonas Habbel",
       "Lukas Weißelberg"
     ],
     [
@@ -219,11 +224,6 @@
       "Maximilian Berg"
     ],
     [
-      "Jonas Habbel",
-      "Jan Karol Wosz",
-      "Matthias Bülow"
-    ],
-    [
       "Joshua Regier",
       "Maximilian Brandt",
       "Stefan Klingauf"
@@ -237,11 +237,6 @@
       "Julia Dawid",
       "Michael Dawid",
       "Maximilian Seitz"
-    ],
-    [
-      "Julian Bruch",
-      "Thorben Fries",
-      "Andreas Weißelberg"
     ],
     [
       "Jörg Eberhard",
@@ -519,6 +514,11 @@
       "Matthias Berndorfer"
     ],
     [
+      "Stephan Kesisoglu",
+      "Jan Karol Wosz",
+      "Dennis Wieland"
+    ],
+    [
       "Steve Roidl",
       "Theresa Maaß",
       "Petra Koch"
@@ -536,7 +536,7 @@
     [
       "Tim Broermann",
       "Jan Philipp Schmelzer",
-      "Dennis Wieland"
+      "Matthias Bülow"
     ],
     [
       "Timo Knaupp",

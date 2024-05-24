@@ -40,8 +40,6 @@
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2123", "type": "OPA", "duration": "00:23:44.6", "cagegory": "M", "names": ["Stephan Schmidt"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2122", "type": "OPA", "duration": "00:23:44.9", "cagegory": "M", "names": ["Michael Erdmann"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2121", "type": "OPA", "duration": "00:23:48.2", "cagegory": "M", "names": ["Jochen Reinke"]}
-{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2072", "type": "OPA", "duration": "00:24:15.6", "cagegory": "M", "names": ["Sascha Köppler"]}
-{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2251", "type": "OPA", "duration": "00:24:31.5", "cagegory": "M", "names": ["Felix Nielsen"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2722", "type": "MPA", "duration": "00:11:56.1", "cagegory": "M", "names": ["Tobias Weinaus"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2511", "type": "MPA", "duration": "00:13:19.7", "cagegory": "M", "names": ["Renato Ravanelli"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2513", "type": "MPA", "duration": "00:13:34.2", "cagegory": "M", "names": ["Christian Brandmann"]}
@@ -87,6 +85,8 @@
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2683", "type": "MPA", "duration": "00:17:47.8", "cagegory": "M", "names": ["Adrian Lovric"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2761", "type": "MPA", "duration": "00:17:49.1", "cagegory": "M", "names": ["Martin Karg"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2532", "type": "MPA", "duration": "00:17:57.5", "cagegory": "M", "names": ["Patrick Riegger"]}
+{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2072", "type": "OPA", "duration": "00:24:15.6", "cagegory": "M", "names": ["Sascha Köppler"]}
+{"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2251", "type": "OPA", "duration": "00:24:31.5", "cagegory": "M", "names": ["Felix Nielsen"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2033", "type": "OPA", "duration": "00:25:04.1", "cagegory": "M", "names": ["Roman Reichhold"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2221", "type": "OPA", "duration": "00:25:21.5", "cagegory": "M", "names": ["Peter Benz"]}
 {"date": "2023-07-16", "competition_id": "recv0wpvpba0jNvlE", "bib": "2063", "type": "OPA", "duration": "00:25:37.2", "cagegory": "M", "names": ["Julian Schlutt"]}

@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-24T10:51:42.732533",
+  "date": "2024-05-24T11:17:14.988776",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 650,
+  "count": 652,
   "teams": [
     [
       "Adam Spychała"
@@ -92,6 +92,9 @@
     ],
     [
       "Christian Follmann"
+    ],
+    [
+      "Christian Franzen"
     ],
     [
       "Christian Küpers"
@@ -292,9 +295,6 @@
       "Lukas Wickmann"
     ],
     [
-      "Lukas Wickmann"
-    ],
-    [
       "Lukáš Navrátil"
     ],
     [
@@ -377,9 +377,6 @@
     ],
     [
       "Max Langguth"
-    ],
-    [
-      "May Tommervold"
     ],
     [
       "May Tommervold"
@@ -767,6 +764,10 @@
       "David Probst"
     ],
     [
+      "Christian Franzen",
+      "Pierre Fischer"
+    ],
+    [
       "Christopher Horoho",
       "Christopher Horoho"
     ],
@@ -948,7 +949,7 @@
     ],
     [
       "Jürgen Pfistermüller",
-      "Peter Schmidmair"
+      "Lukas Gassner"
     ],
     [
       "Kateřina Vodičková",
@@ -1043,6 +1044,10 @@
       "Michel Bantel"
     ],
     [
+      "Mathias Ascheberg",
+      "Peter Schmidmair"
+    ],
+    [
       "Maurice Müller",
       "Michael Joseph"
     ],
@@ -1093,10 +1098,6 @@
     [
       "Oliver Nopper",
       "Robert Lehmann"
-    ],
-    [
-      "Peter Schmidmair",
-      "XXX XXX"
     ],
     [
       "Ralf Herp",
@@ -1243,12 +1244,6 @@
       "Melanie Schönewald",
       "Patrik Štefelin",
       "Sebastian Vovko"
-    ],
-    [
-      "Jürgen Pfistermüller",
-      "Martin Remplbauer",
-      "Peter Schmidmair",
-      "Thomas Bogivits"
     ],
     [
       "Lena Neumann",
@@ -1400,6 +1395,13 @@
       "Laura Andres",
       "Nicole Mrosek",
       "Stefanie Reich"
+    ],
+    [
+      "Jürgen Pfistermüller",
+      "Lukas Gassner",
+      "Martin Remplbauer",
+      "Peter Schmidmair",
+      "Thomas Bogivits"
     ],
     [
       "Klaus Kümpel",

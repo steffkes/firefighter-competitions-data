@@ -20,6 +20,10 @@
 {"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "322", "type": "MPA", "duration": "00:15:47.6", "catgory": "X", "names": ["Anne Winkler", "Mario Maximilian Lange"]}
 {"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "336", "type": "MPA", "duration": "00:17:56.1", "catgory": "X", "names": ["Felicitas Thiel", "Jörn Köllmer"]}
 {"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "329", "type": "MPA", "duration": "00:20:47.4", "catgory": "X", "names": ["Enrico Klesse", "Katrin Wolter"]}
+{"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "216", "type": "MPA", "duration": "00:09:51.0", "catgory": "W", "names": ["Andrea Posanz", "Melanie Schönewald"]}
+{"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "217", "type": "MPA", "duration": "00:10:52.9", "catgory": "W", "names": ["Denise Bunzel", "Linda Nickel"]}
+{"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "218", "type": "MPA", "duration": "00:12:21.4", "catgory": "W", "names": ["Jacqueline Leucht", "Nadine Köcher"]}
+{"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "219", "type": "MPA", "duration": "00:19:53.1", "catgory": "W", "names": ["Anke Grieger-Hilpert", "Rebecca Albrecht"]}
 {"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "241", "type": "OPA", "duration": "00:06:53.8", "catgory": "X", "names": ["Rasmus Cohrs", "Yannik Iwohn"]}
 {"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "198", "type": "OPA", "duration": "00:07:03.1", "catgory": "X", "names": ["Ben Boese", "Dominik Pahn"]}
 {"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "231", "type": "OPA", "duration": "00:07:35.9", "catgory": "X", "names": ["Eric Wagner", "Maik Wagner"]}
@@ -35,10 +39,6 @@
 {"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "194", "type": "OPA", "duration": "00:09:01.4", "catgory": "X", "names": ["Lea Riemann", "Sebastian Rohrer"]}
 {"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "203", "type": "OPA", "duration": "00:09:02.1", "catgory": "X", "names": ["Andre Scholz", "Erik Schneider"]}
 {"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "230", "type": "OPA", "duration": "00:09:07.8", "catgory": "X", "names": ["Johannes Burkl", "Sebastian Domnick"]}
-{"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "216", "type": "MPA", "duration": "00:09:51.0", "catgory": "W", "names": ["Andrea Posanz", "Melanie Schönewald"]}
-{"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "217", "type": "MPA", "duration": "00:10:52.9", "catgory": "W", "names": ["Denise Bunzel", "Linda Nickel"]}
-{"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "218", "type": "MPA", "duration": "00:12:21.4", "catgory": "W", "names": ["Jacqueline Leucht", "Nadine Köcher"]}
-{"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "219", "type": "MPA", "duration": "00:19:53.1", "catgory": "W", "names": ["Anke Grieger-Hilpert", "Rebecca Albrecht"]}
 {"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "237", "type": "OPA", "duration": "00:09:35.8", "catgory": "X", "names": ["Angelina Herzog", "Sophia Emge"]}
 {"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "202", "type": "OPA", "duration": "00:09:41.7", "catgory": "X", "names": ["Felix Englert", "Saskia Hofmann"]}
 {"date": "2023-04-01", "competition_id": "recxKmZJUC6euLvWh", "bib": "235", "type": "OPA", "duration": "00:10:01.6", "catgory": "X", "names": ["Felix Kirchner", "Kevin Kungu"]}

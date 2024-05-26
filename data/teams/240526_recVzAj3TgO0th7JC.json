@@ -1,12 +1,11 @@
 {
-  "date": "2024-05-26T09:25:37.358550",
+  "date": "2024-05-26T15:19:29.930633",
   "competition_id": "recVzAj3TgO0th7JC",
   "count": 348,
   "teams": [
     [
       "Alex Duarte Faceira",
-      "Michel de Vico",
-      "Simon Wannenwetsch"
+      "Michel de Vico"
     ],
     [
       "Alexander Bamberger",
@@ -91,7 +90,7 @@
     [
       "Daniel Muth",
       "Marvin Kolta",
-      "Dominik Muders"
+      "Christian Blaufuß"
     ],
     [
       "David Dürr",
@@ -137,11 +136,6 @@
       "Fabian Kluge",
       "Maimuna Krüger",
       "Lukas Keller"
-    ],
-    [
-      "Fabian Lange",
-      "Rares Schuster",
-      "Ralf Herp"
     ],
     [
       "Fabian Missfelder",
@@ -306,7 +300,7 @@
     [
       "Marco Groh",
       "Mike Fieber",
-      "Alexander Giller"
+      "Ben Schmenger"
     ],
     [
       "Marco Honecker",
@@ -314,7 +308,7 @@
       "Calla Nico"
     ],
     [
-      "Marco Lursiadi",
+      "Marco Lusiardi",
       "Jan Lüders",
       "Tobias Hübner"
     ],
@@ -342,6 +336,11 @@
       "Mathias Jost",
       "Tobias Steinmetz",
       "Leon Jermis"
+    ],
+    [
+      "Matthias Buttig",
+      "Rares Schuster",
+      "Ralf Herp"
     ],
     [
       "Matthias Buttig",
@@ -375,7 +374,7 @@
     ],
     [
       "Moritz Pelosato",
-      "Pascal Löffler",
+      "Timo Bender",
       "Steven Müller"
     ],
     [
@@ -459,11 +458,6 @@
       "Bennet Heyen"
     ],
     [
-      "Robin Mack",
-      "Jan Abraham",
-      "Peter Reichardt"
-    ],
-    [
       "Robin Ziegler",
       "Lennart Ziegler",
       "Noah Ziegler"
@@ -482,6 +476,11 @@
       "Sascha Dimmer",
       "Matthias Jung",
       "Jens Paschke"
+    ],
+    [
+      "Sebastian Hüfner",
+      "Jan Abraham",
+      "Peter Reichardt"
     ],
     [
       "Stefan Reinhart",
@@ -564,6 +563,7 @@
       "Stefan Voigt"
     ],
     [
+      "Simon Wannenwetsch",
       "Marian Fäth",
       "Jakub Gabrys",
       "Johannes Schuck",

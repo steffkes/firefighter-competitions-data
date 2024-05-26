@@ -1,5 +1,5 @@
 {
-  "date": "2024-05-26T08:21:37.242125",
+  "date": "2024-05-26T08:38:37.883251",
   "competition_id": "recVzAj3TgO0th7JC",
   "count": 348,
   "teams": [
@@ -289,16 +289,6 @@
       "Kevin Splittstößer"
     ],
     [
-      "Lukas Lang",
-      "Stefan Harrer",
-      "Tim Gilmer"
-    ],
-    [
-      "Manuel Friedle",
-      "Jennifer Messing",
-      "Fabian Beck"
-    ],
-    [
       "Marc Becker",
       "Jan Peter Schölei",
       "Dawid Moczko"
@@ -327,11 +317,6 @@
       "Marco Lursiadi",
       "Jan Lüders",
       "Tobias Hübner"
-    ],
-    [
-      "Marian Fäth",
-      "Jakub Gabrys",
-      "Johannes Schuck"
     ],
     [
       "Marius Zarden",
@@ -387,11 +372,6 @@
       "Moritz Mangel",
       "Mischa Hundhausen",
       "Fabian Lodyga"
-    ],
-    [
-      "Moritz Nagel",
-      "Francesco Russo",
-      "Till Emmer"
     ],
     [
       "Moritz Pelosato",
@@ -582,6 +562,20 @@
       "Ümit Barak",
       "Alexander Eitzeroth",
       "Stefan Voigt"
+    ],
+    [
+      "Marian Fäth",
+      "Jakub Gabrys",
+      "Johannes Schuck",
+      "Lukas Lang",
+      "Stefan Harrer",
+      "Tim Gilmer",
+      "Manuel Friedle",
+      "Jennifer Messing",
+      "Fabian Beck",
+      "Moritz Nagel",
+      "Francesco Russo",
+      "Till Emmer"
     ]
   ]
 }

@@ -76,6 +76,24 @@ class Spider(scrapy.Spider):
                 callback=self.parse_starters,
             )
 
+        for contest, competition_type, data_key in [
+            (3, "OPA", "#1_messeTurm FFC FIGHTER"),
+            (4, "MPA", "#1_messeTurm FFC ELITE"),
+        ]:
+            yield scrapy.FormRequest(
+                method="GET",
+                url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+                formdata={
+                    "key": self.race_key,
+                    "listname": "Ergebnislisten|EG ZIEL M/W",
+                    "contest": str(contest),
+                },
+                cb_kwargs={
+                    "competition_type": competition_type,
+                    "data_key": data_key,
+                },
+            )
+
     def parse_starters(self, response):
         fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
 
@@ -94,4 +112,35 @@ class Spider(scrapy.Spider):
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=(bib.split("-")[0], fixName(name)),
+            )
+
+    def parse(self, response, data_key, competition_type):
+        fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
+
+        data = response.json()["data"]
+        for [
+            _id,
+            _rank,
+            name,
+            _team,
+            _nationality,
+            category,
+            _category_detail,
+            _rank_age,
+            _rank_total,
+            raw_duration,
+            bib,
+        ] in (
+            data[data_key]["#1_M"] + data[data_key]["#2_W"]
+        ):
+            duration = "0" + ("0:%s" % raw_duration.replace(",", "."))[-9:]
+
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                bib=bib,
+                type=competition_type,
+                duration=duration,
+                category=category,
+                names=[fixName(name)],
             )

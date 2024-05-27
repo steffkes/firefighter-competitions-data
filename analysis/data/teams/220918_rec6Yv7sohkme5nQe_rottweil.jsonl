@@ -40,10 +40,6 @@
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1009", "type": "MPA", "duration": "00:19:06.0", "category": "M", "names": ["Julian Moser", "Martin Mair"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "987", "type": "MPA", "duration": "00:19:08.0", "category": "M", "names": ["Georg Landhäußer", "Roland Zimmer"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "989", "type": "MPA", "duration": "00:19:20.0", "category": "M", "names": ["Andreas Kaupp", "Matthias Scheuermann"]}
-{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "936", "type": "MPA", "duration": "00:19:25.0", "category": "M", "names": ["Jens Biewald", "Marc Dohse"]}
-{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1101", "type": "MPA", "duration": "00:19:27.0", "category": "M", "names": ["Dominik Diemer", "Sebastian Roth"]}
-{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "988", "type": "MPA", "duration": "00:19:31.0", "category": "M", "names": ["André Wendel", "Gabriel Jäger"]}
-{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1032", "type": "MPA", "duration": "00:19:33.0", "category": "M", "names": ["Daniel Vetter", "Julian Böhm"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1259", "type": "OPA", "duration": "00:14:45.0", "category": "M", "names": ["Frédéric Bernhard", "Olivier Pruneau"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1238", "type": "OPA", "duration": "00:15:39.0", "category": "M", "names": ["Pascal Löffler", "Timo Bender"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1211", "type": "OPA", "duration": "00:17:06.0", "category": "M", "names": ["Mario Walter", "Sebastian Weidmann"]}
@@ -89,7 +85,10 @@
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1074", "type": "OPA", "duration": "00:23:56.0", "category": "M", "names": ["Christof Vatter", "Florian Kazmaier"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "973", "type": "OPA", "duration": "00:24:02.0", "category": "M", "names": ["Florian Lambert", "Nico Rauschenberger"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1279", "type": "OPA", "duration": "00:24:11.0", "category": "M", "names": ["Gerrit Sebastian Telgmann", "Leif Kirchhoff"]}
-{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1024", "type": "OPA", "duration": "00:24:24.0", "category": "M", "names": ["Aaron Barthelmes", "Markus Kupferschmid"]}
+{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "936", "type": "MPA", "duration": "00:19:25.0", "category": "M", "names": ["Jens Biewald", "Marc Dohse"]}
+{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1101", "type": "MPA", "duration": "00:19:27.0", "category": "M", "names": ["Dominik Diemer", "Sebastian Roth"]}
+{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "988", "type": "MPA", "duration": "00:19:31.0", "category": "M", "names": ["André Wendel", "Gabriel Jäger"]}
+{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1032", "type": "MPA", "duration": "00:19:33.0", "category": "M", "names": ["Daniel Vetter", "Julian Böhm"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1065", "type": "MPA", "duration": "00:19:34.0", "category": "M", "names": ["Adrian Schlottke", "Jens Moldt"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1001", "type": "MPA", "duration": "00:19:35.0", "category": "M", "names": ["Phillip Ehnis", "Tim Rothfuß"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "954", "type": "MPA", "duration": "00:19:37.0", "category": "M", "names": ["Kevin Schmidberger", "Thomas Weinmann"]}
@@ -131,11 +130,7 @@
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "963", "type": "MPA", "duration": "00:23:06.0", "category": "M", "names": ["Christian Kimmig", "Christoph Spinner"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "965", "type": "MPA", "duration": "00:23:24.0", "category": "M", "names": ["Alexander Watson", "Daniel Mohr"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1067", "type": "MPA", "duration": "00:23:25.0", "category": "X", "names": ["Luis Eichin", "Marlies Böck"]}
-{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "960", "type": "MPA", "duration": "00:23:33.0", "category": "W", "names": ["Elina Grenacher", "Seraina Heid"]}
-{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1060", "type": "MPA", "duration": "00:23:34.0", "category": "M", "names": ["Justus Menzel", "Kevin Lebeda"]}
-{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "959", "type": "MPA", "duration": "00:23:40.0", "category": "M", "names": ["Albrecht Gutjahr", "Robert Sattelmayer"]}
-{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1026", "type": "MPA", "duration": "00:23:45.0", "category": "M", "names": ["Mario Maute", "Tobias Kopf"]}
-{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1085", "type": "MPA", "duration": "00:24:01.0", "category": "M", "names": ["Dirk Hirtz", "Leif Daniels"]}
+{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1024", "type": "OPA", "duration": "00:24:24.0", "category": "M", "names": ["Aaron Barthelmes", "Markus Kupferschmid"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1041", "type": "OPA", "duration": "00:24:41.0", "category": "M", "names": ["Lukas Oschek", "Tobias Zepf"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1020", "type": "OPA", "duration": "00:24:48.0", "category": "M", "names": ["Matthias Trommer", "Sascha Truckenbrod"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "929", "type": "OPA", "duration": "00:25:12.0", "category": "M", "names": ["Joachim Thelen", "Patrick Hermes"]}
@@ -176,6 +171,11 @@
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1266", "type": "OPA", "duration": "00:43:14.0", "category": "X", "names": ["Heike Herbrik", "Tobias Olbrich"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1250", "type": "OPA", "duration": "00:51:43.0", "category": "X", "names": ["Martin Schoch", "Monika Lunnebach"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "998", "type": "OPA", "duration": "00:55:41.0", "category": "W", "names": ["Susanne Mützel", "Yvonne Künstle"]}
+{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "960", "type": "MPA", "duration": "00:23:33.0", "category": "W", "names": ["Elina Grenacher", "Seraina Heid"]}
+{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1060", "type": "MPA", "duration": "00:23:34.0", "category": "M", "names": ["Justus Menzel", "Kevin Lebeda"]}
+{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "959", "type": "MPA", "duration": "00:23:40.0", "category": "M", "names": ["Albrecht Gutjahr", "Robert Sattelmayer"]}
+{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1026", "type": "MPA", "duration": "00:23:45.0", "category": "M", "names": ["Mario Maute", "Tobias Kopf"]}
+{"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1085", "type": "MPA", "duration": "00:24:01.0", "category": "M", "names": ["Dirk Hirtz", "Leif Daniels"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1088", "type": "MPA", "duration": "00:24:17.0", "category": "M", "names": ["Fabian Eschenhorn", "Martin Kirstein"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1100", "type": "MPA", "duration": "00:24:27.0", "category": "X", "names": ["Christian Hoch", "Theresa Maaß"]}
 {"date": "2022-09-18", "competition_id": "rec6Yv7sohkme5nQe", "bib": "1007", "type": "MPA", "duration": "00:24:32.0", "category": "M", "names": ["Habakuk Mutter", "Simon Bohner"]}

@@ -1,23 +1,39 @@
 import scrapy
 from datetime import datetime
+from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
 class Spider(scrapy.Spider):
     name = __name__
     race_date = datetime.strptime(__name__.split("_")[0], "%y%m%d").strftime("%Y-%m-%d")
     competition_id = __name__.split("_")[1]
+    ident = __name__[0:24]
 
     race_id = "237482"
     race_key = "0ddada2a321627f3fb95d390874b97bd"
 
     custom_settings = {
+        "FEED_EXPORTERS": {
+            "starter": JsonItemExporter,
+            "results": JsonLinesItemExporter,
+        },
         "FEEDS": {
-            "data/teams/%(name)s.jsonl": {
-                "format": "jsonlines",
+            "../data/teams/%(ident)s.json": {
+                "format": "starter",
                 "encoding": "utf8",
                 "overwrite": True,
-            }
-        }
+                "item_classes": [ParticipantItem],
+            },
+            "data/teams/%(name)s.jsonl": {
+                "format": "results",
+                "encoding": "utf8",
+                "overwrite": True,
+                "item_classes": [ResultItem],
+            },
+        },
+        "EXTENSIONS": {
+            "scrapy.extensions.telnet.TelnetConsole": None,
+        },
     }
 
     def start_requests(self):
@@ -61,12 +77,12 @@ class Spider(scrapy.Spider):
             # everyone is running for him-/herself. so we're treating
             # this one as single-run!
 
-            yield {
-                "date": self.race_date,
-                "competition_id": self.competition_id,
-                "bib": bib,
-                "type": competition_type,
-                "duration": duration,
-                "cagegory": category,
-                "names": [name],
-            }
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                bib=bib,
+                type=competition_type,
+                duration=duration,
+                category=category,
+                names=[name],
+            )

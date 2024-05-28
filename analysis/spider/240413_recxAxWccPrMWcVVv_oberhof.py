@@ -1,7 +1,7 @@
 import scrapy
 from datetime import datetime
 import re
-from util import JsonItemExporter, ParticipantItem, ResultItem
+from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
 class Spider(scrapy.Spider):
@@ -14,7 +14,10 @@ class Spider(scrapy.Spider):
     race_key = "9cca7a2e787022b15a2c81b253b2dde6"
 
     custom_settings = {
-        "FEED_EXPORTERS": {"starter": JsonItemExporter},
+        "FEED_EXPORTERS": {
+            "starter": JsonItemExporter,
+            "results": JsonLinesItemExporter,
+        },
         "FEEDS": {
             "../data/teams/%(ident)s.json": {
                 "format": "starter",
@@ -23,7 +26,7 @@ class Spider(scrapy.Spider):
                 "item_classes": [ParticipantItem],
             },
             "data/teams/%(name)s.jsonl": {
-                "format": "jsonlines",
+                "format": "results",
                 "encoding": "utf8",
                 "overwrite": True,
                 "item_classes": [ResultItem],

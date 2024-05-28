@@ -1,23 +1,39 @@
 import scrapy
 from datetime import datetime
+from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
 class Spider(scrapy.Spider):
     name = __name__
     race_date = datetime.strptime(__name__.split("_")[0], "%y%m%d").strftime("%Y-%m-%d")
     competition_id = __name__.split("_")[1]
+    ident = __name__[0:24]
 
     race_id = "198135"
     race_key = "c80ef6981e49e27673a5f11965acccb7"
 
     custom_settings = {
+        "FEED_EXPORTERS": {
+            "starter": JsonItemExporter,
+            "results": JsonLinesItemExporter,
+        },
         "FEEDS": {
-            "data/teams/%(name)s.jsonl": {
-                "format": "jsonlines",
+            "../data/teams/%(ident)s.json": {
+                "format": "starter",
                 "encoding": "utf8",
                 "overwrite": True,
-            }
-        }
+                "item_classes": [ParticipantItem],
+            },
+            "data/teams/%(name)s.jsonl": {
+                "format": "results",
+                "encoding": "utf8",
+                "overwrite": True,
+                "item_classes": [ResultItem],
+            },
+        },
+        "EXTENSIONS": {
+            "scrapy.extensions.telnet.TelnetConsole": None,
+        },
     }
 
     def start_requests(self):
@@ -44,11 +60,11 @@ class Spider(scrapy.Spider):
 
             duration = "00:%s.0" % raw_duration.zfill(5)
 
-            yield {
-                "date": self.race_date,
-                "competition_id": self.competition_id,
-                "type": "MPA",
-                "category": {"weiblich": "W", "männlich": "M"}[gender],
-                "duration": duration,
-                "names": [name],
-            }
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                type="MPA",
+                category={"weiblich": "W", "männlich": "M"}[gender],
+                duration=duration,
+                names=[name],
+            )

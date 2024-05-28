@@ -1,20 +1,33 @@
 import scrapy
 from datetime import datetime
 import re
+from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
 class Spider(scrapy.Spider):
     name = __name__
     race_date = datetime.strptime(__name__.split("_")[0], "%y%m%d").strftime("%Y-%m-%d")
     competition_id = __name__.split("_")[1]
+    ident = __name__[0:24]
 
     custom_settings = {
+        "FEED_EXPORTERS": {
+            "starter": JsonItemExporter,
+            "results": JsonLinesItemExporter,
+        },
         "FEEDS": {
-            "data/teams/%(name)s.jsonl": {
-                "format": "jsonlines",
+            "../data/teams/%(ident)s.json": {
+                "format": "starter",
                 "encoding": "utf8",
                 "overwrite": True,
-            }
+                "item_classes": [ParticipantItem],
+            },
+            "data/teams/%(name)s.jsonl": {
+                "format": "results",
+                "encoding": "utf8",
+                "overwrite": True,
+                "item_classes": [ResultItem],
+            },
         },
         "EXTENSIONS": {
             "scrapy.extensions.telnet.TelnetConsole": None,
@@ -41,14 +54,14 @@ class Spider(scrapy.Spider):
                 )
                 duration = "00:" + row.css(".totaltime::text").get()
 
-                yield {
-                    "date": self.race_date,
-                    "competition_id": self.competition_id,
-                    "type": type,
-                    "category": category,
-                    "duration": duration,
-                    "names": names,
-                }
+                yield ResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    type=type,
+                    category=category,
+                    duration=duration,
+                    names=names,
+                )
 
         yield from handler(
             table=response.xpath(

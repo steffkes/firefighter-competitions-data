@@ -3,7 +3,7 @@ from datetime import datetime
 import re
 import itertools
 import string
-from util import JsonItemExporter, ParticipantItem, ResultItem
+from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
 class Spider(scrapy.Spider):
@@ -16,7 +16,10 @@ class Spider(scrapy.Spider):
     race_key = "a2821a19e7457bf1c5b85e15a84bd625"
 
     custom_settings = {
-        "FEED_EXPORTERS": {"starter": JsonItemExporter},
+        "FEED_EXPORTERS": {
+            "starter": JsonItemExporter,
+            "results": JsonLinesItemExporter,
+        },
         "FEEDS": {
             "../data/teams/%(ident)s.json": {
                 "format": "starter",
@@ -25,7 +28,7 @@ class Spider(scrapy.Spider):
                 "item_classes": [ParticipantItem],
             },
             "data/teams/%(name)s.jsonl": {
-                "format": "jsonlines",
+                "format": "results",
                 "encoding": "utf8",
                 "overwrite": True,
                 "item_classes": [ResultItem],

@@ -3,7 +3,7 @@ from datetime import datetime
 import re
 import itertools
 import string
-from util import JsonItemExporter, ParticipantItem, ResultItem
+from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 from scrapy.utils.python import to_bytes
 from collections import defaultdict
 
@@ -43,7 +43,10 @@ class Spider(scrapy.Spider):
     race_key = "0fdd4b818141191b0084fc27c0714d40"
 
     custom_settings = {
-        "FEED_EXPORTERS": {"starter": FrankfurtJsonItemExporter},
+        "FEED_EXPORTERS": {
+            "starter": FrankfurtJsonItemExporter,
+            "results": JsonLinesItemExporter,
+        },
         "FEEDS": {
             "../data/teams/%(ident)s.json": {
                 "format": "starter",
@@ -52,7 +55,7 @@ class Spider(scrapy.Spider):
                 "item_classes": [ParticipantItem],
             },
             "data/teams/%(name)s.jsonl": {
-                "format": "jsonlines",
+                "format": "results",
                 "encoding": "utf8",
                 "overwrite": True,
                 "item_classes": [ResultItem],

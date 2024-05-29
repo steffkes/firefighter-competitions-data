@@ -1,23 +1,39 @@
 import scrapy
 from datetime import datetime
+from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
 class Spider(scrapy.Spider):
     name = __name__
     race_date = datetime.strptime(__name__.split("_")[0], "%y%m%d").strftime("%Y-%m-%d")
     competition_id = __name__.split("_")[1]
+    ident = __name__[0:24]
 
     race_id = "233380"
     race_key = "60cc4a4284fd80a91ac2abbea60e10ed"
 
     custom_settings = {
+        "FEED_EXPORTERS": {
+            "starter": JsonItemExporter,
+            "results": JsonLinesItemExporter,
+        },
         "FEEDS": {
-            "data/teams/%(name)s.jsonl": {
-                "format": "jsonlines",
+            "../data/teams/%(ident)s.json": {
+                "format": "starter",
                 "encoding": "utf8",
                 "overwrite": True,
-            }
-        }
+                "item_classes": [ParticipantItem],
+            },
+            "data/teams/%(name)s.jsonl": {
+                "format": "results",
+                "encoding": "utf8",
+                "overwrite": True,
+                "item_classes": [ResultItem],
+            },
+        },
+        "EXTENSIONS": {
+            "scrapy.extensions.telnet.TelnetConsole": None,
+        },
     }
 
     def start_requests(self):
@@ -65,12 +81,12 @@ class Spider(scrapy.Spider):
             names = sorted(map(str.strip, names.split("/")))
             duration = ("0" + ("0:" + raw_duration + ".0")[-9:])[-11:]
 
-            yield {
-                "date": self.race_date,
-                "competition_id": self.competition_id,
-                "bib": bib,
-                "type": competition_type,
-                "category": {"MIX": "X"}.get(category, category),
-                "duration": duration,
-                "names": names,
-            }
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                bib=bib,
+                type=competition_type,
+                category={"MIX": "X"}.get(category, category),
+                duration=duration,
+                names=names,
+            )

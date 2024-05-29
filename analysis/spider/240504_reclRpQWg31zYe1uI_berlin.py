@@ -2,7 +2,7 @@ import scrapy
 from datetime import datetime
 from pathlib import Path
 from scrapy.utils.iterators import csviter
-from util import JsonItemExporter, ParticipantItem, ResultItem
+from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
 class Spider(scrapy.spiders.CSVFeedSpider):
@@ -15,7 +15,10 @@ class Spider(scrapy.spiders.CSVFeedSpider):
     delimiter = ";"
 
     custom_settings = {
-        "FEED_EXPORTERS": {"starter": JsonItemExporter},
+        "FEED_EXPORTERS": {
+            "starter": JsonItemExporter,
+            "results": JsonLinesItemExporter,
+        },
         "FEEDS": {
             "../data/teams/%(ident)s.json": {
                 "format": "starter",
@@ -24,7 +27,7 @@ class Spider(scrapy.spiders.CSVFeedSpider):
                 "item_classes": [ParticipantItem],
             },
             "data/teams/%(name)s.jsonl": {
-                "format": "jsonlines",
+                "format": "results",
                 "encoding": "utf8",
                 "overwrite": True,
                 "item_classes": [ResultItem],

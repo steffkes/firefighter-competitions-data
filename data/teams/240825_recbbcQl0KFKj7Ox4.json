@@ -1,7 +1,7 @@
 {
-  "date": "2024-05-31T19:17:56.909845",
+  "date": "2024-05-31T19:29:47.560301",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 510,
+  "count": 512,
   "teams": [
     [
       "Adrian Feiler",
@@ -942,6 +942,10 @@
     [
       "Patrick Schneider",
       "Tim Kreuzberg"
+    ],
+    [
+      "Paul Hammes",
+      "Philip Schleimer"
     ],
     [
       "Peter Klassen",

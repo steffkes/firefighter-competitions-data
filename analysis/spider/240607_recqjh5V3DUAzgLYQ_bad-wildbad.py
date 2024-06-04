@@ -64,6 +64,7 @@ class Spider(scrapy.Spider):
             _gender,
             _category,
             _team,
+            _empty,
         ] in data:
             yield ParticipantItem(
                 competition_id=self.competition_id, names=[fixName(name)]

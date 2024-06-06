@@ -1,12 +1,8 @@
 {
-  "date": "2024-06-06T13:24:01.465846",
+  "date": "2024-06-06T13:45:50.305214",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 532,
+  "count": 466,
   "teams": [
-    [
-      "Adrian Feiler",
-      "Serhii Koptsev"
-    ],
     [
       "Adrian Schwind",
       "David Mettler"
@@ -68,10 +64,6 @@
       "Niklas Blau"
     ],
     [
-      "Alissia Herzog",
-      "Jana Fischer"
-    ],
-    [
       "Alvin Brodbeck",
       "Pascale Begert"
     ],
@@ -82,10 +74,6 @@
     [
       "Andre Herborn",
       "Björn Herborn"
-    ],
-    [
-      "Andreas Bleser",
-      "Gianluca Sparda"
     ],
     [
       "Andreas Cornely",
@@ -152,10 +140,6 @@
       "Jana Straus"
     ],
     [
-      "Ben Schmitz",
-      "Sarah Blank"
-    ],
-    [
       "Benjamin Hess",
       "David Bergmann"
     ],
@@ -172,16 +156,8 @@
       "Patrick Fecker"
     ],
     [
-      "Chantal Stötzer",
-      "Thorsten Otto-Döbbe"
-    ],
-    [
       "Charel Hoffmann",
       "Cliff Delvaux"
-    ],
-    [
-      "Christian Daußmann",
-      "Rebecca Schwarz"
     ],
     [
       "Christian Franzen",
@@ -236,10 +212,6 @@
       "Philipp Rebmann"
     ],
     [
-      "Ciara Brozi",
-      "Rebecca Trümper"
-    ],
-    [
       "Claude Kaufmann",
       "Remy Harpes"
     ],
@@ -252,20 +224,8 @@
       "Steve Roidl"
     ],
     [
-      "Cyril Lickes",
-      "Gilles Mergen"
-    ],
-    [
       "Damian Pyka",
       "Jasmin Bohun"
-    ],
-    [
-      "Damian Pyka",
-      "Jörg Bohun"
-    ],
-    [
-      "Damian Pyka",
-      "Steve Roidl"
     ],
     [
       "Daniel Forselen",
@@ -320,10 +280,6 @@
       "Maximilian Dustmann"
     ],
     [
-      "Dennis Berndt",
-      "Jens Wipperfürth"
-    ],
-    [
       "Dennis Bürk",
       "Manuel Schulz"
     ],
@@ -338,14 +294,6 @@
     [
       "Dominic Ahlborn",
       "Sven Hentze-Johannsen"
-    ],
-    [
-      "Dominic Evers",
-      "Dominik Müller"
-    ],
-    [
-      "Dominick Thiel",
-      "Marco Böhler"
     ],
     [
       "Dominik Bär",
@@ -372,20 +320,12 @@
       "Pia Krause"
     ],
     [
-      "Elisa Nestler",
-      "Pia Krause"
-    ],
-    [
       "Emilia Kils",
       "Hans-Peter Schmitz"
     ],
     [
       "Emily Schroeder",
       "Robert Below"
-    ],
-    [
-      "Enrico Klesse",
-      "Katrin Wolter"
     ],
     [
       "Enrico Kohl",
@@ -436,10 +376,6 @@
       "Julian Henn"
     ],
     [
-      "Fabian Zahn",
-      "Thomas Rahner"
-    ],
-    [
       "Fabienne Flaig",
       "Steffen Waschki"
     ],
@@ -478,10 +414,6 @@
     [
       "Finn Seibold",
       "Paul Hofmeister"
-    ],
-    [
-      "Fiona Wirtz",
-      "Yannick Riddders"
     ],
     [
       "Flemming Erik Kühn",
@@ -528,10 +460,6 @@
       "Simon Feuerhack"
     ],
     [
-      "Florian Menklein",
-      "Simon Feuerhack"
-    ],
-    [
       "Florian Rau",
       "Kevin Blumenthal"
     ],
@@ -542,14 +470,6 @@
     [
       "Florian Schweickard",
       "Pirmin Prokein"
-    ],
-    [
-      "Franjo Stefanetti",
-      "Larry Blasius"
-    ],
-    [
-      "Frank Henrichs",
-      "Nils Henrichs"
     ],
     [
       "Fynn Gottschewski",
@@ -590,10 +510,6 @@
     [
       "Hanno Möller",
       "Hendrik Fritsch"
-    ],
-    [
-      "Heike Claßen-Brockers",
-      "Markus Brockers"
     ],
     [
       "Heiko Becker",
@@ -669,10 +585,6 @@
     ],
     [
       "Jasmin Bohun",
-      "Nicole Mrosek"
-    ],
-    [
-      "Jasmin Bohun",
       "Theresa Maaß"
     ],
     [
@@ -716,16 +628,8 @@
       "Kevin Scharrmann"
     ],
     [
-      "Julia Dawid",
-      "Michael Dawid"
-    ],
-    [
       "Julian Zimmermann",
       "Samuel Glemser"
-    ],
-    [
-      "Julien Schmidt",
-      "Lukas Keller"
     ],
     [
       "Justin Schnurbusch",
@@ -774,14 +678,6 @@
     [
       "Lena Marie Harenberg",
       "Marcus Klauck"
-    ],
-    [
-      "Lennard Kuna",
-      "Peter Nübel"
-    ],
-    [
-      "Lennart Aretz",
-      "Michael Schulz"
     ],
     [
       "Leon Göbel",
@@ -848,10 +744,6 @@
       "Tobias Spieth"
     ],
     [
-      "Markus Braun",
-      "Oliver Söll"
-    ],
-    [
       "Markus Franzen",
       "Yannick Kauthen"
     ],
@@ -896,20 +788,12 @@
       "Stefan Matheis"
     ],
     [
-      "Max Güldenring",
-      "Noah Bödecker"
-    ],
-    [
       "Max Heise",
       "Simon Wolter"
     ],
     [
       "Max Lenz",
       "Niklas Hamacher"
-    ],
-    [
-      "Meike Bausch",
-      "Ramona Schäfer"
     ],
     [
       "Michael Halbenz",
@@ -930,10 +814,6 @@
     [
       "Michael Sundmacher",
       "Nils Lindemann"
-    ],
-    [
-      "Miguel Klaas",
-      "Sean Liefert"
     ],
     [
       "Nico Schäfer",
@@ -996,10 +876,6 @@
       "Tim Rothfuß"
     ],
     [
-      "Philipp Niemann",
-      "Richard Justenhoven"
-    ],
-    [
       "Pia Matthes",
       "Stephan Kaletzke"
     ],
@@ -1032,10 +908,6 @@
       "Tim Schalla"
     ],
     [
-      "Sebastian Burkard",
-      "Tim Rothe"
-    ],
-    [
       "Siggi Manz",
       "Tristan Glaser"
     ],
@@ -1046,10 +918,6 @@
     [
       "Steve Kohlscheen",
       "Steven Krause"
-    ],
-    [
-      "Theresa Maaß",
-      "Thomas Ciolek"
     ],
     [
       "Tim Josten",

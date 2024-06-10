@@ -1,7 +1,7 @@
 {
-  "date": "2024-06-10T09:25:33.903380",
+  "date": "2024-06-10T15:25:21.919357",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 710,
+  "count": 747,
   "teams": [
     [
       "Adam Spychała"
@@ -259,7 +259,7 @@
       "Jörg Eberhard"
     ],
     [
-      "Jörn Michaelis"
+      "Jörn Michaels"
     ],
     [
       "Jürgen Pfistermüller"
@@ -271,7 +271,7 @@
       "Kateřina Vodičková"
     ],
     [
-      "Katharina Scheidelmann"
+      "Katharin Scheidel"
     ],
     [
       "Kathrin Madlen Grote Lambers"
@@ -284,9 +284,6 @@
     ],
     [
       "Kristina Weber"
-    ],
-    [
-      "Lantzke Ronny"
     ],
     [
       "Laura Andres"
@@ -541,6 +538,9 @@
       "Roman Munzar"
     ],
     [
+      "Ronny Lantzke"
+    ],
+    [
       "Rowena Hauser"
     ],
     [
@@ -709,6 +709,10 @@
       "Laura Andres"
     ],
     [
+      "Alexander Greis",
+      "Laura Andres"
+    ],
+    [
       "Alexander Herbrecht",
       "Daniel Finster"
     ],
@@ -798,6 +802,10 @@
     ],
     [
       "Bianca Schöffegger",
+      "Katerina Vodickova"
+    ],
+    [
+      "Bianca Schöffegger",
       "Kateřina Vodičková"
     ],
     [
@@ -865,6 +873,10 @@
       "Frank Peter"
     ],
     [
+      "David Kubis",
+      "Miroslav Bloudek Miroslav"
+    ],
+    [
       "David Kubiš",
       "Michal Brousil"
     ],
@@ -907,6 +919,10 @@
     [
       "Emilia Magliano",
       "Florian Itter"
+    ],
+    [
+      "Erik Langenhahn",
+      "Florian Wedel"
     ],
     [
       "Erik Langenhahn",
@@ -999,6 +1015,14 @@
     [
       "Jan Angenendt",
       "Severin Körschgen"
+    ],
+    [
+      "Jan- Henrik Heeckt",
+      "Maria Strauch"
+    ],
+    [
+      "Jan- Henrik Heeckt",
+      "Mathias Hey"
     ],
     [
       "Jan-Henrik Heeckt",
@@ -1166,6 +1190,10 @@
     ],
     [
       "Michael Güth",
+      "Simon Feuerhack"
+    ],
+    [
+      "Michael Güth",
       "Uwe Heise"
     ],
     [
@@ -1209,6 +1237,10 @@
       "Zdenko Jamnik"
     ],
     [
+      "Robert Green",
+      "Zdenko Jamnik"
+    ],
+    [
       "Robin Altbürger",
       "Stwfan Roskosch"
     ],
@@ -1219,6 +1251,10 @@
     [
       "Sabine Sauer",
       "Werner Sauer"
+    ],
+    [
+      "Sebastian Wehlauer",
+      "Wayne Bastow"
     ],
     [
       "Sebastian Wehlauer",
@@ -1287,6 +1323,12 @@
       "Andreas Wilhelm",
       "Moritz Bulach",
       "Tim Hoffmann"
+    ],
+    [
+      "Alexander Greis",
+      "Alexander Kulhawy",
+      "Helge Sonnenberg",
+      "Marian Brandes"
     ],
     [
       "Alexander Greis",
@@ -1451,6 +1493,13 @@
       "Sonnenberg Helge"
     ],
     [
+      "Christian ( Jimbo) Franzen",
+      "Michel Menten",
+      "Philipp Liel",
+      "Pierre Fischer",
+      "Rüdiger Zeuner-Christ"
+    ],
+    [
       "Christian Follmann",
       "David Probst",
       "Dirk Fischer",
@@ -1503,7 +1552,21 @@
       "Jaka Kopitar",
       "Jan-Henrik Heeckt",
       "Luka Stepisnik",
+      "Mathias Hey",
+      "Sebastian Wehlauer"
+    ],
+    [
+      "Jaka Kopitar",
+      "Jan-Henrik Heeckt",
+      "Luka Stepisnik",
       "Matthias Hey",
+      "Sebastian Wehlauer"
+    ],
+    [
+      "Jan- Henrik Heeckt",
+      "Laura Andres",
+      "Maria Strauch",
+      "Mathias Hey",
       "Sebastian Wehlauer"
     ],
     [

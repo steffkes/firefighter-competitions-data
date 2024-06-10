@@ -1,7 +1,7 @@
 {
-  "date": "2024-06-10T09:25:38.147359",
+  "date": "2024-06-10T15:25:26.182967",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 562,
+  "count": 560,
   "teams": [
     [
       "Adrian Feiler",
@@ -341,10 +341,6 @@
     ],
     [
       "Dennis Kähmann",
-      "Maik Steinhoff"
-    ],
-    [
-      "Dennis Kähmann",
       "Martin Denrath"
     ],
     [
@@ -474,10 +470,6 @@
     [
       "Felix Fleig",
       "Simon Rebmann"
-    ],
-    [
-      "Felix Gunsthövel",
-      "Henrik Probst"
     ],
     [
       "Felix Hartmann",
@@ -650,6 +642,10 @@
     [
       "Hendrik Pieper",
       "Janic Steinberg"
+    ],
+    [
+      "Henrik Probst",
+      "Maik Steinhoff"
     ],
     [
       "Henrik Schröder",

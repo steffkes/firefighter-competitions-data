@@ -1,7 +1,7 @@
 {
-  "date": "2024-06-10T14:48:45.824265",
+  "date": "2024-06-10T15:00:27.684729",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 724,
+  "count": 747,
   "teams": [
     [
       "Adam Spychała"
@@ -65,9 +65,6 @@
     ],
     [
       "Balandraux Vincent"
-    ],
-    [
-      "Balint ( Valentin) Takacs"
     ],
     [
       "Balint ( Valentin) Takacs"
@@ -235,12 +232,6 @@
       "Jan-Henrik Heeckt"
     ],
     [
-      "Jan-Henrik Heeckt"
-    ],
-    [
-      "Jannik Flügge"
-    ],
-    [
       "Jannik Flügge"
     ],
     [
@@ -262,19 +253,10 @@
       "Jonas Müller"
     ],
     [
-      "Jonas Müller"
-    ],
-    [
-      "Julian Weber"
-    ],
-    [
       "Julian Weber"
     ],
     [
       "Jörg Eberhard"
-    ],
-    [
-      "Jörn Michaelis"
     ],
     [
       "Jörn Michaels"
@@ -295,12 +277,6 @@
       "Kathrin Madlen Grote Lambers"
     ],
     [
-      "Kathrin Madlen Lambers"
-    ],
-    [
-      "Ken Stüker"
-    ],
-    [
       "Ken Stüker"
     ],
     [
@@ -308,9 +284,6 @@
     ],
     [
       "Kristina Weber"
-    ],
-    [
-      "Lantzke Ronny"
     ],
     [
       "Laura Andres"
@@ -472,9 +445,6 @@
       "Miroslav Bloudek Miroslav"
     ],
     [
-      "Miroslav Bloudek Miroslav"
-    ],
-    [
       "Miroslav Neveselý"
     ],
     [
@@ -559,9 +529,6 @@
       "Robert Green"
     ],
     [
-      "Robert Green"
-    ],
-    [
       "Robert Lehmann"
     ],
     [
@@ -569,9 +536,6 @@
     ],
     [
       "Roman Munzar"
-    ],
-    [
-      "Ronny Lantzke"
     ],
     [
       "Ronny Lantzke"
@@ -607,16 +571,10 @@
       "Sebastian Wehlauer"
     ],
     [
-      "Sebastian Wehlauer"
-    ],
-    [
       "Sebastjan Vovko"
     ],
     [
       "Severin Körschgen"
-    ],
-    [
-      "Simon Feuerhack"
     ],
     [
       "Simon Feuerhack"
@@ -751,6 +709,10 @@
       "Laura Andres"
     ],
     [
+      "Alexander Greis",
+      "Laura Andres"
+    ],
+    [
       "Alexander Herbrecht",
       "Daniel Finster"
     ],
@@ -840,6 +802,10 @@
     ],
     [
       "Bianca Schöffegger",
+      "Katerina Vodickova"
+    ],
+    [
+      "Bianca Schöffegger",
       "Kateřina Vodičková"
     ],
     [
@@ -907,6 +873,10 @@
       "Frank Peter"
     ],
     [
+      "David Kubis",
+      "Miroslav Bloudek Miroslav"
+    ],
+    [
       "David Kubiš",
       "Michal Brousil"
     ],
@@ -949,6 +919,10 @@
     [
       "Emilia Magliano",
       "Florian Itter"
+    ],
+    [
+      "Erik Langenhahn",
+      "Florian Wedel"
     ],
     [
       "Erik Langenhahn",
@@ -1041,6 +1015,14 @@
     [
       "Jan Angenendt",
       "Severin Körschgen"
+    ],
+    [
+      "Jan- Henrik Heeckt",
+      "Maria Strauch"
+    ],
+    [
+      "Jan- Henrik Heeckt",
+      "Mathias Hey"
     ],
     [
       "Jan-Henrik Heeckt",
@@ -1208,6 +1190,10 @@
     ],
     [
       "Michael Güth",
+      "Simon Feuerhack"
+    ],
+    [
+      "Michael Güth",
       "Uwe Heise"
     ],
     [
@@ -1251,6 +1237,10 @@
       "Zdenko Jamnik"
     ],
     [
+      "Robert Green",
+      "Zdenko Jamnik"
+    ],
+    [
       "Robin Altbürger",
       "Stwfan Roskosch"
     ],
@@ -1261,6 +1251,10 @@
     [
       "Sabine Sauer",
       "Werner Sauer"
+    ],
+    [
+      "Sebastian Wehlauer",
+      "Wayne Bastow"
     ],
     [
       "Sebastian Wehlauer",
@@ -1329,6 +1323,12 @@
       "Andreas Wilhelm",
       "Moritz Bulach",
       "Tim Hoffmann"
+    ],
+    [
+      "Alexander Greis",
+      "Alexander Kulhawy",
+      "Helge Sonnenberg",
+      "Marian Brandes"
     ],
     [
       "Alexander Greis",
@@ -1493,6 +1493,13 @@
       "Sonnenberg Helge"
     ],
     [
+      "Christian ( Jimbo) Franzen",
+      "Michel Menten",
+      "Philipp Liel",
+      "Pierre Fischer",
+      "Rüdiger Zeuner-Christ"
+    ],
+    [
       "Christian Follmann",
       "David Probst",
       "Dirk Fischer",
@@ -1545,7 +1552,21 @@
       "Jaka Kopitar",
       "Jan-Henrik Heeckt",
       "Luka Stepisnik",
+      "Mathias Hey",
+      "Sebastian Wehlauer"
+    ],
+    [
+      "Jaka Kopitar",
+      "Jan-Henrik Heeckt",
+      "Luka Stepisnik",
       "Matthias Hey",
+      "Sebastian Wehlauer"
+    ],
+    [
+      "Jan- Henrik Heeckt",
+      "Laura Andres",
+      "Maria Strauch",
+      "Mathias Hey",
       "Sebastian Wehlauer"
     ],
     [

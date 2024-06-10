@@ -1,6 +1,3 @@
-import glob from "fast-glob";
-import { basename } from "path";
-
 export default defineNuxtConfig({
   vite: {
     server: {
@@ -22,19 +19,6 @@ export default defineNuxtConfig({
       options: {
         target: "esnext",
       },
-    },
-  },
-  hooks: {
-    async "nitro:config"(nitroConfig) {
-      if (nitroConfig.dev) return;
-
-      nitroConfig.prerender.routes.push(
-        ...(
-          await glob(["api/competitions/*.json.js"], {
-            cwd: "./server",
-          })
-        ).map((path) => "/" + path.replace(/\.js$/, ""))
-      );
     },
   },
 });

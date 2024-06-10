@@ -172,10 +172,7 @@
                     {{ flag(competition.location.country_code) }}
                     {{ competition.location.city }}</span
                   >
-                  <ParticipantCounter
-                    v-if="competition.has_registration_open"
-                    :competition="competition"
-                  />
+                  <ParticipantCounter :competition="competition" />
                   <SingleboerseCounter
                     v-if="singleboerse[competition.id]"
                     :id="singleboerse[competition.id]"
@@ -283,10 +280,7 @@
                     {{ flag(competition.location.country_code) }}
                     {{ competition.location.city }}</span
                   >
-                  <ParticipantCounter
-                    v-if="competition.has_registration_open"
-                    :competition="competition"
-                  />
+                  <ParticipantCounter :competition="competition" />
                   <SingleboerseCounter
                     v-if="singleboerse[competition.id]"
                     :id="singleboerse[competition.id]"
@@ -508,9 +502,9 @@ const filteredCompetitions = computed(() => {
             .split("T")[0],
       has_registration_open:
         new Date().toISOString().split("T")[0] >=
-          new Date(competition.date.registration_opens)
-            .toISOString()
-            .split("T")[0] && competition.showParticipantCount,
+        new Date(competition.date.registration_opens)
+          .toISOString()
+          .split("T")[0],
     };
   });
 

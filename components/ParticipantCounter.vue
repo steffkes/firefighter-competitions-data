@@ -1,6 +1,6 @@
 <template>
   <span
-    v-if="count != null"
+    v-if="count"
     class="tag"
     :title="'bislang ' + count + ' Anmeldungen'"
     style="cursor: help"
@@ -10,11 +10,5 @@
 
 <script setup>
 const { competition } = defineProps(["competition"]);
-const { data: count } = await useFetch(
-  "/api/competitions/" +
-    competition.date.start.substr(2, 8).replaceAll("-", "") +
-    "_" +
-    competition.id +
-    ".json"
-);
+const count = computed(() => competition.participants.count);
 </script>

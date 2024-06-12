@@ -1,7 +1,7 @@
 {
-  "date": "2024-06-11T15:20:19.251806",
+  "date": "2024-06-12T09:20:31.343847",
   "competition_id": "reckVPmrGF6ElGwDr",
-  "count": 58,
+  "count": 60,
   "teams": [
     [
       "Anna Henke",
@@ -118,6 +118,10 @@
     [
       "Marcel Ziefle",
       "Patrick Henke"
+    ],
+    [
+      "Peter Minet",
+      "Philipp Krimmel"
     ]
   ]
 }

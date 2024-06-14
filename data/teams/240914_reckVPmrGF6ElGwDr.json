@@ -1,8 +1,12 @@
 {
-  "date": "2024-06-13T15:20:32.362569",
+  "date": "2024-06-14T09:20:14.047601",
   "competition_id": "reckVPmrGF6ElGwDr",
-  "count": 62,
+  "count": 66,
   "teams": [
+    [
+      "Anna Bermuth",
+      "Martin Frehmann"
+    ],
     [
       "Anna Henke",
       "Christian Alflen"
@@ -10,6 +14,10 @@
     [
       "Benjamin Henrichs",
       "Timo Cioch"
+    ],
+    [
+      "Christian Bertram",
+      "Janosch Runkel"
     ],
     [
       "Christian Steigerwald",

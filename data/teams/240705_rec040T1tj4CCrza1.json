@@ -1,7 +1,7 @@
 {
-  "date": "2024-06-14T08:26:38.747352",
+  "date": "2024-06-14T08:40:29.368386",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 709,
+  "count": 708,
   "teams": [
     [
       "Adam Spychała"
@@ -825,6 +825,10 @@
       "Simon Polauke"
     ],
     [
+      "Christ Horoho",
+      "Ken Helgerson"
+    ],
+    [
       "Christian Bradler",
       "Tim Hoffmann"
     ],
@@ -835,10 +839,6 @@
     [
       "Christian Franzen",
       "Pierre Fischer"
-    ],
-    [
-      "Christopher Horoho",
-      "Christopher Horoho"
     ],
     [
       "Christopher Trendowitz",
@@ -1047,10 +1047,6 @@
     [
       "Kathrin Grote Lambers",
       "Sven Ramaker"
-    ],
-    [
-      "Ken Helgerson",
-      "To Be NamedLater"
     ],
     [
       "Klaus Kümpel",
@@ -1277,11 +1273,6 @@
       "Tony Troppa"
     ],
     [
-      "Ken Helgerson",
-      "Named Later",
-      "To Be Named ame Later"
-    ],
-    [
       "Alan Dittrich",
       "Andreas Wilhelm",
       "Moritz Bulach",
@@ -1310,6 +1301,12 @@
       "Benjamin Henne",
       "Desirée Reitz",
       "Marina Nikic"
+    ],
+    [
+      "Branden Sigalla",
+      "Bruce Lovett",
+      "Christ Horoho",
+      "Ken Helgerson"
     ],
     [
       "Carolina Bache",

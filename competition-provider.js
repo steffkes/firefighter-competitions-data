@@ -1,6 +1,24 @@
 import { ofetch } from "ofetch";
+import { readFileSync } from "fs";
+import { resolve } from "node:path";
+import glob from "fast-glob";
 
 export default async () => {
+  const participant_counts = Object.fromEntries(
+    (await glob(["data/teams/*.json"]))
+      .map((path) => {
+        try {
+          const { competition_id, count } = JSON.parse(
+            readFileSync(resolve(path))
+          );
+          return [competition_id, count];
+        } catch (error) {
+          return null;
+        }
+      })
+      .filter(Boolean)
+  );
+
   const mapper = (kind, record) => {
     let coordinates = null;
     if (record.fields["Koordinaten"]) {
@@ -12,7 +30,9 @@ export default async () => {
       kind,
       name: record.fields["Name"],
       url: record.fields["Webseite"],
-      showParticipantCount: record.fields["Teilnehmerzahl"],
+      participants: {
+        count: participant_counts[record["id"]] || undefined,
+      },
       date: {
         start: new Date(record.fields.Datum),
         end: new Date(record.fields["Datum bis"] || record.fields.Datum),

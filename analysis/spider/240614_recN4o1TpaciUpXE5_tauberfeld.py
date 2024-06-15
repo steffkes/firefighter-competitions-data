@@ -37,7 +37,7 @@ class Spider(scrapy.Spider):
     def start_requests(self):
         yield scrapy.FormRequest(
             method="GET",
-            url="https://firefit-europe.eu/ranking-magdeburg-2024/",
+            url="https://firefit-europe.eu/ranking-tauberfeld-2024/",
         )
 
     def parse(self, response):
@@ -82,13 +82,9 @@ class Spider(scrapy.Spider):
                 )
 
         for ematch in response.css(".elimination-match .opponent"):
-            teamName = ematch.css(".name ::text").get().strip()
-
-            # invalid / non-existent entry
-            if teamName not in relayTeams:
-                continue
-
-            (category, type, names) = relayTeams[teamName]
+            (category, type, names) = relayTeams[
+                ematch.css(".name ::text").get().strip()
+            ]
             rawDuration = ematch.css(".result .ffc-color-success span::text").getall()
 
             # most likely disqualified

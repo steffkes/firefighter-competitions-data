@@ -41,26 +41,65 @@ class Spider(scrapy.Spider):
         )
 
     def parse(self, response):
-        categories = ["M", "W", "M", "W", "X", "M", "X"]
+        parties = [
+            ("M", "MPA", False),  # ·
+            ("W", "MPA", False),  # ↳ individual
+            ("M", "OPA", False),  # ·
+            ("W", "OPA", False),  # ·
+            ("X", "OPA", False),  # ↳ tandem
+            ("M", "OPA", True),  # ·
+            ("X", "OPA", True),  # ↳ relay
+        ]
 
-        for index, table in enumerate(
-            response.css("table.ffc-table-dark")[0 : len(categories)]
-        ):
-            for row in table.css("tbody tr.status-ok"):
+        results = response.css("table.ffc-table-dark")
+        relayTeams = {}
+
+        computeDuration = lambda parts: "00:0" + "".join(parts).replace(",", ".")
+
+        for index, (category, type, isRelay) in enumerate(parties):
+            for row in results[index].css("tbody tr.status-ok"):
                 names = [row.css(".name-line1::text").get().strip()]
-                duration = "00:0" + "".join(
-                    row.css(".result-line1 span::text").getall()
-                ).replace(",", ".")
+                duration = computeDuration(row.css(".result-line1 span::text").getall())
 
                 team = sorted(row.css(".member-name span::text").getall())
                 if len(team):
                     names = team
 
+                if isRelay:
+                    relayTeams[row.css(".name .name-line1::text").get().strip()] = (
+                        category,
+                        type,
+                        names,
+                    )
+
                 yield ResultItem(
                     date=self.race_date,
                     competition_id=self.competition_id,
-                    type={0: "MPA", 1: "MPA"}.get(index, "OPA"),
-                    category=categories[index],
+                    type=type,
+                    category=category,
                     duration=duration,
                     names=names,
                 )
+
+        for ematch in response.css(".elimination-match .opponent"):
+            teamName = ematch.css(".name ::text").get().strip()
+
+            # invalid / non-existent entry
+            if teamName not in relayTeams:
+                continue
+
+            (category, type, names) = relayTeams[teamName]
+            rawDuration = ematch.css(".result .ffc-color-success span::text").getall()
+
+            # most likely disqualified
+            if not len(rawDuration):
+                continue
+
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                type=type,
+                category=category,
+                duration=computeDuration(rawDuration),
+                names=names,
+            )

@@ -1,7 +1,7 @@
 {
-  "date": "2024-06-18T09:24:01.433693",
+  "date": "2024-06-18T15:32:16.917450",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 709,
+  "count": 739,
   "teams": [
     [
       "Adam Spychała"
@@ -52,6 +52,9 @@
       "André Herborn"
     ],
     [
+      "Angel Flores"
+    ],
+    [
       "Anja Riehn"
     ],
     [
@@ -62,6 +65,9 @@
     ],
     [
       "Anze Habjan"
+    ],
+    [
+      "Bader Ashoor"
     ],
     [
       "Balandraux Vincent"
@@ -151,6 +157,9 @@
       "Dominik Zirbes"
     ],
     [
+      "Dominique Kane"
+    ],
+    [
       "Erik Hoffmeister"
     ],
     [
@@ -158,6 +167,9 @@
     ],
     [
       "Fabian Kohlei"
+    ],
+    [
+      "Faisal Mahboob"
     ],
     [
       "Felix DÖRRIES"
@@ -202,6 +214,9 @@
       "Gregor Stanonik"
     ],
     [
+      "Hamad Alhammadi"
+    ],
+    [
       "Hanne Vandersmissen"
     ],
     [
@@ -221,6 +236,9 @@
     ],
     [
       "Irenee SCHOHN"
+    ],
+    [
+      "Issa Abdulkarim"
     ],
     [
       "Jacqueline Belluomini"
@@ -335,6 +353,9 @@
     ],
     [
       "Magnus Metje"
+    ],
+    [
+      "Mahdi Basheer"
     ],
     [
       "Marcel Koch-Mühlinghaus"
@@ -454,7 +475,13 @@
       "Miroslav Neveselý"
     ],
     [
+      "Mohamad Ali"
+    ],
+    [
       "Moritz Bulach"
+    ],
+    [
+      "Nathan Bowland"
     ],
     [
       "Nick Kuhlen"
@@ -610,6 +637,12 @@
       "Stefanie Reich"
     ],
     [
+      "Steven Czech"
+    ],
+    [
+      "Sultan Salman"
+    ],
+    [
       "Sven Ramaker"
     ],
     [
@@ -650,6 +683,9 @@
     ],
     [
       "Torben Voigt"
+    ],
+    [
+      "Travis Leonard"
     ],
     [
       "Uwe Heise"
@@ -916,6 +952,10 @@
       "Florian Wedel"
     ],
     [
+      "Faisal Mahboob",
+      "Hamad Alhammadi"
+    ],
+    [
       "Ferdinand Weber",
       "Julian Weber"
     ],
@@ -985,7 +1025,15 @@
     ],
     [
       "Igor Pasic",
+      "Manca Savx"
+    ],
+    [
+      "Igor Pasic",
       "Miroslav Michlovsky"
+    ],
+    [
+      "Issa Abdulkarim",
+      "Mohanad Ali"
     ],
     [
       "Jacqueline Belluomini",
@@ -1090,6 +1138,10 @@
     [
       "Magnus Metje",
       "Sören Warzok"
+    ],
+    [
+      "Mahdi Basheer",
+      "Sultan Salman"
     ],
     [
       "Marcel Schumacher",
@@ -1415,6 +1467,13 @@
       "Peer Schneider"
     ],
     [
+      "Angel Floes",
+      "Dominique Kane",
+      "Nathan Bowland",
+      "Steven Czech",
+      "Travis Leonard"
+    ],
+    [
       "Anja Riehn",
       "Daniel Finster",
       "Felix Dörries",
@@ -1427,6 +1486,13 @@
       "Nils Broch",
       "Rowena Hauser",
       "Stefan Fetting"
+    ],
+    [
+      "Bader Ashoor",
+      "Faisal Mahboob",
+      "Hamad Alhammadi",
+      "Issa Abdulkarim",
+      "Mahdi Basheer"
     ],
     [
       "Bastien Amelot",

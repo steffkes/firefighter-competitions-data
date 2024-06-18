@@ -1,7 +1,7 @@
 {
-  "date": "2024-06-18T10:31:35.226896",
+  "date": "2024-06-18T10:43:29.356795",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 714,
+  "count": 739,
   "teams": [
     [
       "Adam Spychała"
@@ -65,6 +65,9 @@
     ],
     [
       "Anze Habjan"
+    ],
+    [
+      "Bader Ashoor"
     ],
     [
       "Balandraux Vincent"
@@ -166,6 +169,9 @@
       "Fabian Kohlei"
     ],
     [
+      "Faisal Mahboob"
+    ],
+    [
       "Felix DÖRRIES"
     ],
     [
@@ -208,6 +214,9 @@
       "Gregor Stanonik"
     ],
     [
+      "Hamad Alhammadi"
+    ],
+    [
       "Hanne Vandersmissen"
     ],
     [
@@ -227,6 +236,9 @@
     ],
     [
       "Irenee SCHOHN"
+    ],
+    [
+      "Issa Abdulkarim"
     ],
     [
       "Jacqueline Belluomini"
@@ -341,6 +353,9 @@
     ],
     [
       "Magnus Metje"
+    ],
+    [
+      "Mahdi Basheer"
     ],
     [
       "Marcel Koch-Mühlinghaus"
@@ -458,6 +473,9 @@
     ],
     [
       "Miroslav Neveselý"
+    ],
+    [
+      "Mohamad Ali"
     ],
     [
       "Moritz Bulach"
@@ -620,6 +638,9 @@
     ],
     [
       "Steven Czech"
+    ],
+    [
+      "Sultan Salman"
     ],
     [
       "Sven Ramaker"
@@ -931,6 +952,10 @@
       "Florian Wedel"
     ],
     [
+      "Faisal Mahboob",
+      "Hamad Alhammadi"
+    ],
+    [
       "Ferdinand Weber",
       "Julian Weber"
     ],
@@ -1000,7 +1025,15 @@
     ],
     [
       "Igor Pasic",
+      "Manca Savx"
+    ],
+    [
+      "Igor Pasic",
       "Miroslav Michlovsky"
+    ],
+    [
+      "Issa Abdulkarim",
+      "Mohanad Ali"
     ],
     [
       "Jacqueline Belluomini",
@@ -1105,6 +1138,10 @@
     [
       "Magnus Metje",
       "Sören Warzok"
+    ],
+    [
+      "Mahdi Basheer",
+      "Sultan Salman"
     ],
     [
       "Marcel Schumacher",
@@ -1430,6 +1467,13 @@
       "Peer Schneider"
     ],
     [
+      "Angel Floes",
+      "Dominique Kane",
+      "Nathan Bowland",
+      "Steven Czech",
+      "Travis Leonard"
+    ],
+    [
       "Anja Riehn",
       "Daniel Finster",
       "Felix Dörries",
@@ -1442,6 +1486,13 @@
       "Nils Broch",
       "Rowena Hauser",
       "Stefan Fetting"
+    ],
+    [
+      "Bader Ashoor",
+      "Faisal Mahboob",
+      "Hamad Alhammadi",
+      "Issa Abdulkarim",
+      "Mahdi Basheer"
     ],
     [
       "Bastien Amelot",

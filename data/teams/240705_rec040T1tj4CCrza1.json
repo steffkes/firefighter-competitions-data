@@ -1,7 +1,7 @@
 {
-  "date": "2024-06-21T09:43:43.265771",
+  "date": "2024-06-21T09:58:27.981192",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 739,
+  "count": 741,
   "teams": [
     [
       "Adam Spychała"
@@ -1323,11 +1323,6 @@
       "Igor Pasic"
     ],
     [
-      "Domenic Spalt",
-      "Lucas Weißmann",
-      "Tony Troppa"
-    ],
-    [
       "Alan Dittrich",
       "Andreas Wilhelm",
       "Moritz Bulach",
@@ -1556,6 +1551,13 @@
       "Jannik Wagner",
       "Marvin Stöbener",
       "Mike Stöbner"
+    ],
+    [
+      "Domenic Spalt",
+      "Eva Zapp",
+      "Jennifer Wehrmann",
+      "Lucas Weißmann",
+      "Tony Troppa"
     ],
     [
       "Hans-Christian Marwedel",

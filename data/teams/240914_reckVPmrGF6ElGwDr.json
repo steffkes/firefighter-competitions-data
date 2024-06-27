@@ -1,19 +1,11 @@
 {
-  "date": "2024-06-27T07:20:07.927690",
+  "date": "2024-06-27T07:36:41.814227",
   "competition_id": "reckVPmrGF6ElGwDr",
-  "count": 66,
+  "count": 56,
   "teams": [
     [
       "Anna Bermuth",
       "Martin Frehmann"
-    ],
-    [
-      "Anna Henke",
-      "Christian Alflen"
-    ],
-    [
-      "Benjamin Henrichs",
-      "Timo Cioch"
     ],
     [
       "Christian Bertram",
@@ -58,14 +50,6 @@
     [
       "Eike Will",
       "Viktor Luff"
-    ],
-    [
-      "Elias Jantzer",
-      "Johann Molitor"
-    ],
-    [
-      "Enrico Piras",
-      "Marc Besch"
     ],
     [
       "Fabian Wotzlaw",
@@ -130,10 +114,6 @@
     [
       "Michael Gebhard",
       "Ralf Schmitt"
-    ],
-    [
-      "Peter Minet",
-      "Philipp Krimmel"
     ]
   ]
 }

@@ -1,8 +1,12 @@
 {
-  "date": "2024-06-28T09:32:16.470102",
+  "date": "2024-06-28T15:27:36.541518",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 626,
+  "count": 634,
   "teams": [
+    [
+      "Aaliyah Born",
+      "Benedikt Reeh"
+    ],
     [
       "Adrian Feiler",
       "Serhii Koptsev"
@@ -768,6 +772,10 @@
       "Philipp Jenke"
     ],
     [
+      "Jan Orschel",
+      "Matthias Hollmann"
+    ],
+    [
       "Jan Pönitz",
       "Sebastian Hauröder"
     ],
@@ -826,6 +834,10 @@
     [
       "Jonas Gritschke",
       "Tim Schmellenkamp"
+    ],
+    [
+      "Jonas Klein",
+      "Maik Holtkamp"
     ],
     [
       "Jonas Schimpf",
@@ -1002,6 +1014,10 @@
     [
       "Marco Rocholl",
       "Matthias Kimna"
+    ],
+    [
+      "Marco Thier",
+      "Simon Knob"
     ],
     [
       "Mario Weiß",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-06-29T15:38:57.514278",
+  "date": "2024-06-29T15:50:48.808629",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 17,
+  "count": 24,
   "teams": [
     [
       "Alexander Klapproth"
@@ -16,16 +16,31 @@
       "Lukas Wickmann"
     ],
     [
+      "Marc Albers"
+    ],
+    [
+      "Marc Hübler"
+    ],
+    [
       "Michael Güth"
     ],
     [
       "Nils Schmidt"
     ],
     [
+      "Patrick Vierhaus"
+    ],
+    [
       "Phil Heise"
     ],
     [
+      "Simon Feuerhack"
+    ],
+    [
       "Simon Polauke"
+    ],
+    [
+      "Sven Bartelt"
     ],
     [
       "Uwe Heise"
@@ -36,6 +51,10 @@
     [
       "Michael Güth",
       "Uwe Heise"
+    ],
+    [
+      "Patrick Vierhaus",
+      "Sven Bartelt"
     ],
     [
       "Alexander Klapproth",

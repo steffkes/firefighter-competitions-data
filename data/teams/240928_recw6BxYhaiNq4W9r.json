@@ -1,41 +1,277 @@
 {
-  "date": "2024-06-29T15:25:49.360883",
+  "date": "2024-06-29T21:31:59.733902",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 17,
+  "count": 116,
   "teams": [
     [
+      "Adrian Józefiak"
+    ],
+    [
+      "Alexander Fromme"
+    ],
+    [
+      "Alexander Greis"
+    ],
+    [
+      "Alexander Junge"
+    ],
+    [
       "Alexander Klapproth"
+    ],
+    [
+      "Alexander Kulhawy"
+    ],
+    [
+      "Alexander Reitz"
+    ],
+    [
+      "Andre Schüddekopf"
     ],
     [
       "Andrè Moebes"
     ],
     [
+      "Anja Riehn"
+    ],
+    [
+      "Antonia Kulhawy"
+    ],
+    [
+      "Bartłomiej Nir-Skibski"
+    ],
+    [
+      "Benjamin Roth"
+    ],
+    [
+      "Björn Herborn"
+    ],
+    [
+      "Björn Knoke"
+    ],
+    [
       "Chenoa Polauke"
+    ],
+    [
+      "Christian Lutat"
+    ],
+    [
+      "Erik Hoffmeister"
+    ],
+    [
+      "Falk Schnepel"
+    ],
+    [
+      "Felix Dörries"
+    ],
+    [
+      "Florian Krautwurst"
+    ],
+    [
+      "Florian Menklein"
+    ],
+    [
+      "Guido Suhrmeyer"
+    ],
+    [
+      "Hans-Jürgen Vogt"
+    ],
+    [
+      "Henning Bösch"
+    ],
+    [
+      "Jan Hampf"
+    ],
+    [
+      "Jens Obermann"
+    ],
+    [
+      "Jens Wendelken"
+    ],
+    [
+      "Lars Mayer"
+    ],
+    [
+      "Laura Andres"
+    ],
+    [
+      "Leon Russ"
+    ],
+    [
+      "Lucas Weißmann"
     ],
     [
       "Lukas Wickmann"
     ],
     [
+      "Marc Albers"
+    ],
+    [
+      "Marc Hübler"
+    ],
+    [
+      "Marco Juffa"
+    ],
+    [
+      "Mario Fleerkortte"
+    ],
+    [
+      "Markus Ahrend"
+    ],
+    [
+      "Mathias Hey"
+    ],
+    [
+      "Meike Denecke"
+    ],
+    [
+      "Melanie Schönewald"
+    ],
+    [
       "Michael Güth"
+    ],
+    [
+      "Michael Weiß"
+    ],
+    [
+      "Mike Hoppe"
+    ],
+    [
+      "Nick Kuhlen"
+    ],
+    [
+      "Niels Bessert"
+    ],
+    [
+      "Nils Fröhlich"
     ],
     [
       "Nils Schmidt"
     ],
     [
+      "Patrick Vierhaus"
+    ],
+    [
       "Phil Heise"
+    ],
+    [
+      "Phillip Blau"
+    ],
+    [
+      "Sebastian Wehlauer"
+    ],
+    [
+      "Simon Feuerhack"
     ],
     [
       "Simon Polauke"
     ],
     [
+      "Stefanie Reich"
+    ],
+    [
+      "Sven Bartelt"
+    ],
+    [
+      "Tobias Fischer"
+    ],
+    [
+      "Torben Voigt"
+    ],
+    [
       "Uwe Heise"
+    ],
+    [
+      "Wayne Bastow"
     ],
     [
       "Wiebke Luehrs"
     ],
     [
+      "Alexander Kulhawy",
+      "Antonia Kulhawy"
+    ],
+    [
+      "Alexander Kulhawy",
+      "Florian Menklein"
+    ],
+    [
+      "Alexander Reitz",
+      "Marc Albers"
+    ],
+    [
+      "Anja Riehn",
+      "Melanie Schönewald"
+    ],
+    [
+      "Benjamin Roth",
+      "Marius Freimuth"
+    ],
+    [
+      "Björn Herborn",
+      "Daniel Pätzolt"
+    ],
+    [
+      "Carola Hildebrandt",
+      "Marc Hübler"
+    ],
+    [
+      "Christian Lutat",
+      "Florian Krautwurst"
+    ],
+    [
+      "Guido Suhrmeyer",
+      "Malte Hoheisel"
+    ],
+    [
+      "Hans-Christian Marwedel",
+      "Phillip Blau"
+    ],
+    [
+      "Laura Andres",
+      "Marco Juffa"
+    ],
+    [
+      "Mathias Hey",
+      "Nick Kuhlen"
+    ],
+    [
+      "Meike Denecke",
+      "Michael Weiß"
+    ],
+    [
       "Michael Güth",
       "Uwe Heise"
+    ],
+    [
+      "Moritz Stein",
+      "Simon Feuerhack"
+    ],
+    [
+      "Niels Bessert",
+      "Nils Fröhlich"
+    ],
+    [
+      "Patrick Vierhaus",
+      "Sven Bartelt"
+    ],
+    [
+      "Sabastian Wehlauer",
+      "Wayne Bastow"
+    ],
+    [
+      "Stefanie Reich",
+      "Steven Dreher"
+    ],
+    [
+      "Meike Denecke",
+      "Michael Weiß",
+      "Sandra Wepel"
+    ],
+    [
+      "Alexander Kulhawy",
+      "Antonia Kulhawy",
+      "Florian Menklein",
+      "Marian Brandes"
     ],
     [
       "Alexander Klapproth",
@@ -43,6 +279,13 @@
       "Nils Schmidt",
       "Simon Polauke",
       "Uwe Heise"
+    ],
+    [
+      "Daniel Sporleder",
+      "Jan Krummacker",
+      "Michael Weiß",
+      "Niels Bessert",
+      "Nils Fröhlich"
     ]
   ]
 }

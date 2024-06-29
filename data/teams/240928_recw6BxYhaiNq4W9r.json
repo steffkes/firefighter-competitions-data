@@ -1,8 +1,14 @@
 {
-  "date": "2024-06-29T17:48:46.321227",
+  "date": "2024-06-29T18:00:10.312439",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 57,
+  "count": 93,
   "teams": [
+    [
+      "Adrian Józefiak"
+    ],
+    [
+      "Alexander Fromme"
+    ],
     [
       "Alexander Greis"
     ],
@@ -37,7 +43,16 @@
       "Chenoa Polauke"
     ],
     [
+      "Christian Lutat"
+    ],
+    [
       "Felix Dörries"
+    ],
+    [
+      "Florian Krautwurst"
+    ],
+    [
+      "Florian Menklein"
     ],
     [
       "Guido Suhrmeyer"
@@ -55,6 +70,12 @@
       "Lars Mayer"
     ],
     [
+      "Leon Russ"
+    ],
+    [
+      "Lucas Weißmann"
+    ],
+    [
       "Lukas Wickmann"
     ],
     [
@@ -70,10 +91,13 @@
       "Mario Fleerkortte"
     ],
     [
-      "Mario Fleerkortte"
+      "Markus Ahrend"
     ],
     [
       "Mathias Hey"
+    ],
+    [
+      "Meike Denecke"
     ],
     [
       "Melanie Schönewald"
@@ -82,7 +106,19 @@
       "Michael Güth"
     ],
     [
+      "Michael Weiß"
+    ],
+    [
       "Mike Hoppe"
+    ],
+    [
+      "Nick Kuhlen"
+    ],
+    [
+      "Niels Bessert"
+    ],
+    [
+      "Nils Fröhlich"
     ],
     [
       "Nils Schmidt"
@@ -97,6 +133,9 @@
       "Phillip Blau"
     ],
     [
+      "Sebastian Wehlauer"
+    ],
+    [
       "Simon Feuerhack"
     ],
     [
@@ -107,6 +146,9 @@
     ],
     [
       "Sven Bartelt"
+    ],
+    [
+      "Tobias Fischer"
     ],
     [
       "Uwe Heise"
@@ -134,6 +176,22 @@
       "Marc Hübler"
     ],
     [
+      "Christian Lutat",
+      "Florian Krautwurst"
+    ],
+    [
+      "Hans-Christian Marwedel",
+      "Phillip Blau"
+    ],
+    [
+      "Mathias Hey",
+      "Nick Kuhlen"
+    ],
+    [
+      "Meike Denecke",
+      "Michael Weiß"
+    ],
+    [
       "Michael Güth",
       "Uwe Heise"
     ],
@@ -142,8 +200,25 @@
       "Simon Feuerhack"
     ],
     [
+      "Niels Bessert",
+      "Nils Fröhlich"
+    ],
+    [
       "Patrick Vierhaus",
       "Sven Bartelt"
+    ],
+    [
+      "Sabastian Wehlauer",
+      "Wayne Bastow"
+    ],
+    [
+      "Stefanie Reich",
+      "Steven Dreher"
+    ],
+    [
+      "Meike Denecke",
+      "Michael Weiß",
+      "Sandra Wepel"
     ],
     [
       "Alexander Klapproth",
@@ -151,6 +226,13 @@
       "Nils Schmidt",
       "Simon Polauke",
       "Uwe Heise"
+    ],
+    [
+      "Daniel Sporleder",
+      "Jan Krummacker",
+      "Michael Weiß",
+      "Niels Bessert",
+      "Nils Fröhlich"
     ]
   ]
 }

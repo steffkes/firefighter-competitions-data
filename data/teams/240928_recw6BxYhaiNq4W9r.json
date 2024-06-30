@@ -1,8 +1,11 @@
 {
-  "date": "2024-06-30T14:31:41.023752",
+  "date": "2024-06-30T14:43:18.634554",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 123,
+  "count": 126,
   "teams": [
+    [
+      "Adam Marcinkowski"
+    ],
     [
       "Adrian Józefiak"
     ],
@@ -38,6 +41,9 @@
     ],
     [
       "Bartłomiej Nir-Skibski"
+    ],
+    [
+      "Benedikt Pillach"
     ],
     [
       "Benjamin Roth"
@@ -182,6 +188,9 @@
     ],
     [
       "Simon Polauke"
+    ],
+    [
+      "Stefan Kolb"
     ],
     [
       "Stefanie Reich"

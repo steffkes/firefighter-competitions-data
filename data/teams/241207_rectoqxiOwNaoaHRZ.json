@@ -1,28 +1,58 @@
 {
-  "date": "2024-07-01T15:24:23.422246",
+  "date": "2024-07-01T19:00:21.975909",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 50,
+  "count": 122,
   "teams": [
     [
       "Baier HEIKO"
     ],
     [
-      "Björn HERBORN"
+      "Bastian ZEHNLE"
     ],
     [
-      "Chiara BUBNER"
+      "Claudia KNEBEL"
     ],
     [
-      "Finn BLOCK"
+      "Denny KIUPEL"
+    ],
+    [
+      "Erik LANGENHAHN"
+    ],
+    [
+      "Fabian ZAHLMANN"
+    ],
+    [
+      "Felix BÖHM"
+    ],
+    [
+      "Felix MÜLLER"
+    ],
+    [
+      "Felix OBERGFÖLL"
+    ],
+    [
+      "Florian OERTELT-GRIMM"
     ],
     [
       "Florian PETERS"
     ],
     [
+      "Florian RÖSCH"
+    ],
+    [
       "Florian SICKERT"
     ],
     [
+      "Jan HUMBERT"
+    ],
+    [
       "Jan WISNIEWSKI"
+    ],
+    [
+      "Jasmin BOHUN"
+    ],
+    [
+      "Josef PALK"
     ],
     [
       "Jürgen ALFANZ"
@@ -34,6 +64,9 @@
       "Konstantin LEITENBAUER"
     ],
     [
+      "Lars BUNSEN"
+    ],
+    [
       "Marcel THIERBACH"
     ],
     [
@@ -43,19 +76,60 @@
       "Martin HEINICKE"
     ],
     [
+      "Matthias LEMM"
+    ],
+    [
       "Maximilian WAGNER"
+    ],
+    [
+      "Michaela HEMMING"
+    ],
+    [
+      "Mildner JULIAN"
+    ],
+    [
+      "Mirko TÄNZER"
+    ],
+    [
+      "Ole WIENEKE"
+    ],
+    [
+      "Schumacher MARCEL"
+    ],
+    [
+      "Sean RENKER"
     ],
     [
       "Adrian JAGUSCH",
       "Kai REICHELT"
     ],
     [
+      "Alex BARTELT",
+      "Philip VOIGT"
+    ],
+    [
+      "Alexander LACHMANN",
+      "Tobias HARTMANN"
+    ],
+    [
       "Alexander TÖNGES",
       "Andreas FRIEDRICH"
     ],
     [
+      "André TOMKOWIAK",
+      "Sascha MÜLLER"
+    ],
+    [
       "Anett KADE",
       "Monique LUCIUS"
+    ],
+    [
+      "Anja KAISER",
+      "Yvonne SCHÄFER"
+    ],
+    [
+      "Anke HILPERT",
+      "Michael WEIPRECHT"
     ],
     [
       "Axel FEGEBANK",
@@ -66,8 +140,24 @@
       "Sebastian KOCH"
     ],
     [
+      "Björn HERBORN",
+      "Daniel PÄTZOLT"
+    ],
+    [
       "Björn SCHWERDT",
       "Olucha JOAN"
+    ],
+    [
+      "Chiara BUBNER",
+      "Immo WILSKI"
+    ],
+    [
+      "Daniel KUNTER",
+      "Fabian SCHRÖTER"
+    ],
+    [
+      "Dominik BRAND",
+      "Tobias SCHMITT"
     ],
     [
       "Dominik THIEL",
@@ -86,6 +176,10 @@
       "Maik WAGNER"
     ],
     [
+      "Finn BLOCK",
+      "Lucas-Constantin MATHIES"
+    ],
+    [
       "Florian GÖLLNITZ",
       "Mark LANGE"
     ],
@@ -98,16 +192,72 @@
       "Jasper LETTOW"
     ],
     [
+      "Florian WEDEL",
+      "Norma HEMMANN"
+    ],
+    [
       "Jan KAISER",
       "Steffen GÜNTHER"
+    ],
+    [
+      "Jan PHILIPS",
+      "Paul REICHELT"
+    ],
+    [
+      "Jan-Philipp TIETGE",
+      "Ken THOMSEN"
     ],
     [
       "Jannik FUTH",
       "Sebastian BRANDT"
     ],
     [
+      "Jennifer WEHRMANN",
+      "Lucas WEISSMANN"
+    ],
+    [
+      "Johannes PLEIER",
+      "Tobias RÖSCH"
+    ],
+    [
+      "Jonas MARTIN",
+      "Leah SAHNER"
+    ],
+    [
+      "Jonas SENSEN",
+      "Maj-Britt ZIMMERMANN"
+    ],
+    [
+      "Kai FROSS",
+      "Michael HEYDER"
+    ],
+    [
+      "Karsten NENDZIAK",
+      "Ronny LANGBEIN"
+    ],
+    [
+      "Kirsten SCHNEIDEREIT",
+      "Rene KRUMSTROH"
+    ],
+    [
       "Lars HOMEYER",
       "Marc HABERMANN"
+    ],
+    [
+      "Marcus HILLER",
+      "Wolfgang OBERGFÖLL"
+    ],
+    [
+      "Martin KARG",
+      "Robert JÄGER"
+    ],
+    [
+      "Maximilian KUMMER",
+      "Samuel LEBLOND"
+    ],
+    [
+      "Michael THOMAS",
+      "Til SCHLEICHER"
     ],
     [
       "Nadja BOESLER",
@@ -116,6 +266,18 @@
     [
       "Nico SCHIMECZEK",
       "Tobias DIEDRIGKEIT"
+    ],
+    [
+      "Nicolas SPATZ",
+      "Tim SCHOLLENBERGER"
+    ],
+    [
+      "Spaleck TOM",
+      "Thorsten HENGELHAUPT"
+    ],
+    [
+      "andre FERNESCHILD",
+      "henry GLANZ"
     ]
   ]
 }

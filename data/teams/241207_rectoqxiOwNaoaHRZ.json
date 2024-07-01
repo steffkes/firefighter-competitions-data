@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-01T19:32:08.001636",
+  "date": "2024-07-01T19:43:33.625917",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 129,
+  "count": 132,
   "teams": [
     [
       "Baier HEIKO"
@@ -26,9 +26,6 @@
     ],
     [
       "Felix OBERGFÖLL"
-    ],
-    [
-      "Felix PLENK"
     ],
     [
       "Florian OERTELT-GRIMM"
@@ -83,12 +80,6 @@
     ],
     [
       "Mildner JULIAN"
-    ],
-    [
-      "Mirko TÄNZER"
-    ],
-    [
-      "Máté FEGYVERNEKI"
     ],
     [
       "Ole WIENEKE"
@@ -174,12 +165,20 @@
       "Stefan MATHEIS"
     ],
     [
+      "Dávid WINDISCHMANN",
+      "Máté FEGYVERNEKI"
+    ],
+    [
       "Enrico KLESSE",
       "Katrin KLESSE"
     ],
     [
       "Fabian KLUGE",
       "Maimuna KRÜGER"
+    ],
+    [
+      "Felix PLENK",
+      "Tim HOFMANN"
     ],
     [
       "Felix ROSSBERG",
@@ -268,6 +267,10 @@
     [
       "Michael THOMAS",
       "Til SCHLEICHER"
+    ],
+    [
+      "Mirko TÄNZER",
+      "René KUNZ"
     ],
     [
       "Nadja BOESLER",

@@ -48,7 +48,7 @@ class Spider(scrapy.Spider):
 
     def parse_starters(self, response):
         fireteam_filter = lambda row: row["classification"] == "Feuerwehr-Team"
-        team_groupfn = lambda row: row["team"]
+        team_groupfn = lambda row: str(row["team"])
 
         data = response.json()["data"]
         for _team, entries in groupby(

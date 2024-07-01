@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-01T18:33:17.190051",
+  "date": "2024-07-01T18:48:57.868072",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 115,
+  "count": 122,
   "teams": [
     [
       "Baier HEIKO"
@@ -19,13 +19,16 @@
       "Erik LANGENHAHN"
     ],
     [
-      "Fabian SCHRÖTER"
-    ],
-    [
       "Fabian ZAHLMANN"
     ],
     [
       "Felix BÖHM"
+    ],
+    [
+      "Felix MÜLLER"
+    ],
+    [
+      "Felix OBERGFÖLL"
     ],
     [
       "Florian OERTELT-GRIMM"
@@ -70,9 +73,6 @@
       "Marcel WINKLER"
     ],
     [
-      "Marcus HILLER"
-    ],
-    [
       "Martin HEINICKE"
     ],
     [
@@ -85,6 +85,9 @@
       "Michaela HEMMING"
     ],
     [
+      "Mildner JULIAN"
+    ],
+    [
       "Mirko TÄNZER"
     ],
     [
@@ -95,12 +98,6 @@
     ],
     [
       "Sean RENKER"
-    ],
-    [
-      "Til SCHLEICHER"
-    ],
-    [
-      "Tim SCHOLLENBERGER"
     ],
     [
       "Adrian JAGUSCH",
@@ -153,6 +150,10 @@
     [
       "Chiara BUBNER",
       "Immo WILSKI"
+    ],
+    [
+      "Daniel KUNTER",
+      "Fabian SCHRÖTER"
     ],
     [
       "Dominik BRAND",
@@ -243,6 +244,10 @@
       "Marc HABERMANN"
     ],
     [
+      "Marcus HILLER",
+      "Wolfgang OBERGFÖLL"
+    ],
+    [
       "Martin KARG",
       "Robert JÄGER"
     ],
@@ -251,12 +256,20 @@
       "Samuel LEBLOND"
     ],
     [
+      "Michael THOMAS",
+      "Til SCHLEICHER"
+    ],
+    [
       "Nadja BOESLER",
       "Silas BOESCH"
     ],
     [
       "Nico SCHIMECZEK",
       "Tobias DIEDRIGKEIT"
+    ],
+    [
+      "Nicolas SPATZ",
+      "Tim SCHOLLENBERGER"
     ],
     [
       "Spaleck TOM",

@@ -1,28 +1,121 @@
 {
-  "date": "2024-07-01T09:38:40.449444",
+  "date": "2024-07-01T15:24:23.422246",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 7,
+  "count": 50,
   "teams": [
     [
-      "Adrian JAGUSCH"
+      "Baier HEIKO"
     ],
     [
-      "Axel FEGEBANK"
+      "Björn HERBORN"
     ],
     [
-      "Fabian KLUGE"
+      "Chiara BUBNER"
+    ],
+    [
+      "Finn BLOCK"
     ],
     [
       "Florian PETERS"
     ],
     [
+      "Florian SICKERT"
+    ],
+    [
+      "Jan WISNIEWSKI"
+    ],
+    [
+      "Jürgen ALFANZ"
+    ],
+    [
+      "Karel ZAPLETAL"
+    ],
+    [
+      "Konstantin LEITENBAUER"
+    ],
+    [
+      "Marcel THIERBACH"
+    ],
+    [
+      "Marcel WINKLER"
+    ],
+    [
+      "Martin HEINICKE"
+    ],
+    [
+      "Maximilian WAGNER"
+    ],
+    [
+      "Adrian JAGUSCH",
       "Kai REICHELT"
     ],
     [
+      "Alexander TÖNGES",
+      "Andreas FRIEDRICH"
+    ],
+    [
+      "Anett KADE",
+      "Monique LUCIUS"
+    ],
+    [
+      "Axel FEGEBANK",
       "Karsten KOHRS"
     ],
     [
+      "Bianca GERKEN",
+      "Sebastian KOCH"
+    ],
+    [
+      "Björn SCHWERDT",
+      "Olucha JOAN"
+    ],
+    [
+      "Dominik THIEL",
+      "Stefan MATHEIS"
+    ],
+    [
+      "Enrico KLESSE",
+      "Katrin KLESSE"
+    ],
+    [
+      "Fabian KLUGE",
+      "Maimuna KRÜGER"
+    ],
+    [
+      "Felix ROSSBERG",
+      "Maik WAGNER"
+    ],
+    [
+      "Florian GÖLLNITZ",
+      "Mark LANGE"
+    ],
+    [
+      "Florian IPS",
       "Stefan WALDINGER"
+    ],
+    [
+      "Florian MAASS",
+      "Jasper LETTOW"
+    ],
+    [
+      "Jan KAISER",
+      "Steffen GÜNTHER"
+    ],
+    [
+      "Jannik FUTH",
+      "Sebastian BRANDT"
+    ],
+    [
+      "Lars HOMEYER",
+      "Marc HABERMANN"
+    ],
+    [
+      "Nadja BOESLER",
+      "Silas BOESCH"
+    ],
+    [
+      "Nico SCHIMECZEK",
+      "Tobias DIEDRIGKEIT"
     ]
   ]
 }

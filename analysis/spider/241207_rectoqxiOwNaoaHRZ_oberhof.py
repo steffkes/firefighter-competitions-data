@@ -1,6 +1,6 @@
 import scrapy
 from datetime import datetime
-import re
+from itertools import groupby
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
@@ -47,9 +47,19 @@ class Spider(scrapy.Spider):
             )
 
     def parse_starters(self, response):
+        fireteam_filter = lambda row: row["classification"] == "Feuerwehr-Team"
+        team_groupfn = lambda row: row["team"]
+
         data = response.json()["data"]
-        for entry in data:
+        for _team, entries in groupby(
+            sorted(filter(fireteam_filter, data), key=team_groupfn), key=team_groupfn
+        ):
             yield ParticipantItem(
                 competition_id=self.competition_id,
-                names=["%s %s" % (entry["firstName"], entry["name"])],
+                names=sorted(
+                    map(
+                        lambda entry: "%s %s" % (entry["firstName"], entry["name"]),
+                        entries,
+                    )
+                ),
             )

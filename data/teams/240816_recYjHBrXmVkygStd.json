@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-01T09:27:49.018979",
+  "date": "2024-07-01T15:24:13.235192",
   "competition_id": "recYjHBrXmVkygStd",
-  "count": 509,
+  "count": 514,
   "teams": [
     [
       "Adrian Gaitan"
@@ -1131,6 +1131,13 @@
       "Roman Munzar",
       "Tomáš Višňar",
       "Vojtěch Dvořák"
+    ],
+    [
+      "Gerrit Lindlein",
+      "Nils Broch",
+      "Sabastian Wehlauer",
+      "Stefan Fetting",
+      "Wayne Bastow"
     ],
     [
       "Herbert Roser",

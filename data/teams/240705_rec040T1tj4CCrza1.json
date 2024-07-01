@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-01T09:27:45.583322",
+  "date": "2024-07-01T15:24:10.522953",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 729,
+  "count": 728,
   "teams": [
     [
       "Adam Spychała"
@@ -508,9 +508,6 @@
       "Ralf Herp"
     ],
     [
-      "Ralf Sikorra"
-    ],
-    [
       "Ramona Buthmann"
     ],
     [
@@ -685,6 +682,10 @@
       "sully frillonnet"
     ],
     [
+      "",
+      "Magnus Hirschfeld"
+    ],
+    [
       "Adam Spychała",
       "Dawid Hyżyk"
     ],
@@ -826,7 +827,7 @@
     ],
     [
       "Christian Follmann",
-      "Martin Erbe"
+      "David Probst"
     ],
     [
       "Christopher Trendowitz",
@@ -878,7 +879,7 @@
     ],
     [
       "Dietmar Kirsch",
-      "Ralf Sikorra"
+      "Gerd Müller"
     ],
     [
       "Dirk Fischer",
@@ -935,10 +936,6 @@
     [
       "Franziska Seeliger",
       "Lukas Wickmann"
-    ],
-    [
-      "Gerd Müller",
-      "Magnus Hirschfeld"
     ],
     [
       "Gerrit Lindlein",
@@ -1275,6 +1272,12 @@
       "Igor Pasic"
     ],
     [
+      "",
+      "Dietmar Kirsch",
+      "Gerd Müller",
+      "Magnus Hirschfeld"
+    ],
+    [
       "Alan Dittrich",
       "Andreas Wilhelm",
       "Robin Winter",
@@ -1321,12 +1324,6 @@
       "Lukas Wickmann",
       "Nils Schmidt",
       "Phil Heise"
-    ],
-    [
-      "Dietmar Kirsch",
-      "Gerd Müller",
-      "Magnus Hirschfeld",
-      "Ralf Sikorra"
     ],
     [
       "Eric Keßler",

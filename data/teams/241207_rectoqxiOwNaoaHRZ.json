@@ -1,11 +1,8 @@
 {
-  "date": "2024-07-01T15:50:52.868443",
+  "date": "2024-07-01T16:09:19.464452",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 59,
+  "count": 75,
   "teams": [
-    [
-      "Alex BARTELT"
-    ],
     [
       "Baier HEIKO"
     ],
@@ -14,6 +11,18 @@
     ],
     [
       "Chiara BUBNER"
+    ],
+    [
+      "Claudia KNEBEL"
+    ],
+    [
+      "Denny KIUPEL"
+    ],
+    [
+      "Erik LANGENHAHN"
+    ],
+    [
+      "Florian OERTELT-GRIMM"
     ],
     [
       "Florian PETERS"
@@ -25,10 +34,13 @@
       "Jan WISNIEWSKI"
     ],
     [
-      "Jan-Philipp TIETGE"
+      "Jonas SENSEN"
     ],
     [
       "Jürgen ALFANZ"
+    ],
+    [
+      "Kai FROSS"
     ],
     [
       "Karel ZAPLETAL"
@@ -37,7 +49,7 @@
       "Konstantin LEITENBAUER"
     ],
     [
-      "Leah SAHNER"
+      "Lucas WEISSMANN"
     ],
     [
       "Marcel THIERBACH"
@@ -49,14 +61,28 @@
       "Martin HEINICKE"
     ],
     [
+      "Matthias LEMM"
+    ],
+    [
       "Maximilian WAGNER"
     ],
     [
-      "Tobias HARTMANN"
+      "Schumacher MARCEL"
+    ],
+    [
+      "Sean RENKER"
     ],
     [
       "Adrian JAGUSCH",
       "Kai REICHELT"
+    ],
+    [
+      "Alex BARTELT",
+      "Philip VOIGT"
+    ],
+    [
+      "Alexander LACHMANN",
+      "Tobias HARTMANN"
     ],
     [
       "Alexander TÖNGES",
@@ -123,8 +149,20 @@
       "Steffen GÜNTHER"
     ],
     [
+      "Jan-Philipp TIETGE",
+      "Ken THOMSEN"
+    ],
+    [
       "Jannik FUTH",
       "Sebastian BRANDT"
+    ],
+    [
+      "Jonas MARTIN",
+      "Leah SAHNER"
+    ],
+    [
+      "Kirsten SCHNEIDEREIT",
+      "Rene KRUMSTROH"
     ],
     [
       "Lars HOMEYER",

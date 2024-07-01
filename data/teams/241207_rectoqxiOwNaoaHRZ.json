@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-01T19:19:55.080436",
+  "date": "2024-07-01T19:32:08.001636",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 127,
+  "count": 129,
   "teams": [
     [
       "Baier HEIKO"
@@ -26,6 +26,9 @@
     ],
     [
       "Felix OBERGFÖLL"
+    ],
+    [
+      "Felix PLENK"
     ],
     [
       "Florian OERTELT-GRIMM"
@@ -187,10 +190,6 @@
       "Lucas-Constantin MATHIES"
     ],
     [
-      "Florian GÖLLNITZ",
-      "Mark LANGE"
-    ],
-    [
       "Florian IPS",
       "Stefan WALDINGER"
     ],
@@ -289,6 +288,11 @@
     [
       "andre FERNESCHILD",
       "henry GLANZ"
+    ],
+    [
+      "Florian GÖLLNITZ",
+      "Mark LANGE",
+      "Stolze KEVIN"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-01T19:59:00.070416",
+  "date": "2024-07-01T20:23:07.786669",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 133,
+  "count": 141,
   "teams": [
     [
       "Baier HEIKO"
@@ -37,13 +37,13 @@
       "Florian SICKERT"
     ],
     [
+      "Gerrit LINDLEIN"
+    ],
+    [
       "Jan HUMBERT"
     ],
     [
       "Jan WISNIEWSKI"
-    ],
-    [
-      "Jasmin BOHUN"
     ],
     [
       "Josef PALK"
@@ -70,9 +70,6 @@
       "Matthias LEMM"
     ],
     [
-      "Maximilian WAGNER"
-    ],
-    [
       "Michaela HEMMING"
     ],
     [
@@ -86,9 +83,6 @@
     ],
     [
       "Sean RENKER"
-    ],
-    [
-      "Steve LEINHOS"
     ],
     [
       "Torsten LEIPOLD"
@@ -154,6 +148,10 @@
       "Immo WILSKI"
     ],
     [
+      "Daniel KISTER",
+      "Langwasser ULF"
+    ],
+    [
       "Daniel KUNTER",
       "Fabian SCHRÖTER"
     ],
@@ -172,6 +170,10 @@
     [
       "Enrico KLESSE",
       "Katrin KLESSE"
+    ],
+    [
+      "Fabian BÜRGE",
+      "Steve LEINHOS"
     ],
     [
       "Fabian KLUGE",
@@ -218,12 +220,20 @@
       "Sebastian BRANDT"
     ],
     [
+      "Jasmin BOHUN",
+      "Nicole TUCHBREITER"
+    ],
+    [
       "Jennifer WEHRMANN",
       "Lucas WEISSMANN"
     ],
     [
       "Johannes PLEIER",
       "Tobias RÖSCH"
+    ],
+    [
+      "John MALKEWITZ",
+      "Steffen HEYDER"
     ],
     [
       "Jonas MARTIN",
@@ -260,6 +270,10 @@
     [
       "Martin KARG",
       "Robert JÄGER"
+    ],
+    [
+      "Marvin HÄNEL",
+      "Maximilian WAGNER"
     ],
     [
       "Maximilian KUMMER",

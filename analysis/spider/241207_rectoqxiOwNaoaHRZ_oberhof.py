@@ -48,7 +48,9 @@ class Spider(scrapy.Spider):
 
     def parse_starters(self, response):
         data = response.json()["data"]
-        for entry in data:
+        for entry in filter(
+            lambda row: row["classification"] == "Feuerwehr-Team", data
+        ):
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=["%s %s" % (entry["firstName"], entry["name"])],

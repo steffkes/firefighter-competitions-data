@@ -1,13 +1,10 @@
 {
-  "date": "2024-07-01T19:00:21.975909",
+  "date": "2024-07-01T21:26:35.816061",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 122,
+  "count": 146,
   "teams": [
     [
       "Baier HEIKO"
-    ],
-    [
-      "Bastian ZEHNLE"
     ],
     [
       "Claudia KNEBEL"
@@ -25,9 +22,6 @@
       "Felix BÖHM"
     ],
     [
-      "Felix MÜLLER"
-    ],
-    [
       "Felix OBERGFÖLL"
     ],
     [
@@ -37,9 +31,6 @@
       "Florian PETERS"
     ],
     [
-      "Florian RÖSCH"
-    ],
-    [
       "Florian SICKERT"
     ],
     [
@@ -47,9 +38,6 @@
     ],
     [
       "Jan WISNIEWSKI"
-    ],
-    [
-      "Jasmin BOHUN"
     ],
     [
       "Josef PALK"
@@ -73,22 +61,16 @@
       "Marcel WINKLER"
     ],
     [
-      "Martin HEINICKE"
+      "Marius LINDLEIN"
     ],
     [
       "Matthias LEMM"
-    ],
-    [
-      "Maximilian WAGNER"
     ],
     [
       "Michaela HEMMING"
     ],
     [
       "Mildner JULIAN"
-    ],
-    [
-      "Mirko TÄNZER"
     ],
     [
       "Ole WIENEKE"
@@ -98,6 +80,9 @@
     ],
     [
       "Sean RENKER"
+    ],
+    [
+      "Torsten LEIPOLD"
     ],
     [
       "Adrian JAGUSCH",
@@ -114,6 +99,10 @@
     [
       "Alexander TÖNGES",
       "Andreas FRIEDRICH"
+    ],
+    [
+      "Andi BALAJ",
+      "Felix MÜLLER"
     ],
     [
       "André TOMKOWIAK",
@@ -136,6 +125,10 @@
       "Karsten KOHRS"
     ],
     [
+      "Bastian ZEHNLE",
+      "Dominik STUDER"
+    ],
+    [
       "Bianca GERKEN",
       "Sebastian KOCH"
     ],
@@ -152,6 +145,10 @@
       "Immo WILSKI"
     ],
     [
+      "Daniel KISTER",
+      "Langwasser ULF"
+    ],
+    [
       "Daniel KUNTER",
       "Fabian SCHRÖTER"
     ],
@@ -164,12 +161,24 @@
       "Stefan MATHEIS"
     ],
     [
+      "Dávid WINDISCHMANN",
+      "Máté FEGYVERNEKI"
+    ],
+    [
       "Enrico KLESSE",
       "Katrin KLESSE"
     ],
     [
+      "Fabian BÜRGE",
+      "Steve LEINHOS"
+    ],
+    [
       "Fabian KLUGE",
       "Maimuna KRÜGER"
+    ],
+    [
+      "Felix PLENK",
+      "Tim HOFMANN"
     ],
     [
       "Felix ROSSBERG",
@@ -180,8 +189,8 @@
       "Lucas-Constantin MATHIES"
     ],
     [
-      "Florian GÖLLNITZ",
-      "Mark LANGE"
+      "Florian DREYER",
+      "Florian RÖSCH"
     ],
     [
       "Florian IPS",
@@ -194,6 +203,10 @@
     [
       "Florian WEDEL",
       "Norma HEMMANN"
+    ],
+    [
+      "Gerrit LINDLEIN",
+      "Maurine KRONBERGER"
     ],
     [
       "Jan KAISER",
@@ -212,12 +225,20 @@
       "Sebastian BRANDT"
     ],
     [
+      "Jasmin BOHUN",
+      "Nicole TUCHBREITER"
+    ],
+    [
       "Jennifer WEHRMANN",
       "Lucas WEISSMANN"
     ],
     [
       "Johannes PLEIER",
       "Tobias RÖSCH"
+    ],
+    [
+      "John MALKEWITZ",
+      "Steffen HEYDER"
     ],
     [
       "Jonas MARTIN",
@@ -236,6 +257,10 @@
       "Ronny LANGBEIN"
     ],
     [
+      "Kevin GRIGAT",
+      "Martin HEINICKE"
+    ],
+    [
       "Kirsten SCHNEIDEREIT",
       "Rene KRUMSTROH"
     ],
@@ -252,12 +277,20 @@
       "Robert JÄGER"
     ],
     [
+      "Marvin HÄNEL",
+      "Maximilian WAGNER"
+    ],
+    [
       "Maximilian KUMMER",
       "Samuel LEBLOND"
     ],
     [
       "Michael THOMAS",
       "Til SCHLEICHER"
+    ],
+    [
+      "Mirko TÄNZER",
+      "René KUNZ"
     ],
     [
       "Nadja BOESLER",
@@ -272,12 +305,21 @@
       "Tim SCHOLLENBERGER"
     ],
     [
+      "Ricardo ROHR",
+      "Sandro HASENOHR"
+    ],
+    [
       "Spaleck TOM",
       "Thorsten HENGELHAUPT"
     ],
     [
       "andre FERNESCHILD",
       "henry GLANZ"
+    ],
+    [
+      "Florian GÖLLNITZ",
+      "Mark LANGE",
+      "Stolze KEVIN"
     ]
   ]
 }

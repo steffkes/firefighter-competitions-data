@@ -1,10 +1,13 @@
 {
-  "date": "2024-07-02T03:24:56.320225",
+  "date": "2024-07-02T09:23:31.711504",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 146,
+  "count": 157,
   "teams": [
     [
-      "Baier HEIKO"
+      "Alexander WEISS"
+    ],
+    [
+      "Christian LANGER"
     ],
     [
       "Claudia KNEBEL"
@@ -13,16 +16,13 @@
       "Denny KIUPEL"
     ],
     [
-      "Erik LANGENHAHN"
+      "Eric WAGNER"
     ],
     [
       "Fabian ZAHLMANN"
     ],
     [
       "Felix BÖHM"
-    ],
-    [
-      "Felix OBERGFÖLL"
     ],
     [
       "Florian OERTELT-GRIMM"
@@ -40,9 +40,6 @@
       "Jan WISNIEWSKI"
     ],
     [
-      "Josef PALK"
-    ],
-    [
       "Jürgen ALFANZ"
     ],
     [
@@ -58,9 +55,6 @@
       "Marcel THIERBACH"
     ],
     [
-      "Marcel WINKLER"
-    ],
-    [
       "Marius LINDLEIN"
     ],
     [
@@ -70,19 +64,16 @@
       "Michaela HEMMING"
     ],
     [
-      "Mildner JULIAN"
+      "Ole WIENEKE"
     ],
     [
-      "Ole WIENEKE"
+      "Sabine SAUER"
     ],
     [
       "Schumacher MARCEL"
     ],
     [
-      "Sean RENKER"
-    ],
-    [
-      "Torsten LEIPOLD"
+      "Sebastian SCHUBERTH"
     ],
     [
       "Adrian JAGUSCH",
@@ -103,6 +94,10 @@
     [
       "Andi BALAJ",
       "Felix MÜLLER"
+    ],
+    [
+      "Andreas ENGELHARDT",
+      "Torsten LEIPOLD"
     ],
     [
       "André TOMKOWIAK",
@@ -169,12 +164,20 @@
       "Katrin KLESSE"
     ],
     [
+      "Erik LANGENHAHN",
+      "Sean RENKER"
+    ],
+    [
       "Fabian BÜRGE",
       "Steve LEINHOS"
     ],
     [
       "Fabian KLUGE",
       "Maimuna KRÜGER"
+    ],
+    [
+      "Felix OBERGFÖLL",
+      "Moritz WEBER"
     ],
     [
       "Felix PLENK",
@@ -205,8 +208,16 @@
       "Norma HEMMANN"
     ],
     [
+      "Friedrich JÄSCHKE",
+      "Mildner JULIAN"
+    ],
+    [
       "Gerrit LINDLEIN",
       "Maurine KRONBERGER"
+    ],
+    [
+      "Heiko BAIER",
+      "Marcel WINKLER"
     ],
     [
       "Jan KAISER",
@@ -231,6 +242,10 @@
     [
       "Jennifer WEHRMANN",
       "Lucas WEISSMANN"
+    ],
+    [
+      "Johannes DREIKORN",
+      "Josef PALK"
     ],
     [
       "Johannes PLEIER",
@@ -259,6 +274,10 @@
     [
       "Kevin GRIGAT",
       "Martin HEINICKE"
+    ],
+    [
+      "Kilian WITTMANN",
+      "Markus USCHOLD"
     ],
     [
       "Kirsten SCHNEIDEREIT",
@@ -318,8 +337,8 @@
     ],
     [
       "Florian GÖLLNITZ",
-      "Mark LANGE",
-      "Stolze KEVIN"
+      "Kevin STOLZE",
+      "Mark LANGE"
     ]
   ]
 }

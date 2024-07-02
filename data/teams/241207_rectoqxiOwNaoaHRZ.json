@@ -1,11 +1,8 @@
 {
-  "date": "2024-07-02T07:02:06.852394",
+  "date": "2024-07-02T07:23:05.479884",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 153,
+  "count": 154,
   "teams": [
-    [
-      "Baier HEIKO"
-    ],
     [
       "Christian LANGER"
     ],
@@ -14,9 +11,6 @@
     ],
     [
       "Denny KIUPEL"
-    ],
-    [
-      "Erik LANGENHAHN"
     ],
     [
       "Fabian ZAHLMANN"
@@ -55,9 +49,6 @@
       "Marcel THIERBACH"
     ],
     [
-      "Marcel WINKLER"
-    ],
-    [
       "Marius LINDLEIN"
     ],
     [
@@ -74,12 +65,6 @@
     ],
     [
       "Schumacher MARCEL"
-    ],
-    [
-      "Sean RENKER"
-    ],
-    [
-      "Torsten LEIPOLD"
     ],
     [
       "Adrian JAGUSCH",
@@ -100,6 +85,10 @@
     [
       "Andi BALAJ",
       "Felix MÜLLER"
+    ],
+    [
+      "Andreas ENGELHARDT",
+      "Torsten LEIPOLD"
     ],
     [
       "André TOMKOWIAK",
@@ -166,6 +155,10 @@
       "Katrin KLESSE"
     ],
     [
+      "Erik LANGENHAHN",
+      "Sean RENKER"
+    ],
+    [
       "Fabian BÜRGE",
       "Steve LEINHOS"
     ],
@@ -212,6 +205,10 @@
     [
       "Gerrit LINDLEIN",
       "Maurine KRONBERGER"
+    ],
+    [
+      "Heiko BAIER",
+      "Marcel WINKLER"
     ],
     [
       "Jan KAISER",

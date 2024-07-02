@@ -1,8 +1,11 @@
 {
-  "date": "2024-07-02T08:11:07.013927",
+  "date": "2024-07-02T08:31:57.792543",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 155,
+  "count": 157,
   "teams": [
+    [
+      "Alexander WEISS"
+    ],
     [
       "Christian LANGER"
     ],
@@ -11,6 +14,9 @@
     ],
     [
       "Denny KIUPEL"
+    ],
+    [
+      "Eric WAGNER"
     ],
     [
       "Fabian ZAHLMANN"

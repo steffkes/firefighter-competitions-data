@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-03T15:32:33.453317",
+  "date": "2024-07-03T21:34:31.062379",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 176,
+  "count": 182,
   "teams": [
     [
       "Alexander KULHAWY"
@@ -46,6 +46,9 @@
       "Florian SICKERT"
     ],
     [
+      "Fromme ALEXANDER"
+    ],
+    [
       "Heiko RICHTER"
     ],
     [
@@ -62,12 +65,6 @@
     ],
     [
       "Marius LINDLEIN"
-    ],
-    [
-      "Matthias LEMM"
-    ],
-    [
-      "Michaela HEMMING"
     ],
     [
       "Sabine SAUER"
@@ -154,8 +151,20 @@
       "Immo WILSKI"
     ],
     [
+      "Christian RAU",
+      "Michael WICHT"
+    ],
+    [
+      "Daniel HIEKEL",
+      "Kevin STOLZE"
+    ],
+    [
       "Daniel KISTER",
       "Langwasser ULF"
+    ],
+    [
+      "Daniel KISTER",
+      "Michaela HEMMING"
     ],
     [
       "Daniel KUNTER",
@@ -208,6 +217,10 @@
     [
       "Florian DREYER",
       "Florian RÖSCH"
+    ],
+    [
+      "Florian GÖLLNITZ",
+      "Mark LANGE"
     ],
     [
       "Florian IPS",
@@ -330,6 +343,10 @@
       "Maximilian WAGNER"
     ],
     [
+      "Matthias LEMM",
+      "Uwe SCHLONSAK"
+    ],
+    [
       "Maximilian KUMMER",
       "Samuel LEBLOND"
     ],
@@ -373,11 +390,6 @@
       "Christoph HELLER",
       "Spaleck TOM",
       "Thorsten HENGELHAUPT"
-    ],
-    [
-      "Florian GÖLLNITZ",
-      "Kevin STOLZE",
-      "Mark LANGE"
     ]
   ]
 }

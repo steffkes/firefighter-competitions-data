@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-05T09:21:58.630880",
+  "date": "2024-07-05T15:33:04.907473",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 195,
+  "count": 198,
   "teams": [
     [
       "Alexander KULHAWY"
@@ -58,6 +58,9 @@
       "Konstantin LEITENBAUER"
     ],
     [
+      "Marcel HÖCHE"
+    ],
+    [
       "Marcel THIERBACH"
     ],
     [
@@ -77,6 +80,9 @@
     ],
     [
       "Sebastian SCHUBERTH"
+    ],
+    [
+      "Spaleck TOM"
     ],
     [
       "Tobias FRÖHLICH"
@@ -160,6 +166,10 @@
     [
       "Christian RAU",
       "Michael WICHT"
+    ],
+    [
+      "Christoph HELLER",
+      "Thorsten HENGELHAUPT"
     ],
     [
       "Daniel HIEKEL",
@@ -354,6 +364,10 @@
       "Nick  ZEH "
     ],
     [
+      "Lukas LORENZ",
+      "Toni MENZEL"
+    ],
+    [
       "Maik FREIGANG",
       "Sabine SAUER"
     ],
@@ -412,11 +426,6 @@
     [
       "andre FERNESCHILD",
       "henry GLANZ"
-    ],
-    [
-      "Christoph HELLER",
-      "Spaleck TOM",
-      "Thorsten HENGELHAUPT"
     ]
   ]
 }

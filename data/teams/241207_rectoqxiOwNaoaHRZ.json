@@ -1,5 +1,5 @@
 {
-  "date": "2024-07-05T13:39:00.722726",
+  "date": "2024-07-05T13:50:38.662686",
   "competition_id": "rectoqxiOwNaoaHRZ",
   "count": 197,
   "teams": [
@@ -77,6 +77,9 @@
     ],
     [
       "Sebastian SCHUBERTH"
+    ],
+    [
+      "Spaleck TOM"
     ],
     [
       "Tobias FRÖHLICH"
@@ -160,6 +163,10 @@
     [
       "Christian RAU",
       "Michael WICHT"
+    ],
+    [
+      "Christoph HELLER",
+      "Thorsten HENGELHAUPT"
     ],
     [
       "Daniel HIEKEL",
@@ -416,11 +423,6 @@
     [
       "andre FERNESCHILD",
       "henry GLANZ"
-    ],
-    [
-      "Christoph HELLER",
-      "Spaleck TOM",
-      "Thorsten HENGELHAUPT"
     ]
   ]
 }

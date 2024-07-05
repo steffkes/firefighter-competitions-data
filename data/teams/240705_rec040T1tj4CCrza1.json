@@ -1,11 +1,8 @@
 {
-  "date": "2024-07-05T19:21:36.850557",
+  "date": "2024-07-05T19:31:15.162272",
   "competition_id": "rec040T1tj4CCrza1",
   "count": 713,
   "teams": [
-    [
-      "Adam Spychała"
-    ],
     [
       "Alan Dittrich"
     ],
@@ -122,9 +119,6 @@
     ],
     [
       "David Manera"
-    ],
-    [
-      "Dawid Hyżyk"
     ],
     [
       "Dennis Möller"
@@ -732,6 +726,10 @@
       "Gregor Stanonik"
     ],
     [
+      "Arguelles",
+      "Simpson"
+    ],
+    [
       "Bastien Amelot",
       "Gerome Vidal"
     ],
@@ -1240,9 +1238,9 @@
     ],
     [
       "Alexander Reitz",
-      "Benjamin Henne",
       "Desirée Reitz",
-      "Marina Nikic"
+      "Marina Nikic",
+      "Michael Güth"
     ],
     [
       "Branden Sigalla",
@@ -1337,11 +1335,11 @@
       "Michael Joseph"
     ],
     [
+      "Andre Herborn",
       "Andreas Friedrich",
       "Björn Herborn",
       "Dominic Scholz",
-      "Simon Gapp",
-      "Thomas Meißner"
+      "Simon Gapp"
     ],
     [
       "André Kühne",

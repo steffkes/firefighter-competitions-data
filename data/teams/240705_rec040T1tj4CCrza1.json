@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-05T16:42:58.115160",
+  "date": "2024-07-05T17:02:42.983844",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 709,
+  "count": 713,
   "teams": [
     [
       "Adam Spychała"
@@ -163,9 +163,6 @@
       "Fleerkortte Mario"
     ],
     [
-      "Florian Fischer"
-    ],
-    [
       "Florian Itter"
     ],
     [
@@ -277,6 +274,9 @@
       "Ken Stüker"
     ],
     [
+      "Kevin Wendling"
+    ],
+    [
       "Kristina Weber"
     ],
     [
@@ -326,6 +326,9 @@
     ],
     [
       "Marcel Koch-Mühlinghaus"
+    ],
+    [
+      "Marcel Weber"
     ],
     [
       "Marcel raus"
@@ -511,9 +514,6 @@
       "Robin Altbürger"
     ],
     [
-      "Robin Winter"
-    ],
-    [
       "Roman Munzar"
     ],
     [
@@ -595,9 +595,6 @@
       "Tim Hoffmann"
     ],
     [
-      "Tobias Fischer"
-    ],
-    [
       "Tobias Nöhr"
     ],
     [
@@ -641,10 +638,6 @@
     ],
     [
       "sully frillonnet"
-    ],
-    [
-      "",
-      "Magnus Hirschfeld"
     ],
     [
       "Adam Spychała",
@@ -821,10 +814,6 @@
     [
       "David Kubis",
       "Miroslav Bloudek Miroslav"
-    ],
-    [
-      "David Kubiš",
-      "Michal Brousil"
     ],
     [
       "Dennis Möller",
@@ -1015,10 +1004,6 @@
       "Pascal Kosfeld"
     ],
     [
-      "Kristina Weber",
-      "Stefanie Reich"
-    ],
-    [
       "Laura Andres",
       "Nicole Mrosek"
     ],
@@ -1039,8 +1024,16 @@
       "Michael Rachner"
     ],
     [
+      "Lukas Navratil",
+      "Michal Brousil"
+    ],
+    [
       "Lukas Wickmann",
       "Patrick Vierhaus"
+    ],
+    [
+      "Magnus Hirschfeld",
+      "Thomas Werxhausen"
     ],
     [
       "Magnus Metje",
@@ -1123,6 +1116,10 @@
       "Tom Trost"
     ],
     [
+      "Metzen Werxhausen",
+      "Thomas Werxhausen"
+    ],
+    [
       "Michael Güth",
       "Simon Feuerhack"
     ],
@@ -1184,6 +1181,10 @@
     ],
     [
       "Sabine Sauer",
+      "Stefanie Reich"
+    ],
+    [
+      "Sabine Sauer",
       "Werner Sauer"
     ],
     [
@@ -1197,10 +1198,6 @@
     [
       "Stefan Fetting",
       "Wayne Basto"
-    ],
-    [
-      "Stefan Sagewka",
-      "Thomas Werxhausen"
     ],
     [
       "Thomas Schragner",
@@ -1224,11 +1221,6 @@
       "Tobias Fischer"
     ],
     [
-      "Anze Habjan",
-      "Gregor Stanonik",
-      "Igor Pasic"
-    ],
-    [
       "",
       "Dietmar Kirsch",
       "Gerd Müller",
@@ -1239,18 +1231,6 @@
       "Andreas Wilhelm",
       "Christian Bradler",
       "Tim Hoffmann"
-    ],
-    [
-      "Alexander Greis",
-      "Alexander Kulhawy",
-      "Helge Sonnenberg",
-      "Marian Brandes"
-    ],
-    [
-      "Alexander Klapproth",
-      "Michael Güth",
-      "Simon Polauke",
-      "Uwe Heise"
     ],
     [
       "Alexander Proff",
@@ -1275,12 +1255,6 @@
       "Emilia Magliano",
       "Florian Itter",
       "Philipp Gailer"
-    ],
-    [
-      "Chenoa Polauke",
-      "Lukas Wickmann",
-      "Nils Schmidt",
-      "Phil Heise"
     ],
     [
       "Eric Keßler",
@@ -1321,6 +1295,13 @@
       "Nadine Walther"
     ],
     [
+      "Alexander Greis",
+      "Alexander Kulhawy",
+      "Helge Sonnenberg",
+      "Marian Brandes",
+      "Thorsten Plohg"
+    ],
+    [
       "Alexander Hellwig",
       "Christian ( Jimbo) Franzen",
       "Mathias Ascheberg",
@@ -1333,6 +1314,13 @@
       "Mario Hansen",
       "Nick Kuhlen",
       "Simon Schoog-Döhring"
+    ],
+    [
+      "Alexander Klapproth",
+      "Lukas Wickmann",
+      "Michael Güth",
+      "Simon Feuerhack",
+      "Simon Polauke"
     ],
     [
       "Alexander Sader",
@@ -1384,6 +1372,13 @@
       "Stefan Fetting"
     ],
     [
+      "Anze Habjan",
+      "Gregor Stanonik",
+      "Igor Pasic",
+      "Manca Savx",
+      "Miroslav Michlovsky"
+    ],
+    [
       "Bader Ashoor",
       "Faisal Mahboob",
       "Hamad Alhammadi",
@@ -1410,6 +1405,13 @@
       "Plohg Birthe",
       "Rebea Sonnenberg",
       "Sonnenberg Helge"
+    ],
+    [
+      "Chenoa Polauke",
+      "Franziska Wickmann",
+      "Nils Schmidt",
+      "Phil Heise",
+      "Uwe Heise"
     ],
     [
       "Christian Follmann",
@@ -1476,7 +1478,7 @@
     ],
     [
       "Jan- Henrik Heeckt",
-      "Laura Andres",
+      "Jasmin Bohun",
       "Maria Strauch",
       "Mathias Hey",
       "Sebastian Wehlauer"

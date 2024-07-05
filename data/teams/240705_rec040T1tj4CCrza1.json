@@ -1,11 +1,8 @@
 {
-  "date": "2024-07-05T15:32:46.991994",
+  "date": "2024-07-05T21:25:41.562445",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 716,
+  "count": 711,
   "teams": [
-    [
-      "Adam Spychała"
-    ],
     [
       "Alan Dittrich"
     ],
@@ -124,9 +121,6 @@
       "David Manera"
     ],
     [
-      "Dawid Hyżyk"
-    ],
-    [
       "Dennis Möller"
     ],
     [
@@ -161,9 +155,6 @@
     ],
     [
       "Fleerkortte Mario"
-    ],
-    [
-      "Florian Fischer"
     ],
     [
       "Florian Itter"
@@ -277,6 +268,9 @@
       "Ken Stüker"
     ],
     [
+      "Kevin Wendling"
+    ],
+    [
       "Kristina Weber"
     ],
     [
@@ -326,6 +320,9 @@
     ],
     [
       "Marcel Koch-Mühlinghaus"
+    ],
+    [
+      "Marcel Weber"
     ],
     [
       "Marcel raus"
@@ -511,9 +508,6 @@
       "Robin Altbürger"
     ],
     [
-      "Robin Winter"
-    ],
-    [
       "Roman Munzar"
     ],
     [
@@ -595,9 +589,6 @@
       "Tim Hoffmann"
     ],
     [
-      "Tobias Fischer"
-    ],
-    [
       "Tobias Nöhr"
     ],
     [
@@ -643,16 +634,8 @@
       "sully frillonnet"
     ],
     [
-      "",
-      "Magnus Hirschfeld"
-    ],
-    [
-      "Adam Spychała",
-      "Dawid Hyżyk"
-    ],
-    [
       "Alan Dittrich",
-      "Robin Winter"
+      "Andreas Wilhelm"
     ],
     [
       "Alessia Hörning",
@@ -707,10 +690,6 @@
       "Thomas Meißner"
     ],
     [
-      "Andreas Wilhelm",
-      "Sven Reuter"
-    ],
-    [
       "André Herborn",
       "Björn Herborn"
     ],
@@ -741,6 +720,10 @@
     [
       "Anze Habjan",
       "Gregor Stanonik"
+    ],
+    [
+      "Arguelles",
+      "Simpson"
     ],
     [
       "Bastien Amelot",
@@ -825,10 +808,6 @@
     [
       "David Kubis",
       "Miroslav Bloudek Miroslav"
-    ],
-    [
-      "David Kubiš",
-      "Michal Brousil"
     ],
     [
       "Dennis Möller",
@@ -1019,10 +998,6 @@
       "Pascal Kosfeld"
     ],
     [
-      "Kristina Weber",
-      "Stefanie Reich"
-    ],
-    [
       "Laura Andres",
       "Nicole Mrosek"
     ],
@@ -1043,8 +1018,16 @@
       "Michael Rachner"
     ],
     [
+      "Lukas Navratil",
+      "Michal Brousil"
+    ],
+    [
       "Lukas Wickmann",
       "Patrick Vierhaus"
+    ],
+    [
+      "Magnus Hirschfeld",
+      "Thomas Werxhausen"
     ],
     [
       "Magnus Metje",
@@ -1127,6 +1110,10 @@
       "Tom Trost"
     ],
     [
+      "Metzen Werxhausen",
+      "Thomas Werxhausen"
+    ],
+    [
       "Michael Güth",
       "Simon Feuerhack"
     ],
@@ -1188,6 +1175,10 @@
     ],
     [
       "Sabine Sauer",
+      "Stefanie Reich"
+    ],
+    [
+      "Sabine Sauer",
       "Werner Sauer"
     ],
     [
@@ -1201,10 +1192,6 @@
     [
       "Stefan Fetting",
       "Wayne Basto"
-    ],
-    [
-      "Stefan Sagewka",
-      "Thomas Werxhausen"
     ],
     [
       "Thomas Schragner",
@@ -1228,11 +1215,6 @@
       "Tobias Fischer"
     ],
     [
-      "Anze Habjan",
-      "Gregor Stanonik",
-      "Igor Pasic"
-    ],
-    [
       "",
       "Dietmar Kirsch",
       "Gerd Müller",
@@ -1241,20 +1223,8 @@
     [
       "Alan Dittrich",
       "Andreas Wilhelm",
-      "Robin Winter",
+      "Christian Bradler",
       "Tim Hoffmann"
-    ],
-    [
-      "Alexander Greis",
-      "Alexander Kulhawy",
-      "Helge Sonnenberg",
-      "Marian Brandes"
-    ],
-    [
-      "Alexander Klapproth",
-      "Michael Güth",
-      "Simon Polauke",
-      "Uwe Heise"
     ],
     [
       "Alexander Proff",
@@ -1264,9 +1234,9 @@
     ],
     [
       "Alexander Reitz",
-      "Benjamin Henne",
       "Desirée Reitz",
-      "Marina Nikic"
+      "Marina Nikic",
+      "Michael Güth"
     ],
     [
       "Branden Sigalla",
@@ -1279,12 +1249,6 @@
       "Emilia Magliano",
       "Florian Itter",
       "Philipp Gailer"
-    ],
-    [
-      "Chenoa Polauke",
-      "Lukas Wickmann",
-      "Nils Schmidt",
-      "Phil Heise"
     ],
     [
       "Eric Keßler",
@@ -1311,13 +1275,6 @@
       "Stefan Roskosch"
     ],
     [
-      "Alan Dittrich",
-      "Andreas Wilhelm",
-      "Christian Bradler",
-      "Sven Reuter",
-      "Tim Hoffmann"
-    ],
-    [
       "Alessia Hörning",
       "Lukas Himbert",
       "Nicole Mrosek",
@@ -1330,6 +1287,13 @@
       "Luca Martinelli",
       "Luciano Lüthi",
       "Nadine Walther"
+    ],
+    [
+      "Alexander Greis",
+      "Alexander Kulhawy",
+      "Helge Sonnenberg",
+      "Marian Brandes",
+      "Thorsten Plohg"
     ],
     [
       "Alexander Hellwig",
@@ -1346,6 +1310,13 @@
       "Simon Schoog-Döhring"
     ],
     [
+      "Alexander Klapproth",
+      "Lukas Wickmann",
+      "Michael Güth",
+      "Simon Feuerhack",
+      "Simon Polauke"
+    ],
+    [
       "Alexander Sader",
       "Alexander Tittelbach",
       "Joel Bloch",
@@ -1360,11 +1331,11 @@
       "Michael Joseph"
     ],
     [
+      "Andre Herborn",
       "Andreas Friedrich",
       "Björn Herborn",
       "Dominic Scholz",
-      "Simon Gapp",
-      "Thomas Meißner"
+      "Simon Gapp"
     ],
     [
       "André Kühne",
@@ -1395,6 +1366,13 @@
       "Stefan Fetting"
     ],
     [
+      "Anze Habjan",
+      "Gregor Stanonik",
+      "Igor Pasic",
+      "Manca Savx",
+      "Miroslav Michlovsky"
+    ],
+    [
       "Bader Ashoor",
       "Faisal Mahboob",
       "Hamad Alhammadi",
@@ -1421,6 +1399,13 @@
       "Plohg Birthe",
       "Rebea Sonnenberg",
       "Sonnenberg Helge"
+    ],
+    [
+      "Chenoa Polauke",
+      "Franziska Wickmann",
+      "Nils Schmidt",
+      "Phil Heise",
+      "Uwe Heise"
     ],
     [
       "Christian Follmann",
@@ -1487,7 +1472,7 @@
     ],
     [
       "Jan- Henrik Heeckt",
-      "Laura Andres",
+      "Jasmin Bohun",
       "Maria Strauch",
       "Mathias Hey",
       "Sebastian Wehlauer"

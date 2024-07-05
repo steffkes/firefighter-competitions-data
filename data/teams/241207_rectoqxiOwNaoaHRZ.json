@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-05T21:08:34.439050",
+  "date": "2024-07-05T21:25:55.939469",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 199,
+  "count": 200,
   "teams": [
     [
       "Alexander KULHAWY"
@@ -163,10 +163,6 @@
     [
       "Christian RAU",
       "Michael WICHT"
-    ],
-    [
-      "Christoph HELLER",
-      "Thorsten HENGELHAUPT"
     ],
     [
       "Daniel HIEKEL",
@@ -427,6 +423,11 @@
     [
       "andre FERNESCHILD",
       "henry GLANZ"
+    ],
+    [
+      "Christoph HELLER",
+      "Florian GÖRMS",
+      "Thorsten HENGELHAUPT"
     ]
   ]
 }

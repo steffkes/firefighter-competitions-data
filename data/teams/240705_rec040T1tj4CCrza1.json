@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-06T03:22:38.232524",
+  "date": "2024-07-06T09:33:36.058091",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 711,
+  "count": 707,
   "teams": [
     [
       "Alan Dittrich"
@@ -157,6 +157,9 @@
       "Fleerkortte Mario"
     ],
     [
+      "Florian Fischer"
+    ],
+    [
       "Florian Itter"
     ],
     [
@@ -266,9 +269,6 @@
     ],
     [
       "Ken Stüker"
-    ],
-    [
-      "Kevin Wendling"
     ],
     [
       "Kristina Weber"
@@ -774,6 +774,10 @@
       "David Probst"
     ],
     [
+      "Christian Küpers",
+      "Florian Rosenbaum"
+    ],
+    [
       "Christopher Strass",
       "Niklas Novac"
     ],
@@ -860,10 +864,6 @@
     [
       "Fleerkorte Mario",
       "Mirco Feuerhack"
-    ],
-    [
-      "Florian Ebeling",
-      "Florian Rosenbaum"
     ],
     [
       "Florian Fischer",
@@ -1146,10 +1146,6 @@
       "Vera Licha"
     ],
     [
-      "Oliver Nopper",
-      "Robert Lehmann"
-    ],
-    [
       "Ralf Herp",
       "Rares Schuster"
     ],
@@ -1227,6 +1223,12 @@
       "Tim Hoffmann"
     ],
     [
+      "Alexander Hellwig",
+      "Angel Floes",
+      "Dominique Kane",
+      "Steven Czech"
+    ],
+    [
       "Alexander Proff",
       "Florian Fischer",
       "Kevin Wendling",
@@ -1249,6 +1251,12 @@
       "Emilia Magliano",
       "Florian Itter",
       "Philipp Gailer"
+    ],
+    [
+      "Christian ( Jimbo) Franzen",
+      "Mathias Ascheberg",
+      "Michel Menten",
+      "Philipp Liel"
     ],
     [
       "Eric Keßler",
@@ -1275,6 +1283,13 @@
       "Stefan Roskosch"
     ],
     [
+      "",
+      "Alotaibi Khaled",
+      "Christopher Trendowitz",
+      "Kanaan Khaled",
+      "Michael Joseph"
+    ],
+    [
       "Alessia Hörning",
       "Lukas Himbert",
       "Nicole Mrosek",
@@ -1294,13 +1309,6 @@
       "Helge Sonnenberg",
       "Marian Brandes",
       "Thorsten Plohg"
-    ],
-    [
-      "Alexander Hellwig",
-      "Christian ( Jimbo) Franzen",
-      "Mathias Ascheberg",
-      "Michel Menten",
-      "Philipp Liel"
     ],
     [
       "Alexander Herbrecht",
@@ -1324,13 +1332,6 @@
       "Tobias Fischer"
     ],
     [
-      "Alotaibi Khaled",
-      "Christopher Trendowitz",
-      "Kanaan Khaled",
-      "Maurice Müller",
-      "Michael Joseph"
-    ],
-    [
       "Andre Herborn",
       "Andreas Friedrich",
       "Björn Herborn",
@@ -1343,13 +1344,6 @@
       "Martin Erbe",
       "Michael Bartmann",
       "Peer Schneider"
-    ],
-    [
-      "Angel Floes",
-      "Dominique Kane",
-      "Nathan Bowland",
-      "Steven Czech",
-      "Travis Leonard"
     ],
     [
       "Anja Riehn",
@@ -1415,18 +1409,18 @@
       "Rüdiger Zeuner-Christ"
     ],
     [
+      "Christian Küpers",
+      "Daniel Kunert",
+      "Florian Rosenbaum",
+      "Jörg Eberhard",
+      "Sven Rademaker"
+    ],
+    [
       "Damian Pyka",
       "Matthias Weinmann",
       "Maurice Strauß",
       "Nicole Tuchbreiter",
       "Stephan Mathais"
-    ],
-    [
-      "Daniel Kunert",
-      "Floria Ebeling",
-      "Florian Rosenbaum",
-      "Jörg Eberhard",
-      "Sven Rademaker"
     ],
     [
       "David Kubiš",

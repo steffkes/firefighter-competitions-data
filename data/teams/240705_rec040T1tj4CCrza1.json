@@ -1,5 +1,5 @@
 {
-  "date": "2024-07-06T20:19:26.767028",
+  "date": "2024-07-06T20:33:37.324090",
   "competition_id": "rec040T1tj4CCrza1",
   "count": 704,
   "teams": [
@@ -687,7 +687,7 @@
     ],
     [
       "Andreas Friedrich",
-      "Thomas Meißner"
+      "Thomas Meissner"
     ],
     [
       "André Herborn",
@@ -1277,6 +1277,13 @@
     ],
     [
       "",
+      "Andre Herborn",
+      "Björn Herborn",
+      "Dominic Scholz",
+      "Simon Gapp"
+    ],
+    [
+      "",
       "Daniel Schimank",
       "Martin Erbe",
       "Michael Bartmann",
@@ -1323,13 +1330,6 @@
       "Joel Bloch",
       "Sascha Michalla",
       "Tobias Fischer"
-    ],
-    [
-      "Andre Herborn",
-      "Andreas Friedrich",
-      "Björn Herborn",
-      "Dominic Scholz",
-      "Simon Gapp"
     ],
     [
       "Anja Riehn",

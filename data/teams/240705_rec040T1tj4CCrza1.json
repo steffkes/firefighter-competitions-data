@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-06T22:00:42.005108",
+  "date": "2024-07-06T22:23:28.138055",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 704,
+  "count": 706,
   "teams": [
     [
       "Alan Dittrich"
@@ -842,6 +842,10 @@
       "Rüdiger Zeuner-Christ"
     ],
     [
+      "Dummy",
+      "Dummy"
+    ],
+    [
       "Emilia Magliano",
       "Florian Itter"
     ],
@@ -1270,13 +1274,6 @@
     ],
     [
       "",
-      "Alotaibi Khaled",
-      "Christopher Trendowitz",
-      "Kanaan Khaled",
-      "Michael Joseph"
-    ],
-    [
-      "",
       "Andre Herborn",
       "Björn Herborn",
       "Dominic Scholz",
@@ -1330,6 +1327,13 @@
       "Joel Bloch",
       "Sascha Michalla",
       "Tobias Fischer"
+    ],
+    [
+      "Alotaibi Khaled",
+      "Christopher Trendowitz",
+      "Kanaan Khaled",
+      "Michael Joseph",
+      "Robert Green"
     ],
     [
       "Anja Riehn",

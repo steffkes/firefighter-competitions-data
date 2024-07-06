@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-06T18:51:48.923608",
+  "date": "2024-07-06T19:25:04.956567",
   "competition_id": "rec040T1tj4CCrza1",
-  "count": 705,
+  "count": 704,
   "teams": [
     [
       "Alan Dittrich"
@@ -694,10 +694,6 @@
       "Björn Herborn"
     ],
     [
-      "Anja Münzer",
-      "Jürgen Pfistermüller"
-    ],
-    [
       "Anja Riehn",
       "Lena Schuster"
     ],
@@ -735,11 +731,11 @@
     ],
     [
       "Bianca Schöffegger",
-      "Katerina Vodickova"
+      "Martin Remplbauer"
     ],
     [
       "Bianca Schöffegger",
-      "Martin Remplbauer"
+      "Zuzana Tomkova"
     ],
     [
       "Birhte Plogh",
@@ -795,11 +791,11 @@
     ],
     [
       "Daniel Finster",
-      "Lena Schuster"
+      "Ken Stücker"
     ],
     [
       "Daniel Finster",
-      "Matthias Buttig"
+      "Lena Schuster"
     ],
     [
       "Daniel Schimank",
@@ -959,7 +955,7 @@
     ],
     [
       "Jannik Wagner",
-      "Mike Stöbener"
+      "Oliver Wichert"
     ],
     [
       "Jasmin Bohun",
@@ -1086,10 +1082,6 @@
       "Peter Schmidmair"
     ],
     [
-      "Maurice Müller",
-      "Michael Joseph"
-    ],
-    [
       "Maurice Strauss",
       "Nicole Tuchbreiter"
     ],
@@ -1104,6 +1096,10 @@
     [
       "May Tømmervold",
       "Vera Licha"
+    ],
+    [
+      "Meghann Krüger",
+      "Petra Caganova"
     ],
     [
       "Meghann Krüger",
@@ -1256,15 +1252,9 @@
     ],
     [
       "Eric Keßler",
-      "Patrick Kirsch",
+      "Karsten Schug",
       "Thorsten Fritz",
       "Tony Troppa"
-    ],
-    [
-      "Glenn Demilde",
-      "Hanne Vandersmissen",
-      "Johnny Gheeraert",
-      "Tom Stuer"
     ],
     [
       "Lena Neumann",
@@ -1364,10 +1354,10 @@
     ],
     [
       "Bader Ashoor",
-      "Faisal Mahboob",
       "Hamad Alhammadi",
-      "Issa Abdulkarim",
-      "Mahdi Basheer"
+      "Mahdi Basheer",
+      "Mohamad Ali",
+      "Patrick Stefelin"
     ],
     [
       "Bastien Amelot",
@@ -1375,6 +1365,13 @@
       "Gerome Vidal",
       "Orlane Massoteau",
       "Sully Frillonnet"
+    ],
+    [
+      "Bianca Schöffegger",
+      "Hanne Vandersmissen",
+      "Johnny Gheeraert",
+      "Markus Fellner",
+      "Thomas Schragner"
     ],
     [
       "Bohun Jörg",

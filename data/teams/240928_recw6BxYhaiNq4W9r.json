@@ -1,0 +1,431 @@
+{
+  "date": "2024-07-06T15:48:08.722198",
+  "competition_id": "recw6BxYhaiNq4W9r",
+  "count": 172,
+  "teams": [
+    [
+      "Adam Marcinkowski"
+    ],
+    [
+      "Adrian Józefiak"
+    ],
+    [
+      "Alexander Fromme"
+    ],
+    [
+      "Alexander Greis"
+    ],
+    [
+      "Alexander Junge"
+    ],
+    [
+      "Alexander Klapproth"
+    ],
+    [
+      "Alexander Kulhawy"
+    ],
+    [
+      "Alexander Reitz"
+    ],
+    [
+      "Andre Schüddekopf"
+    ],
+    [
+      "Andreas Gaßner"
+    ],
+    [
+      "Andrè Moebes"
+    ],
+    [
+      "Anja Riehn"
+    ],
+    [
+      "Antonia Kulhawy"
+    ],
+    [
+      "Bartłomiej Nir-Skibski"
+    ],
+    [
+      "Benedikt Pillach"
+    ],
+    [
+      "Benjamin Roth"
+    ],
+    [
+      "Björn Herborn"
+    ],
+    [
+      "Björn Knoke"
+    ],
+    [
+      "Carola Hildebrandt"
+    ],
+    [
+      "Chenoa Polauke"
+    ],
+    [
+      "Christian Lutat"
+    ],
+    [
+      "Daniel Pätzolt"
+    ],
+    [
+      "Dominic Arnold"
+    ],
+    [
+      "Dominic Norcross"
+    ],
+    [
+      "Erik Hoffmeister"
+    ],
+    [
+      "Falk Schnepel"
+    ],
+    [
+      "Falk Schwerdtner"
+    ],
+    [
+      "Felix Dörries"
+    ],
+    [
+      "Florian Krautwurst"
+    ],
+    [
+      "Florian Menklein"
+    ],
+    [
+      "Guido Suhrmeyer"
+    ],
+    [
+      "Hans-Christian Marwedel"
+    ],
+    [
+      "Hans-Jürgen Vogt"
+    ],
+    [
+      "Henning Bösch"
+    ],
+    [
+      "Jan Hampf"
+    ],
+    [
+      "Jan Heppeler"
+    ],
+    [
+      "Jan Lensch"
+    ],
+    [
+      "Jann Martens"
+    ],
+    [
+      "Jens Obermann"
+    ],
+    [
+      "Jens Wendelken"
+    ],
+    [
+      "Karlsson Schmidt"
+    ],
+    [
+      "Kay Rosenkranz"
+    ],
+    [
+      "Lars Markwardt"
+    ],
+    [
+      "Lars Mayer"
+    ],
+    [
+      "Laura Andres"
+    ],
+    [
+      "Leon Russ"
+    ],
+    [
+      "Lucas Weißmann"
+    ],
+    [
+      "Lukas Wickmann"
+    ],
+    [
+      "Marc Albers"
+    ],
+    [
+      "Marc Hübler"
+    ],
+    [
+      "Marco Juffa"
+    ],
+    [
+      "Marek Dorywała"
+    ],
+    [
+      "Marian Brandes"
+    ],
+    [
+      "Mario Fleerkortte"
+    ],
+    [
+      "Markus Ahrend"
+    ],
+    [
+      "Mathias Hey"
+    ],
+    [
+      "Matthias Kimna"
+    ],
+    [
+      "Maurice Holz"
+    ],
+    [
+      "Meike Denecke"
+    ],
+    [
+      "Melanie Schönewald"
+    ],
+    [
+      "Michael Güth"
+    ],
+    [
+      "Michael Weiß"
+    ],
+    [
+      "Mike Hoppe"
+    ],
+    [
+      "Nele Marx"
+    ],
+    [
+      "Nick Kuhlen"
+    ],
+    [
+      "Nico Rensch"
+    ],
+    [
+      "Niels Bessert"
+    ],
+    [
+      "Nils Fröhlich"
+    ],
+    [
+      "Nils Schmidt"
+    ],
+    [
+      "Oliver Göllnitz"
+    ],
+    [
+      "Pascal Kosfeld"
+    ],
+    [
+      "Patrick Beer"
+    ],
+    [
+      "Patrick Vierhaus"
+    ],
+    [
+      "Phil Heise"
+    ],
+    [
+      "Phillip Blau"
+    ],
+    [
+      "Ramona Buthmann"
+    ],
+    [
+      "Sascha Tischer"
+    ],
+    [
+      "Sebastian Grass"
+    ],
+    [
+      "Sebastian Wehlauer"
+    ],
+    [
+      "Simon Feuerhack"
+    ],
+    [
+      "Simon Polauke"
+    ],
+    [
+      "Stefan Kolb"
+    ],
+    [
+      "Stefanie Reich"
+    ],
+    [
+      "Sven Bartelt"
+    ],
+    [
+      "Thore Schmidt"
+    ],
+    [
+      "Tobias Fischer"
+    ],
+    [
+      "Torben Voigt"
+    ],
+    [
+      "Uwe Heise"
+    ],
+    [
+      "Vladyslav Oliinyk"
+    ],
+    [
+      "Vojtech Dvorak"
+    ],
+    [
+      "Wayne Bastow"
+    ],
+    [
+      "Wiebke Luehrs"
+    ],
+    [
+      "Zuzana Tomková"
+    ],
+    [
+      "Adam Marcinkowski",
+      "Bartlomiej Nir-Skibski"
+    ],
+    [
+      "Alexander Kulhawy",
+      "Antonia Kulhawy"
+    ],
+    [
+      "Alexander Kulhawy",
+      "Florian Menklein"
+    ],
+    [
+      "Alexander Reitz",
+      "Marc Albers"
+    ],
+    [
+      "Anja Riehn",
+      "Melanie Schönewald"
+    ],
+    [
+      "Benjamin Roth",
+      "Marius Freimuth"
+    ],
+    [
+      "Björn Herborn",
+      "Daniel Pätzolt"
+    ],
+    [
+      "Carola Hildebrandt",
+      "Marc Hübler"
+    ],
+    [
+      "Christian Lutat",
+      "Florian Krautwurst"
+    ],
+    [
+      "Dominic Arnold",
+      "Kay Rosenkranz"
+    ],
+    [
+      "Guido Suhrmeyer",
+      "Malte Hoheisel"
+    ],
+    [
+      "Hans-Christian Marwedel",
+      "Phillip Blau"
+    ],
+    [
+      "Jan Lensch",
+      "Nico Rensch"
+    ],
+    [
+      "Jannis Martens",
+      "Sven Reimas"
+    ],
+    [
+      "Józefiak Adrian",
+      "Marek Dorywała"
+    ],
+    [
+      "Laura Andres",
+      "Marco Juffa"
+    ],
+    [
+      "Lucas Weißmann",
+      "Vladyslav Oliinyk"
+    ],
+    [
+      "Mathias Hey",
+      "Nick Kuhlen"
+    ],
+    [
+      "Meike Denecke",
+      "Michael Weiß"
+    ],
+    [
+      "Michael Güth",
+      "Uwe Heise"
+    ],
+    [
+      "Moritz Stein",
+      "Simon Feuerhack"
+    ],
+    [
+      "Nele Marx",
+      "Oliver Göllnitz"
+    ],
+    [
+      "Nele Marx",
+      "Stefanie Reich"
+    ],
+    [
+      "Niels Bessert",
+      "Nils Fröhlich"
+    ],
+    [
+      "Patrick Vierhaus",
+      "Sven Bartelt"
+    ],
+    [
+      "Sabastian Wehlauer",
+      "Wayne Bastow"
+    ],
+    [
+      "Stefanie Reich",
+      "Steven Dreher"
+    ],
+    [
+      "Meike Denecke",
+      "Michael Weiß",
+      "Sandra Wepel"
+    ],
+    [
+      "Adam Marcinkowski",
+      "Adrian Józefiak",
+      "Bartłomiej Nir-Skibski",
+      "Marek Dorywała"
+    ],
+    [
+      "Alexander Kulhawy",
+      "Antonia Kulhawy",
+      "Florian Menklein",
+      "Marian Brandes"
+    ],
+    [
+      "Alexander Reitz",
+      "Dominic Arnold",
+      "Kay Rosenkranz",
+      "Marc Albers"
+    ],
+    [
+      "Alexander Klapproth",
+      "Michael Güth",
+      "Nils Schmidt",
+      "Simon Polauke",
+      "Uwe Heise"
+    ],
+    [
+      "Daniel Sporleder",
+      "Jan Krummacker",
+      "Michael Weiß",
+      "Niels Bessert",
+      "Nils Fröhlich"
+    ]
+  ]
+}

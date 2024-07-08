@@ -20,7 +20,7 @@ jobs:
           python-version: "3.12"
           cache: "pip"
       - run: pip install -r requirements.txt
-      - run: find spider/ -name "*rec*.py" | sort | xargs -L1 scrapy runspider
+      - run: find spider/ -name "*rec*.py" | sort | jq -ncR '[inputs]' | jq -r  --arg date `date +'%y%m%d'` '.[] | . as $competition_spider | {competition_date: capture("(?<m>[[:digit:].]+)").m, $competition_spider} | select(.competition_date >= $date) | .competition_spider' | xargs -L1 scrapy runspider
       - run: scrapy runspider collector.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:

@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-08T03:31:30.316595",
+  "date": "2024-07-08T09:25:30.938597",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 694,
+  "count": 728,
   "teams": [
     [
       "Aaliyah Born",
@@ -50,6 +50,10 @@
     [
       "Alexander Hirsch",
       "Martin Boden"
+    ],
+    [
+      "Alexander Klütsch",
+      "Fedi Mörs"
     ],
     [
       "Alexander Kühne",
@@ -224,6 +228,10 @@
       "Nadia Friedrich"
     ],
     [
+      "Bernd Fröhler",
+      "Lennox Wolff"
+    ],
+    [
       "Björn Herborn",
       "Daniel Pätzolt"
     ],
@@ -380,6 +388,10 @@
       "Niklas Vetten"
     ],
     [
+      "Daniel Kreis",
+      "Philipp Drilling"
+    ],
+    [
       "Daniel Krude",
       "Leon Doerenkamp"
     ],
@@ -478,6 +490,10 @@
     [
       "Dominik Bär",
       "Jan Schmid"
+    ],
+    [
+      "Dominik Fischer",
+      "Marcel Wetzlar"
     ],
     [
       "Dominik Hess",
@@ -582,6 +598,10 @@
     [
       "Felix Fleig",
       "Simon Rebmann"
+    ],
+    [
+      "Felix Fuhrmann",
+      "Steffen Keim"
     ],
     [
       "Felix Hartmann",
@@ -812,6 +832,10 @@
       "Jan-Philipp Sebald"
     ],
     [
+      "Jan Flegel",
+      "Jonas Ritter"
+    ],
+    [
       "Jan Groll",
       "Sebastian Blechmann"
     ],
@@ -848,6 +872,10 @@
       "Moritz Dornbusch"
     ],
     [
+      "Jan-Hendrik Fuhs",
+      "Marvis Schingen"
+    ],
+    [
       "Jan-Lukas Hepe",
       "Michael- Pascal Schäfer"
     ],
@@ -858,6 +886,10 @@
     [
       "Jan-Philipp Wilps",
       "Svenja Freytag"
+    ],
+    [
+      "Jana Schneider",
+      "Karsten Zimmer"
     ],
     [
       "Jasmin Bohun",
@@ -912,6 +944,10 @@
       "Maik Holtkamp"
     ],
     [
+      "Jonas Mecke",
+      "Justin Haas"
+    ],
+    [
       "Jonas Schimpf",
       "Martin Finkler"
     ],
@@ -952,6 +988,10 @@
       "Peter Zöller"
     ],
     [
+      "Katharina Gewers",
+      "Melina Form"
+    ],
+    [
       "Katharina Klein",
       "Robert Clausen"
     ],
@@ -970,6 +1010,14 @@
     [
       "Kristina Weber",
       "Stefanie Reich"
+    ],
+    [
+      "Lara Schrills",
+      "Tobias Balsmann"
+    ],
+    [
+      "Lars Boecker",
+      "Simon Heuser"
     ],
     [
       "Lars Neumeyer",
@@ -1068,6 +1116,10 @@
       "Niklas Greber"
     ],
     [
+      "Manuel Hartmann",
+      "Rene Böken"
+    ],
+    [
       "Marcel Haefke",
       "Martin Littfinski"
     ],
@@ -1108,6 +1160,10 @@
       "Tobias Frechen"
     ],
     [
+      "Marie Müller",
+      "Marvin Heinen"
+    ],
+    [
       "Mario Weiß",
       "Sven Holly"
     ],
@@ -1146,6 +1202,10 @@
     [
       "Martin Hofmann",
       "Noah Münter"
+    ],
+    [
+      "Martin Janikowski",
+      "Raphael Heller"
     ],
     [
       "Martin Skwarko",
@@ -1348,12 +1408,20 @@
       "Tim Schalla"
     ],
     [
+      "Sascha Schell",
+      "Tim Golda"
+    ],
+    [
       "Sebastian Burkard",
       "Tim Rothe"
     ],
     [
       "Siggi Manz",
       "Tristan Glaser"
+    ],
+    [
+      "Stefanie Heeg",
+      "Thorsten Schnitzler"
     ],
     [
       "Steffen Lindemann",

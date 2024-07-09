@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-09T08:31:34.412828",
+  "date": "2024-07-09T08:44:12.564613",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 185,
+  "count": 205,
   "teams": [
     [
       "Adam Marcinkowski"
@@ -67,10 +67,19 @@
       "Chenoa Polauke"
     ],
     [
+      "Christian (Jimbo) Franzen"
+    ],
+    [
+      "Christian Follmann"
+    ],
+    [
       "Christian Lutat"
     ],
     [
       "Daniel Pätzolt"
+    ],
+    [
+      "David Probst"
     ],
     [
       "Dirk Fischer"
@@ -80,6 +89,9 @@
     ],
     [
       "Dominic Norcross"
+    ],
+    [
+      "Dominik Zirbes"
     ],
     [
       "Erik Hoffmeister"
@@ -178,6 +190,9 @@
       "Mathias Hey"
     ],
     [
+      "Matthias Ascheberg"
+    ],
+    [
       "Matthias Kimna"
     ],
     [
@@ -191,6 +206,9 @@
     ],
     [
       "Michael Güth"
+    ],
+    [
+      "Michael Menten"
     ],
     [
       "Michael Weiß"
@@ -236,6 +254,9 @@
     ],
     [
       "Ramona Buthmann"
+    ],
+    [
+      "Rüdiger Zeuner-Christ"
     ],
     [
       "Sascha Tischer"
@@ -325,12 +346,28 @@
       "Marc Hübler"
     ],
     [
+      "Christian (Jimbo) Franzen",
+      "Michael Menten"
+    ],
+    [
+      "Christian Follmann",
+      "David Probst"
+    ],
+    [
       "Christian Lutat",
       "Florian Krautwurst"
     ],
     [
+      "Dirk Fischer",
+      "Rüdiger Zeuner-Christ"
+    ],
+    [
       "Dominic Arnold",
       "Kay Rosenkranz"
+    ],
+    [
+      "Dominik Zirbes",
+      "Matthias Ascheberg"
     ],
     [
       "Guido Suhrmeyer",
@@ -437,6 +474,13 @@
       "Nils Schmidt",
       "Simon Polauke",
       "Uwe Heise"
+    ],
+    [
+      "Christian Follmann",
+      "David Probst",
+      "Dirk Fischer",
+      "Dominik Zirbes",
+      "Rüdiger Zeuner-Christ"
     ],
     [
       "Daniel Sporleder",

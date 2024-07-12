@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-12T09:28:16.450876",
+  "date": "2024-07-12T20:10:50.277507",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 744,
+  "count": 746,
   "teams": [
     [
       "Aaliyah Born",
@@ -688,10 +688,6 @@
       "Yannik Backes"
     ],
     [
-      "Florian Lukas",
-      "Stephan Lewerenz"
-    ],
-    [
       "Florian Menklein",
       "Simon Feuerhack"
     ],
@@ -930,6 +926,10 @@
     [
       "Jochen Bürk",
       "Simon Doll"
+    ],
+    [
+      "Joey Bringmann",
+      "Stephan Lewerenz"
     ],
     [
       "Johann Irmer",
@@ -1442,6 +1442,10 @@
     [
       "Siggi Manz",
       "Tristan Glaser"
+    ],
+    [
+      "Stefan Kugel",
+      "Uwe Ingeln"
     ],
     [
       "Stefanie Heeg",

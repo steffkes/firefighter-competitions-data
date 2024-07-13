@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-13T17:33:25.663376",
+  "date": "2024-07-13T21:22:33.482529",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 225,
+  "count": 226,
   "teams": [
     [
       "Alexander KULHAWY"
@@ -441,10 +441,6 @@
       "Ole WIENEKE"
     ],
     [
-      "Nico LIEBERMANN",
-      "Sascha OBERENDER"
-    ],
-    [
       "Nico SCHIMECZEK",
       "Tobias DIEDRIGKEIT"
     ],
@@ -477,6 +473,11 @@
       "Christoph HELLER",
       "Florian GÖRMS",
       "Thorsten HENGELHAUPT"
+    ],
+    [
+      "Hugo HOFMANN",
+      "Nico LIEBERMANN",
+      "Sascha OBERENDER"
     ]
   ]
 }

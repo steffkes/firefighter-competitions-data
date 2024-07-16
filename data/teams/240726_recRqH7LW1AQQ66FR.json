@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-16T15:21:17.068511",
+  "date": "2024-07-16T21:42:55.071175",
   "competition_id": "recRqH7LW1AQQ66FR",
-  "count": 288,
+  "count": 294,
   "teams": [
     [
       "Aaron Watzl",
@@ -58,6 +58,10 @@
     [
       "Auwärter Hannes",
       "Markus Wolff"
+    ],
+    [
+      "Barkawitz Julian",
+      "Nick Armbrust"
     ],
     [
       "Bastian Hartmann",
@@ -236,6 +240,10 @@
       "Follner Fabian"
     ],
     [
+      "Florian Eggers",
+      "Grün Julian"
+    ],
+    [
       "Florian Mayerhofer",
       "Reitinger Dennis"
     ],
@@ -310,6 +318,10 @@
     [
       "Hauser Jonah",
       "Luca Knauß"
+    ],
+    [
+      "Hector Kohler",
+      "Repphun Elias"
     ],
     [
       "Heike Herbrik",
@@ -452,6 +464,10 @@
       "Zimmermann Nico"
     ],
     [
+      "Lukas Gutekunst",
+      "Stotz Lucas"
+    ],
+    [
       "Lukas Jäger",
       "Milankovic Lennart"
     ],
@@ -542,10 +558,6 @@
     [
       "Reinhardt Malte",
       "Sebastian Schnell"
-    ],
-    [
-      "Repphun Elias",
-      "Robin Mohr"
     ],
     [
       "Richard Auwärter",

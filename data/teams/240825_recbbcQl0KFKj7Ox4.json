@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-18T11:53:04.433898",
+  "date": "2024-07-18T12:18:48.807459",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 782,
+  "count": 784,
   "teams": [
     [
       "Aaliyah Born",
@@ -702,6 +702,10 @@
     [
       "Florian Blechinger",
       "Lukas Wielgorz"
+    ],
+    [
+      "Florian Fischer",
+      "Kevin Wendling"
     ],
     [
       "Florian Frößler",

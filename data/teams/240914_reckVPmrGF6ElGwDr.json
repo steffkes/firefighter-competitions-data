@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-21T03:30:22.078280",
+  "date": "2024-07-21T12:17:14.771497",
   "competition_id": "reckVPmrGF6ElGwDr",
-  "count": 70,
+  "count": 72,
   "teams": [
     [
       "Alexander Schnurr",
@@ -70,6 +70,10 @@
     [
       "Enrico Piras",
       "Marc Besch"
+    ],
+    [
+      "Eric Niebergall",
+      "Florian Domis"
     ],
     [
       "Fabian Wotzlaw",

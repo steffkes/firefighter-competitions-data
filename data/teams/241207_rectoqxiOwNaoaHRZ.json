@@ -1,25 +1,19 @@
 {
-  "date": "2024-07-23T09:28:46.315122",
+  "date": "2024-07-23T15:29:11.148857",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 244,
+  "count": 253,
   "teams": [
     [
-      "Alexander KULHAWY"
+      "Alexander FROMME"
     ],
     [
-      "Balbierer PAULINE"
+      "Alexander KULHAWY"
     ],
     [
       "Christian LANGER"
     ],
     [
-      "Christoph HELLER"
-    ],
-    [
       "Claudia KNEBEL"
-    ],
-    [
-      "Denise GOLLER"
     ],
     [
       "Denny KIUPEL"
@@ -31,19 +25,16 @@
       "Fabian ZAHLMANN"
     ],
     [
-      "Fabienne GOLLER"
+      "Felix BÖHM"
     ],
     [
-      "Felix BÖHM"
+      "Florian HOCKAUF"
     ],
     [
       "Florian SICKERT"
     ],
     [
-      "Fromme ALEXANDER"
-    ],
-    [
-      "Grzegorz PAWLAK"
+      "Helge SONNENBERG"
     ],
     [
       "Jan HUMBERT"
@@ -55,37 +46,13 @@
       "Konstantin LEITENBAUER"
     ],
     [
-      "Lee-Ann KRUSCHINSKI"
-    ],
-    [
-      "Maik ZSCHIESCHE"
-    ],
-    [
       "Malte BEBENSEE"
     ],
     [
-      "Marcel THIERBACH"
-    ],
-    [
-      "Marco JUFFA"
-    ],
-    [
-      "Mike HOPPE"
-    ],
-    [
-      "Nick ZIEGENBALG"
+      "Marcel SCHUMACHER"
     ],
     [
       "Ricardo HILPERT"
-    ],
-    [
-      "Schumacher MARCEL"
-    ],
-    [
-      "Sebastian SCHUBERTH"
-    ],
-    [
-      "Sven POSTEL"
     ],
     [
       "Tobias FRÖHLICH"
@@ -126,6 +93,10 @@
       "Felix MÜLLER"
     ],
     [
+      "Andre FERNESCHILD",
+      "Henry GLANZ"
+    ],
+    [
       "Andreas ENGELHARDT",
       "Torsten LEIPOLD"
     ],
@@ -154,6 +125,10 @@
       "Jennifer KRIMM"
     ],
     [
+      "Antonia KULHAWY",
+      "Rebea SONNENBERG"
+    ],
+    [
       "Axel FEGEBANK",
       "Karsten KOHRS"
     ],
@@ -171,11 +146,7 @@
     ],
     [
       "Björn SCHWERDT",
-      "Olucha JOAN"
-    ],
-    [
-      "Blau PHILLIP",
-      "Jülich MARCEL"
+      "Joan OLUCHA"
     ],
     [
       "Bruno HÖHNE",
@@ -190,8 +161,16 @@
       "Immo WILSKI"
     ],
     [
+      "Christian MARKS",
+      "Florian OERTELT-GRIMM"
+    ],
+    [
       "Christian RAU",
       "Michael WICHT"
+    ],
+    [
+      "Christoph HELLER",
+      "Sebastian SCHUBERTH"
     ],
     [
       "Daniel HIEKEL",
@@ -199,11 +178,11 @@
     ],
     [
       "Daniel KISTER",
-      "Langwasser ULF"
+      "Michaela HEMMING"
     ],
     [
       "Daniel KISTER",
-      "Michaela HEMMING"
+      "Ulf LANGWASSER"
     ],
     [
       "Daniel KUNTER",
@@ -216,6 +195,10 @@
     [
       "David SCHWALKE",
       "Marcel HÖCHE"
+    ],
+    [
+      "Denise GOLLER",
+      "Fabienne GOLLER"
     ],
     [
       "Dominik BRAND",
@@ -290,10 +273,6 @@
       "Jasper LETTOW"
     ],
     [
-      "Florian OERTELT-GRIMM",
-      "Marks CHRISTIAN"
-    ],
-    [
       "Florian PETERS",
       "Maik MEIRITZ"
     ],
@@ -308,6 +287,10 @@
     [
       "Gerrit LINDLEIN",
       "Maurine KRONBERGER"
+    ],
+    [
+      "Grzegorz PAWLAK",
+      "Lennart GIESE"
     ],
     [
       "Heiko BAIER",
@@ -370,6 +353,10 @@
       "Maj-Britt ZIMMERMANN"
     ],
     [
+      "Julian THORMEYER",
+      "Tim ROMMERT"
+    ],
+    [
       "Justus MENZEL",
       "Vivienne HOFFMANN"
     ],
@@ -414,6 +401,10 @@
       "Leon FULSCHE"
     ],
     [
+      "Lee-Ann KRUSCHINSKI",
+      "Pauline BALBIERER"
+    ],
+    [
       "Lenny BASTO",
       "Philipp HARNATH"
     ],
@@ -428,6 +419,22 @@
     [
       "Maik FREIGANG",
       "Sabine SAUER"
+    ],
+    [
+      "Maik ZSCHIESCHE",
+      "Sven POSTEL"
+    ],
+    [
+      "Marcel JÜLICH",
+      "Phillip BLAU"
+    ],
+    [
+      "Marcel THIERBACH",
+      "Nick ZIEGENBALG"
+    ],
+    [
+      "Marco JUFFA",
+      "Verena URBACH"
     ],
     [
       "Marcus HILLER",
@@ -474,6 +481,10 @@
       "Til SCHLEICHER"
     ],
     [
+      "Mike HOPPE",
+      "Thorsten STEINKE"
+    ],
+    [
       "Mirko TÄNZER",
       "René KUNZ"
     ],
@@ -504,10 +515,6 @@
     [
       "Stefanie FITZNER",
       "Vicky KRÜTZMANN"
-    ],
-    [
-      "andre FERNESCHILD",
-      "henry GLANZ"
     ],
     [
       "Alexander GOTTFRIED",

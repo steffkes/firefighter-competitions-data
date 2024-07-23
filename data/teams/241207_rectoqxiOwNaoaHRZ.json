@@ -1,8 +1,11 @@
 {
-  "date": "2024-07-23T10:46:12.976138",
+  "date": "2024-07-23T10:53:43.793738",
   "competition_id": "rectoqxiOwNaoaHRZ",
   "count": 252,
   "teams": [
+    [
+      "Alexander FROMME"
+    ],
     [
       "Alexander KULHAWY"
     ],
@@ -34,9 +37,6 @@
       "Florian SICKERT"
     ],
     [
-      "Fromme ALEXANDER"
-    ],
-    [
       "Grzegorz PAWLAK"
     ],
     [
@@ -55,19 +55,10 @@
       "Lee-Ann KRUSCHINSKI"
     ],
     [
-      "Maik ZSCHIESCHE"
-    ],
-    [
       "Malte BEBENSEE"
     ],
     [
       "Marcel SCHUMACHER"
-    ],
-    [
-      "Marcel THIERBACH"
-    ],
-    [
-      "Nick ZIEGENBALG"
     ],
     [
       "Pauline BALBIERER"
@@ -77,9 +68,6 @@
     ],
     [
       "Sebastian SCHUBERTH"
-    ],
-    [
-      "Sven POSTEL"
     ],
     [
       "Tobias FRÖHLICH"
@@ -118,6 +106,10 @@
     [
       "Andi BALAJ",
       "Felix MÜLLER"
+    ],
+    [
+      "Andre FERNESCHILD",
+      "Henry GLANZ"
     ],
     [
       "Andreas ENGELHARDT",
@@ -169,7 +161,7 @@
     ],
     [
       "Björn SCHWERDT",
-      "Olucha JOAN"
+      "Joan OLUCHA"
     ],
     [
       "Bruno HÖHNE",
@@ -182,6 +174,10 @@
     [
       "Chiara BUBNER",
       "Immo WILSKI"
+    ],
+    [
+      "Christian MARKS",
+      "Florian OERTELT-GRIMM"
     ],
     [
       "Christian RAU",
@@ -286,10 +282,6 @@
     [
       "Florian MAASS",
       "Jasper LETTOW"
-    ],
-    [
-      "Florian OERTELT-GRIMM",
-      "Marks CHRISTIAN"
     ],
     [
       "Florian PETERS",
@@ -432,8 +424,16 @@
       "Sabine SAUER"
     ],
     [
+      "Maik ZSCHIESCHE",
+      "Sven POSTEL"
+    ],
+    [
       "Marcel JÜLICH",
       "Phillip BLAU"
+    ],
+    [
+      "Marcel THIERBACH",
+      "Nick ZIEGENBALG"
     ],
     [
       "Marco JUFFA",
@@ -518,10 +518,6 @@
     [
       "Stefanie FITZNER",
       "Vicky KRÜTZMANN"
-    ],
-    [
-      "andre FERNESCHILD",
-      "henry GLANZ"
     ],
     [
       "Alexander GOTTFRIED",

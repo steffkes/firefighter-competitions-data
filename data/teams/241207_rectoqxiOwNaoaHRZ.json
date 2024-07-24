@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-24T09:53:15.818872",
+  "date": "2024-07-24T15:28:52.590026",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 253,
+  "count": 255,
   "teams": [
     [
       "Alexander FROMME"
@@ -40,6 +40,9 @@
       "Jan HUMBERT"
     ],
     [
+      "Julian HÖHER"
+    ],
+    [
       "Jürgen ALFANZ"
     ],
     [
@@ -56,9 +59,6 @@
     ],
     [
       "Tobias FRÖHLICH"
-    ],
-    [
-      "Tommy VOIGT"
     ],
     [
       "Adrian JAGUSCH",
@@ -503,6 +503,10 @@
     [
       "Nicolas SPATZ",
       "Tim SCHOLLENBERGER"
+    ],
+    [
+      "Patrick RIEDEL",
+      "Tommy VOIGT"
     ],
     [
       "Ricardo ROHR",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-28T09:25:55.780700",
+  "date": "2024-07-28T15:33:57.712471",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 265,
+  "count": 268,
   "teams": [
     [
       "Alexander FROMME"
@@ -14,6 +14,9 @@
     ],
     [
       "Claudia KNEBEL"
+    ],
+    [
+      "Claudio POLZIN"
     ],
     [
       "Denny KIUPEL"
@@ -55,13 +58,7 @@
       "Martin MACHALKE"
     ],
     [
-      "Paul WOLDT"
-    ],
-    [
       "Ricardo HILPERT"
-    ],
-    [
-      "Sebastian NAVE"
     ],
     [
       "Tobias FRÖHLICH"
@@ -379,6 +376,10 @@
       "Vivienne HOFFMANN"
     ],
     [
+      "Jörn MICHAELIS",
+      "Paul WOLDT"
+    ],
+    [
       "Kai FROSS",
       "Michael HEYDER"
     ],
@@ -533,6 +534,10 @@
     [
       "Ricardo ROHR",
       "Sandro HASENOHR"
+    ],
+    [
+      "Rune JÄGER",
+      "Sebastian NAVE"
     ],
     [
       "Spaleck TOM",

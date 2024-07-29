@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-29T15:30:06.258346",
+  "date": "2024-07-29T21:27:42.424454",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 271,
+  "count": 273,
   "teams": [
     [
       "Alexander FROMME"
@@ -17,6 +17,9 @@
     ],
     [
       "Claudio POLZIN"
+    ],
+    [
+      "Conner PETERMANN"
     ],
     [
       "Denny KIUPEL"
@@ -44,9 +47,6 @@
     ],
     [
       "Jan HUMBERT"
-    ],
-    [
-      "Julian HÖHER"
     ],
     [
       "Jürgen ALFANZ"
@@ -373,6 +373,10 @@
     [
       "Jonas SENSEN",
       "Maj-Britt ZIMMERMANN"
+    ],
+    [
+      "Julian HÖHER",
+      "Michael BANTEL"
     ],
     [
       "Julian THORMEYER",

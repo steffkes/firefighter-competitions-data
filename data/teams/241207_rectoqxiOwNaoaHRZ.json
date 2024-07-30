@@ -1,7 +1,7 @@
 {
-  "date": "2024-07-30T12:18:25.647903",
+  "date": "2024-07-30T12:49:06.678483",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 274,
+  "count": 276,
   "teams": [
     [
       "Alexander FROMME"
@@ -40,6 +40,9 @@
       "Hans-Josef MEISENBERG"
     ],
     [
+      "Heiko LISSNER"
+    ],
+    [
       "Helge SONNENBERG"
     ],
     [
@@ -53,9 +56,6 @@
     ],
     [
       "Marcel SCHUMACHER"
-    ],
-    [
-      "Martin MACHALKE"
     ],
     [
       "Ricardo HILPERT"
@@ -490,6 +490,10 @@
     [
       "Martin KARG",
       "Robert JÄGER"
+    ],
+    [
+      "Martin MACHALKE",
+      "Richard SCHMIDT"
     ],
     [
       "Marvin HÄNEL",

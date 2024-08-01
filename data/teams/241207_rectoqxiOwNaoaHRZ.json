@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-01T09:43:12.979029",
+  "date": "2024-08-01T09:53:11.346150",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 279,
+  "count": 282,
   "teams": [
     [
       "Alexander FROMME"
@@ -25,13 +25,13 @@
       "Eric WAGNER"
     ],
     [
+      "Fabian BLÜMMERT"
+    ],
+    [
       "Fabian ZAHLMANN"
     ],
     [
       "Felix BÖHM"
-    ],
-    [
-      "Florian HOCKAUF"
     ],
     [
       "Florian SICKERT"
@@ -59,6 +59,9 @@
     ],
     [
       "Tobias FRÖHLICH"
+    ],
+    [
+      "Wolfgang LINDNER"
     ],
     [
       "Adam SEGERITZ",
@@ -279,6 +282,10 @@
     [
       "Florian GÖRMS",
       "Thorsten HENGELHAUPT"
+    ],
+    [
+      "Florian HOCKAUF",
+      "Marie KAUFMANN"
     ],
     [
       "Florian IPS",

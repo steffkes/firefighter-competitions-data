@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-02T15:26:14.553767",
+  "date": "2024-08-02T21:34:20.574102",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 291,
+  "count": 293,
   "teams": [
     [
       "Alexander FROMME"
@@ -37,9 +37,6 @@
       "Florian SICKERT"
     ],
     [
-      "Hans-Josef MEISENBERG"
-    ],
-    [
       "Henning RAWE"
     ],
     [
@@ -50,9 +47,6 @@
     ],
     [
       "Konstantin LEITENBAUER"
-    ],
-    [
-      "Leon KAUFUNG"
     ],
     [
       "Marcel SCHUMACHER"
@@ -251,6 +245,10 @@
       "Katrin KLESSE"
     ],
     [
+      "Eric KITTEL",
+      "Hans-Josef MEISENBERG"
+    ],
+    [
       "Erik LANGENHAHN",
       "Sean RENKER"
     ],
@@ -269,6 +267,10 @@
     [
       "Felix OBERGFÖLL",
       "Moritz WEBER"
+    ],
+    [
+      "Felix PAUL",
+      "Leon KAUFUNG"
     ],
     [
       "Felix PLENK",

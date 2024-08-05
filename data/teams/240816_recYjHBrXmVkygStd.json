@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-05T14:44:08.743040",
+  "date": "2024-08-05T14:53:20.458819",
   "competition_id": "recYjHBrXmVkygStd",
-  "count": 560,
+  "count": 565,
   "teams": [
     [
       "Adrian Gaitan"
@@ -106,6 +106,9 @@
       "Dominik Schlagloth"
     ],
     [
+      "Dominik Thiel"
+    ],
+    [
       "Dominik Zirbes"
     ],
     [
@@ -191,6 +194,9 @@
     ],
     [
       "Julian Mildner"
+    ],
+    [
+      "Justyna Cichocka"
     ],
     [
       "Jörg Eberhard"
@@ -418,6 +424,9 @@
       "Paul Weber"
     ],
     [
+      "Pawel Jaskurzynski"
+    ],
+    [
       "Paweł Sadłowski"
     ],
     [
@@ -437,9 +446,6 @@
     ],
     [
       "Phillip Blau"
-    ],
-    [
-      "Phillip Mooser"
     ],
     [
       "ROSTISLAV Budař"
@@ -467,6 +473,9 @@
     ],
     [
       "Roman Munzar"
+    ],
+    [
+      "Rüdiger Schulz"
     ],
     [
       "Rüdiger Zeuner-Christ"
@@ -593,6 +602,10 @@
       "kelly van Ruler"
     ],
     [
+      "Alexander Reitz",
+      "Marina Nikic"
+    ],
+    [
       "Andra Knüppel",
       "Simon-Henrik Rosendahl"
     ],
@@ -631,10 +644,6 @@
     [
       "Benjamin Fleischer",
       "Zora Werbke"
-    ],
-    [
-      "Benjamin Henne",
-      "Marina Nikic"
     ],
     [
       "Benjamin Schimmeck",
@@ -873,6 +882,10 @@
       "Valentin Hornschuh"
     ],
     [
+      "Marta Arrobe de Encarnacao",
+      "Matthias Ascheberg"
+    ],
+    [
       "Martin Brieden",
       "Stefan Heinemann"
     ],
@@ -898,11 +911,11 @@
     ],
     [
       "Matthias Ascheberg",
-      "Stefanie Reich"
+      "Peter Schmidmair"
     ],
     [
-      "Max Mustermann",
-      "Phillipp Kozin"
+      "Matthias Ascheberg",
+      "Stefanie Reich"
     ],
     [
       "May Tømmervold",
@@ -969,12 +982,12 @@
       "Sören Warzok"
     ],
     [
-      "Peter Schmidmair",
-      "Peter Schmidmair"
-    ],
-    [
       "Phillip Blau",
       "Verena Nikic"
+    ],
+    [
+      "Phillipp Kozin",
+      "Simon Schon-Döhring"
     ],
     [
       "Ramona Buthmann",
@@ -990,7 +1003,7 @@
     ],
     [
       "Stefanie Reich",
-      "Tbd Tbd"
+      "Zora Werbke"
     ],
     [
       "Thomas Schragner",
@@ -1163,7 +1176,7 @@
     ],
     [
       "Carlo Burtchen",
-      "Florian Mietusch",
+      "Hagen Mooser",
       "Michael Hänel",
       "Oliver Nopper",
       "Phillip Mooser"

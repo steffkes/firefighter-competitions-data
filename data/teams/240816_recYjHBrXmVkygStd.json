@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-05T15:26:23.978035",
+  "date": "2024-08-05T21:29:01.245614",
   "competition_id": "recYjHBrXmVkygStd",
-  "count": 565,
+  "count": 587,
   "teams": [
     [
       "Adrian Gaitan"
@@ -23,6 +23,9 @@
     ],
     [
       "Alexander Tittelbach"
+    ],
+    [
+      "Andra Knüppel"
     ],
     [
       "Anja Riehn"
@@ -92,6 +95,9 @@
     ],
     [
       "David Kubiš"
+    ],
+    [
+      "Dawid Hyzyk"
     ],
     [
       "Dawid Rabczyk"
@@ -166,13 +172,13 @@
       "Herbert Roser"
     ],
     [
-      "Hoffmann Mike"
-    ],
-    [
       "Jan-Nick Rische"
     ],
     [
       "Jannik Flügge"
+    ],
+    [
+      "Jaroslaw Bialas"
     ],
     [
       "Jens Lüdeke"
@@ -319,6 +325,9 @@
       "Mateusz Wesolowski"
     ],
     [
+      "Mateusz Wesolowski"
+    ],
+    [
       "Matthias Ascheberg"
     ],
     [
@@ -361,6 +370,9 @@
       "Michel Bantel"
     ],
     [
+      "Mike Hoffmann"
+    ],
+    [
       "Mike Hoppe"
     ],
     [
@@ -373,10 +385,10 @@
       "Mirko Wulf"
     ],
     [
-      "Miro Michlovsky"
+      "Miroslav Bloudek"
     ],
     [
-      "Miroslav Bloudek"
+      "Miroslav Nevesely"
     ],
     [
       "Moritz Euchler"
@@ -424,7 +436,13 @@
       "Paul Weber"
     ],
     [
+      "Pawel Delinger"
+    ],
+    [
       "Pawel Jaskurzynski"
+    ],
+    [
+      "Pawel Lesnicki"
     ],
     [
       "Paweł Sadłowski"
@@ -449,6 +467,9 @@
     ],
     [
       "ROSTISLAV Budař"
+    ],
+    [
+      "Rafal Bereza"
     ],
     [
       "Rafal Bereza"
@@ -502,6 +523,9 @@
       "Simon Schoog-Döhring"
     ],
     [
+      "Simon-Henrik Rosendahl"
+    ],
+    [
       "Stefan Fetting"
     ],
     [
@@ -518,6 +542,9 @@
     ],
     [
       "Sven Reuter"
+    ],
+    [
+      "Sylwester Kemprowski"
     ],
     [
       "Sören Warzok"
@@ -714,6 +741,10 @@
       "Frank Peter"
     ],
     [
+      "David Hyzyk",
+      "Pawel Lesnicki"
+    ],
+    [
       "David Kalicki",
       "Meghann Krüger"
     ],
@@ -792,6 +823,10 @@
     [
       "Jan Pipiš",
       "Pavel Novak"
+    ],
+    [
+      "Jaroslaw Bialas",
+      "Sylwester Kemprowski"
     ],
     [
       "Jens Walter",
@@ -910,12 +945,20 @@
       "Mateusz Delinger"
     ],
     [
+      "Mateusz Wesolowski",
+      "Tbd Tbd"
+    ],
+    [
       "Matthias Ascheberg",
       "Peter Schmidmair"
     ],
     [
       "Matthias Ascheberg",
       "Stefanie Reich"
+    ],
+    [
+      "Matus Hudy-Bali",
+      "Richard Cekal"
     ],
     [
       "May Tømmervold",
@@ -940,10 +983,6 @@
     [
       "Mirko Wulf",
       "Tino Töpfer"
-    ],
-    [
-      "Miro Michlovsky",
-      "X X"
     ],
     [
       "Nico Pötter",
@@ -980,6 +1019,10 @@
     [
       "Patrik Štefelin",
       "Sören Warzok"
+    ],
+    [
+      "Pawel Delinger",
+      "Rafal Bereza"
     ],
     [
       "Phillip Blau",
@@ -1208,6 +1251,13 @@
       "Roman Munzar",
       "Tomáš Višňar",
       "Vojtěch Dvořák"
+    ],
+    [
+      "Dawid Hyzyk",
+      "Mateusz Wesolowski",
+      "Pawel Delinger",
+      "Pawel Lesnicki",
+      "Rafal Bereza"
     ],
     [
       "Dominik Thiel",

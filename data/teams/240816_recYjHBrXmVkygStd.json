@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-10T07:42:49.578531",
+  "date": "2024-08-10T07:53:12.765056",
   "competition_id": "recYjHBrXmVkygStd",
-  "count": 588,
+  "count": 593,
   "teams": [
     [
       "Adrian Gaitan"
@@ -1296,6 +1296,13 @@
       "Miro Michlovsky",
       "Pavel Novak",
       "Richard Cekal"
+    ],
+    [
+      "Lars Nawrocki",
+      "Michael Scheffler",
+      "Vicky Krützmann",
+      "Victoria Sasin",
+      "Viktor Schultz"
     ]
   ]
 }

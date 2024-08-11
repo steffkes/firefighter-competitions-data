@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-11T15:33:24.222949",
+  "date": "2024-08-11T21:26:37.633622",
   "competition_id": "recYjHBrXmVkygStd",
-  "count": 601,
+  "count": 599,
   "teams": [
     [
       "Adrian Gaitan"
@@ -32,6 +32,9 @@
     ],
     [
       "Anna Janssen"
+    ],
+    [
+      "Anna Möller"
     ],
     [
       "Beata Swiderska"
@@ -76,6 +79,9 @@
       "Christian Follmann"
     ],
     [
+      "Christian Franzen"
+    ],
+    [
       "Daniel Finster"
     ],
     [
@@ -106,16 +112,10 @@
       "Dietmar Kirsch"
     ],
     [
-      "Dirk Fischer"
-    ],
-    [
       "Dominik Schlagloth"
     ],
     [
       "Dominik Thiel"
-    ],
-    [
-      "Dominik Zirbes"
     ],
     [
       "Erik Langenhahn"
@@ -535,7 +535,7 @@
       "Stefan Truthän"
     ],
     [
-      "Stefanie Reich"
+      "Stefanie Fitzner"
     ],
     [
       "Sue Capper"
@@ -656,6 +656,10 @@
       "Stefan Heinemeann"
     ],
     [
+      "Anna Möller",
+      "Stefanie Fitzner"
+    ],
+    [
       "Arne Erichsen",
       "Reza Mohamadzade"
     ],
@@ -720,8 +724,12 @@
       "Moritz Euchler"
     ],
     [
+      "Chiara Schmidt",
+      "Sarah Gschwendtner"
+    ],
+    [
       "Christian Follmann",
-      "Dominik Zirbes"
+      "Rüdiger Zeuner-Christ"
     ],
     [
       "Christoph Driever",
@@ -764,10 +772,6 @@
       "Krzysztof Stencel"
     ],
     [
-      "Dirk Fischer",
-      "Rüdiger Zeuner-Christ"
-    ],
-    [
       "Dominic Scholz",
       "Simon Gapp"
     ],
@@ -786,6 +790,10 @@
     [
       "Gasper Trotovsek",
       "Phil Heise"
+    ],
+    [
+      "Guido Suhrmeyer",
+      "Mario Fleerkortte"
     ],
     [
       "Hagen Mooser",
@@ -868,10 +876,6 @@
       "Marius Freimuth"
     ],
     [
-      "Kevin Lebeda",
-      "Moritz Euchler"
-    ],
-    [
       "Konrad Kuchnik",
       "Paweł Sadłowski"
     ],
@@ -902,10 +906,6 @@
     [
       "Marcel Lehmann",
       "Max Langguth"
-    ],
-    [
-      "Mario Fleerkortte",
-      "Mirco Feuerhack"
     ],
     [
       "Mario Poppe",
@@ -1048,10 +1048,6 @@
       "Wayne Bastow"
     ],
     [
-      "Stefanie Reich",
-      "Zora Werbke"
-    ],
-    [
       "Thomas Schragner",
       "Thomas Schragner"
     ],
@@ -1170,13 +1166,6 @@
       "no nam"
     ],
     [
-      "Alexander Kulhawy",
-      "Birthe Plohg",
-      "Helge Sonnenberg",
-      "Rebea Sonnenberg",
-      "Thorsten Plohg"
-    ],
-    [
       "Alexander Sader",
       "Chiara Schmidt",
       "Mario Poppe",
@@ -1206,9 +1195,9 @@
     ],
     [
       "Benjamin Roth",
+      "Franziska Böhmke",
       "Marco Juffa",
       "Mike Hoppe",
-      "Pauline Balbierer",
       "Verena Urbach"
     ],
     [
@@ -1220,10 +1209,17 @@
     ],
     [
       "Birthe Plohg",
+      "Franziska Böhmke",
       "Laura Andres",
-      "Pauline Balbierer",
       "Rebea Sonnenberg",
       "Verena Urbach"
+    ],
+    [
+      "Birthe Plohg",
+      "Helge Sonnenberg",
+      "Rebea Sonnenberg",
+      "Thorsten Plohg",
+      "Uwe Schlonsak"
     ],
     [
       "Björn Steen",
@@ -1241,9 +1237,9 @@
     ],
     [
       "Christan Follmann",
+      "Christian Franzen",
       "David Probst",
-      "Dirk Fischer",
-      "Domink Zirbes",
+      "Matthias Ascheberg",
       "Rüdiger Zeuner-Christ"
     ],
     [

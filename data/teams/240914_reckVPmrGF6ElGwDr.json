@@ -1,11 +1,15 @@
 {
-  "date": "2024-08-12T10:53:17.272939",
+  "date": "2024-08-12T15:29:53.984174",
   "competition_id": "reckVPmrGF6ElGwDr",
-  "count": 94,
+  "count": 104,
   "teams": [
     [
       "Alexander Schnurr",
       "Claus Wagner"
+    ],
+    [
+      "Andreas Berberich",
+      "Franziska Läßig"
     ],
     [
       "Anna Bermuth",
@@ -144,6 +148,10 @@
       "Lukas Krengel"
     ],
     [
+      "Jonas Eisenhauer",
+      "Maximilian Berg"
+    ],
+    [
       "Jonas Krambs",
       "Lukas Krämer"
     ],
@@ -180,8 +188,20 @@
       "Patrick Henke"
     ],
     [
+      "Markus Brähler",
+      "Pascal Bernhard"
+    ],
+    [
+      "Marvin Reiecke",
+      "Maximilian Schmitt"
+    ],
+    [
       "Michael Gebhard",
       "Ralf Schmitt"
+    ],
+    [
+      "Nicholas Wolf",
+      "Nouman Bazerji"
     ],
     [
       "Paul Herrmann",

@@ -1,11 +1,15 @@
 {
-  "date": "2024-08-12T14:42:45.650448",
+  "date": "2024-08-12T14:53:10.227008",
   "competition_id": "reckVPmrGF6ElGwDr",
-  "count": 100,
+  "count": 104,
   "teams": [
     [
       "Alexander Schnurr",
       "Claus Wagner"
+    ],
+    [
+      "Andreas Berberich",
+      "Franziska Läßig"
     ],
     [
       "Anna Bermuth",
@@ -194,6 +198,10 @@
     [
       "Michael Gebhard",
       "Ralf Schmitt"
+    ],
+    [
+      "Nicholas Wolf",
+      "Nouman Bazerji"
     ],
     [
       "Paul Herrmann",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-14T09:28:30.104591",
+  "date": "2024-08-14T15:26:15.823604",
   "competition_id": "recYjHBrXmVkygStd",
-  "count": 605,
+  "count": 607,
   "teams": [
     [
       "Adrian Gaitan"
@@ -199,9 +199,6 @@
       "Julia Wagner"
     ],
     [
-      "Julian Mildner"
-    ],
-    [
       "Justyna Cichocka"
     ],
     [
@@ -317,6 +314,9 @@
     ],
     [
       "Martyna Świerczyk"
+    ],
+    [
+      "Marvin Hähnel"
     ],
     [
       "Mateusz Delinger"
@@ -683,6 +683,10 @@
       "Zora Werbke"
     ],
     [
+      "Benjamin Roth",
+      "Marvin Hänel"
+    ],
+    [
       "Benjamin Schimmeck",
       "Tim Schulze"
     ],
@@ -775,6 +779,10 @@
       "Krzysztof Stencel"
     ],
     [
+      "Dietmar Kirsch",
+      "Magnus Hirschfeld"
+    ],
+    [
       "Dominic Scholz",
       "Simon Gapp"
     ],
@@ -857,10 +865,6 @@
     [
       "Joel Bloch",
       "Mano Waldvogel"
-    ],
-    [
-      "Julian Mildner",
-      "Marvin Hänel"
     ],
     [
       "Jörg Sven Winkler",
@@ -1288,6 +1292,13 @@
       "Stephan Charpentier"
     ],
     [
+      "Frantisek Ridzon",
+      "Jan Pipis",
+      "Matus Hudy-Bali",
+      "Pavel Novak",
+      "Richard Cekal"
+    ],
+    [
       "Gerrit Lindlein",
       "Nils Broch",
       "Sabastian Wehlauer",
@@ -1307,13 +1318,6 @@
       "Martin Remplbauer",
       "Peter Schmidmair",
       "Thomas Bogovits"
-    ],
-    [
-      "Jan Pipis",
-      "Matus Hudy-Bali",
-      "Miro Michlovsky",
-      "Pavel Novak",
-      "Richard Cekal"
     ],
     [
       "Lars Nawrocki",

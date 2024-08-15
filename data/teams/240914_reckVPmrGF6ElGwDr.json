@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-15T15:34:12.706065",
+  "date": "2024-08-15T21:33:56.720693",
   "competition_id": "reckVPmrGF6ElGwDr",
-  "count": 106,
+  "count": 110,
   "teams": [
     [
       "Alexander Schnurr",
@@ -10,6 +10,10 @@
     [
       "Andreas Berberich",
       "Franziska Läßig"
+    ],
+    [
+      "Andreas Conrad",
+      "Jan Kühn"
     ],
     [
       "Anna Bermuth",
@@ -214,6 +218,10 @@
     [
       "Peter Minet",
       "Philipp Krimmel"
+    ],
+    [
+      "Philipp Schneider",
+      "Sascha Karmann"
     ]
   ]
 }

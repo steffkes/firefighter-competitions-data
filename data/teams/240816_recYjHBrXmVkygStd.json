@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-16T18:13:37.224543",
+  "date": "2024-08-16T18:34:00.747331",
   "competition_id": "recYjHBrXmVkygStd",
-  "count": 611,
+  "count": 620,
   "teams": [
     [
       "Adrian Gaitan"
@@ -1066,16 +1066,6 @@
       "Zdenek Podzimek"
     ],
     [
-      "Benjamin Fleischer",
-      "Matthias Buttig",
-      "Werbke Zora"
-    ],
-    [
-      "Chenoa Polauke",
-      "Ramona Buthmann",
-      "Stefanie Reich"
-    ],
-    [
       "Dawid Hyzyk",
       "Justyna Cichocka",
       "Pawel Lesnicki"
@@ -1084,16 +1074,6 @@
       "Gino Winzer",
       "Johannes König",
       "Tim Knüppel"
-    ],
-    [
-      "Lukas Wickmann",
-      "Phil Heise",
-      "Simon Polauke"
-    ],
-    [
-      "Michael Rachner",
-      "Robin Altbürger",
-      "Stefan Roskosch"
     ],
     [
       "Nico Pötter",
@@ -1105,6 +1085,12 @@
       "Kelly van ruler",
       "Lena Sophie Behne",
       "Maurice Holz"
+    ],
+    [
+      "Alex van Mechelen",
+      "Michel Bantel",
+      "Philip Geiler",
+      "Stefan Heinemann"
     ],
     [
       "Alexander Fromme",
@@ -1125,18 +1111,6 @@
       "Simon Gapp"
     ],
     [
-      "Anna Lena Jannsen",
-      "Michel Bantel",
-      "Philip Geiler",
-      "Stefan Heinemann"
-    ],
-    [
-      "Beata Świderska",
-      "Martyna Świerczyk",
-      "Mateusz Delinger",
-      "Rafał Bereza"
-    ],
-    [
       "Chenoa Polauke",
       "Michael Güth",
       "Uwe Heise",
@@ -1150,7 +1124,7 @@
     ],
     [
       "Dominik Schlagloth",
-      "Heiko Lietzau",
+      "Hanna Schlüter",
       "Luca Karuschka",
       "Verena Nikic"
     ],
@@ -1158,13 +1132,13 @@
       "Helge Sonnenberg",
       "Marco Juffa",
       "Mathias Lemm",
-      "Uwe Schlonsak"
+      "Moritz Euchler"
     ],
     [
-      "Luca Mewes",
-      "Michael Gutsche",
-      "Paul Weichert",
-      "Philipp Harnath"
+      "Joachim Posanz",
+      "Magnus Metje",
+      "Pascal Dülge",
+      "Sören Warzok"
     ],
     [
       "Adrian Gaitan",
@@ -1195,17 +1169,24 @@
       "Markus Ahrend"
     ],
     [
-      "Averell Dalton",
-      "Jack Dalton",
-      "Joe Dalton",
-      "Lucky Luke",
-      "William Dalton"
+      "Beata Świderska",
+      "Martyna Świerczyk",
+      "Mateusz Delinger",
+      "Mateusz Wesolowski",
+      "Rafał Bereza"
+    ],
+    [
+      "Benjamin Fleischer",
+      "Hanna Schlüter",
+      "Leon Russ",
+      "Matthias Buttig",
+      "Werbke Zora"
     ],
     [
       "Benjamin Roth",
       "Franziska Böhmke",
       "Marco Juffa",
-      "Mike Hoppe",
+      "Marius Freimuth",
       "Verena Urbach"
     ],
     [
@@ -1225,9 +1206,9 @@
     [
       "Birthe Plohg",
       "Helge Sonnenberg",
+      "Moritz Euchler",
       "Rebea Sonnenberg",
-      "Thorsten Plohg",
-      "Uwe Schlonsak"
+      "Thorsten Plohg"
     ],
     [
       "Björn Steen",
@@ -1242,6 +1223,13 @@
       "Michael Hänel",
       "Oliver Nopper",
       "Phillip Mooser"
+    ],
+    [
+      "Chenoa Polauke",
+      "Franziska Wieckmann",
+      "Ramona Buthmann",
+      "Stefanie Fitzner",
+      "Wiebke Lührs"
     ],
     [
       "Christan Follmann",
@@ -1309,9 +1297,9 @@
     [
       "Heiko Richter",
       "Lenny Basto",
-      "Markus Apel",
-      "Marvin Hilger",
-      "Thomas Weichert"
+      "Luca Mewes",
+      "Lukas Baruck",
+      "Markus Apel"
     ],
     [
       "Herbert Roser",
@@ -1326,6 +1314,27 @@
       "Vicky Krützmann",
       "Victoria Sasin",
       "Viktor Schultz"
+    ],
+    [
+      "Luka Heim",
+      "Michael Rachner",
+      "Phillip Kozin",
+      "Robin Altbürger",
+      "Stefan Roskosch"
+    ],
+    [
+      "Lukas Wickmann",
+      "Micheal Güth",
+      "Simon Polauke",
+      "Thorsten Schalcher",
+      "Uwe Heise"
+    ],
+    [
+      "Marvin Hilger",
+      "Michael Gutsche",
+      "Paul Weichert",
+      "Philipp Harnath",
+      "Thomas Weichert"
     ],
     [
       "May Tømmervold",

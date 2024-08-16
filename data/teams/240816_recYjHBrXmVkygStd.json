@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-16T21:43:03.999121",
+  "date": "2024-08-16T21:52:51.780045",
   "competition_id": "recYjHBrXmVkygStd",
-  "count": 620,
+  "count": 622,
   "teams": [
     [
       "Adrian Gaitan"
@@ -651,7 +651,7 @@
     ],
     [
       "Anja Münzer",
-      "Jürgen Pfistermüller"
+      "Sue Capper"
     ],
     [
       "Anja Riehn",
@@ -778,6 +778,10 @@
       "Phillip Blau"
     ],
     [
+      "Dawid Hyzyk",
+      "Justyna Cichocka"
+    ],
+    [
       "Dietmar Kirsch",
       "Magnus Hirschfeld"
     ],
@@ -792,10 +796,6 @@
     [
       "Ege Kaan Cokay",
       "Tim Hübner"
-    ],
-    [
-      "Florian Steurer",
-      "Markus Fellner"
     ],
     [
       "Gasper Trotovsek",
@@ -928,6 +928,10 @@
     [
       "Mario Poppe",
       "Tobias Fischer"
+    ],
+    [
+      "Markus Fellner",
+      "Volker Hederich"
     ],
     [
       "Markus Hohmann",
@@ -1253,13 +1257,6 @@
       "Vladyslav Oliinyk"
     ],
     [
-      "David Kubiš",
-      "Martin Plšek",
-      "Roman Munzar",
-      "Tomáš Višňar",
-      "Vojtěch Dvořák"
-    ],
-    [
       "Dawid Hyzyk",
       "Mateusz Wesolowski",
       "Pawel Delinger",
@@ -1328,6 +1325,13 @@
       "Simon Polauke",
       "Thorsten Schalcher",
       "Uwe Heise"
+    ],
+    [
+      "Martin Plšek",
+      "Miroslav Blouder",
+      "Roman Munzar",
+      "Rostislav Bjdar",
+      "Vojtěch Dvořák"
     ],
     [
       "Marvin Hilger",

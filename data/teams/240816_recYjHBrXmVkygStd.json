@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-16T15:52:57.824309",
+  "date": "2024-08-16T16:13:02.154054",
   "competition_id": "recYjHBrXmVkygStd",
-  "count": 610,
+  "count": 611,
   "teams": [
     [
       "Adrian Gaitan"
@@ -1086,11 +1086,6 @@
       "Tim Knüppel"
     ],
     [
-      "Julian Mildner",
-      "Nico Pötter",
-      "Pascal Kosfeld"
-    ],
-    [
       "Lukas Wickmann",
       "Phil Heise",
       "Simon Polauke"
@@ -1099,6 +1094,11 @@
       "Michael Rachner",
       "Robin Altbürger",
       "Stefan Roskosch"
+    ],
+    [
+      "Nico Pötter",
+      "Pascal Kosfeld",
+      "Steffi Fitzner"
     ],
     [
       "Alex van Mechelen",
@@ -1165,12 +1165,6 @@
       "Michael Gutsche",
       "Paul Weichert",
       "Philipp Harnath"
-    ],
-    [
-      "May Tømmervold",
-      "Meghann Krüger",
-      "Sören Warzok",
-      "Tom Trost"
     ],
     [
       "Adrian Gaitan",
@@ -1332,6 +1326,13 @@
       "Vicky Krützmann",
       "Victoria Sasin",
       "Viktor Schultz"
+    ],
+    [
+      "May Tømmervold",
+      "Meghann Krüger",
+      "Robin Altbürger",
+      "Sören Warzok",
+      "Tom Trost"
     ]
   ]
 }

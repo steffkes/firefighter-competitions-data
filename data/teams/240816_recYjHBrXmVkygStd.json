@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-16T09:11:22.418831",
+  "date": "2024-08-16T09:29:48.258757",
   "competition_id": "recYjHBrXmVkygStd",
-  "count": 611,
+  "count": 612,
   "teams": [
     [
       "Adrian Gaitan"
@@ -353,6 +353,9 @@
     ],
     [
       "Meghann Krüger"
+    ],
+    [
+      "Meteusz Ziderziecki"
     ],
     [
       "Michael Güth"
@@ -771,14 +774,6 @@
       "Phillip Blau"
     ],
     [
-      "David Kubiš",
-      "Vojtěch Dvořák"
-    ],
-    [
-      "Dawid Rabczyk",
-      "Krzysztof Stencel"
-    ],
-    [
       "Dietmar Kirsch",
       "Magnus Hirschfeld"
     ],
@@ -868,7 +863,7 @@
     ],
     [
       "Joel Bloch",
-      "Mano Waldvogel"
+      "Matthias Aschenberg"
     ],
     [
       "Jörg Sven Winkler",
@@ -889,6 +884,10 @@
     [
       "Konrad Kuchnik",
       "Paweł Sadłowski"
+    ],
+    [
+      "Krzysztof Stencel",
+      "Meteusz Ziderziecki"
     ],
     [
       "Lars Harasiuk",
@@ -1061,6 +1060,10 @@
     [
       "Thomas Schragner",
       "Thomas Schragner"
+    ],
+    [
+      "Vojtěch Dvořák",
+      "Zdenek Podzimek"
     ],
     [
       "Benjamin Fleischer",

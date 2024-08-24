@@ -1,12 +1,8 @@
 {
-  "date": "2024-08-24T09:33:21.300078",
+  "date": "2024-08-24T15:25:30.411556",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 990,
+  "count": 992,
   "teams": [
-    [
-      "Aaliyah Born",
-      "Benedikt Reeh"
-    ],
     [
       "Abdullah Yavuz",
       "Daniel Thelen"
@@ -262,6 +258,10 @@
     [
       "Benedikt Krauß",
       "Malte Sehmer"
+    ],
+    [
+      "Benedikt Reeh",
+      "Moritz Alexander Becker"
     ],
     [
       "Benjamin Hess",
@@ -1806,6 +1806,10 @@
     [
       "Oliver Thelen",
       "Tim Breickmann"
+    ],
+    [
+      "Pascal Haubrichs",
+      "Sven Tuchscherer"
     ],
     [
       "Pascal Neidhöfer",

@@ -1,16 +1,8 @@
 {
-  "date": "2024-08-25T15:24:46.408650",
+  "date": "2024-08-25T17:31:34.959771",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 1002,
+  "count": 1006,
   "teams": [
-    [
-      "",
-      ""
-    ],
-    [
-      "",
-      ""
-    ],
     [
       "Achim Mattes",
       "Nicolas Beth"
@@ -400,6 +392,10 @@
       "Maurice Frese"
     ],
     [
+      "Christian Oehlert",
+      "Robin Krumm"
+    ],
+    [
       "Christian Rupp",
       "Lukas Mann"
     ],
@@ -536,6 +532,10 @@
       "Mathias Lorenz"
     ],
     [
+      "Daniel Ruder",
+      "Mathias Lorenz"
+    ],
+    [
       "Daniel Schild",
       "Lucas Löchel"
     ],
@@ -638,6 +638,10 @@
     [
       "Dieter Will",
       "Tobias Temp"
+    ],
+    [
+      "Dilan Coskun",
+      "Jonas Okken"
     ],
     [
       "Dimitri Wolf",
@@ -770,6 +774,10 @@
     [
       "Erik Langenhahn",
       "Maurice Holz"
+    ],
+    [
+      "Fabian Eberspächer",
+      "Jonas Hormuth"
     ],
     [
       "Fabian Eberspächer",

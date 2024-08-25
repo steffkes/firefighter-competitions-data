@@ -1,8 +1,16 @@
 {
-  "date": "2024-08-25T13:53:01.534448",
+  "date": "2024-08-25T14:08:38.790655",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 996,
+  "count": 998,
   "teams": [
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
     [
       "Achim Mattes",
       "Nicolas Beth"
@@ -568,6 +576,10 @@
       "Frank Peter"
     ],
     [
+      "Dario Peter",
+      "Hans-Christian Marwedel"
+    ],
+    [
       "Dave Sonnemanns",
       "Gijs Janssen"
     ],
@@ -645,7 +657,7 @@
     ],
     [
       "Dominic Evers",
-      "Dominik Müller"
+      "Ramona Schäfer"
     ],
     [
       "Dominic Luchte",
@@ -666,6 +678,10 @@
     [
       "Dominik Hess",
       "Sebastian Lenzing"
+    ],
+    [
+      "Dominik Müller",
+      "Meike Bausch"
     ],
     [
       "Dominik Thiel",
@@ -730,10 +746,6 @@
     [
       "Emilia Kils",
       "Hans-Peter Schmitz"
-    ],
-    [
-      "Emily Schroeder",
-      "Robert Below"
     ],
     [
       "Enrico Klesse",
@@ -1740,10 +1752,6 @@
       "Philipp Nicolai Biewer"
     ],
     [
-      "Meike Bausch",
-      "Ramona Schäfer"
-    ],
-    [
       "Meinold Rothermel",
       "Sebastian Schoroth"
     ],
@@ -1850,10 +1858,6 @@
     [
       "Peppino Griguoli",
       "Thomas Schneider"
-    ],
-    [
-      "Peter Klassen",
-      "Thomas Rondinella"
     ],
     [
       "Phil Karl Ahlers",

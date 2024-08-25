@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-25T03:29:53.962226",
+  "date": "2024-08-25T09:33:16.879117",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 992,
+  "count": 994,
   "teams": [
     [
       "Abdullah Yavuz",
@@ -429,7 +429,7 @@
     ],
     [
       "Christophe Hoffmann",
-      "Luca Kaufmann"
+      "Remy Harpes"
     ],
     [
       "Christophe Hoffmann",
@@ -952,6 +952,10 @@
       "Miriam Müller"
     ],
     [
+      "Frederick Buchhorn",
+      "Laurén Schneckenberg"
+    ],
+    [
       "Frederik Gebbeken",
       "Lukas Weißelberg"
     ],
@@ -994,6 +998,10 @@
     [
       "Guido Suhrmeyer",
       "Mario Fleerkortte"
+    ],
+    [
+      "Guido Surmeyer",
+      "Jan Philipp Sebald"
     ],
     [
       "Gunther Fuchs",
@@ -1080,6 +1088,10 @@
       "Marco Rocholl"
     ],
     [
+      "Ingo Kolhoff",
+      "Marco Rocholl"
+    ],
+    [
       "Ingo Petri",
       "Tobias Diehl"
     ],
@@ -1098,10 +1110,6 @@
     [
       "Jan Ernst",
       "Steffen Machhold"
-    ],
-    [
-      "Jan Finke",
-      "Jan-Philipp Sebald"
     ],
     [
       "Jan Flegel",
@@ -1217,7 +1225,7 @@
     ],
     [
       "Jens Karnold",
-      "Tim Overath"
+      "Lukas Vogel"
     ],
     [
       "Jens Rybarczyk",
@@ -1524,10 +1532,6 @@
       "Sebastian Deckers"
     ],
     [
-      "Lutz Lüdke",
-      "Martin Bergholz"
-    ],
-    [
       "Manuel Fakler",
       "Vito Elias Zimmermann"
     ],
@@ -1584,10 +1588,6 @@
       "Maxime Buchbach"
     ],
     [
-      "Marco Rocholl",
-      "Matthias Kimna"
-    ],
-    [
       "Marco Thier",
       "Simon Knob"
     ],
@@ -1638,6 +1638,10 @@
     [
       "Markus Kloppenburg",
       "Timo Mortsiefer"
+    ],
+    [
+      "Marlene Schindler",
+      "Philipp Hug"
     ],
     [
       "Marten Ketseridis",

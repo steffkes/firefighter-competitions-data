@@ -1,12 +1,8 @@
 {
-  "date": "2024-08-25T15:43:13.827130",
+  "date": "2024-08-25T15:53:07.398528",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 1004,
+  "count": 1002,
   "teams": [
-    [
-      "",
-      ""
-    ],
     [
       "",
       ""
@@ -640,6 +636,10 @@
       "Tobias Temp"
     ],
     [
+      "Dilan Coskun",
+      "Jonas Okken"
+    ],
+    [
       "Dimitri Wolf",
       "Jan Verweyen"
     ],
@@ -842,10 +842,6 @@
     [
       "Fedi Mörs",
       "Oliver Hartmann"
-    ],
-    [
-      "Felix Fleig",
-      "Simon Rebmann"
     ],
     [
       "Felix Fuhrmann",

@@ -1,12 +1,8 @@
 {
-  "date": "2024-08-25T14:43:09.070299",
+  "date": "2024-08-25T14:52:58.393635",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 1000,
+  "count": 1002,
   "teams": [
-    [
-      "",
-      ""
-    ],
     [
       "",
       ""
@@ -536,10 +532,6 @@
       "Mathias Lorenz"
     ],
     [
-      "Daniel Ruder",
-      "Mathias Lorenz"
-    ],
-    [
       "Daniel Schild",
       "Lucas Löchel"
     ],
@@ -750,6 +742,10 @@
     [
       "Emilia Kils",
       "Hans-Peter Schmitz"
+    ],
+    [
+      "Emily Schroeder",
+      "Robert Below"
     ],
     [
       "Enrico Klesse",
@@ -1684,6 +1680,10 @@
       "Michael Friedrich"
     ],
     [
+      "Martino Jungbauer",
+      "Michael Friedrich"
+    ],
+    [
       "Marvin Gürtler",
       "Niklas Röneke"
     ],
@@ -1862,6 +1862,10 @@
     [
       "Peppino Griguoli",
       "Thomas Schneider"
+    ],
+    [
+      "Peter Klassen",
+      "Thomas Rondinella"
     ],
     [
       "Phil Karl Ahlers",

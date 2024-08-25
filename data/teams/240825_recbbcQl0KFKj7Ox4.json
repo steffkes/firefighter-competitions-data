@@ -1,11 +1,15 @@
 {
-  "date": "2024-08-25T09:33:16.879117",
+  "date": "2024-08-25T15:24:46.408650",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 994,
+  "count": 1002,
   "teams": [
     [
-      "Abdullah Yavuz",
-      "Daniel Thelen"
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
     ],
     [
       "Achim Mattes",
@@ -36,16 +40,16 @@
       "Nassim Ghrissi"
     ],
     [
-      "Alexander Audrit",
-      "Marvin Gnesner"
-    ],
-    [
       "Alexander Berghoff",
       "Louis Tebbe"
     ],
     [
       "Alexander Capellmann",
       "Tim Sistermann"
+    ],
+    [
+      "Alexander Daufer",
+      "Marvin Gnesner"
     ],
     [
       "Alexander Dresp",
@@ -57,7 +61,7 @@
     ],
     [
       "Alexander Gohlke",
-      "Emma Schmarbeck"
+      "Dennis Wieland"
     ],
     [
       "Alexander Hellwig",
@@ -125,7 +129,7 @@
     ],
     [
       "Alexander Zenck-Dürselen",
-      "Daniel Zenck-Dürselen"
+      "Moritz Wilden"
     ],
     [
       "Alicia Donner",
@@ -170,6 +174,10 @@
     [
       "Andreas Frick",
       "Sebastian Bracklow"
+    ],
+    [
+      "Andreas Friedrich",
+      "Karsten Ehrhardt"
     ],
     [
       "Andreas Fruhmann",
@@ -217,7 +225,7 @@
     ],
     [
       "Anna-Lena Wieland",
-      "Robin Gölz"
+      "Pascal Hauschild"
     ],
     [
       "Anne-Kathrin Weiß",
@@ -310,6 +318,10 @@
     [
       "Carina Hager",
       "Dominik Frigo"
+    ],
+    [
+      "Carlo Huysmans",
+      "Marcus Klauck"
     ],
     [
       "Carmelo D'Amelio",
@@ -536,8 +548,8 @@
       "Hannes Brand"
     ],
     [
-      "Daniel Sternsdorf",
-      "Maurice Holz"
+      "Daniel Thelen",
+      "Jan Kiepe"
     ],
     [
       "Daniel Thies",
@@ -562,6 +574,10 @@
     [
       "Dario Peter",
       "Frank Peter"
+    ],
+    [
+      "Dario Peter",
+      "Hans-Christian Marwedel"
     ],
     [
       "Dave Sonnemanns",
@@ -624,10 +640,6 @@
       "Tobias Temp"
     ],
     [
-      "Dilan Coskun",
-      "Jonas Okken"
-    ],
-    [
       "Dimitri Wolf",
       "Jan Verweyen"
     ],
@@ -641,11 +653,15 @@
     ],
     [
       "Dominic Evers",
-      "Dominik Müller"
+      "Ramona Schäfer"
     ],
     [
       "Dominic Luchte",
       "Ingo Hilburger"
+    ],
+    [
+      "Dominic Luchte",
+      "Tobias Frechen"
     ],
     [
       "Dominik Bär",
@@ -658,6 +674,10 @@
     [
       "Dominik Hess",
       "Sebastian Lenzing"
+    ],
+    [
+      "Dominik Müller",
+      "Meike Bausch"
     ],
     [
       "Dominik Thiel",
@@ -708,6 +728,10 @@
       "Martin Eichenlaub"
     ],
     [
+      "Elisa Ehmer",
+      "Stephan Korn"
+    ],
+    [
       "Elisa Nestler",
       "Pia Krause"
     ],
@@ -738,6 +762,10 @@
     [
       "Erik Hertkorn",
       "Felix Fuhrer"
+    ],
+    [
+      "Erik Langenhahn",
+      "Maurice Holz"
     ],
     [
       "Erik Langenhahn",
@@ -968,6 +996,10 @@
       "Justin Hahne"
     ],
     [
+      "Fynn-Luca Bügemannskemper",
+      "Tim Broemann"
+    ],
+    [
       "George Dascalescu",
       "Stefan Surbier"
     ],
@@ -1029,7 +1061,7 @@
     ],
     [
       "Hans-Christian Marwedel",
-      "Matthias Buttig"
+      "Martin Brieden"
     ],
     [
       "Hansjörg Steiner",
@@ -1142,10 +1174,6 @@
     [
       "Jan Orschel",
       "Matthias Hollmann"
-    ],
-    [
-      "Jan Philipp Schmelzer",
-      "Jonas Habbel"
     ],
     [
       "Jan Pönitz",
@@ -1305,7 +1333,7 @@
     ],
     [
       "Jonas Nies",
-      "Patrick Drescher"
+      "Simon Böhle"
     ],
     [
       "Jonas Oppermann",
@@ -1376,10 +1404,6 @@
       "Markus Kurzhals"
     ],
     [
-      "Karsten Ehrhardt",
-      "Peter Zöller"
-    ],
-    [
       "Katarina Knoch",
       "Philipp Weber"
     ],
@@ -1406,10 +1430,6 @@
     [
       "Kirsten Schneidereit",
       "Rene Krumstroh"
-    ],
-    [
-      "Kristina Weber",
-      "Stefanie Reich"
     ],
     [
       "Lars Boecker",
@@ -1446,10 +1466,6 @@
     [
       "Lea Rechenauer",
       "Sabrina Gohl"
-    ],
-    [
-      "Lena Marie Harenberg",
-      "Marcus Klauck"
     ],
     [
       "Lennard Kuna",
@@ -1580,20 +1596,12 @@
       "Sven Streiffels"
     ],
     [
-      "Marco Montillon",
-      "Stephan Korn"
-    ],
-    [
       "Marco Müller",
       "Maxime Buchbach"
     ],
     [
       "Marco Thier",
       "Simon Knob"
-    ],
-    [
-      "Marie Corsten",
-      "Tobias Frechen"
     ],
     [
       "Marie Müller",
@@ -1609,7 +1617,7 @@
     ],
     [
       "Mario Sek",
-      "Simon Böhle"
+      "Patrick Drescher"
     ],
     [
       "Mario Weiß",
@@ -1666,6 +1674,10 @@
     [
       "Martin Skwarko",
       "Max Berchem"
+    ],
+    [
+      "Martino Jungbauer",
+      "Michael Friedrich"
     ],
     [
       "Martino Jungbauer",
@@ -1744,10 +1756,6 @@
       "Philipp Nicolai Biewer"
     ],
     [
-      "Meike Bausch",
-      "Ramona Schäfer"
-    ],
-    [
       "Meinold Rothermel",
       "Sebastian Schoroth"
     ],
@@ -1782,6 +1790,10 @@
     [
       "Mihaela Buettner",
       "Szymon Piechota"
+    ],
+    [
+      "Moritz Lutschewitz",
+      "Sebastian Nußbaum"
     ],
     [
       "Moritz Spitzenpfeil",
@@ -1946,6 +1958,10 @@
     [
       "Stefanie Krause",
       "Tobias Niemeier"
+    ],
+    [
+      "Stefanie Reich",
+      "Steve Roidl"
     ],
     [
       "Steffen Lindemann",

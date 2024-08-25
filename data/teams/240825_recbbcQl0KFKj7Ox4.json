@@ -1,12 +1,8 @@
 {
-  "date": "2024-08-25T12:16:57.024016",
+  "date": "2024-08-25T12:46:15.644324",
   "competition_id": "recbbcQl0KFKj7Ox4",
   "count": 996,
   "teams": [
-    [
-      "Abdullah Yavuz",
-      "Daniel Thelen"
-    ],
     [
       "Achim Mattes",
       "Nicolas Beth"
@@ -36,16 +32,16 @@
       "Nassim Ghrissi"
     ],
     [
-      "Alexander Audrit",
-      "Marvin Gnesner"
-    ],
-    [
       "Alexander Berghoff",
       "Louis Tebbe"
     ],
     [
       "Alexander Capellmann",
       "Tim Sistermann"
+    ],
+    [
+      "Alexander Daufer",
+      "Marvin Gnesner"
     ],
     [
       "Alexander Dresp",
@@ -544,6 +540,10 @@
       "Hannes Brand"
     ],
     [
+      "Daniel Thelen",
+      "Jan Kiepe"
+    ],
+    [
       "Daniel Thies",
       "Denis Erbe"
     ],
@@ -650,6 +650,10 @@
     [
       "Dominic Luchte",
       "Ingo Hilburger"
+    ],
+    [
+      "Dominic Luchte",
+      "Tobias Frechen"
     ],
     [
       "Dominik Bär",
@@ -1586,10 +1590,6 @@
     [
       "Marco Thier",
       "Simon Knob"
-    ],
-    [
-      "Marie Corsten",
-      "Tobias Frechen"
     ],
     [
       "Marie Müller",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-25T11:42:44.361614",
+  "date": "2024-08-25T11:53:15.372323",
   "competition_id": "recbbcQl0KFKj7Ox4",
-  "count": 994,
+  "count": 996,
   "teams": [
     [
       "Abdullah Yavuz",
@@ -57,7 +57,7 @@
     ],
     [
       "Alexander Gohlke",
-      "Emma Schmarbeck"
+      "Dennis Wieland"
     ],
     [
       "Alexander Hellwig",
@@ -980,6 +980,10 @@
       "Justin Hahne"
     ],
     [
+      "Fynn-Luca Bügemannskemper",
+      "Tim Broemann"
+    ],
+    [
       "George Dascalescu",
       "Stefan Surbier"
     ],
@@ -1154,10 +1158,6 @@
     [
       "Jan Orschel",
       "Matthias Hollmann"
-    ],
-    [
-      "Jan Philipp Schmelzer",
-      "Jonas Habbel"
     ],
     [
       "Jan Pönitz",
@@ -1778,6 +1778,10 @@
     [
       "Mihaela Buettner",
       "Szymon Piechota"
+    ],
+    [
+      "Moritz Lutschewitz",
+      "Sebastian Nußbaum"
     ],
     [
       "Moritz Spitzenpfeil",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-26T18:13:56.354359",
+  "date": "2024-08-26T18:34:23.479922",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 362,
+  "count": 374,
   "teams": [
     [
       "Adam Marcinkowski"
@@ -214,6 +214,9 @@
       "Lea Gärtner"
     ],
     [
+      "Leon Brückmann"
+    ],
+    [
       "Leon Russ"
     ],
     [
@@ -260,6 +263,9 @@
     ],
     [
       "Marta Arrobe Da Encarnacao"
+    ],
+    [
+      "Marvin Bilke"
     ],
     [
       "Marvin Hänel"
@@ -422,6 +428,9 @@
     ],
     [
       "Uwe Heise"
+    ],
+    [
+      "Vincent Gerstemeier"
     ],
     [
       "Vladyslav Oliinyk"
@@ -599,6 +608,10 @@
       "Pascal Kosfeld"
     ],
     [
+      "Leon Brückmann",
+      "Vincent Gerstemeier"
+    ],
+    [
       "Lucas Weißmann",
       "Vladyslav Oliinyk"
     ],
@@ -617,6 +630,10 @@
     [
       "Marta Arrobe Da Encarnacao",
       "Matthias Ascheberg"
+    ],
+    [
+      "Marvin Bilke",
+      "Nils Kloock"
     ],
     [
       "Mathias Hey",
@@ -820,6 +837,13 @@
       "Jan Heppeler",
       "Philip Gotthardt",
       "Thore Schmidt"
+    ],
+    [
+      "Leon Brückmann",
+      "Lukas Brinkmann",
+      "Marvin Bilke",
+      "Nils Kloock",
+      "Vincent Gerstemeier"
     ]
   ]
 }

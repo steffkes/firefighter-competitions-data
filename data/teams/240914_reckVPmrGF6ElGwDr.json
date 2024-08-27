@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-27T06:14:52.874233",
+  "date": "2024-08-27T06:35:39.147943",
   "competition_id": "reckVPmrGF6ElGwDr",
-  "count": 120,
+  "count": 122,
   "teams": [
     [
       "Alessia Hörning",
@@ -242,6 +242,10 @@
     [
       "Philipp Schneider",
       "Sascha Karmann"
+    ],
+    [
+      "Robin Wurster",
+      "Stefan Kabuth"
     ]
   ]
 }

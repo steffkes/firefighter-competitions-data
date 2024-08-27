@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-27T16:53:02.691589",
+  "date": "2024-08-27T17:09:29.560266",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 388,
+  "count": 396,
   "teams": [
     [
       "Adam Marcinkowski"
@@ -325,6 +325,9 @@
       "Michael Weiß"
     ],
     [
+      "Michel Bantel"
+    ],
+    [
       "Mike Hoppe"
     ],
     [
@@ -543,6 +546,10 @@
     [
       "Daniel Schimank",
       "Michael Bartmann"
+    ],
+    [
+      "Denny Goldhan",
+      "Michel Bantel"
     ],
     [
       "Dietmar Kirsch",
@@ -849,6 +856,13 @@
       "Michael Weiß",
       "Niels Bessert",
       "Nils Fröhlich"
+    ],
+    [
+      "Denny Goldhan",
+      "Jannik Wagner",
+      "Marvin Stöbener",
+      "Michel Bantel",
+      "Oliver Wichert"
     ],
     [
       "Emil Schmidt",

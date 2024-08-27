@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-26T15:26:12.389785",
+  "date": "2024-08-27T10:47:05.060472",
   "competition_id": "reckVPmrGF6ElGwDr",
-  "count": 118,
+  "count": 122,
   "teams": [
     [
       "Alessia Hörning",
@@ -22,6 +22,10 @@
     [
       "Andreas Conrad",
       "Jan Kühn"
+    ],
+    [
+      "Andreas Engel",
+      "Jannik Schwickart"
     ],
     [
       "Anna Bermuth",
@@ -238,6 +242,10 @@
     [
       "Philipp Schneider",
       "Sascha Karmann"
+    ],
+    [
+      "Robin Wurster",
+      "Stefan Kabuth"
     ]
   ]
 }

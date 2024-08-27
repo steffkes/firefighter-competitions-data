@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-26T15:26:15.182019",
+  "date": "2024-08-27T10:47:08.069803",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 362,
+  "count": 386,
   "teams": [
     [
       "Adam Marcinkowski"
@@ -214,6 +214,9 @@
       "Lea Gärtner"
     ],
     [
+      "Leon Brückmann"
+    ],
+    [
       "Leon Russ"
     ],
     [
@@ -260,6 +263,9 @@
     ],
     [
       "Marta Arrobe Da Encarnacao"
+    ],
+    [
+      "Marvin Bilke"
     ],
     [
       "Marvin Hänel"
@@ -418,10 +424,16 @@
       "Tobias Fischer"
     ],
     [
+      "Tobias Fischer"
+    ],
+    [
       "Torben Voigt"
     ],
     [
       "Uwe Heise"
+    ],
+    [
+      "Vincent Gerstemeier"
     ],
     [
       "Vladyslav Oliinyk"
@@ -587,6 +599,10 @@
       "Lars Langethal"
     ],
     [
+      "Lars Markwardt",
+      "Pascal Kosfeld"
+    ],
+    [
       "Laura Andres",
       "Marco Juffa"
     ],
@@ -597,6 +613,10 @@
     [
       "Lena Schuster",
       "Pascal Kosfeld"
+    ],
+    [
+      "Leon Brückmann",
+      "Vincent Gerstemeier"
     ],
     [
       "Lucas Weißmann",
@@ -617,6 +637,10 @@
     [
       "Marta Arrobe Da Encarnacao",
       "Matthias Ascheberg"
+    ],
+    [
+      "Marvin Bilke",
+      "Nils Kloock"
     ],
     [
       "Mathias Hey",
@@ -726,6 +750,12 @@
       "Marc Albers"
     ],
     [
+      "Anja Riehn",
+      "Lena Schuster",
+      "Meike Denecke",
+      "Melanie Schönewald"
+    ],
+    [
       "Christian Lutat",
       "Florian Krautwurst",
       "Leander Schalcher",
@@ -820,6 +850,20 @@
       "Jan Heppeler",
       "Philip Gotthardt",
       "Thore Schmidt"
+    ],
+    [
+      "Felix Dörries",
+      "Kai Reuter",
+      "Lena Schuster",
+      "Markus Ahrend",
+      "Melanie Schönewald"
+    ],
+    [
+      "Leon Brückmann",
+      "Lukas Brinkmann",
+      "Marvin Bilke",
+      "Nils Kloock",
+      "Vincent Gerstemeier"
     ]
   ]
 }

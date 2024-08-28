@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-27T15:27:27.282974",
+  "date": "2024-08-28T05:11:04.733989",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 388,
+  "count": 406,
   "teams": [
     [
       "Adam Marcinkowski"
@@ -35,6 +35,9 @@
     ],
     [
       "Alexander Reitz"
+    ],
+    [
+      "Amir Jazmati"
     ],
     [
       "Andre Schüddekopf"
@@ -86,6 +89,9 @@
     ],
     [
       "Christian (Jimbo) Franzen"
+    ],
+    [
+      "Christian Dillinger"
     ],
     [
       "Christian Follmann"
@@ -161,6 +167,9 @@
     ],
     [
       "Jann Martens"
+    ],
+    [
+      "Jannik Wagner"
     ],
     [
       "Jens Obermann"
@@ -325,6 +334,9 @@
       "Michael Weiß"
     ],
     [
+      "Michel Bantel"
+    ],
+    [
       "Mike Hoppe"
     ],
     [
@@ -421,6 +433,9 @@
       "Thore Schmidt"
     ],
     [
+      "Thore Steinmetz"
+    ],
+    [
       "Thorsten Schalcher"
     ],
     [
@@ -501,6 +516,10 @@
       "Marc Albers"
     ],
     [
+      "Amir Jazmati",
+      "Thore Steinmetz"
+    ],
+    [
       "Anja Riehn",
       "Hans- Ch. Marwedel"
     ],
@@ -533,6 +552,10 @@
       "Michael Menten"
     ],
     [
+      "Christian Dillinger",
+      "Tobias Dösselmann"
+    ],
+    [
       "Christian Follmann",
       "David Probst"
     ],
@@ -543,6 +566,10 @@
     [
       "Daniel Schimank",
       "Michael Bartmann"
+    ],
+    [
+      "Denny Goldhan",
+      "Michel Bantel"
     ],
     [
       "Dietmar Kirsch",
@@ -567,6 +594,10 @@
     [
       "Hans-Christian Marwedel",
       "Phillip Blau"
+    ],
+    [
+      "Hendrik Kumpe",
+      "Lennart Backhaus"
     ],
     [
       "Jan Dietz",
@@ -849,6 +880,13 @@
       "Michael Weiß",
       "Niels Bessert",
       "Nils Fröhlich"
+    ],
+    [
+      "Denny Goldhan",
+      "Jannik Wagner",
+      "Marvin Stöbener",
+      "Michel Bantel",
+      "Oliver Wichert"
     ],
     [
       "Emil Schmidt",

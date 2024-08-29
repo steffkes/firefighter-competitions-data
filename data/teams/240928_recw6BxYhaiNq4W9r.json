@@ -1,7 +1,7 @@
 {
-  "date": "2024-08-29T09:29:52.245280",
+  "date": "2024-08-29T15:30:15.181887",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 418,
+  "count": 431,
   "teams": [
     [
       "Adam Marcinkowski"
@@ -107,6 +107,9 @@
     ],
     [
       "David Probst"
+    ],
+    [
+      "Denny Goldhahn"
     ],
     [
       "Desirée Reitz"
@@ -290,6 +293,9 @@
     ],
     [
       "Marvin Hänel"
+    ],
+    [
+      "Marvin Stöbener"
     ],
     [
       "Mathias Hey"
@@ -706,6 +712,10 @@
       "Nils Kloock"
     ],
     [
+      "Marvin Stöbener",
+      "Oliver Wichert"
+    ],
+    [
       "Mathias Hey",
       "Nick Kuhlen"
     ],
@@ -734,10 +744,6 @@
       "N.N. N.N."
     ],
     [
-      "N.N. N.N.",
-      "N.N. N.N."
-    ],
-    [
       "Nele Marx",
       "Oliver Göllnitz"
     ],
@@ -760,6 +766,10 @@
     [
       "Patrick Vierhaus",
       "Vivien Eick"
+    ],
+    [
+      "Phil Heise",
+      "Tim Klinge"
     ],
     [
       "Pia Bretsch",
@@ -821,6 +831,12 @@
       "Lena Schuster",
       "Meike Denecke",
       "Melanie Schönewald"
+    ],
+    [
+      "Chenoa Polauke",
+      "Franziska Wickmann",
+      "Lilli Bierbaum",
+      "Wiebke Lührs"
     ],
     [
       "Christian Lutat",
@@ -938,6 +954,13 @@
       "Marvin Bilke",
       "Nils Kloock",
       "Vincent Gerstemeier"
+    ],
+    [
+      "Leon Ullrich",
+      "Maximilian Winkelmann",
+      "Nikolas Woitscheck",
+      "Phil Heise",
+      "Tim Klinge"
     ]
   ]
 }

@@ -1,11 +1,15 @@
 {
-  "date": "2024-09-03T11:37:06.633038",
+  "date": "2024-09-03T11:42:55.207260",
   "competition_id": "reckVPmrGF6ElGwDr",
-  "count": 112,
+  "count": 138,
   "teams": [
     [
       "Alessia Hörning",
       "Viktoria Klik"
+    ],
+    [
+      "Alexander Schnurr",
+      "Claus Wagner"
     ],
     [
       "Andre Schnurpfeil",
@@ -26,6 +30,18 @@
     [
       "Anna Bermuth",
       "Martin Frehmann"
+    ],
+    [
+      "Anna Henke",
+      "Christian Alflen"
+    ],
+    [
+      "Ben Komo",
+      "Boris Schaack"
+    ],
+    [
+      "Benjamin Henrichs",
+      "Timo Cioch"
     ],
     [
       "Christian Bertram",
@@ -80,6 +96,10 @@
       "Elli Gottschalk"
     ],
     [
+      "Dirk Debertshäuser",
+      "Marc Perschke"
+    ],
+    [
       "Dominik Jaufmann",
       "Magnus Ebert"
     ],
@@ -92,12 +112,28 @@
       "Viktor Luff"
     ],
     [
+      "Elias Jantzer",
+      "Johann Molitor"
+    ],
+    [
+      "Emilie Ebert",
+      "Ida Ebert"
+    ],
+    [
+      "Enrico Piras",
+      "Marc Besch"
+    ],
+    [
       "Eric Niebergall",
       "Florian Domis"
     ],
     [
       "Fabian Wotzlaw",
       "Tobias Steinmetz"
+    ],
+    [
+      "Florian Bajusz",
+      "Jochen Fröhlich"
     ],
     [
       "Florian Erbacher",
@@ -144,6 +180,10 @@
       "Max Gillmann"
     ],
     [
+      "Jeremy Schmalenbach",
+      "Malte Weitz"
+    ],
+    [
       "Joel Stock",
       "Robin Köhler"
     ],
@@ -166,6 +206,10 @@
     [
       "Julia Dawid",
       "Sebastian Frank"
+    ],
+    [
+      "Julia Dawid",
+      "Vanessa Arroja"
     ],
     [
       "Julian Distelkamp",
@@ -216,8 +260,16 @@
       "Nouman Bazerji"
     ],
     [
+      "Niclas Geier",
+      "Paul Wiemann"
+    ],
+    [
       "Paul Herrmann",
       "Simon Helfenstein"
+    ],
+    [
+      "Peter Minet",
+      "Philipp Krimmel"
     ],
     [
       "Philipp Schneider",

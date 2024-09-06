@@ -1,7 +1,7 @@
 {
-  "date": "2024-09-06T03:26:55.791567",
+  "date": "2024-09-06T09:30:40.035846",
   "competition_id": "recgwPH7vAXUg5PBu",
-  "count": 566,
+  "count": 562,
   "teams": [
     [
       "Adrian Bauer",
@@ -281,10 +281,6 @@
     ],
     [
       "Christophe Hoffmann",
-      "Claude Kaufmann"
-    ],
-    [
-      "Christophe Hoffmann",
       "Remy Harpes"
     ],
     [
@@ -294,6 +290,10 @@
     [
       "Christopher Wiest",
       "Philipp Rebmann"
+    ],
+    [
+      "Claude Kaufmann",
+      "Martin Loos"
     ],
     [
       "Claudio Freinek",
@@ -534,10 +534,6 @@
     [
       "Frank Rebholz",
       "Pascal Rebholz"
-    ],
-    [
-      "Franziska Elmas",
-      "Linda Hildebrand"
     ],
     [
       "Frederic Keller",
@@ -942,10 +938,6 @@
     [
       "Martin Bauer",
       "Patrick Pfister"
-    ],
-    [
-      "Martin Blepp",
-      "Nico Bentele"
     ],
     [
       "Martin Buchwalder",

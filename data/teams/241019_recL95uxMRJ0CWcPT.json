@@ -1,5 +1,5 @@
 {
-  "date": "2024-09-09T09:30:59.934984",
+  "date": "2024-09-09T21:53:18.893654",
   "competition_id": "recL95uxMRJ0CWcPT",
   "count": 608,
   "teams": [
@@ -97,7 +97,7 @@
     ],
     [
       "Andreas Wilhelm",
-      "Sven Reuter"
+      "Ferdinand Oser"
     ],
     [
       "Andreas Wirth",
@@ -184,6 +184,10 @@
       "Christian Eckert"
     ],
     [
+      "Benjamin Lamprecht",
+      "Justin-Felipe Kull"
+    ],
+    [
       "Benni Haupt",
       "Sebastian Hafner"
     ],
@@ -224,6 +228,10 @@
       "Mark Winter"
     ],
     [
+      "Christian Eckert",
+      "Marvin Sander"
+    ],
+    [
       "Christian Fleschhut",
       "Markus König"
     ],
@@ -242,6 +250,10 @@
     [
       "Christian Kehrlein",
       "Michael Kehrlein"
+    ],
+    [
+      "Christian Maier",
+      "Fabian Wendel"
     ],
     [
       "Christian Mallaun",
@@ -346,10 +358,6 @@
     [
       "Daniel Zimmermann",
       "Florian Schlutt"
-    ],
-    [
-      "David Klima",
-      "Stephan Maier"
     ],
     [
       "Denis Hetfeld",
@@ -464,10 +472,6 @@
       "Fabio Minosa"
     ],
     [
-      "Fabian Wendel",
-      "Pierre Dörfler"
-    ],
-    [
       "Fabian Werner",
       "Simon Hägele"
     ],
@@ -506,6 +510,10 @@
     [
       "Florian Forstner",
       "Maximilian Brünner"
+    ],
+    [
+      "Florian Guffler",
+      "Markus Metty"
     ],
     [
       "Florian Harder",
@@ -598,10 +606,6 @@
     [
       "Hans-Georg Linstow von",
       "Pius Huber"
-    ],
-    [
-      "Heiko Sonder",
-      "Rudi Wengert"
     ],
     [
       "Heinz Pfisterer",
@@ -792,10 +796,6 @@
       "Matthias Maurer"
     ],
     [
-      "Justin-Felipe Kull",
-      "Sebastian Neumaier"
-    ],
-    [
       "Jörg Bogenschütz",
       "Volker Müller"
     ],
@@ -852,8 +852,8 @@
       "Sascha Unsöld"
     ],
     [
-      "Lena Reinker",
-      "Leon Kubanke"
+      "Leon Kubanke",
+      "Michael Gassner"
     ],
     [
       "Leon Siegel",
@@ -944,10 +944,6 @@
       "Patrick Raapke"
     ],
     [
-      "Marcel Sander",
-      "Marvin Sander"
-    ],
-    [
       "Marco Fischer",
       "Patrick Haid"
     ],
@@ -998,10 +994,6 @@
     [
       "Markus Klink",
       "Thomas Kern"
-    ],
-    [
-      "Markus Metty",
-      "Peter Frömmrich"
     ],
     [
       "Markus Meyers",
@@ -1076,6 +1068,10 @@
       "Simon Schairer"
     ],
     [
+      "Maximilian Schmidt",
+      "Stephan Maier"
+    ],
+    [
       "Michael Arnegger",
       "Robin Kirchmaier"
     ],
@@ -1101,7 +1097,7 @@
     ],
     [
       "Moritz Keller",
-      "Sascha Engelhardt"
+      "Sebastian Neumaier"
     ],
     [
       "Nick Genz",
@@ -1166,6 +1162,10 @@
     [
       "Roman Waldenmaier",
       "Sven Butscher"
+    ],
+    [
+      "Rudi Wengert",
+      "Vanessa Butzer"
     ],
     [
       "Samuel Glemser",

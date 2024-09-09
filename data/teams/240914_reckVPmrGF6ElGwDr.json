@@ -1,7 +1,7 @@
 {
-  "date": "2024-09-09T09:30:55.005130",
+  "date": "2024-09-09T21:53:14.413708",
   "competition_id": "reckVPmrGF6ElGwDr",
-  "count": 152,
+  "count": 166,
   "teams": [
     [
       "Alessia Hörning",
@@ -28,6 +28,10 @@
       "Jannik Schwickart"
     ],
     [
+      "Andreas Weißelberg",
+      "Marco Schmelzer"
+    ],
+    [
       "Anna Bermuth",
       "Martin Frehmann"
     ],
@@ -48,12 +52,24 @@
       "Michael Keil"
     ],
     [
+      "Carmen Domann",
+      "Marvin Schleiffer"
+    ],
+    [
       "Christian Bertram",
       "Simon Dechert"
     ],
     [
       "Christian Herkströter",
       "Niklas Nolte"
+    ],
+    [
+      "Christian Klimaschka",
+      "Jan Philipp Schmelzer"
+    ],
+    [
+      "Christian Mauer",
+      "Florian Müller"
     ],
     [
       "Christian Steigerwald",
@@ -144,6 +160,10 @@
       "Tobias Diedrigkeit"
     ],
     [
+      "Florian Feldhaus",
+      "Leon Merz"
+    ],
+    [
       "Florian Jung",
       "Marvin Kolta"
     ],
@@ -154,6 +174,10 @@
     [
       "Frederik Gebbeken",
       "Lukas Weißelberg"
+    ],
+    [
+      "Gehring Marcel",
+      "Trarbach Fabian"
     ],
     [
       "Gerard Stengele",
@@ -238,6 +262,10 @@
     [
       "Lasse Timmerhues",
       "Marc Dufek"
+    ],
+    [
+      "Luca Hatzmann",
+      "Tom Halterbeck"
     ],
     [
       "Lukas Himbert",

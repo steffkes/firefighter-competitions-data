@@ -1,5 +1,5 @@
 {
-  "date": "2024-09-09T13:18:58.585303",
+  "date": "2024-09-09T13:34:42.262439",
   "competition_id": "recL95uxMRJ0CWcPT",
   "count": 608,
   "teams": [
@@ -226,6 +226,10 @@
     [
       "Christian Daiß",
       "Mark Winter"
+    ],
+    [
+      "Christian Eckert",
+      "Marvin Sander"
     ],
     [
       "Christian Fleschhut",
@@ -944,10 +948,6 @@
       "Patrick Raapke"
     ],
     [
-      "Marcel Sander",
-      "Marvin Sander"
-    ],
-    [
       "Marco Fischer",
       "Patrick Haid"
     ],
@@ -1101,7 +1101,7 @@
     ],
     [
       "Moritz Keller",
-      "Sascha Engelhardt"
+      "Sebastian Neumaier"
     ],
     [
       "Nick Genz",

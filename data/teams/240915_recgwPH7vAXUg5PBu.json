@@ -1,5 +1,5 @@
 {
-  "date": "2024-09-09T03:33:19.003254",
+  "date": "2024-09-09T09:30:56.282483",
   "competition_id": "recgwPH7vAXUg5PBu",
   "count": 560,
   "teams": [
@@ -192,10 +192,6 @@
       "Tobias Breining"
     ],
     [
-      "Bernd Helmer",
-      "Daniel Disam"
-    ],
-    [
       "Bernd Schamberger",
       "Oliver Drescher"
     ],
@@ -281,7 +277,7 @@
     ],
     [
       "Christophe Hoffmann",
-      "Remy Harpes"
+      "Claudia Kauffmann"
     ],
     [
       "Christopher Birkle",
@@ -306,6 +302,10 @@
     [
       "Damian Pyka",
       "Stefan Matheis"
+    ],
+    [
+      "Daniel Disam",
+      "Dominik Jaeckle"
     ],
     [
       "Daniel Grujic",
@@ -400,10 +400,6 @@
       "Martin Sayer"
     ],
     [
-      "Dominik Jaeckle",
-      "Marvin Mocker"
-    ],
-    [
       "Elina Grenacher",
       "Seraina Heid"
     ],
@@ -486,10 +482,6 @@
     [
       "Felix Rombach",
       "Paul Ebel"
-    ],
-    [
-      "Felix Stiegele",
-      "Steven Müller"
     ],
     [
       "Felix Stöckle",
@@ -702,10 +694,6 @@
     [
       "Julian Vehlgut",
       "Thomas Korz"
-    ],
-    [
-      "Juliana Bednar",
-      "Tobias Alber"
     ],
     [
       "Juliane Schmidt",
@@ -952,6 +940,10 @@
       "Sarah Bitzer"
     ],
     [
+      "Marvin Mocker",
+      "Steven Müller"
+    ],
+    [
       "Matthias Schmidt",
       "Michael Moor"
     ],
@@ -992,8 +984,16 @@
       "Philipp Stöhr"
     ],
     [
+      "Michel Devico",
+      "Simlon Wannenwetsch"
+    ],
+    [
       "Mika Grüner",
       "Tim Schall"
+    ],
+    [
+      "Mirco Zahner",
+      "Nick Genz"
     ],
     [
       "Moritz Leidolt",
@@ -1010,10 +1010,6 @@
     [
       "Nenad Bosic",
       "Sasa Bosic"
-    ],
-    [
-      "Nick Genz",
-      "Tim Klein"
     ],
     [
       "Niclas Siegel",
@@ -1118,6 +1114,10 @@
     [
       "Thomas Nagel",
       "Tobias Prenzel"
+    ],
+    [
+      "Tim Klein",
+      "Tobias Alber"
     ],
     [
       "Tim Köhle",

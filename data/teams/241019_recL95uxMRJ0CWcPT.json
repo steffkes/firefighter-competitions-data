@@ -1,7 +1,7 @@
 {
-  "date": "2024-09-10T13:33:49.159067",
+  "date": "2024-09-10T13:43:04.979312",
   "competition_id": "recL95uxMRJ0CWcPT",
-  "count": 608,
+  "count": 606,
   "teams": [
     [
       "Adrian Dennochweiler",
@@ -37,7 +37,7 @@
     ],
     [
       "Alexander Schmid",
-      "Michael Österreicher"
+      "Michael Maier"
     ],
     [
       "Alexander Schröder",
@@ -1076,16 +1076,16 @@
       "Niko Tursky"
     ],
     [
-      "Michael Maier",
-      "Simon Becker"
-    ],
-    [
       "Michael Mann",
       "Tobias Staiger"
     ],
     [
       "Michael Wetzel",
       "Philipp Grimm"
+    ],
+    [
+      "Michael Österreicher",
+      "Simon Becker"
     ],
     [
       "Monika Ziegler",
@@ -1170,10 +1170,6 @@
     [
       "Samuel Glemser",
       "Tobias Missfelder"
-    ],
-    [
-      "Sandro Stängle",
-      "Sebastian Herrmann"
     ],
     [
       "Sebastian Brüstle",

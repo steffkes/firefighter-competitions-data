@@ -1,7 +1,7 @@
 {
-  "date": "2024-09-10T03:27:45.732911",
+  "date": "2024-09-10T15:53:05.283966",
   "competition_id": "recL95uxMRJ0CWcPT",
-  "count": 608,
+  "count": 610,
   "teams": [
     [
       "Adrian Dennochweiler",
@@ -37,7 +37,7 @@
     ],
     [
       "Alexander Schmid",
-      "Michael Österreicher"
+      "Michael Maier"
     ],
     [
       "Alexander Schröder",
@@ -366,6 +366,10 @@
     [
       "Dennis Fleege",
       "Matthias Lorenz"
+    ],
+    [
+      "Dennis Gotzler",
+      "Philipp Jäger"
     ],
     [
       "Dennis Heitzenröther",
@@ -968,6 +972,10 @@
       "Vinzenz Abele"
     ],
     [
+      "Marcus Fritz",
+      "Thomas Gurschler"
+    ],
+    [
       "Marcus Wichner",
       "Pierre Huber"
     ],
@@ -1076,16 +1084,16 @@
       "Niko Tursky"
     ],
     [
-      "Michael Maier",
-      "Simon Becker"
-    ],
-    [
       "Michael Mann",
       "Tobias Staiger"
     ],
     [
       "Michael Wetzel",
       "Philipp Grimm"
+    ],
+    [
+      "Michael Österreicher",
+      "Simon Becker"
     ],
     [
       "Monika Ziegler",
@@ -1170,10 +1178,6 @@
     [
       "Samuel Glemser",
       "Tobias Missfelder"
-    ],
-    [
-      "Sandro Stängle",
-      "Sebastian Herrmann"
     ],
     [
       "Sebastian Brüstle",

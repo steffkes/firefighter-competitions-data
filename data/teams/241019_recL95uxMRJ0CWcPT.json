@@ -1,5 +1,5 @@
 {
-  "date": "2024-09-11T04:54:28.976192",
+  "date": "2024-09-11T05:11:08.352044",
   "competition_id": "recL95uxMRJ0CWcPT",
   "count": 610,
   "teams": [
@@ -186,6 +186,10 @@
     [
       "Benjamin Lamprecht",
       "Justin-Felipe Kull"
+    ],
+    [
+      "Benjamin Simon",
+      "Tobias Daser"
     ],
     [
       "Benni Haupt",
@@ -425,7 +429,7 @@
     ],
     [
       "Elias Vogt",
-      "Tobias Daser"
+      "Matthias Hefele"
     ],
     [
       "Enrico Kohl",
@@ -441,7 +445,7 @@
     ],
     [
       "Erik Rosauer",
-      "Matthias Moore"
+      "Oliver Schwanda"
     ],
     [
       "Evelyn Heinrich",
@@ -1218,10 +1222,6 @@
     [
       "Tobias Kreienkamp",
       "Yannik Fuß"
-    ],
-    [
-      "Tobias Schreck",
-      "Werner Dietrich"
     ]
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "date": "2024-09-10T21:33:40.347103",
+  "date": "2024-09-11T06:15:20.374170",
   "competition_id": "recL95uxMRJ0CWcPT",
   "count": 610,
   "teams": [
@@ -188,6 +188,10 @@
       "Justin-Felipe Kull"
     ],
     [
+      "Benjamin Simon",
+      "Tobias Daser"
+    ],
+    [
       "Benni Haupt",
       "Sebastian Hafner"
     ],
@@ -245,7 +249,7 @@
     ],
     [
       "Christian Janzen",
-      "Dario Liebe"
+      "Pierre Huber"
     ],
     [
       "Christian Kehrlein",
@@ -360,6 +364,10 @@
       "Florian Schlutt"
     ],
     [
+      "Dario Liebe",
+      "Marcus Wichner"
+    ],
+    [
       "Denis Hetfeld",
       "Michael Göhringer"
     ],
@@ -425,7 +433,7 @@
     ],
     [
       "Elias Vogt",
-      "Tobias Daser"
+      "Matthias Hefele"
     ],
     [
       "Enrico Kohl",
@@ -441,7 +449,7 @@
     ],
     [
       "Erik Rosauer",
-      "Matthias Moore"
+      "Oliver Schwanda"
     ],
     [
       "Evelyn Heinrich",
@@ -589,7 +597,7 @@
     ],
     [
       "Günther Hindelang",
-      "Steve Roidl"
+      "Luca Eisele"
     ],
     [
       "Hanna Schinagl",
@@ -976,10 +984,6 @@
       "Thomas Gurschler"
     ],
     [
-      "Marcus Wichner",
-      "Pierre Huber"
-    ],
-    [
       "Marius Lucius",
       "Nils Hechtelberger"
     ],
@@ -1218,10 +1222,6 @@
     [
       "Tobias Kreienkamp",
       "Yannik Fuß"
-    ],
-    [
-      "Tobias Schreck",
-      "Werner Dietrich"
     ]
   ]
 }

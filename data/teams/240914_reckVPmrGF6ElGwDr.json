@@ -1,7 +1,7 @@
 {
-  "date": "2024-09-14T03:27:03.193440",
+  "date": "2024-09-14T09:25:50.020118",
   "competition_id": "reckVPmrGF6ElGwDr",
-  "count": 176,
+  "count": 178,
   "teams": [
     [
       "Alessia Hörning",
@@ -84,6 +84,10 @@
       "Tim Elsenheimer"
     ],
     [
+      "Daniel Gantz",
+      "Dominik Jaufmann"
+    ],
+    [
       "Daniel Junglas",
       "Julius Rohn"
     ],
@@ -122,10 +126,6 @@
     [
       "Dirk Debertshäuser",
       "Marc Perschke"
-    ],
-    [
-      "Dominik Jaufmann",
-      "Magnus Ebert"
     ],
     [
       "Dominik Jonas Kilian",
@@ -334,6 +334,10 @@
     [
       "Nicolas Keitz",
       "Paul Ernst"
+    ],
+    [
+      "Nino Haase",
+      "Tobias Hach"
     ],
     [
       "Pascal Hofmann",

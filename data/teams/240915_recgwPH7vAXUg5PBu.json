@@ -1,8 +1,12 @@
 {
-  "date": "2024-09-15T11:52:45.569567",
+  "date": "2024-09-15T12:18:00.064240",
   "competition_id": "recgwPH7vAXUg5PBu",
   "count": 550,
   "teams": [
+    [
+      "",
+      ""
+    ],
     [
       "",
       ""
@@ -413,6 +417,10 @@
     ],
     [
       "Fabian Borgia",
+      "Heiko Witzani"
+    ],
+    [
+      "Fabian Borgia",
       "Michael Vogel"
     ],
     [
@@ -764,10 +772,6 @@
       "Rico Glatzer"
     ],
     [
-      "Lars Wiezorek",
-      "Markus Krammer"
-    ],
-    [
       "Laurin Gührs",
       "Mike Reif"
     ],
@@ -1042,10 +1046,6 @@
     [
       "Robin Schulte",
       "Ronny Duesterhoeft"
-    ],
-    [
-      "Robin Wurster",
-      "Stefan Kabuth"
     ],
     [
       "Roland Kallinich",

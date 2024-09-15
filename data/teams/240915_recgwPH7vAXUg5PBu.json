@@ -1,8 +1,12 @@
 {
-  "date": "2024-09-15T13:42:59.179785",
+  "date": "2024-09-15T13:52:58.990621",
   "competition_id": "recgwPH7vAXUg5PBu",
   "count": 550,
   "teams": [
+    [
+      "",
+      ""
+    ],
     [
       "",
       ""
@@ -46,10 +50,6 @@
     [
       "Albrecht Gutjahr",
       "Martin Weber"
-    ],
-    [
-      "Alex Maier",
-      "Pascal Köberlin"
     ],
     [
       "Alexander Erben",

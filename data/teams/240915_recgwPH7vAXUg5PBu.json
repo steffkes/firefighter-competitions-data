@@ -1,5 +1,5 @@
 {
-  "date": "2024-09-15T09:26:02.198977",
+  "date": "2024-09-15T15:33:38.949572",
   "competition_id": "recgwPH7vAXUg5PBu",
   "count": 550,
   "teams": [
@@ -92,12 +92,12 @@
       "Henry Glanz"
     ],
     [
-      "Andrea Maluck",
-      "Luana Grenacher"
+      "Andre Jeserig",
+      "Elias Lechner"
     ],
     [
-      "Andreas Bauer",
-      "Yannik Grüneberg"
+      "Andrea Maluck",
+      "Luana Grenacher"
     ],
     [
       "Andreas Frick",
@@ -134,14 +134,6 @@
     [
       "Andreas Walbert",
       "Karl-Heinz Müller"
-    ],
-    [
-      "Andreas Wilhelm",
-      "Ferdinand Oser"
-    ],
-    [
-      "Andreas Wölfli",
-      "Samuel Ackermann"
     ],
     [
       "André Schwarz",
@@ -209,7 +201,7 @@
     ],
     [
       "Can Vogel",
-      "Fariborz Rahnama"
+      "Jonas Vohrer"
     ],
     [
       "Carsten Willing",
@@ -304,6 +296,10 @@
       "Stefan Matheis"
     ],
     [
+      "Damian Pyka",
+      "Tobias Diedrigkeit"
+    ],
+    [
       "Daniel Disam",
       "Dominik Jaeckle"
     ],
@@ -381,7 +377,7 @@
     ],
     [
       "Dominic Krämer",
-      "Felix Beilharz"
+      "Robin Lunghard"
     ],
     [
       "Dominic Scholz",
@@ -413,6 +409,10 @@
     ],
     [
       "Fabian Borgia",
+      "Heiko Witzani"
+    ],
+    [
+      "Fabian Borgia",
       "Michael Vogel"
     ],
     [
@@ -424,12 +424,16 @@
       "Manuel Müller"
     ],
     [
+      "Fabian Kern",
+      "Martin Bauer"
+    ],
+    [
       "Fabian Kluge",
       "Maimuna Krüger"
     ],
     [
       "Fabian Missfelder",
-      "Severin Frank"
+      "Lukas Gönner"
     ],
     [
       "Fabian Schillinger",
@@ -476,12 +480,12 @@
       "Paul Ebel"
     ],
     [
-      "Felix Stöckle",
-      "Florian Mazeth"
+      "Ferdinand Oser",
+      "Stefanie Hägele"
     ],
     [
       "Ferdinand Oser",
-      "Stefanie Hägele"
+      "Tobias Diedrigkeit"
     ],
     [
       "Finn Seibold",
@@ -500,6 +504,14 @@
       "Hugo Hölzle"
     ],
     [
+      "Florian Mazeth",
+      "Hendrik Grimm"
+    ],
+    [
+      "Florian Mezer",
+      "Raphael Oelke"
+    ],
+    [
       "Florian Rieker",
       "Lena Brock"
     ],
@@ -514,6 +526,10 @@
     [
       "Frank Rebholz",
       "Pascal Rebholz"
+    ],
+    [
+      "Fransiska Laessig",
+      "Maximilian Berg"
     ],
     [
       "Frederic Keller",
@@ -560,12 +576,16 @@
       "Markus Gutbrod"
     ],
     [
+      "Hansi Beiter",
+      "Marc Schneider"
+    ],
+    [
       "Holger Gramlich",
       "Leo Großberger"
     ],
     [
       "Jacobus Ter Haak",
-      "Lucas Ter Haak"
+      "Moritz Schneider"
     ],
     [
       "Jakob Sauer",
@@ -637,7 +657,7 @@
     ],
     [
       "Johannes Rott",
-      "Jörg Zipperle"
+      "Yannik Grueneberg"
     ],
     [
       "Jonas Eisenhauer",
@@ -654,6 +674,10 @@
     [
       "Joshua Stickel",
       "Simon Rescigno"
+    ],
+    [
+      "Julia Groessl",
+      "Yannik Grüneberg"
     ],
     [
       "Julian Bösler",
@@ -692,10 +716,6 @@
       "Lukas Keller"
     ],
     [
-      "Julien Schmidt",
-      "Lukas Keller"
-    ],
-    [
       "Julius Joseph",
       "Maurice Ambros"
     ],
@@ -706,10 +726,6 @@
     [
       "Kai Fenchel",
       "Michael Rentschler"
-    ],
-    [
-      "Kai Reetz",
-      "Marco Otten"
     ],
     [
       "Karin Knupfer",
@@ -724,6 +740,10 @@
       "Stefan Matheis"
     ],
     [
+      "Kasimir Drechsler",
+      "Oliver Keck"
+    ],
+    [
       "Kirsten Schneidereit",
       "Rene Krumstroh"
     ],
@@ -736,10 +756,6 @@
       "Stefan Winkler"
     ],
     [
-      "Lara Störzer",
-      "Oliver Keck"
-    ],
-    [
       "Lars Ebner",
       "Robin Lunghard"
     ],
@@ -750,10 +766,6 @@
     [
       "Lars Kottler",
       "Rico Glatzer"
-    ],
-    [
-      "Lars Wiezorek",
-      "Markus Krammer"
     ],
     [
       "Laurin Gührs",
@@ -800,10 +812,6 @@
       "Maximilian Keefer"
     ],
     [
-      "Lukas Hagen",
-      "Marc Schneider"
-    ],
-    [
       "Lukas Keller",
       "Marius Hubenschmid"
     ],
@@ -821,11 +829,11 @@
     ],
     [
       "Lukas Reiter",
-      "Martin Knauer"
+      "Simon Lang"
     ],
     [
       "Lukas Reiter",
-      "Martin Knauer"
+      "Tobias Reiter"
     ],
     [
       "Lukas Rettenmaier",
@@ -888,6 +896,10 @@
       "Phillip Wessenberg"
     ],
     [
+      "Marco Otten",
+      "Robin Schwuerzer"
+    ],
+    [
       "Marco Ruoff",
       "Markus Widmaier"
     ],
@@ -902,14 +914,6 @@
     [
       "Markus Meyer",
       "Markus Steinhilber"
-    ],
-    [
-      "Markus Robert",
-      "Tobias Diedrigkeit"
-    ],
-    [
-      "Martin Bauer",
-      "Patrick Pfister"
     ],
     [
       "Martin Buchwalder",
@@ -942,10 +946,6 @@
     [
       "Maximilian Bayer",
       "Nils Gross"
-    ],
-    [
-      "Maximilian Berg",
-      "Nicholas Wolf"
     ],
     [
       "Michael Arnegger",
@@ -1000,6 +1000,10 @@
       "Remy Harpes"
     ],
     [
+      "Nicole Hirtl",
+      "Samuel Ackermann"
+    ],
+    [
       "Oliver Kluge",
       "Sascha Wintermantel"
     ],
@@ -1032,10 +1036,6 @@
       "Yannick Dörr"
     ],
     [
-      "Raphael Oelke",
-      "Tobias Bechler"
-    ],
-    [
       "Reinhard Link",
       "Sven Vogler"
     ],
@@ -1061,7 +1061,7 @@
     ],
     [
       "Ruben Drauz",
-      "Tobias Eisele"
+      "Yannick Doerr"
     ],
     [
       "Shahin Petters",

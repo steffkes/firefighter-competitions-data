@@ -1,8 +1,24 @@
 {
-  "date": "2024-09-15T13:09:15.107310",
+  "date": "2024-09-15T13:26:58.245084",
   "competition_id": "recgwPH7vAXUg5PBu",
   "count": 550,
   "teams": [
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
     [
       "Adrian Bauer",
       "Julius Wieland"
@@ -22,10 +38,6 @@
     [
       "Agostino Marulli",
       "Lukas Ostrowski"
-    ],
-    [
-      "Alan Dittrich",
-      "Moritz Bulach"
     ],
     [
       "Albrecht Gutjahr",
@@ -272,10 +284,6 @@
       "Claude Kaufmann"
     ],
     [
-      "Christopher Birkle",
-      "Steffen Hessing"
-    ],
-    [
       "Christopher Wiest",
       "Philipp Rebmann"
     ],
@@ -318,10 +326,6 @@
     [
       "Daniel Nordmann",
       "Raffael Rimkus"
-    ],
-    [
-      "Daniel Rapp",
-      "Tobias Ruf"
     ],
     [
       "Daniel Schmid",
@@ -670,10 +674,6 @@
     [
       "Joshua Römer",
       "Leonie Werner"
-    ],
-    [
-      "Joshua Stickel",
-      "Simon Rescigno"
     ],
     [
       "Julia Groessl",

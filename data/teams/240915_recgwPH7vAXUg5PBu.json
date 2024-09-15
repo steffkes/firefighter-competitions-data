@@ -1,8 +1,12 @@
 {
-  "date": "2024-09-15T11:43:35.997223",
+  "date": "2024-09-15T11:52:45.569567",
   "competition_id": "recgwPH7vAXUg5PBu",
   "count": 550,
   "teams": [
+    [
+      "",
+      ""
+    ],
     [
       "Adrian Bauer",
       "Julius Wieland"
@@ -830,10 +834,6 @@
     [
       "Lukas Reiter",
       "Tobias Reiter"
-    ],
-    [
-      "Lukas Rettenmaier",
-      "Michael Rettenmaier"
     ],
     [
       "Lukas Sauter",

@@ -1,8 +1,12 @@
 {
-  "date": "2024-09-15T13:35:03.901877",
+  "date": "2024-09-15T13:42:59.179785",
   "competition_id": "recgwPH7vAXUg5PBu",
   "count": 550,
   "teams": [
+    [
+      "",
+      ""
+    ],
     [
       "",
       ""
@@ -698,10 +702,6 @@
     [
       "Julian Schaub",
       "Timo Bacher"
-    ],
-    [
-      "Julian Scherle",
-      "Luis Schulz"
     ],
     [
       "Julian Vehlgut",

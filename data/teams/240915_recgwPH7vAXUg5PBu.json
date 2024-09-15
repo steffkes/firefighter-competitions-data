@@ -1,7 +1,7 @@
 {
-  "date": "2024-09-15T08:14:09.612626",
+  "date": "2024-09-15T08:33:39.684653",
   "competition_id": "recgwPH7vAXUg5PBu",
-  "count": 552,
+  "count": 550,
   "teams": [
     [
       "Adrian Bauer",
@@ -416,10 +416,6 @@
       "Tobias Holl"
     ],
     [
-      "Fabian Eberspächer",
-      "Stefan Matheis"
-    ],
-    [
       "Fabian Folsche",
       "Manuel Müller"
     ],
@@ -724,6 +720,10 @@
       "Peter Zöller"
     ],
     [
+      "Karsten Neupert",
+      "Stefan Matheis"
+    ],
+    [
       "Kirsten Schneidereit",
       "Rene Krumstroh"
     ],
@@ -934,10 +934,6 @@
     [
       "Matthias Schmidt",
       "Michael Moor"
-    ],
-    [
-      "Matthias Weickmann",
-      "Nicole Tuchbreiter"
     ],
     [
       "Max Walker",

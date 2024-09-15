@@ -1,5 +1,5 @@
 {
-  "date": "2024-09-15T08:52:55.029217",
+  "date": "2024-09-15T09:09:58.929930",
   "competition_id": "recgwPH7vAXUg5PBu",
   "count": 550,
   "teams": [
@@ -102,6 +102,10 @@
     [
       "Andreas Frick",
       "Jens Bofinger"
+    ],
+    [
+      "Andreas Hauser",
+      "Ben Rodbeck"
     ],
     [
       "Andreas Hermann",
@@ -492,10 +496,6 @@
       "Franziska Schulz"
     ],
     [
-      "Florian Lehnen",
-      "Robin Schulte"
-    ],
-    [
       "Florian Mayer",
       "Hugo Hölzle"
     ],
@@ -772,6 +772,10 @@
       "Lukas Auch"
     ],
     [
+      "Leon Heller",
+      "Markus Rebstock"
+    ],
+    [
       "Leonard Schittenhelm",
       "Leroy Dederer"
     ],
@@ -900,10 +904,6 @@
       "Markus Steinhilber"
     ],
     [
-      "Markus Rebstock",
-      "Tobias Zepf"
-    ],
-    [
       "Markus Robert",
       "Tobias Diedrigkeit"
     ],
@@ -1000,10 +1000,6 @@
       "Remy Harpes"
     ],
     [
-      "Nik Staudenrausch",
-      "Timo Kaleadis"
-    ],
-    [
       "Oliver Kluge",
       "Sascha Wintermantel"
     ],
@@ -1042,6 +1038,10 @@
     [
       "Reinhard Link",
       "Sven Vogler"
+    ],
+    [
+      "Robin Schulte",
+      "Ronny Duesterhoeft"
     ],
     [
       "Robin Wurster",

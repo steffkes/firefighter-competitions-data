@@ -52,6 +52,28 @@ class Spider(scrapy.Spider):
                 callback=self.parse_starters,
             )
 
+        for contest, competition_type, data_key in [
+            (5, "MPA", "#1_Feuerwehr-Lauf mit PA"),
+            (
+                6,
+                "OPA",
+                "#1_Feuerwehr-Lauf ohne PA",
+            ),
+        ]:
+            yield scrapy.FormRequest(
+                method="GET",
+                url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+                formdata={
+                    "key": self.race_key,
+                    "listname": "02 - Ergebnislisten|Mannschaftswertung Ges",
+                    "contest": str(contest),
+                },
+                cb_kwargs={
+                    "competition_type": competition_type,
+                    "data_key": data_key,
+                },
+            )
+
     def parse_starters(self, response):
         fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
 
@@ -60,4 +82,26 @@ class Spider(scrapy.Spider):
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=sorted(map(fixName, names.split(" / "))),
+            )
+
+    def parse(self, response, data_key, competition_type):
+        data = response.json()["data"]
+        for entry in data[data_key]:
+            [_, status, bib, _, names, category, raw_duration] = entry
+
+            if status == "DNF" or not raw_duration:  # disqualified
+                continue
+
+            [category, _] = category.split(" ")
+            names = sorted(map(str.strip, names.split("/")))
+            duration = "00:" + ("0" + raw_duration + ".0")[-7:]
+
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                bib=bib,
+                type=competition_type,
+                category={"MIX": "X"}.get(category, category),
+                duration=duration,
+                names=names,
             )

@@ -1,11 +1,11 @@
 {
-  "date": "2024-09-19T03:33:08.591850",
+  "date": "2024-09-19T09:30:16.724776",
   "competition_id": "recL95uxMRJ0CWcPT",
   "count": 612,
   "teams": [
     [
       "Adrian Dennochweiler",
-      "Raphael Dennochweiler"
+      "Christian Daiß"
     ],
     [
       "Adrian Jagusch",
@@ -30,10 +30,6 @@
     [
       "Alexander Heinrich",
       "Janek Krauter"
-    ],
-    [
-      "Alexander Neumaier",
-      "Patrick Leimbach"
     ],
     [
       "Alexander Schmid",
@@ -105,7 +101,7 @@
     ],
     [
       "Andreas Wirth",
-      "Julian Kurz"
+      "Tim Hessler"
     ],
     [
       "André Emeling",
@@ -136,12 +132,12 @@
       "Simon Gerstner"
     ],
     [
-      "Armin Roth",
-      "Bernd Seßler"
+      "Armin Kießling",
+      "Milena Schlotterbeck"
     ],
     [
-      "Aron Dolderer",
-      "Johannes Leimbach"
+      "Armin Roth",
+      "Bernd Seßler"
     ],
     [
       "Aurel Berktold",
@@ -161,7 +157,7 @@
     ],
     [
       "Benedikt Behringer",
-      "Florian Hofmaier"
+      "Tobias Ilg"
     ],
     [
       "Benedikt Bleck",
@@ -232,12 +228,12 @@
       "Ralf Schneider"
     ],
     [
-      "Christian Bihler",
-      "Stefan Hofmann"
+      "Christan Schmidt",
+      "Sven Butscher"
     ],
     [
-      "Christian Daiß",
-      "Mark Winter"
+      "Christian Bihler",
+      "Stefan Hofmann"
     ],
     [
       "Christian Eckert",
@@ -264,16 +260,16 @@
       "Pierre Huber"
     ],
     [
-      "Christian Kehrlein",
-      "Michael Kehrlein"
-    ],
-    [
       "Christian Maier",
       "Fabian Wendel"
     ],
     [
       "Christian Mallaun",
       "Mathias Schmid"
+    ],
+    [
+      "Christian Maurer",
+      "Matthias Maurer"
     ],
     [
       "Christian Merk",
@@ -301,15 +297,15 @@
     ],
     [
       "Christoph Beinder",
-      "Xenia Theuergarten"
-    ],
-    [
-      "Christoph Bleicher",
-      "Christoph Wöller"
+      "Xenia Theuergrten"
     ],
     [
       "Christoph Funke",
       "Julian Schedel"
+    ],
+    [
+      "Christoph Wöller",
+      "Rene Altmann"
     ],
     [
       "Christophe Hoffmann",
@@ -369,7 +365,7 @@
     ],
     [
       "Daniel Wiedmann",
-      "Volker Behringer"
+      "Florian Schmid"
     ],
     [
       "Daniel Zimmermann",
@@ -461,7 +457,7 @@
     ],
     [
       "Evelyn Heinrich",
-      "Lisa Stadelmaier"
+      "Simon Hägele"
     ],
     [
       "Fabian Böhr",
@@ -490,10 +486,6 @@
     [
       "Fabian Stummer",
       "Fabio Minosa"
-    ],
-    [
-      "Fabian Werner",
-      "Simon Hägele"
     ],
     [
       "Fabio Palma Di",
@@ -564,16 +556,16 @@
       "Maik Meiritz"
     ],
     [
-      "Florian Schmid",
-      "Niklas Bretzler"
-    ],
-    [
       "Florian Schmock",
       "Paul Schulz"
     ],
     [
       "Florian Tauporn",
       "Patrick Betz"
+    ],
+    [
+      "Florian Wirth",
+      "Markus Winter"
     ],
     [
       "Frank Henrichs",
@@ -598,6 +590,10 @@
     [
       "Gabriel Pfleghaar",
       "Lorenz Hilebrand"
+    ],
+    [
+      "Guido Abele",
+      "Stefan Dauner"
     ],
     [
       "Guido Paulus",
@@ -628,10 +624,6 @@
       "Pius Huber"
     ],
     [
-      "Heinz Pfisterer",
-      "Simon Allert"
-    ],
-    [
       "Helena Höfer",
       "Madeleine Krammer"
     ],
@@ -660,6 +652,10 @@
       "Manuel Gerstlauer"
     ],
     [
+      "Jakob Thaler",
+      "Jona Spazal"
+    ],
+    [
       "Jakob Wiest",
       "Richard Mehr"
     ],
@@ -680,10 +676,6 @@
       "Sabrina Briese"
     ],
     [
-      "Jan Rix",
-      "Jonas Wirth"
-    ],
-    [
       "Jan-Frederik Höltke",
       "Matthias Linde"
     ],
@@ -702,6 +694,10 @@
     [
       "Jasmin Galneder",
       "Theresa Herb"
+    ],
+    [
+      "Jennes Fabrizio",
+      "Raphael Dennocweiler"
     ],
     [
       "Jeroma Neckenich",
@@ -732,10 +728,6 @@
       "Josef Band"
     ],
     [
-      "Johannes Wöller",
-      "Rene Altmann"
-    ],
-    [
       "Jona Jung",
       "Moritz Müller"
     ],
@@ -752,12 +744,8 @@
       "Raphael Pfleghaar"
     ],
     [
-      "Jonas Maurer",
-      "Nadine Rix"
-    ],
-    [
       "Jonas Trautwein",
-      "Theresa Geller"
+      "Markus Stäb"
     ],
     [
       "Joshua Gröne",
@@ -813,7 +801,7 @@
     ],
     [
       "Julius Römpp",
-      "Matthias Maurer"
+      "Vanessa Kopp"
     ],
     [
       "Jörg Bogenschütz",
@@ -829,7 +817,7 @@
     ],
     [
       "Kai Moosbrugger",
-      "Simon Sachsenmaier"
+      "Timo Krieg"
     ],
     [
       "Kala Karsten Kohrs",
@@ -884,6 +872,10 @@
       "Moritz Kraus"
     ],
     [
+      "Lisa Stadelmaier",
+      "Patric Hülsken"
+    ],
+    [
       "Lorant Lübben",
       "Markus Händel"
     ],
@@ -894,6 +886,10 @@
     [
       "Luca Ellerbrock",
       "Theresa Maaß"
+    ],
+    [
+      "Luca Gurel",
+      "Michael Kern"
     ],
     [
       "Luca Schmidt",
@@ -932,6 +928,10 @@
       "Philipp Hagedorn"
     ],
     [
+      "Maier Andreas",
+      "Niklas Bretzler"
+    ],
+    [
       "Malte Gekat",
       "Stephan Schiek"
     ],
@@ -946,10 +946,6 @@
     [
       "Manuel Müller",
       "Timo Mungenast"
-    ],
-    [
-      "Marc Kley",
-      "Tobias Ilg"
     ],
     [
       "Marcel Haefke",
@@ -1096,6 +1092,10 @@
       "Niko Tursky"
     ],
     [
+      "Michael Kerlein",
+      "Volker Behringer"
+    ],
+    [
       "Michael Mann",
       "Tobias Staiger"
     ],
@@ -1114,10 +1114,6 @@
     [
       "Moritz Keller",
       "Sebastian Neumaier"
-    ],
-    [
-      "Nicolas Ilg",
-      "Oskar Katzke"
     ],
     [
       "Niklas Coppel",
@@ -1148,6 +1144,10 @@
       "Thomas Ihns"
     ],
     [
+      "Oskar Katzke",
+      "Simon Sachsenmier"
+    ],
+    [
       "Pascal Lukasik",
       "Peter Klauser"
     ],
@@ -1172,12 +1172,12 @@
       "Sebastian Schade"
     ],
     [
-      "Robin Holschuh",
-      "Tobias Heldmann"
+      "Raphael Krauß",
+      "Roman Waldenmaier"
     ],
     [
-      "Roman Waldenmaier",
-      "Sven Butscher"
+      "Robin Holschuh",
+      "Tobias Heldmann"
     ],
     [
       "Rudi Wengert",

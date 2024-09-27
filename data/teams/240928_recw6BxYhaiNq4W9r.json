@@ -1,5 +1,5 @@
 {
-  "date": "2024-09-27T05:43:41.358613",
+  "date": "2024-09-27T09:30:53.775659",
   "competition_id": "recw6BxYhaiNq4W9r",
   "count": 498,
   "teams": [
@@ -128,6 +128,12 @@
     ],
     [
       "Dominik Zirbes"
+    ],
+    [
+      "Dummy Dummy"
+    ],
+    [
+      "Dummy Dummy"
     ],
     [
       "Dummy Dummy"
@@ -502,9 +508,6 @@
       "Thomas Schragner"
     ],
     [
-      "Thore Schmidt"
-    ],
-    [
       "Thore Steinmetz"
     ],
     [
@@ -548,9 +551,6 @@
     ],
     [
       "Wiebke Luehrs"
-    ],
-    [
-      "Zuzana Tomková"
     ],
     [
       "Adam Marcinkowski",
@@ -817,10 +817,6 @@
       "Nicole Mrosek"
     ],
     [
-      "Maurice Clemens",
-      "Stefan Fetting"
-    ],
-    [
       "Meike Denecke",
       "Michael Weiß"
     ],
@@ -835,6 +831,10 @@
     [
       "Michel Menten",
       "Stefanie Reich"
+    ],
+    [
+      "Moritz Spitzenpfeil",
+      "Stefan Fetting"
     ],
     [
       "Moritz Stein",
@@ -1021,8 +1021,8 @@
     ],
     [
       "Anja Sudholt",
-      "Maurice Clemens",
       "Maurine Kronberg",
+      "Moritz Spitzenpfeil",
       "Rowena Hauser",
       "Stefan Fetting"
     ],

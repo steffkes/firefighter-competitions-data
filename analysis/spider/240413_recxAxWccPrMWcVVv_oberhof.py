@@ -77,7 +77,7 @@ class Spider(scrapy.Spider):
         for entry in data:
             [bib, _, _, _, _, _, raw_duration, names, _, category] = entry
 
-            duration = "00:" + raw_duration.replace(",", ".")
+            duration = "00:" + raw_duration.split(" ")[0].replace(",", ".")
             names = sorted(
                 map(
                     lambda name: " ".join(name.strip().split(" ")[:-1]),

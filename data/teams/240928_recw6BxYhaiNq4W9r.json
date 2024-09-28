@@ -1,7 +1,7 @@
 {
-  "date": "2024-09-27T15:31:07.102773",
+  "date": "2024-09-28T09:26:12.515948",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 498,
+  "count": 504,
   "teams": [
     [
       "Adam Marcinkowski"
@@ -11,9 +11,6 @@
     ],
     [
       "Alan Smith"
-    ],
-    [
-      "Alessia Hörning"
     ],
     [
       "Alex van Mechelen"
@@ -148,6 +145,33 @@
       "Dummy Dummy"
     ],
     [
+      "Dummy Dummy"
+    ],
+    [
+      "Dummy Dummy"
+    ],
+    [
+      "Dummy Dummy"
+    ],
+    [
+      "Dummy Dummy"
+    ],
+    [
+      "Dummy Dummy"
+    ],
+    [
+      "Dummy Dummy"
+    ],
+    [
+      "Dummy Dummy"
+    ],
+    [
+      "Dummy Dummy"
+    ],
+    [
+      "Dummy Dummy"
+    ],
+    [
       "Erik Hoffmeister"
     ],
     [
@@ -233,12 +257,6 @@
     ],
     [
       "Kevin Franz"
-    ],
-    [
-      "Kim-Luca Fuge"
-    ],
-    [
-      "Kirsch Dietmar"
     ],
     [
       "Lars Harasiuk"
@@ -376,9 +394,6 @@
       "Michael Güth"
     ],
     [
-      "Michael Joseph"
-    ],
-    [
       "Michael Weiß"
     ],
     [
@@ -395,9 +410,6 @@
     ],
     [
       "Moritz Millnitz"
-    ],
-    [
-      "Nele Marx"
     ],
     [
       "Nick Kuhlen"
@@ -419,9 +431,6 @@
     ],
     [
       "Nils Fröhlich"
-    ],
-    [
-      "Nils Schmidt"
     ],
     [
       "Oliver Göllnitz"
@@ -448,9 +457,6 @@
       "Pia Bretsch"
     ],
     [
-      "Ramona Buthmann"
-    ],
-    [
       "Rares Schuster"
     ],
     [
@@ -467,9 +473,6 @@
     ],
     [
       "Sascha Michala"
-    ],
-    [
-      "Sascha Tischer"
     ],
     [
       "Sebastian Grass"
@@ -509,9 +512,6 @@
     ],
     [
       "Thore Steinmetz"
-    ],
-    [
-      "Thorsten Schalcher"
     ],
     [
       "Tinus Ossenberg"
@@ -609,6 +609,10 @@
       "Thore Steinmetz"
     ],
     [
+      "André Moebes",
+      "Simon Polauke"
+    ],
+    [
       "Anja Riehn",
       "Hans- Ch. Marwedel"
     ],
@@ -683,10 +687,6 @@
     [
       "Dietmar Kirsch",
       "Magnus Hirschfeld"
-    ],
-    [
-      "Dirk Fischer",
-      "Rüdiger Zeuner-Christ"
     ],
     [
       "Dominic Arnold",
@@ -893,6 +893,10 @@
       "Stefan Fetting"
     ],
     [
+      "Rüdiger Zeuner-Christ",
+      "Thorsten Schalcher"
+    ],
+    [
       "Sabastian Wehlauer",
       "Wayne Bastow"
     ],
@@ -912,10 +916,16 @@
       "Marek Dorywała"
     ],
     [
+      "Aleksandr Kula",
+      "Lars Markwardt",
+      "Sven Rockar",
+      "Tobias Rüst"
+    ],
+    [
       "Alessia Hörning",
       "Lukas Himbert",
-      "Nicole Mrosek",
-      "Sascha Tischer"
+      "Maurice Holz",
+      "Nicole Mrosek"
     ],
     [
       "Alexander Kulhawy",

@@ -1,7 +1,7 @@
 {
-  "date": "2024-09-28T15:30:56.382387",
+  "date": "2024-09-28T15:44:57.326280",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 511,
+  "count": 512,
   "teams": [
     [
       "Adam Marcinkowski"
@@ -602,7 +602,7 @@
     ],
     [
       "Alexander Reitz",
-      "Desirée Reitz"
+      "Kim Kersting"
     ],
     [
       "Alexander Reitz",
@@ -758,6 +758,10 @@
     ],
     [
       "Kevin Vogel",
+      "Patrick Vierhaus"
+    ],
+    [
+      "Kevin Vogel",
       "Sven Bartelt"
     ],
     [
@@ -878,10 +882,6 @@
     ],
     [
       "Patrick Vierhaus",
-      "Sven Bartelt"
-    ],
-    [
-      "Patrick Vierhaus",
       "Vivien Eick"
     ],
     [
@@ -940,15 +940,9 @@
       "Nicole Mrosek"
     ],
     [
-      "Alexander Kulhawy",
-      "Antonia Kulhawy",
-      "Florian Menklein",
-      "Marian Brandes"
-    ],
-    [
       "Alexander Reitz",
       "Benjamin Henne",
-      "Desirée Reitz",
+      "Kim Kersting",
       "Marina Nikic"
     ],
     [
@@ -1006,6 +1000,13 @@
       "Nils Schmidt",
       "Simon Polauke",
       "Uwe Heise"
+    ],
+    [
+      "Alexander Kulhawy",
+      "Antonia Kulhawy",
+      "Florian Menklein",
+      "Marian Brandes",
+      "Vivien Eick"
     ],
     [
       "Alexander Marschall",

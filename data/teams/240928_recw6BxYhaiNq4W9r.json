@@ -1,7 +1,7 @@
 {
-  "date": "2024-09-28T09:26:12.515948",
+  "date": "2024-09-28T16:34:40.800874",
   "competition_id": "recw6BxYhaiNq4W9r",
-  "count": 504,
+  "count": 512,
   "teams": [
     [
       "Adam Marcinkowski"
@@ -565,6 +565,10 @@
       "Lukas Himbert"
     ],
     [
+      "Alessia Hörning",
+      "Stefanie Reich"
+    ],
+    [
       "Alex Sader",
       "Joel Bloch"
     ],
@@ -598,7 +602,7 @@
     ],
     [
       "Alexander Reitz",
-      "Desirée Reitz"
+      "Kim Kersting"
     ],
     [
       "Alexander Reitz",
@@ -607,6 +611,10 @@
     [
       "Amir Jazmati",
       "Thore Steinmetz"
+    ],
+    [
+      "Andreas Gassner",
+      "Thomas Schragner"
     ],
     [
       "André Moebes",
@@ -654,6 +662,10 @@
     ],
     [
       "Chiara Schmidt",
+      "Rowena Hauser"
+    ],
+    [
+      "Chiara Schmidt",
       "Tobias Fischer"
     ],
     [
@@ -667,6 +679,10 @@
     [
       "Christian Lutat",
       "Florian Krautwurst"
+    ],
+    [
+      "Claudia Mäder",
+      "Dominic Arnold"
     ],
     [
       "Daniel Schimank",
@@ -689,8 +705,8 @@
       "Magnus Hirschfeld"
     ],
     [
-      "Dominic Arnold",
-      "Kay Rosenkranz"
+      "Dominic Noecross",
+      "Michael Joseph"
     ],
     [
       "Dominik Zirbes",
@@ -698,7 +714,7 @@
     ],
     [
       "Guido Suhrmeyer",
-      "Malte Hoheisel"
+      "Mario Fleerkortte"
     ],
     [
       "Hans-Christian Marwedel",
@@ -711,6 +727,10 @@
     [
       "Jan Dietz",
       "Tinus Ossenberg"
+    ],
+    [
+      "Jan Krummacker",
+      "Michael Weiß"
     ],
     [
       "Jan Lensch",
@@ -738,7 +758,15 @@
     ],
     [
       "Kevin Vogel",
+      "Patrick Vierhaus"
+    ],
+    [
+      "Kevin Vogel",
       "Sven Bartelt"
+    ],
+    [
+      "Kim Kersting",
+      "Marina Nikic"
     ],
     [
       "Kim-Luca Fuge",
@@ -781,12 +809,16 @@
       "Vladyslav Oliinyk"
     ],
     [
-      "Lukas Himbert",
-      "Sascha Tischer"
+      "Lukas Gassner",
+      "Thomas Bogovits"
     ],
     [
-      "Marina Nikic",
-      "Verena Nikic"
+      "Lukas Himbert",
+      "Nils Knipping"
+    ],
+    [
+      "Lukas Wickmann",
+      "Simon Feuerhack"
     ],
     [
       "Mario Poppe",
@@ -837,24 +869,8 @@
       "Stefan Fetting"
     ],
     [
-      "Moritz Stein",
-      "Simon Feuerhack"
-    ],
-    [
-      "N.N. N.N.",
-      "N.N. N.N."
-    ],
-    [
-      "N.N. N.N.",
-      "N.N. N.N."
-    ],
-    [
       "Nele Marx",
       "Oliver Göllnitz"
-    ],
-    [
-      "Nele Marx",
-      "Stefanie Reich"
     ],
     [
       "Niels Bessert",
@@ -863,10 +879,6 @@
     [
       "Nikic Marina",
       "Phillip Blau"
-    ],
-    [
-      "Patrick Vierhaus",
-      "Sven Bartelt"
     ],
     [
       "Patrick Vierhaus",
@@ -928,27 +940,15 @@
       "Nicole Mrosek"
     ],
     [
-      "Alexander Kulhawy",
-      "Antonia Kulhawy",
-      "Florian Menklein",
-      "Marian Brandes"
-    ],
-    [
       "Alexander Reitz",
       "Benjamin Henne",
-      "Desirée Reitz",
+      "Kim Kersting",
       "Marina Nikic"
     ],
     [
-      "Alexander Reitz",
-      "Dominic Arnold",
-      "Kay Rosenkranz",
-      "Marc Albers"
-    ],
-    [
       "Alexander Sader",
+      "Joel Bloch",
       "Mario Poppe",
-      "Sascha Michalla",
       "Tobias Fischer"
     ],
     [
@@ -1002,11 +1002,25 @@
       "Uwe Heise"
     ],
     [
+      "Alexander Kulhawy",
+      "Antonia Kulhawy",
+      "Florian Menklein",
+      "Marian Brandes",
+      "Vivien Eick"
+    ],
+    [
       "Alexander Marschall",
       "Carina Marschall",
       "Hendrik Ammermann",
       "Janina Neumann",
       "Sascha Knierim"
+    ],
+    [
+      "Alexander Reitz",
+      "Benjamin Willi Henne",
+      "Dominic Arnold",
+      "Marc Albers",
+      "Maurice Holz"
     ],
     [
       "Alexander Sader",

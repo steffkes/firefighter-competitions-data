@@ -1,13 +1,10 @@
 {
-  "date": "2024-09-30T11:53:13.161688",
+  "date": "2024-09-30T12:22:13.545047",
   "competition_id": "rectoqxiOwNaoaHRZ",
   "count": 366,
   "teams": [
     [
       "Alexander GOTTFRIED"
-    ],
-    [
-      "Andre FRITSCH"
     ],
     [
       "Christian LANGER"
@@ -70,22 +67,10 @@
       "Miguel BRÖDE"
     ],
     [
-      "Moritz EUCHLER"
-    ],
-    [
-      "Nico OPITZ"
-    ],
-    [
       "Nicole TUCHBREITER"
     ],
     [
       "Rebekka GROSSE"
-    ],
-    [
-      "Rene DIETRICH"
-    ],
-    [
-      "Rene EUCHLER"
     ],
     [
       "René STANGE"
@@ -717,12 +702,20 @@
       "René KUNZ"
     ],
     [
+      "Moritz EUCHLER",
+      "Rene EUCHLER"
+    ],
+    [
       "Nadja BOESLER",
       "Silas BOESCH"
     ],
     [
       "Neal BRANDT",
       "Ole WIENEKE"
+    ],
+    [
+      "Nico OPITZ",
+      "Rene DIETRICH"
     ],
     [
       "Nico SCHIMECZEK",
@@ -761,6 +754,7 @@
       "Vicky KRÜTZMANN"
     ],
     [
+      "Andre FRITSCH",
       "Hugo HOFMANN",
       "Nico LIEBERMANN",
       "Sascha OBERENDER"

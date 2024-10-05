@@ -1,7 +1,7 @@
 {
-  "date": "2024-10-04T03:21:55.029175",
+  "date": "2024-10-05T19:52:56.322553",
   "competition_id": "recL95uxMRJ0CWcPT",
-  "count": 610,
+  "count": 608,
   "teams": [
     [
       "Adrian Dennochweiler",
@@ -288,6 +288,10 @@
       "Philipp Große"
     ],
     [
+      "Christof Haarmann",
+      "Yannick Dorn"
+    ],
+    [
       "Christoph Beinder",
       "Xenia Theuergrten"
     ],
@@ -406,10 +410,6 @@
     [
       "Dominik Loesch",
       "Sascha Köppler"
-    ],
-    [
-      "Dominik Michlbauer",
-      "Patrick Wurstbauer"
     ],
     [
       "Dominik Riedel",
@@ -728,6 +728,10 @@
       "Moritz Müller"
     ],
     [
+      "Jonas Bernecker",
+      "Patrick Wurstbauer"
+    ],
+    [
       "Jonas Hormuth",
       "Julius Kiefer"
     ],
@@ -932,10 +936,6 @@
       "Nick Genz"
     ],
     [
-      "Manuel Greber",
-      "Niklas Greber"
-    ],
-    [
       "Manuel Müller",
       "Timo Mungenast"
     ],
@@ -1122,10 +1122,6 @@
     [
       "Niko Reiss",
       "Reiss Annalena"
-    ],
-    [
-      "Nina Schneider",
-      "Yannick Dorn"
     ],
     [
       "Norbert Dittrich",

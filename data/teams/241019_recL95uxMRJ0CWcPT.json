@@ -1,7 +1,7 @@
 {
-  "date": "2024-10-05T06:14:13.810740",
+  "date": "2024-10-05T06:36:28.749772",
   "competition_id": "recL95uxMRJ0CWcPT",
-  "count": 610,
+  "count": 608,
   "teams": [
     [
       "Adrian Dennochweiler",
@@ -408,10 +408,6 @@
       "Sascha Köppler"
     ],
     [
-      "Dominik Michlbauer",
-      "Patrick Wurstbauer"
-    ],
-    [
       "Dominik Riedel",
       "Moritz Mémier"
     ],
@@ -728,6 +724,10 @@
       "Moritz Müller"
     ],
     [
+      "Jonas Bernecker",
+      "Patrick Wurstbauer"
+    ],
+    [
       "Jonas Hormuth",
       "Julius Kiefer"
     ],
@@ -930,10 +930,6 @@
     [
       "Manfred Freimut",
       "Nick Genz"
-    ],
-    [
-      "Manuel Greber",
-      "Niklas Greber"
     ],
     [
       "Manuel Müller",

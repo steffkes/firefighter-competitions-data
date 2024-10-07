@@ -1,0 +1,778 @@
+{
+  "date": "2024-10-07T06:41:03.061695",
+  "competition_id": "rectoqxiOwNaoaHRZ",
+  "count": 375,
+  "teams": [
+    [
+      "Alexander GOTTFRIED"
+    ],
+    [
+      "Christian LANGER"
+    ],
+    [
+      "Christian THOMSEN"
+    ],
+    [
+      "Christin KERSTEN"
+    ],
+    [
+      "Claudia KNEBEL"
+    ],
+    [
+      "Denny KIUPEL"
+    ],
+    [
+      "Eva BRUNNER"
+    ],
+    [
+      "Fabian ZAHLMANN"
+    ],
+    [
+      "Felix BÖHM"
+    ],
+    [
+      "Florian SICKERT"
+    ],
+    [
+      "Frank MEINHOLD"
+    ],
+    [
+      "Hannes BAUER"
+    ],
+    [
+      "Jan HUMBERT"
+    ],
+    [
+      "Jürgen ALFANZ"
+    ],
+    [
+      "Kevin DIERCKS"
+    ],
+    [
+      "Konstantin LEITENBAUER"
+    ],
+    [
+      "Lukas MANN"
+    ],
+    [
+      "Marcel SCHUMACHER"
+    ],
+    [
+      "Miguel BRÖDE"
+    ],
+    [
+      "Nicole TUCHBREITER"
+    ],
+    [
+      "Rebekka GROSSE"
+    ],
+    [
+      "René STANGE"
+    ],
+    [
+      "Sven EISOLDT"
+    ],
+    [
+      "Tobias FRÖHLICH"
+    ],
+    [
+      "Adam SEGERITZ",
+      "Florian HESSDÖRFER"
+    ],
+    [
+      "Adrian JAGUSCH",
+      "Kai REICHELT"
+    ],
+    [
+      "Alex BARTELT",
+      "Philip VOIGT"
+    ],
+    [
+      "Alexander FROMME",
+      "Torben VOIGT"
+    ],
+    [
+      "Alexander GREIS",
+      "Marius FREIMUTH"
+    ],
+    [
+      "Alexander HELLWIG",
+      "Stefan DAHM"
+    ],
+    [
+      "Alexander KULHAWY",
+      "Marian BRANDES"
+    ],
+    [
+      "Alexander LACHMANN",
+      "Tobias HARTMANN"
+    ],
+    [
+      "Alexander PAUL",
+      "Sandro BLUME"
+    ],
+    [
+      "Alexander TÖNGES",
+      "Andreas FRIEDRICH"
+    ],
+    [
+      "Alexander WEISS",
+      "Hendrik SCHIRRA"
+    ],
+    [
+      "Andi BALAJ",
+      "Felix MÜLLER"
+    ],
+    [
+      "Andre FERNESCHILD",
+      "Henry GLANZ"
+    ],
+    [
+      "Andreas ENGELHARDT",
+      "Torsten LEIPOLD"
+    ],
+    [
+      "André TOMKOWIAK",
+      "Sascha MÜLLER"
+    ],
+    [
+      "Anett KADE",
+      "Monique LUCIUS"
+    ],
+    [
+      "Anja KAISER",
+      "Yvonne SCHÄFER"
+    ],
+    [
+      "Anke HILPERT",
+      "Michael WEIPRECHT"
+    ],
+    [
+      "Anne WINKLER",
+      "Mario LANGE"
+    ],
+    [
+      "Anne-Kathrin WEISS",
+      "Jennifer KRIMM"
+    ],
+    [
+      "Antonia KULHAWY",
+      "Rebea SONNENBERG"
+    ],
+    [
+      "Axel FEGEBANK",
+      "Karsten KOHRS"
+    ],
+    [
+      "Bastian ZEHNLE",
+      "Dominik STUDER"
+    ],
+    [
+      "Bert RAABE",
+      "Marcel THIERBACH"
+    ],
+    [
+      "Bianca GERKEN",
+      "Sebastian KOCH"
+    ],
+    [
+      "Björn HERBORN",
+      "Daniel PÄTZOLT"
+    ],
+    [
+      "Björn MITTMANN",
+      "Ricardo HILPERT"
+    ],
+    [
+      "Björn SCHWERDT",
+      "Joan OLUCHA"
+    ],
+    [
+      "Bruno HÖHNE",
+      "Tim SCHÜTZE"
+    ],
+    [
+      "Burkhard MEYER",
+      "Carola HILDEBRANDT"
+    ],
+    [
+      "Bäurle MISCHA",
+      "Lukas WEILER"
+    ],
+    [
+      "Carsten RUDOLPH",
+      "Paul SCHÄDEL"
+    ],
+    [
+      "Chiara BUBNER",
+      "Immo WILSKI"
+    ],
+    [
+      "Christian DUPSLAFF",
+      "Marco ILLEIN"
+    ],
+    [
+      "Christian MARKS",
+      "Florian OERTELT-GRIMM"
+    ],
+    [
+      "Christian RAU",
+      "Michael WICHT"
+    ],
+    [
+      "Christoph HELLER",
+      "Sebastian SCHUBERTH"
+    ],
+    [
+      "Claudia KOCH",
+      "Sebastian VOGT"
+    ],
+    [
+      "Claudio POLZIN",
+      "Ina DÜLL"
+    ],
+    [
+      "Conner PETERMANN",
+      "Sarah JUHNKE"
+    ],
+    [
+      "Damon WINKLER",
+      "Hendrik SCHATT"
+    ],
+    [
+      "Daniel HIEKEL",
+      "Kevin STOLZE"
+    ],
+    [
+      "Daniel KISTER",
+      "Michaela HEMMING"
+    ],
+    [
+      "Daniel KISTER",
+      "Ulf LANGWASSER"
+    ],
+    [
+      "Daniel KUNTER",
+      "Fabian SCHRÖTER"
+    ],
+    [
+      "Daniel MÜLLER",
+      "Frank SCHNEIDER"
+    ],
+    [
+      "Daniel SCHRÖTER",
+      "Lukas KNAKOWSKI"
+    ],
+    [
+      "David SCHWALKE",
+      "Marcel HÖCHE"
+    ],
+    [
+      "Denis WEINREICH",
+      "Jörn KÖLLMER"
+    ],
+    [
+      "Denise GOLLER",
+      "Fabienne GOLLER"
+    ],
+    [
+      "Denny KRETZSCHMAR",
+      "Wolfgang LINDNER"
+    ],
+    [
+      "Dominik BRAND",
+      "Tobias SCHMITT"
+    ],
+    [
+      "Dominik KAHL",
+      "Jens JAHN"
+    ],
+    [
+      "Dominik SIGG",
+      "Sebastian BOTHUR"
+    ],
+    [
+      "Dominik THIEL",
+      "Stefan MATHEIS"
+    ],
+    [
+      "Dávid WINDISCHMANN",
+      "Máté FEGYVERNEKI"
+    ],
+    [
+      "Emanuel BRENZ",
+      "Matthias SCHMITT"
+    ],
+    [
+      "Emma PAUL",
+      "Sidney NOLL"
+    ],
+    [
+      "Enrico KLESSE",
+      "Katrin KLESSE"
+    ],
+    [
+      "Enrico KOHL",
+      "Jasmin BOHUN"
+    ],
+    [
+      "Eric KITTEL",
+      "Hans-Josef MEISENBERG"
+    ],
+    [
+      "Eric WAGNER",
+      "tim FICHTNER"
+    ],
+    [
+      "Erik LANGENHAHN",
+      "Sean RENKER"
+    ],
+    [
+      "Fabian BLÜMMERT",
+      "Yvonne ZEINER"
+    ],
+    [
+      "Fabian BÜRGE",
+      "Steve LEINHOS"
+    ],
+    [
+      "Fabian KLUGE",
+      "Maimuna KRÜGER"
+    ],
+    [
+      "Fabian KOHLEI",
+      "Nico BAEHREN"
+    ],
+    [
+      "Felix ENGLERT",
+      "Saskia HOFMANN"
+    ],
+    [
+      "Felix OBERGFÖLL",
+      "Moritz WEBER"
+    ],
+    [
+      "Felix PAUL",
+      "Leon KAUFUNG"
+    ],
+    [
+      "Felix PLENK",
+      "Tim HOFMANN"
+    ],
+    [
+      "Felix ROSSBERG",
+      "Maik WAGNER"
+    ],
+    [
+      "Ferdinand MIHM",
+      "Thomas GEIS"
+    ],
+    [
+      "Finn BLOCK",
+      "Lucas-Constantin MATHIES"
+    ],
+    [
+      "Florian DREYER",
+      "Florian RÖSCH"
+    ],
+    [
+      "Florian GÖLLNITZ",
+      "Mark LANGE"
+    ],
+    [
+      "Florian GÖRMS",
+      "Thorsten HENGELHAUPT"
+    ],
+    [
+      "Florian HOCKAUF",
+      "Marie KAUFMANN"
+    ],
+    [
+      "Florian IPS",
+      "Stefan WALDINGER"
+    ],
+    [
+      "Florian KÖLLMER",
+      "Jochen HAUWETTER"
+    ],
+    [
+      "Florian MAASS",
+      "Jasper LETTOW"
+    ],
+    [
+      "Florian PETERS",
+      "Maik MEIRITZ"
+    ],
+    [
+      "Florian THÖRNER",
+      "Johannes KNAUSS"
+    ],
+    [
+      "Florian WEDEL",
+      "Norma HEMMANN"
+    ],
+    [
+      "Florian WÜSTEFELD",
+      "Georg KUBIS"
+    ],
+    [
+      "Frank SAUPE",
+      "Matthias WEICKMANN"
+    ],
+    [
+      "Friedrich JÄSCHKE",
+      "Mildner JULIAN"
+    ],
+    [
+      "Gerrit LINDLEIN",
+      "Maurine KRONBERGER"
+    ],
+    [
+      "Grzegorz PAWLAK",
+      "Lennart GIESE"
+    ],
+    [
+      "Heiko BAIER",
+      "Marcel WINKLER"
+    ],
+    [
+      "Heiko LISSNER",
+      "Michael KORNDÖRFER"
+    ],
+    [
+      "Heiko RICHTER",
+      "Thomas WEICHERT"
+    ],
+    [
+      "Helge SONNENBERG",
+      "Uwe SCHLONSAK"
+    ],
+    [
+      "Henning RAWE",
+      "Holger SCHWENCKE"
+    ],
+    [
+      "Ingo BLUT",
+      "Rosario ROTH"
+    ],
+    [
+      "Jan KAISER",
+      "Steffen GÜNTHER"
+    ],
+    [
+      "Jan PHILIPS",
+      "Paul REICHELT"
+    ],
+    [
+      "Jan WISNIEWSKI",
+      "Tony TROPPA"
+    ],
+    [
+      "Jan-Philipp TIETGE",
+      "Ken THOMSEN"
+    ],
+    [
+      "Jannik FUTH",
+      "Sebastian BRANDT"
+    ],
+    [
+      "Jannis HEIDER",
+      "Silke HEIDER"
+    ],
+    [
+      "Jasmin BOHUN",
+      "Nicole TUCHBREITER"
+    ],
+    [
+      "Jennifer WEHRMANN",
+      "Lucas WEISSMANN"
+    ],
+    [
+      "Johannes DREIKORN",
+      "Josef PALK"
+    ],
+    [
+      "Johannes MARTIN",
+      "Jörgen WEBER"
+    ],
+    [
+      "Johannes PLEIER",
+      "Tobias RÖSCH"
+    ],
+    [
+      "Johannes SCHORCHT",
+      "Ronald RICHTER"
+    ],
+    [
+      "John MALKEWITZ",
+      "Steffen HEYDER"
+    ],
+    [
+      "Jonas HENKE",
+      "Malte BEBENSEE"
+    ],
+    [
+      "Jonas MARTIN",
+      "Leah SAHNER"
+    ],
+    [
+      "Jonas MÜLLER",
+      "Stephan ZOSCHKE"
+    ],
+    [
+      "Jonas SENSEN",
+      "Maj-Britt ZIMMERMANN"
+    ],
+    [
+      "Julia PFEIFER",
+      "Kevin KIESSBAUER"
+    ],
+    [
+      "Julia WESTER",
+      "Martin FRANKE"
+    ],
+    [
+      "Julian HÖHER",
+      "Michael BANTEL"
+    ],
+    [
+      "Julian THORMEYER",
+      "Tim ROMMERT"
+    ],
+    [
+      "Justus MENZEL",
+      "Vivienne HOFFMANN"
+    ],
+    [
+      "Jörn MICHAELIS",
+      "Paul WOLDT"
+    ],
+    [
+      "Kai FROSS",
+      "Michael HEYDER"
+    ],
+    [
+      "Karel ZAPLETAL",
+      "Lukas MOOZ"
+    ],
+    [
+      "Karsten NENDZIAK",
+      "Ronny LANGBEIN"
+    ],
+    [
+      "Kevin GRIGAT",
+      "Martin HEINICKE"
+    ],
+    [
+      "Kevin LEBEDA",
+      "Svenja COLBERG"
+    ],
+    [
+      "Kilian WITTMANN",
+      "Markus USCHOLD"
+    ],
+    [
+      "Kirsten SCHNEIDEREIT",
+      "Rene KRUMSTROH"
+    ],
+    [
+      "Lars BUNSEN",
+      "Tjorben TOLLSCHNIBBE"
+    ],
+    [
+      "Lars HOMEYER",
+      "Marc HABERMANN"
+    ],
+    [
+      "Lea JÄGER",
+      "Leon FULSCHE"
+    ],
+    [
+      "Lee-Ann KRUSCHINSKI",
+      "Pauline BALBIERER"
+    ],
+    [
+      "Lenny BASTO",
+      "Philipp HARNATH"
+    ],
+    [
+      "Luca MEWES",
+      "Paul WEICHERT"
+    ],
+    [
+      "Lukas DÖRR",
+      "Nick  ZEH "
+    ],
+    [
+      "Lukas LORENZ",
+      "Toni MENZEL"
+    ],
+    [
+      "Maik FREIGANG",
+      "Sabine SAUER"
+    ],
+    [
+      "Maik ZSCHIESCHE",
+      "Sven POSTEL"
+    ],
+    [
+      "Marcel JÜLICH",
+      "Phillip BLAU"
+    ],
+    [
+      "Marcel THIERBACH",
+      "Nick ZIEGENBALG"
+    ],
+    [
+      "Marco JUFFA",
+      "Verena URBACH"
+    ],
+    [
+      "Marcus HILLER",
+      "Wolfgang OBERGFÖLL"
+    ],
+    [
+      "Mario KAUFUNG",
+      "Tobias KAUFUNG"
+    ],
+    [
+      "Mario WEISS",
+      "Sven HOLLY"
+    ],
+    [
+      "Marion GAYER",
+      "Peter WOLFRAM"
+    ],
+    [
+      "Marius LINDLEIN",
+      "Stefan FETTING"
+    ],
+    [
+      "Markus APEL",
+      "Marvin HILGER"
+    ],
+    [
+      "Markus BERG",
+      "Thorben BERG"
+    ],
+    [
+      "Markus GÜNZEL",
+      "Wendel ROST"
+    ],
+    [
+      "Markus PAHN",
+      "Michael GUTSCHE"
+    ],
+    [
+      "Martin KARG",
+      "Robert JÄGER"
+    ],
+    [
+      "Martin MACHALKE",
+      "Richard SCHMIDT"
+    ],
+    [
+      "Marvin GÜRTLER",
+      "Niklas RÖNEKE"
+    ],
+    [
+      "Marvin HÄNEL",
+      "Maximilian WAGNER"
+    ],
+    [
+      "Mathias RETTEL",
+      "Tom LANGNER"
+    ],
+    [
+      "Matthias KADEN",
+      "Michael KAUFMANN"
+    ],
+    [
+      "Matthias LEMM",
+      "Uwe SCHLONSAK"
+    ],
+    [
+      "Maximilian KIEHL",
+      "Michael SCURLA"
+    ],
+    [
+      "Maximilian KUMMER",
+      "Samuel LEBLOND"
+    ],
+    [
+      "Michael THOMAS",
+      "Til SCHLEICHER"
+    ],
+    [
+      "Mike HOPPE",
+      "Thorsten STEINKE"
+    ],
+    [
+      "Mirko TÄNZER",
+      "René KUNZ"
+    ],
+    [
+      "Moritz EUCHLER",
+      "Rene EUCHLER"
+    ],
+    [
+      "Nadja BOESLER",
+      "Silas BOESCH"
+    ],
+    [
+      "Neal BRANDT",
+      "Ole WIENEKE"
+    ],
+    [
+      "Nico OPITZ",
+      "Rene DIETRICH"
+    ],
+    [
+      "Nico SCHIMECZEK",
+      "Tobias DIEDRIGKEIT"
+    ],
+    [
+      "Nicolas SPATZ",
+      "Tim SCHOLLENBERGER"
+    ],
+    [
+      "Patrick RIEDEL",
+      "Tommy VOIGT"
+    ],
+    [
+      "Paul WEBER",
+      "Steve SCHREITMÜLLER"
+    ],
+    [
+      "Peter HÄUSLER",
+      "Sven SPÄTH"
+    ],
+    [
+      "Ricardo ROHR",
+      "Sandro HASENOHR"
+    ],
+    [
+      "Rune JÄGER",
+      "Sebastian NAVE"
+    ],
+    [
+      "Spaleck TOM",
+      "Tim SPALECK"
+    ],
+    [
+      "Stefanie FITZNER",
+      "Vicky KRÜTZMANN"
+    ],
+    [
+      "Alex VAN MECHELEN",
+      "Gjalt HUIZINGA",
+      "Scharloo BAS"
+    ],
+    [
+      "Andre FRITSCH",
+      "Hugo HOFMANN",
+      "Nico LIEBERMANN",
+      "Sascha OBERENDER"
+    ]
+  ]
+}

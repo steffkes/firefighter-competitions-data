@@ -50,5 +50,7 @@ class Spider(scrapy.Spider):
                 names=["%s %s" % (firstname, lastname)],
             )
 
-        for page in response.css(".pagination li:not([class~='disabled']) a"):
-            yield response.follow(page, callback=self.parse_starters)
+        yield from response.follow_all(
+            response.css(".pagination li:not([class~='disabled']) a::attr(href)"),
+            callback=self.parse_starters,
+        )

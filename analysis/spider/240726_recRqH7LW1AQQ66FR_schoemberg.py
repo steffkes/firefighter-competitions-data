@@ -1,8 +1,5 @@
 import scrapy
 from datetime import datetime
-import re
-import itertools
-import string
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
@@ -77,7 +74,7 @@ class Spider(scrapy.Spider):
         def handle(data, category):
             for team, entry in data.items():
                 duration = "00:%s.0" % team.split("///")[-1]
-                names = sorted(map(lambda record: record[2], entry))
+                names = sorted(map(lambda record: fixName(record[2]), entry))
 
                 yield ResultItem(
                     date=self.race_date,
@@ -91,3 +88,42 @@ class Spider(scrapy.Spider):
 
         yield from handle(data["data"]["#1_Männlich"], "M")
         yield from handle(data["data"]["#2_Weiblich"], "W")
+
+
+import re
+
+
+def fixName(name):
+    return re.sub(
+        r"(([A-ZÄÜÖß]+[-\s])?([A-ZÄÜÖß]+))\s(.+)",
+        lambda match: " ".join(
+            [
+                match.group(4),
+                "".join(
+                    map(
+                        lambda str: str[0] + str[1:].lower(),
+                        filter(None, match.group(2, 3)),
+                    )
+                ),
+            ]
+        ),
+        name,
+    )
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("HAUSCHILD Frederike", "Frederike Hauschild"),
+        ("SCHULTHEIß Rebecca Regina", "Rebecca Regina Schultheiß"),
+        ("MARTIN-WIDENHORN Andre", "Andre Martin-Widenhorn"),
+        ("DE VITO Samuel", "Samuel De Vito"),
+        ("HÖGER Ralph", "Ralph Höger"),
+        ("ROßWAG Carsten", "Carsten Roßwag"),
+    ],
+)
+def test_fixName(input, output):
+    assert fixName(input) == output

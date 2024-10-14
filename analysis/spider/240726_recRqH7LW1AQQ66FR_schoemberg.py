@@ -51,6 +51,16 @@ class Spider(scrapy.Spider):
             callback=self.parse_starters,
         )
 
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "01_Baywa und Feuerwehr|Ergebnisliste_Feuerwehr_MW",
+                "contest": "9",
+            },
+        )
+
     def parse_starters(self, response):
         fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
 
@@ -60,3 +70,24 @@ class Spider(scrapy.Spider):
                 competition_id=self.competition_id,
                 names=sorted(map(fixName, [name1, name2])),
             )
+
+    def parse(self, response):
+        data = response.json()
+
+        def handle(data, category):
+            for team, entry in data.items():
+                duration = "00:%s.0" % team.split("///")[-1]
+                names = sorted(map(lambda record: record[2], entry))
+
+                yield ResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    type="OPA",
+                    category=category,
+                    duration=duration,
+                    names=names,
+                    bib=None,
+                )
+
+        yield from handle(data["data"]["#1_Männlich"], "M")
+        yield from handle(data["data"]["#2_Weiblich"], "W")

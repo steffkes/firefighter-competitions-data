@@ -1,8 +1,5 @@
 import scrapy
 from datetime import datetime
-import re
-import itertools
-import string
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
@@ -51,6 +48,16 @@ class Spider(scrapy.Spider):
             callback=self.parse_starters,
         )
 
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "01_Baywa und Feuerwehr|Ergebnisliste_Feuerwehr_MW",
+                "contest": "9",
+            },
+        )
+
     def parse_starters(self, response):
         fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
 
@@ -60,3 +67,63 @@ class Spider(scrapy.Spider):
                 competition_id=self.competition_id,
                 names=sorted(map(fixName, [name1, name2])),
             )
+
+    def parse(self, response):
+        data = response.json()
+
+        def handle(data, category):
+            for team, entry in data.items():
+                duration = "00:%s.0" % team.split("///")[-1]
+                names = sorted(map(lambda record: fixName(record[2]), entry))
+
+                yield ResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    type="OPA",
+                    category=category,
+                    duration=duration,
+                    names=names,
+                    bib=None,
+                )
+
+        yield from handle(data["data"]["#1_Männlich"], "M")
+        yield from handle(data["data"]["#2_Weiblich"], "W")
+
+
+import re
+
+
+def fixName(name):
+    return re.sub(
+        r"(([A-ZÄÜÖß]+[-\s])?([A-ZÄÜÖß]+))\s(.+)",
+        lambda match: " ".join(
+            [
+                match.group(4),
+                "".join(
+                    map(
+                        lambda str: str[0] + str[1:].lower(),
+                        filter(None, match.group(2, 3)),
+                    )
+                ),
+            ]
+        ),
+        name,
+    )
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("HAUSCHILD Frederike", "Frederike Hauschild"),
+        ("SCHULTHEIß Rebecca Regina", "Rebecca Regina Schultheiß"),
+        ("MARTIN-WIDENHORN Andre", "Andre Martin-Widenhorn"),
+        ("DE VITO Samuel", "Samuel De Vito"),
+        ("HÖGER Ralph", "Ralph Höger"),
+        ("ROßWAG Carsten", "Carsten Roßwag"),
+    ],
+)
+def test_fixName(input, output):
+    assert fixName(input) == output

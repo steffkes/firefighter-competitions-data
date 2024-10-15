@@ -58,8 +58,46 @@ class Spider(scrapy.Spider):
                 competition_id=self.competition_id,
                 names=sorted(
                     map(
-                        lambda entry: "%s %s" % (entry["firstName"], entry["name"]),
+                        lambda entry: fixName(
+                            (entry["firstName"], entry["name"])
+                        ).strip(),
                         entries,
                     )
                 ),
             )
+
+
+import re
+
+
+def fixName(name):
+    (firstname, lastname) = name
+    return " ".join(
+        [
+            firstname,
+            "".join(
+                re.sub(
+                    r"[A-ZÄÜÖß]+[\s-]?",
+                    lambda match: match.group(0)[0] + match.group(0)[1:].lower(),
+                    lastname,
+                )
+            ),
+        ]
+    )
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        (("Máté", "FEGYVERNEKI"), "Máté Fegyverneki"),
+        (("Peter", "HÄUSLER"), "Peter Häusler"),
+        (("Hans-Josef", "MEISENBERG"), "Hans-Josef Meisenberg"),
+        (("Alex", "VAN MECHELEN"), "Alex Van Mechelen"),
+        (("Florian", "OERTELT-GRIMM"), "Florian Oertelt-Grimm"),
+    ],
+)
+def test_fixName(input, output):
+    assert fixName(input) == output

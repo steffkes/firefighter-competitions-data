@@ -456,6 +456,7 @@ const kind = {
 
 const singleboerse = {
   recyC5LmxecehTxWD: "240511-schonach",
+  reckHSB1eG9Su8fxx: "240907-radebeul",
 };
 
 const getDateFromDate = (date) => date.toISOString().substring(0, 10);

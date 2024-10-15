@@ -1,8 +1,5 @@
 import scrapy
 from datetime import datetime
-import re
-import itertools
-import string
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
@@ -12,8 +9,8 @@ class Spider(scrapy.Spider):
     competition_id = __name__.split("_")[1]
     ident = __name__[0:24]
 
-    race_id = "281781"
-    race_key = "1a92069df75cc5903748fe12993e7e8b"
+    race_id = "188259"
+    race_key = "00d6f1c66b61060ee536213b59ac4f94"
 
     custom_settings = {
         "FEED_EXPORTERS": {
@@ -40,24 +37,12 @@ class Spider(scrapy.Spider):
     }
 
     def start_requests(self):
-        for contest in [5, 6]:
-            yield scrapy.FormRequest(
-                method="GET",
-                url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
-                formdata={
-                    "key": self.race_key,
-                    "listname": "07 - Teilnehmer - PUBLIC|Teilnehmer ABC-Team",
-                    "contest": str(contest),
-                },
-                callback=self.parse_starters,
-            )
-
         for contest, competition_type, data_key in [
-            (5, "MPA", "#1_{DE:Feuerwehr-Team mit PA|EN:Firefighters team with SCBA}"),
+            (5, "MPA", "#1_{DE:Feuerwehr-Team mit PA|EN:Firefighters with SCBA}"),
             (
                 6,
                 "OPA",
-                "#1_{DE:Feuerwehr-Team ohne PA|EN:Firefighters team without SCBA}",
+                "#1_{DE:Feuerwehr-Team ohne PA|EN:Firefighters without SCBA}",
             ),
         ]:
             yield scrapy.FormRequest(
@@ -65,8 +50,8 @@ class Spider(scrapy.Spider):
                 url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
                 formdata={
                     "key": self.race_key,
-                    "listname": "02 - Ergebnislisten|Ergebnisliste MW - Team",
                     "contest": str(contest),
+                    "listname": "02 - Ergebnislisten|Mannschaftswertung Ges",
                 },
                 cb_kwargs={
                     "competition_type": competition_type,
@@ -74,36 +59,20 @@ class Spider(scrapy.Spider):
                 },
             )
 
-    def parse_starters(self, response):
-        data = response.json()["data"]
-        for [_id, _bib, _team, names, _category] in data:
-            yield ParticipantItem(
-                competition_id=self.competition_id,
-                names=sorted(names.split(" / ")),
-            )
-
     def parse(self, response, data_key, competition_type):
-        data = response.json()["data"]
-        for entry in (
-            data[data_key]["#1_Männer"]
-            + data[data_key]["#2_Frauen"]
-            + data[data_key]["#3_Mixed"]
-        ):
-            [_, status, bib, names, category, _, raw_duration] = entry
-
-            if status == "DNF" or not raw_duration:  # disqualified
-                continue
+        for entry in response.json()["data"][data_key]:
+            [_, _, bib, _, names, category, raw_duration] = entry
 
             [category, _] = category.split(" ")
             names = sorted(map(str.strip, names.split("/")))
-            duration = ("0" + ("0:" + raw_duration + ".0")[-9:])[-11:]
+            duration = "00:%s.0" % raw_duration.zfill(5)
 
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
-                bib=bib,
+                duration=duration,
                 type=competition_type,
                 category={"MIX": "X"}.get(category, category),
-                duration=duration,
                 names=names,
+                bib=bib,
             )

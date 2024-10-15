@@ -52,6 +52,28 @@ class Spider(scrapy.Spider):
                 callback=self.parse_starters,
             )
 
+        for contest, competition_type, data_key in [
+            (5, "MPA", "#1_{DE:Feuerwehr-Team mit PA|EN:Firefighters with SCBA}"),
+            (
+                6,
+                "OPA",
+                "#1_{DE:Feuerwehr-Team ohne PA|EN:Firefighters without SCBA}",
+            ),
+        ]:
+            yield scrapy.FormRequest(
+                method="GET",
+                url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+                formdata={
+                    "key": self.race_key,
+                    "contest": str(contest),
+                    "listname": "02 - Ergebnislisten|Mannschaftswertung Ges",
+                },
+                cb_kwargs={
+                    "competition_type": competition_type,
+                    "data_key": data_key,
+                },
+            )
+
     def parse_starters(self, response):
         fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
 
@@ -60,4 +82,22 @@ class Spider(scrapy.Spider):
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=sorted(map(fixName, names.split(" / "))),
+            )
+
+    def parse(self, response, data_key, competition_type):
+        for entry in response.json()["data"][data_key]:
+            [_, _, bib, _, names, category, raw_duration] = entry
+
+            [category, _] = category.split(" ")
+            names = sorted(map(str.strip, names.split("/")))
+            duration = "00:%s.0" % raw_duration.zfill(5)
+
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                duration=duration,
+                type=competition_type,
+                category={"MIX": "X"}.get(category, category),
+                names=names,
+                bib=bib,
             )

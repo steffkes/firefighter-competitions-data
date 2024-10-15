@@ -23,6 +23,7 @@ jobs:
       - run: >
           find spider/ -name "*rec*.py" |
           sort |
+          tee /dev/stderr |
           jq -ncR '[inputs]' |
           jq -r  --arg date `date +'%y%m%d'` '.[] | . as $competition_spider | {competition_date: capture("(?<m>[[:digit:].]+)").m, $competition_spider} | select(.competition_date >= $date) | .competition_spider' |
           tee /dev/stderr |

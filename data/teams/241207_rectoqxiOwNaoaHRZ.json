@@ -1,7 +1,7 @@
 {
-  "date": "2024-10-21T15:32:33.736769",
+  "date": "2024-10-22T07:44:31.054702",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 400,
+  "count": 399,
   "teams": [
     [
       "Alexander Gottfried"
@@ -97,9 +97,6 @@
       "Tobias Kohlmeier"
     ],
     [
-      "Vincent Sömmer"
-    ],
-    [
       "Adam Segeritz",
       "Florian Hessdörfer"
     ],
@@ -190,10 +187,6 @@
     [
       "Antonia Kulhawy",
       "Rebea Sonnenberg"
-    ],
-    [
-      "Axel Fegebank",
-      "Karsten Kohrs"
     ],
     [
       "Bastian Zehnle",
@@ -437,7 +430,7 @@
     ],
     [
       "Florian Peters",
-      "Maik Meiritz"
+      "Vincent Sömmer"
     ],
     [
       "Florian Thörner",
@@ -602,6 +595,10 @@
     [
       "Karel Zapletal",
       "Lukas Mooz"
+    ],
+    [
+      "Karsten Kohrs",
+      "Maik Meiritz"
     ],
     [
       "Karsten Nendziak",

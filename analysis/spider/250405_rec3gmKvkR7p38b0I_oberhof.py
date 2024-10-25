@@ -38,21 +38,26 @@ class Spider(scrapy.Spider):
     }
 
     def start_requests(self):
-        for contest in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
-            yield scrapy.FormRequest(
-                method="GET",
-                url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
-                formdata={
-                    "key": self.race_key,
-                    "contest": str(contest),
-                    "listname": "Online Ergebnisse und Listen|25 Teilnehmer nach Team",
-                },
-                callback=self.parse_starters,
-            )
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "Online Ergebnisse und Listen|26 Teilnehmer Team",
+            },
+            callback=self.parse_starters,
+        )
 
     def parse_starters(self, response):
-        data = list((response.json()["data"] or {"dummy": []}).values())[0]
-        for [_bib, _empty, _time, _team, _city, _origin, names, _category] in data:
+        for [
+            _bib,
+            _team,
+            _team,
+            _nationality,
+            _category,
+            names,
+            _info,
+        ] in response.json()["data"]:
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=sorted(

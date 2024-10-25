@@ -1,7 +1,7 @@
 {
-  "date": "2024-10-25T09:31:15.377943",
+  "date": "2024-10-25T15:31:03.547338",
   "competition_id": "recWBkOlwgxBXLHAl",
-  "count": 10,
+  "count": 12,
   "teams": [
     [
       "Benjamin Schrader",
@@ -22,6 +22,10 @@
     [
       "Damian Pyka",
       "Steve Roidl"
+    ],
+    [
+      "Johannes Vogl",
+      "Michael Nortmann"
     ]
   ]
 }

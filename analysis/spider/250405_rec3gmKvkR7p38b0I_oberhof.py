@@ -1,6 +1,5 @@
 import scrapy
 from datetime import datetime
-import re
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
@@ -60,10 +59,41 @@ class Spider(scrapy.Spider):
         ] in response.json()["data"]:
             yield ParticipantItem(
                 competition_id=self.competition_id,
-                names=sorted(
-                    map(
-                        lambda name: re.match(r"^[^\(]+", name).group().strip(),
-                        names.split(" / "),
-                    )
-                ),
+                names=extractNames(names),
             )
+
+
+import re
+
+
+def extractNames(names):
+    return sorted(
+        map(
+            lambda name: re.match(r"^[^\(]+", name).group().strip(),
+            names.split(" / "),
+        )
+    )
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        (
+            "Damian Pyka (ML/1975) / Jasmin Bohun (WL/1989)",
+            ["Damian Pyka", "Jasmin Bohun"],
+        ),
+        (
+            "Jörg Bohun (ML/1981) / Benjamin Schrader (ML/1985)",
+            ["Benjamin Schrader", "Jörg Bohun"],
+        ),
+        (
+            "Jasmin Bohun (WL/1989) / Bianca Schrader (WL/1990)",
+            ["Bianca Schrader", "Jasmin Bohun"],
+        ),
+    ],
+)
+def test_extractNames(input, output):
+    assert extractNames(input) == output

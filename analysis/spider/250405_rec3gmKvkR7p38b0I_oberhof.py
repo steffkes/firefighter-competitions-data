@@ -1,6 +1,5 @@
 import scrapy
 from datetime import datetime
-import re
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
@@ -38,27 +37,63 @@ class Spider(scrapy.Spider):
     }
 
     def start_requests(self):
-        for contest in [1, 2, 3, 4, 5, 6, 7, 8, 9]:
-            yield scrapy.FormRequest(
-                method="GET",
-                url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
-                formdata={
-                    "key": self.race_key,
-                    "contest": str(contest),
-                    "listname": "Online Ergebnisse und Listen|25 Teilnehmer nach Team",
-                },
-                callback=self.parse_starters,
-            )
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "Online Ergebnisse und Listen|26 Teilnehmer Team",
+            },
+            callback=self.parse_starters,
+        )
 
     def parse_starters(self, response):
-        data = list((response.json()["data"] or {"dummy": []}).values())[0]
-        for [_bib, _empty, _time, _team, _city, _origin, names, _category] in data:
+        for [
+            _bib,
+            _team,
+            _team,
+            _nationality,
+            _category,
+            names,
+            _info,
+        ] in response.json()["data"]:
             yield ParticipantItem(
                 competition_id=self.competition_id,
-                names=sorted(
-                    map(
-                        lambda name: re.match(r"^[^\(]+", name).group().strip(),
-                        names.split(" / "),
-                    )
-                ),
+                names=extractNames(names),
             )
+
+
+import re
+
+
+def extractNames(names):
+    return sorted(
+        map(
+            lambda name: re.match(r"^[^\(]+", name).group().strip(),
+            names.split(" / "),
+        )
+    )
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        (
+            "Damian Pyka (ML/1975) / Jasmin Bohun (WL/1989)",
+            ["Damian Pyka", "Jasmin Bohun"],
+        ),
+        (
+            "Jörg Bohun (ML/1981) / Benjamin Schrader (ML/1985)",
+            ["Benjamin Schrader", "Jörg Bohun"],
+        ),
+        (
+            "Jasmin Bohun (WL/1989) / Bianca Schrader (WL/1990)",
+            ["Bianca Schrader", "Jasmin Bohun"],
+        ),
+    ],
+)
+def test_extractNames(input, output):
+    assert extractNames(input) == output

@@ -1,7 +1,7 @@
 {
-  "date": "2024-10-26T17:10:37.729212",
+  "date": "2024-10-27T06:15:04.351686",
   "competition_id": "recWBkOlwgxBXLHAl",
-  "count": 14,
+  "count": 16,
   "teams": [
     [
       "Anderas Bezikofer",
@@ -30,6 +30,10 @@
     [
       "Johannes Vogl",
       "Michael Nortmann"
+    ],
+    [
+      "Marcel Imling",
+      "Patrick Baderschneider"
     ]
   ]
 }

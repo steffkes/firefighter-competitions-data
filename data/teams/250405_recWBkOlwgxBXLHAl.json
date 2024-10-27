@@ -1,8 +1,12 @@
 {
-  "date": "2024-10-27T10:43:18.350451",
+  "date": "2024-10-27T20:45:00.498594",
   "competition_id": "recWBkOlwgxBXLHAl",
-  "count": 16,
+  "count": 24,
   "teams": [
+    [
+      "Adrian Kirchner",
+      "Armin Kirchner"
+    ],
     [
       "Anderas Bezikofer",
       "Markus Moser"
@@ -32,8 +36,20 @@
       "Michael Nortmann"
     ],
     [
+      "Julia Dawid",
+      "Michi Dawid"
+    ],
+    [
+      "Manuela Kirchner",
+      "Odette Schirmbacher"
+    ],
+    [
       "Marcel Imling",
       "Patrick Baderschneider"
+    ],
+    [
+      "Robert Schulz",
+      "Svenja Passek"
     ]
   ]
 }

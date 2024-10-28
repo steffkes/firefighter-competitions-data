@@ -1,5 +1,7 @@
 import scrapy
 from pathlib import Path
+from active_spiders import spiders
+import re
 
 
 class Spider(scrapy.Spider):
@@ -22,7 +24,13 @@ class Spider(scrapy.Spider):
         for path in map(
             lambda path: "file://%s" % path.resolve(),
             filter(
-                lambda path: path.stat().st_size, Path("../data/teams").glob("*.json")
+                lambda path: path.stat().st_size,
+                map(
+                    lambda path: Path("../data/teams").joinpath(
+                        re.match(r"^\d+_[^_]+", path.name)[0] + ".json"
+                    ),
+                    spiders,
+                ),
             ),
         ):
             yield scrapy.Request(path)

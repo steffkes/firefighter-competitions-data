@@ -21,8 +21,8 @@ class Spider(scrapy.Spider):
     }
 
     def start_requests(self):
-        for path in map(
-            lambda path: "file://%s" % path.resolve(),
+        yield from map(
+            lambda path: scrapy.Request("file://%s" % path.resolve()),
             filter(
                 lambda path: path.stat().st_size,
                 map(
@@ -32,8 +32,7 @@ class Spider(scrapy.Spider):
                     spiders,
                 ),
             ),
-        ):
-            yield scrapy.Request(path)
+        )
 
     def parse(self, response):
         data = response.json()

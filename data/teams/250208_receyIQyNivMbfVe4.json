@@ -1,7 +1,7 @@
 {
-  "date": "2024-11-07T20:53:16.283370",
+  "date": "2024-11-07T21:10:19.602361",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 4,
+  "count": 6,
   "teams": [
     [
       "Bohun Jasmin",
@@ -10,6 +10,10 @@
     [
       "Diedrigkeit Tobias",
       "THIEL Dominik"
+    ],
+    [
+      "Fischer Andreas",
+      "KREIT Christian"
     ]
   ]
 }

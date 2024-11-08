@@ -1,7 +1,7 @@
 {
-  "date": "2024-11-08T15:30:52.016412",
+  "date": "2024-11-08T21:42:58.879269",
   "competition_id": "recWBkOlwgxBXLHAl",
-  "count": 28,
+  "count": 30,
   "teams": [
     [
       "Adrian Kirchner",
@@ -50,6 +50,10 @@
     [
       "Marcel Imling",
       "Patrick Baderschneider"
+    ],
+    [
+      "Max Dittmann",
+      "Sebastian Grieser"
     ],
     [
       "Mirko Döbert",

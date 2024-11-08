@@ -1,11 +1,23 @@
 {
-  "date": "2024-11-07T15:30:33.353905",
+  "date": "2024-11-07T23:53:19.541840",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 2,
+  "count": 8,
   "teams": [
     [
       "Bohun Jasmin",
       "PYKA Damian"
+    ],
+    [
+      "Bulach Moritz",
+      "DITTRICH Alan"
+    ],
+    [
+      "Diedrigkeit Tobias",
+      "THIEL Dominik"
+    ],
+    [
+      "Fischer Andreas",
+      "KREIT Christian"
     ]
   ]
 }

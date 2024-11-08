@@ -1,7 +1,7 @@
 {
-  "date": "2024-11-08T06:48:45.872273",
+  "date": "2024-11-08T06:55:44.950486",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 8,
+  "count": 10,
   "teams": [
     [
       "Bohun Jasmin",
@@ -18,6 +18,10 @@
     [
       "Fischer Andreas",
       "KREIT Christian"
+    ],
+    [
+      "HINDELANG Günther",
+      "Roidl Steve"
     ]
   ]
 }

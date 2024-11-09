@@ -1,8 +1,12 @@
 {
-  "date": "2024-11-09T06:52:56.145931",
+  "date": "2024-11-09T13:53:01.042517",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 12,
+  "count": 16,
   "teams": [
+    [
+      "BOHUN Jörg",
+      "Steve Roidl"
+    ],
     [
       "Bohun Jasmin",
       "PYKA Damian"
@@ -14,6 +18,10 @@
     [
       "Diedrigkeit Tobias",
       "THIEL Dominik"
+    ],
+    [
+      "Engel Uwe",
+      "WILHELM Andreas"
     ],
     [
       "FLESCHHUT Christian",

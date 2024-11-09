@@ -94,92 +94,10 @@
             </tr>
           </thead>
           <tbody>
-            <tr
+            <CompetitionRow
               v-for="competition in upcomingRegistrations"
-              :key="competition.id"
-              :id="competition.id"
-              :class="{
-                'has-text-grey-lighter': isPast(competition),
-                'has-text-grey-light': competition.date.is_draft,
-                'has-text-weight-light': competition.date.is_draft,
-                'has-text-grey-lighter': competition.date.is_canceled,
-                'is-selected': isCurrent(competition),
-              }"
-            >
-              <td class="date">
-                <span
-                  v-if="competition.date.is_canceled"
-                  style="cursor: help"
-                  title="Diese Veranstaltung wurde abgesagt"
-                  >❌
-                </span>
-                <span
-                  v-if="competition.date.is_draft"
-                  style="cursor: help"
-                  title="Der Termin dieser Veranstaltung ist noch nicht endgültig"
-                  >❓</span
-                >
-                <component :is="competition.date.is_canceled ? 's' : 'span'">
-                  {{ formatDate(competition.date.start) }}
-                  <span
-                    v-if="
-                      formatDate(competition.date.start) !=
-                      formatDate(competition.date.end)
-                    "
-                    style="white-space: nowrap"
-                    >- {{ formatDate(competition.date.end) }}</span
-                  >
-                </component>
-                <p>
-                  <span
-                    :class="{
-                      tag: true,
-                      'is-success':
-                        formatDate(competition.date.registration_opens) !=
-                        formatDate(new Date()),
-                      'is-dark':
-                        formatDate(competition.date.registration_opens) ==
-                        formatDate(new Date()),
-                    }"
-                    v-if="competition.has_registration_pending"
-                    style="cursor: help"
-                    :title="
-                      'Anmeldung startet am ' +
-                      formatDate(competition.date.registration_opens)
-                    "
-                  >
-                    ⏰ {{ formatDate(competition.date.registration_opens) }}
-                  </span>
-                </p>
-              </td>
-              <td>
-                <component :is="competition.date.is_canceled ? 's' : 'div'">
-                  <a
-                    v-if="competition.url"
-                    class="is-block"
-                    :href="competition.url"
-                    >{{ competition.name }}</a
-                  >
-                  <div v-else>{{ competition.name }}</div>
-                </component>
-                <div class="tags">
-                  <span
-                    :title="kind[competition.kind].title"
-                    :class="['tag', kind[competition.kind].type]"
-                    >{{ competition.kind }}</span
-                  >
-                  <span class="tag">
-                    {{ flag(competition.location.country_code) }}
-                    {{ competition.location.city }}</span
-                  >
-                  <ParticipantCounter :competition="competition" />
-                  <SingleboerseCounter
-                    v-if="singleboerse[competition.id]"
-                    :id="singleboerse[competition.id]"
-                  />
-                </div>
-              </td>
-            </tr>
+              :competition="competition"
+            />
           </tbody>
         </table>
 
@@ -202,92 +120,11 @@
                 Mit der getroffenen Auswahl gibt es keine Wettkämpfe.
               </td>
             </tr>
-            <tr
+
+            <CompetitionRow
               v-for="competition in filteredCompetitions"
-              :key="competition.id"
-              :id="competition.id"
-              :class="{
-                'has-text-grey-lighter': isPast(competition),
-                'has-text-grey-light': competition.date.is_draft,
-                'has-text-weight-light': competition.date.is_draft,
-                'has-text-grey-lighter': competition.date.is_canceled,
-                'is-selected': isCurrent(competition),
-              }"
-            >
-              <td class="date">
-                <span
-                  v-if="competition.date.is_canceled"
-                  style="cursor: help"
-                  title="Diese Veranstaltung wurde abgesagt"
-                  >❌
-                </span>
-                <span
-                  v-if="competition.date.is_draft"
-                  style="cursor: help"
-                  title="Der Termin dieser Veranstaltung ist noch nicht endgültig"
-                  >❓</span
-                >
-                <component :is="competition.date.is_canceled ? 's' : 'span'">
-                  {{ formatDate(competition.date.start) }}
-                  <span
-                    v-if="
-                      formatDate(competition.date.start) !=
-                      formatDate(competition.date.end)
-                    "
-                    style="white-space: nowrap"
-                    >- {{ formatDate(competition.date.end) }}</span
-                  >
-                </component>
-                <p>
-                  <span
-                    :class="{
-                      tag: true,
-                      'is-success':
-                        formatDate(competition.date.registration_opens) !=
-                        formatDate(new Date()),
-                      'is-dark':
-                        formatDate(competition.date.registration_opens) ==
-                        formatDate(new Date()),
-                    }"
-                    v-if="competition.has_registration_pending"
-                    style="cursor: help"
-                    :title="
-                      'Anmeldung startet am ' +
-                      formatDate(competition.date.registration_opens)
-                    "
-                  >
-                    ⏰ {{ formatDate(competition.date.registration_opens) }}
-                  </span>
-                </p>
-              </td>
-              <td>
-                <component :is="competition.date.is_canceled ? 's' : 'div'">
-                  <a
-                    v-if="competition.url"
-                    class="is-block"
-                    :href="competition.url"
-                    >{{ competition.name }}</a
-                  >
-                  <div v-else>{{ competition.name }}</div>
-                </component>
-                <div class="tags">
-                  <span
-                    :title="kind[competition.kind].title"
-                    :class="['tag', kind[competition.kind].type]"
-                    >{{ competition.kind }}</span
-                  >
-                  <span class="tag">
-                    {{ flag(competition.location.country_code) }}
-                    {{ competition.location.city }}</span
-                  >
-                  <ParticipantCounter :competition="competition" />
-                  <SingleboerseCounter
-                    v-if="singleboerse[competition.id]"
-                    :id="singleboerse[competition.id]"
-                  />
-                </div>
-              </td>
-            </tr>
+              :competition="competition"
+            />
           </tbody>
         </table>
       </div>
@@ -400,30 +237,8 @@
 </template>
 
 <style scoped>
-table th.date,
-table td.date {
-  text-align: right !important;
-  font-variant-numeric: tabular-nums;
-}
-
-tr:target {
-  background-color: #00d1b2 !important;
-  color: #fff;
-}
-
 footer a {
   white-space: nowrap;
-}
-
-@media screen and (max-width: 1024px) {
-  table .date {
-    width: 10%;
-  }
-}
-@media screen and (min-width: 1024px) {
-  table .date {
-    width: 40%;
-  }
 }
 </style>
 
@@ -454,21 +269,10 @@ const kind = {
   },
 };
 
-const singleboerse = {
-  recyC5LmxecehTxWD: "240511-schonach",
-  reckHSB1eG9Su8fxx: "240907-radebeul",
-};
-
 const getDateFromDate = (date) => date.toISOString().substring(0, 10);
 
 const isPast = (competition) =>
   getDateFromDate(new Date()) > getDateFromDate(new Date(competition.date.end));
-
-const isCurrent = (competition) =>
-  getDateFromDate(new Date()) >=
-    getDateFromDate(new Date(competition.date.start)) &&
-  getDateFromDate(new Date()) <=
-    getDateFromDate(new Date(competition.date.end));
 
 const { data: competitions } = await useFetch("/api/competitions");
 

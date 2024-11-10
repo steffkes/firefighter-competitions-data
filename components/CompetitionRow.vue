@@ -55,11 +55,7 @@
         <div v-else>{{ competition.name }}</div>
       </div>
       <div class="tags">
-        <span
-          :title="kind[competition.kind].title"
-          :class="['tag', kind[competition.kind].type]"
-          >{{ competition.kind }}</span
-        >
+        <CompetitionTypeTag :competition="competition" />
         <span class="tag">
           {{ flag(competition.location.country_code) }}
           {{ competition.location.city }}</span
@@ -131,16 +127,6 @@ const competitionFilter = ref({
   FCC: true,
   FSR: true,
 });
-const kind = {
-  FCC: {
-    title: "Firefighter Combat Challenge",
-    type: "is-warning is-light",
-  },
-  FSR: {
-    title: "Firefighter Stair Run",
-    type: "is-info is-light",
-  },
-};
 
 const formatDate = (date) =>
   new Date(date).toLocaleDateString("de-DE", {

@@ -56,10 +56,7 @@
       </div>
       <div class="tags">
         <CompetitionTypeTag :competition="competition" />
-        <span class="tag">
-          {{ flag(competition.location.country_code) }}
-          {{ competition.location.city }}</span
-        >
+        <LocationTag :competition="competition" />
         <span
           v-if="competition.date.is_canceled"
           class="tag"
@@ -135,11 +132,6 @@ const formatDate = (date) =>
     day: "2-digit",
     year: "2-digit",
   });
-
-const flag = (countryCode) =>
-  countryCode
-    .toUpperCase()
-    .replace(/./g, (char) => String.fromCodePoint(127397 + char.charCodeAt()));
 
 const getDateFromDate = (date) => date.toISOString().substring(0, 10);
 

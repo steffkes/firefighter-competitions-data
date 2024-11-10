@@ -53,10 +53,7 @@
         </p>
         <div class="tags">
           <CompetitionTypeTag :competition="competition" />
-          <span class="tag">
-            {{ flag(competition.location.country_code) }}
-            {{ competition.location.city }}</span
-          >
+          <LocationTag :competition="competition" />
           <ParticipantCounter
             v-if="competition.has_registration_open"
             :competition="competition"
@@ -79,9 +76,4 @@ const formatDate = (date) =>
     day: "2-digit",
     year: "2-digit",
   });
-
-const flag = (countryCode) =>
-  countryCode
-    .toUpperCase()
-    .replace(/./g, (char) => String.fromCodePoint(127397 + char.charCodeAt()));
 </script>

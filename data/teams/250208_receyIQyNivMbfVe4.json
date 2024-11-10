@@ -1,5 +1,5 @@
 {
-  "date": "2024-11-10T11:35:21.165446",
+  "date": "2024-11-10T11:43:02.752028",
   "competition_id": "receyIQyNivMbfVe4",
   "count": 16,
   "teams": [
@@ -20,6 +20,10 @@
       "THIEL Dominik"
     ],
     [
+      "Eisele Luca",
+      "HINDELANG Günther"
+    ],
+    [
       "Engel Uwe",
       "WILHELM Andreas"
     ],
@@ -30,10 +34,6 @@
     [
       "Fischer Andreas",
       "KREIT Christian"
-    ],
-    [
-      "HINDELANG Günther",
-      "Roidl Steve"
     ]
   ]
 }

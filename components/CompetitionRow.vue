@@ -83,16 +83,9 @@ tr:target {
 
 <script setup>
 import { differenceInDays, parseISO as parseIsoDate } from "date-fns";
+import { formatDate } from "../util";
 
 defineProps(["competition"]);
-
-const formatDate = (date) =>
-  new Date(date).toLocaleDateString("de-DE", {
-    weekday: "short",
-    month: "2-digit",
-    day: "2-digit",
-    year: "2-digit",
-  });
 
 const getDateFromDate = (date) => date.toISOString().substring(0, 10);
 

@@ -1,7 +1,7 @@
 {
-  "date": "2024-11-11T22:46:25.109129",
+  "date": "2024-11-11T22:53:48.553022",
   "competition_id": "recgpWQzJ2YsIMaDt",
-  "count": 571,
+  "count": 572,
   "teams": [
     [
       "ALEKS ŠERNEK"
@@ -166,9 +166,6 @@
       "Anđelko Kos"
     ],
     [
-      "Anže  Skaza"
-    ],
-    [
       "Anže Gregorič"
     ],
     [
@@ -176,6 +173,9 @@
     ],
     [
       "Anže Razdrh"
+    ],
+    [
+      "Anže Skaza"
     ],
     [
       "Astrid Malvić"
@@ -214,10 +214,10 @@
       "Bojana Rogić Pintar"
     ],
     [
-      "Borna  Nebojan"
+      "Borna Bogović"
     ],
     [
-      "Borna Bogović "
+      "Borna Nebojan"
     ],
     [
       "Božidar Baučić"
@@ -367,7 +367,7 @@
       "Dina Sablić Kalabić"
     ],
     [
-      "Dino  Mandušić"
+      "Dino Mandušić"
     ],
     [
       "Domagoj Grgurić"
@@ -550,9 +550,6 @@
       "IVAN RAZMILIĆ"
     ],
     [
-      "Igor  Šustić "
-    ],
-    [
       "Igor Batinjan"
     ],
     [
@@ -566,6 +563,9 @@
     ],
     [
       "Igor Špoljarić"
+    ],
+    [
+      "Igor Šustić"
     ],
     [
       "Ilija Črnila"
@@ -751,9 +751,6 @@
       "Jurica Đurđek"
     ],
     [
-      "Karlo  Mijat"
-    ],
-    [
       "Karlo Bartolin"
     ],
     [
@@ -764,6 +761,9 @@
     ],
     [
       "Karlo Kukec"
+    ],
+    [
+      "Karlo Mijat"
     ],
     [
       "Karlo Petravić"
@@ -1051,10 +1051,10 @@
       "Martin Žagar"
     ],
     [
-      "Martina  Gorupić"
+      "Martina Combaj"
     ],
     [
-      "Martina Combaj"
+      "Martina Gorupić"
     ],
     [
       "Martina Mihordin"
@@ -1111,10 +1111,10 @@
       "Mateja Vugrinec"
     ],
     [
-      "Mateo  Aleksić"
+      "Mateo Aleksić"
     ],
     [
-      "Mateo  Grubišić"
+      "Mateo Grubišić"
     ],
     [
       "Mateo Sutnjak"
@@ -1375,10 +1375,10 @@
       "ROK TOMPA"
     ],
     [
-      "Radovan  Zadravec "
+      "Radovan Vaculík"
     ],
     [
-      "Radovan Vaculík"
+      "Radovan Zadravec"
     ],
     [
       "Rajko Smrzlić"
@@ -1399,13 +1399,13 @@
       "Richárd Péter Korom"
     ],
     [
-      "Robert  Teskera "
-    ],
-    [
       "Robert Hrast"
     ],
     [
       "Robert Spisak"
+    ],
+    [
+      "Robert Teskera"
     ],
     [
       "Robert Čuljak"
@@ -1525,12 +1525,6 @@
       "Toma Šimić"
     ],
     [
-      "Tomislav  Matiček"
-    ],
-    [
-      "Tomislav  Štibrić "
-    ],
-    [
       "Tomislav Antolović"
     ],
     [
@@ -1552,6 +1546,9 @@
       "Tomislav Kisasondi"
     ],
     [
+      "Tomislav Matiček"
+    ],
+    [
       "Tomislav Milinović"
     ],
     [
@@ -1571,6 +1568,9 @@
     ],
     [
       "Tomislav Škiljan"
+    ],
+    [
+      "Tomislav Štibrić"
     ],
     [
       "Tomáš Árvay"
@@ -1649,6 +1649,9 @@
     ],
     [
       "Vivien Raspor"
+    ],
+    [
+      "Zaya Ouali"
     ],
     [
       "Zdenka Hiržin"

@@ -30,19 +30,6 @@
           >
             ⏰ {{ formatDate(competition.date.registration_opens) }}
           </span>
-
-          <span
-            v-if="competition.date.is_canceled"
-            style="cursor: help"
-            title="Diese Veranstaltung wurde abgesagt"
-            >❌
-          </span>
-          <span
-            v-if="competition.date.is_draft"
-            style="cursor: help"
-            title="Der Termin dieser Veranstaltung ist noch nicht endgültig"
-            >❓</span
-          >
         </p>
 
         <p class="m-0 my-2">
@@ -51,14 +38,7 @@
           }}</a>
           <span v-else>{{ competition.name }}</span>
         </p>
-        <div class="tags">
-          <CompetitionTypeTag :competition="competition" />
-          <LocationTag :competition="competition" />
-          <ParticipantCounter
-            v-if="competition.has_registration_open"
-            :competition="competition"
-          />
-        </div>
+        <CompetitionTags :competition="competition" />
       </component>
     </l-popup>
   </l-marker>

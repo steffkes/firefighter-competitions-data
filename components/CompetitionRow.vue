@@ -54,29 +54,8 @@
         }}</a>
         <div v-else>{{ competition.name }}</div>
       </div>
-      <div class="tags">
-        <CompetitionTypeTag :competition="competition" />
-        <LocationTag :competition="competition" />
-        <span
-          v-if="competition.date.is_canceled"
-          class="tag"
-          style="cursor: help"
-          title="Diese Veranstaltung wurde abgesagt"
-          >❌
-        </span>
-        <span
-          v-if="competition.date.is_draft"
-          class="tag"
-          style="cursor: help"
-          title="Der Termin dieser Veranstaltung ist noch nicht endgültig"
-          >❓</span
-        >
-        <ParticipantCounter :competition="competition" />
-        <SingleboerseCounter
-          v-if="singleboerse[competition.id]"
-          :id="singleboerse[competition.id]"
-        />
-      </div>
+
+      <CompetitionTags :competition="competition" />
     </td>
   </tr>
 </template>
@@ -113,11 +92,6 @@ tr:target {
 import { differenceInDays, parseISO as parseIsoDate } from "date-fns";
 
 defineProps(["competition"]);
-
-const singleboerse = {
-  recyC5LmxecehTxWD: "240511-schonach",
-  reckHSB1eG9Su8fxx: "240907-radebeul",
-};
 
 const displayPastCompetitions = ref(false);
 const competitionFilter = ref({

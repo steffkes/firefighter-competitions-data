@@ -1,7 +1,7 @@
 {
-  "date": "2024-11-11T21:10:31.554671",
+  "date": "2024-11-11T21:24:51.492731",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 16,
+  "count": 18,
   "teams": [
     [
       "BOHUN Jörg",
@@ -34,6 +34,10 @@
     [
       "Fischer Andreas",
       "KREIT Christian"
+    ],
+    [
+      "LANGENHAHN Erik",
+      "Renker Sean-Paul"
     ]
   ]
 }

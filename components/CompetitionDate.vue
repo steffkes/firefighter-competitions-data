@@ -1,9 +1,5 @@
 <template>
-  <span
-    ><time :datetime="competition.date.start">
-      {{ formatDate(competition.date.start) }}
-    </time>
-  </span>
+  <span><FormattedDate :date="competition.date.start" /></span>
 
   <span
     v-if="
@@ -12,9 +8,7 @@
     style="white-space: nowrap"
   >
     -
-    <time :datetime="competition.date.end">{{
-      formatDate(competition.date.end)
-    }}</time>
+    <FormattedDate :date="competition.date.end" />
   </span>
 </template>
 

@@ -32,7 +32,11 @@
             formatDate(competition.date.registration_opens)
           "
         >
-          ⏰ {{ formatDate(competition.date.registration_opens) }}
+          ⏰
+          <FormattedDate
+            :date="competition.date.registration_opens"
+            class="ml-1"
+          />
         </span>
       </p>
     </td>

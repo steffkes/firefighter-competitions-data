@@ -8,19 +8,11 @@
   >
     <l-popup>
       <component :is="competition.date.is_canceled ? 's' : 'div'">
-        <p class="m-0 has-text-grey-light">
-          {{ formatDate(competition.date.start) }}
-          <span
-            v-if="
-              formatDate(competition.date.start) !=
-              formatDate(competition.date.end)
-            "
-            style="white-space: nowrap"
-            >- {{ formatDate(competition.date.end) }}</span
-          >
+        <div class="m-0 has-text-grey-light" style="white-space: nowrap">
+          <CompetitionDate :competition="competition" />
 
           <span
-            class="tag is-success"
+            class="tag is-success ml-2"
             v-if="competition.has_registration_pending"
             style="cursor: help"
             :title="
@@ -30,7 +22,7 @@
           >
             ⏰ {{ formatDate(competition.date.registration_opens) }}
           </span>
-        </p>
+        </div>
 
         <p class="m-0 my-2">
           <a v-if="competition.url" :href="competition.url" class="is-block">{{

@@ -12,18 +12,7 @@
     }"
   >
     <td class="date">
-      <div style="white-space: nowrap">
-        {{ formatDate(competition.date.start) }}
-      </div>
-
-      <div
-        v-if="
-          formatDate(competition.date.start) != formatDate(competition.date.end)
-        "
-        style="white-space: nowrap"
-      >
-        - {{ formatDate(competition.date.end) }}
-      </div>
+      <CompetitionDate :competition="competition" />
 
       <p>
         <span

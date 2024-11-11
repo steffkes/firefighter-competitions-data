@@ -93,12 +93,6 @@ import { differenceInDays, parseISO as parseIsoDate } from "date-fns";
 
 defineProps(["competition"]);
 
-const displayPastCompetitions = ref(false);
-const competitionFilter = ref({
-  FCC: true,
-  FSR: true,
-});
-
 const formatDate = (date) =>
   new Date(date).toLocaleDateString("de-DE", {
     weekday: "short",

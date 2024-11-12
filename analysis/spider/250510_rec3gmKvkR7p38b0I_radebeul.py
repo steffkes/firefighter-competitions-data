@@ -41,7 +41,7 @@ class Spider(scrapy.Spider):
         )
 
     def parse_starters(self, response):
-        num_teams = 50 - int(response.css(".counter::text").get())
+        num_teams = 60 - int(response.css(".counter::text").get())
         for i in range(num_teams):
             yield ParticipantItem(
                 competition_id=self.competition_id,

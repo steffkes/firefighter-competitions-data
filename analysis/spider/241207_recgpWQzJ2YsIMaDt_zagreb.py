@@ -43,7 +43,9 @@ class Spider(scrapy.Spider):
 
     def parse_starters(self, response):
         for entry in response.css("table tbody tr"):
-            [lastname, firstname] = entry.css("td::text").getall()[0:2]
+            [_, lastname, firstname] = [
+                cell.css("::text").get() for cell in entry.css("td")
+            ][0:3]
 
             yield ParticipantItem(
                 competition_id=self.competition_id,

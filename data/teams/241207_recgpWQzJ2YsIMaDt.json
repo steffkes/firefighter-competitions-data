@@ -1,7 +1,7 @@
 {
-  "date": "2024-11-11T17:53:07.160699",
+  "date": "2024-11-12T00:50:43.021996",
   "competition_id": "recgpWQzJ2YsIMaDt",
-  "count": 549,
+  "count": 572,
   "teams": [
     [
       "ALEKS ŠERNEK"
@@ -175,6 +175,9 @@
       "Anže Razdrh"
     ],
     [
+      "Anže Skaza"
+    ],
+    [
       "Astrid Malvić"
     ],
     [
@@ -193,6 +196,9 @@
       "Balázs Furdan"
     ],
     [
+      "Benjamin Zdolec"
+    ],
+    [
       "Benjamin Čalić"
     ],
     [
@@ -206,6 +212,12 @@
     ],
     [
       "Bojana Rogić Pintar"
+    ],
+    [
+      "Borna Bogović"
+    ],
+    [
+      "Borna Nebojan"
     ],
     [
       "Božidar Baučić"
@@ -283,6 +295,12 @@
       "Danijel Vinković"
     ],
     [
+      "Danijel Zdolec"
+    ],
+    [
+      "Danijel Čagalj"
+    ],
+    [
       "Darijo Bračić"
     ],
     [
@@ -349,7 +367,7 @@
       "Dina Sablić Kalabić"
     ],
     [
-      "Dino  Mandušić"
+      "Dino Mandušić"
     ],
     [
       "Domagoj Grgurić"
@@ -520,6 +538,9 @@
       "Gábor Mogyorósi"
     ],
     [
+      "Hrvoje Kalvi"
+    ],
+    [
       "Hrvoje Kovačić"
     ],
     [
@@ -527,9 +548,6 @@
     ],
     [
       "IVAN RAZMILIĆ"
-    ],
-    [
-      "Igor  Šustić "
     ],
     [
       "Igor Batinjan"
@@ -547,6 +565,12 @@
       "Igor Špoljarić"
     ],
     [
+      "Igor Šustić"
+    ],
+    [
+      "Ilija Črnila"
+    ],
+    [
       "Irena Solar Habulan"
     ],
     [
@@ -554,6 +578,9 @@
     ],
     [
       "Ivan Bosotin"
+    ],
+    [
+      "Ivan Dražić"
     ],
     [
       "Ivan Gavranović"
@@ -566,6 +593,9 @@
     ],
     [
       "Ivan Juričev-Špirić"
+    ],
+    [
+      "Ivan Kovačić"
     ],
     [
       "Ivan Maričić"
@@ -584,6 +614,9 @@
     ],
     [
       "Ivan Sutnjak"
+    ],
+    [
+      "Ivan Tomić"
     ],
     [
       "Ivan saban"
@@ -730,6 +763,9 @@
       "Karlo Kukec"
     ],
     [
+      "Karlo Mijat"
+    ],
+    [
       "Karlo Petravić"
     ],
     [
@@ -871,6 +907,9 @@
       "Luka Šprljan"
     ],
     [
+      "Lukša Gleđ"
+    ],
+    [
       "MARIO Graberec"
     ],
     [
@@ -988,6 +1027,9 @@
       "Marko Mihalić"
     ],
     [
+      "Marko Pakrac"
+    ],
+    [
       "Marko Ratkajec"
     ],
     [
@@ -1009,10 +1051,10 @@
       "Martin Žagar"
     ],
     [
-      "Martina  Gorupić"
+      "Martina Combaj"
     ],
     [
-      "Martina Combaj"
+      "Martina Gorupić"
     ],
     [
       "Martina Mihordin"
@@ -1069,10 +1111,10 @@
       "Mateja Vugrinec"
     ],
     [
-      "Mateo  Aleksić"
+      "Mateo Aleksić"
     ],
     [
-      "Mateo  Grubišić"
+      "Mateo Grubišić"
     ],
     [
       "Mateo Sutnjak"
@@ -1082,6 +1124,9 @@
     ],
     [
       "Matevž Kovač"
+    ],
+    [
+      "Matias Barberić"
     ],
     [
       "Matic Cunk"
@@ -1115,6 +1160,9 @@
     ],
     [
       "Mauro Ivanicic"
+    ],
+    [
+      "Maximilian Bindernagel Vujnovic"
     ],
     [
       "Melita Šeb"
@@ -1166,6 +1214,9 @@
     ],
     [
       "Miroslav Borbuliak"
+    ],
+    [
+      "Miroslav Mimica"
     ],
     [
       "Miroslav Rumiha"
@@ -1252,6 +1303,9 @@
       "Nikša Svetac"
     ],
     [
+      "Nina Teskač"
+    ],
+    [
       "Nino Crnko"
     ],
     [
@@ -1321,10 +1375,10 @@
       "ROK TOMPA"
     ],
     [
-      "Radovan  Zadravec "
+      "Radovan Vaculík"
     ],
     [
-      "Radovan Vaculík"
+      "Radovan Zadravec"
     ],
     [
       "Rajko Smrzlić"
@@ -1345,13 +1399,13 @@
       "Richárd Péter Korom"
     ],
     [
-      "Robert  Teskera "
-    ],
-    [
       "Robert Hrast"
     ],
     [
       "Robert Spisak"
+    ],
+    [
+      "Robert Teskera"
     ],
     [
       "Robert Čuljak"
@@ -1438,6 +1492,9 @@
       "Stipe Colić"
     ],
     [
+      "Stipe Krečak"
+    ],
+    [
       "Stjepan Habijan"
     ],
     [
@@ -1489,6 +1546,9 @@
       "Tomislav Kisasondi"
     ],
     [
+      "Tomislav Matiček"
+    ],
+    [
       "Tomislav Milinović"
     ],
     [
@@ -1510,6 +1570,9 @@
       "Tomislav Škiljan"
     ],
     [
+      "Tomislav Štibrić"
+    ],
+    [
       "Tomáš Árvay"
     ],
     [
@@ -1517,6 +1580,9 @@
     ],
     [
       "Toni Dragovan"
+    ],
+    [
+      "Toni Matijaščić"
     ],
     [
       "Toni Plut"
@@ -1583,6 +1649,9 @@
     ],
     [
       "Vivien Raspor"
+    ],
+    [
+      "Zaya Ouali"
     ],
     [
       "Zdenka Hiržin"

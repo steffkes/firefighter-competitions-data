@@ -34,7 +34,7 @@ class Spider(scrapy.Spider):
     }
 
     def start_requests(self):
-        for contest in [7044, 7045, 7046]:
+        for contest in [6014, 6015, 6016]:
             yield scrapy.FormRequest(
                 method="GET",
                 url="https://www.stotinka.hr/eng/race/%d/registered_list" % contest,

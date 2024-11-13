@@ -1,11 +1,19 @@
 {
-  "date": "2024-11-12T18:14:46.698382",
+  "date": "2024-11-12T23:52:56.448276",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 20,
+  "count": 26,
   "teams": [
+    [
+      "Achilles Julian",
+      "TIETGE Jan-Philipp"
+    ],
     [
       "BOHUN Jörg",
       "Steve Roidl"
+    ],
+    [
+      "Blümmert Fabian",
+      "GREIS Alexander"
     ],
     [
       "Bohun Jasmin",
@@ -40,8 +48,12 @@
       "KREIT Christian"
     ],
     [
+      "Fischer Marco",
+      "HAID Patrick"
+    ],
+    [
       "LANGENHAHN Erik",
-      "Renker Sean-Paul"
+      "Renker Sean Paul"
     ]
   ]
 }

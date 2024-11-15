@@ -1,5 +1,5 @@
 {
-  "date": "2024-11-15T18:50:08.299606",
+  "date": "2024-11-15T18:57:11.625551",
   "competition_id": "rectoqxiOwNaoaHRZ",
   "count": 400,
   "teams": [
@@ -138,6 +138,10 @@
     [
       "Andre Ferneschild",
       "Henry Glanz"
+    ],
+    [
+      "Andre Fritsch",
+      "Nico Liebermann"
     ],
     [
       "Andreas Engelhardt",
@@ -474,6 +478,10 @@
     [
       "Henning Rawe",
       "Holger Schwencke"
+    ],
+    [
+      "Hugo Hofmann",
+      "Sascha Oberender"
     ],
     [
       "Ingo Blut",
@@ -822,12 +830,6 @@
     [
       "Stefanie Fitzner",
       "Vicky Krützmann"
-    ],
-    [
-      "Andre Fritsch",
-      "Hugo Hofmann",
-      "Nico Liebermann",
-      "Sascha Oberender"
     ]
   ]
 }

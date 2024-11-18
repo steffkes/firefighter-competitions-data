@@ -1,7 +1,7 @@
 {
-  "date": "2024-11-18T17:11:01.529248",
+  "date": "2024-11-18T17:32:21.447958",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 42,
+  "count": 44,
   "teams": [
     [
       "ARNEGGER Michael",
@@ -86,6 +86,10 @@
     [
       "LANGENHAHN Erik",
       "Renker Sean Paul"
+    ],
+    [
+      "Sommer Nicolai",
+      "WEBER Markus"
     ]
   ]
 }

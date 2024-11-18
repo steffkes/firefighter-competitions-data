@@ -1,5 +1,5 @@
 {
-  "date": "2024-11-18T08:16:36.410742",
+  "date": "2024-11-18T08:40:10.711007",
   "competition_id": "rectoqxiOwNaoaHRZ",
   "count": 400,
   "teams": [
@@ -17,12 +17,6 @@
     ],
     [
       "Claudia Knebel"
-    ],
-    [
-      "Daniel Berger"
-    ],
-    [
-      "David Bakker"
     ],
     [
       "Denny Kiupel"
@@ -76,16 +70,10 @@
       "Milena Weiss"
     ],
     [
-      "Patrick Pruim"
-    ],
-    [
       "Rebekka Grosse"
     ],
     [
       "Tobias Fröhlich"
-    ],
-    [
-      "Tobias Kohlmeier"
     ],
     [
       "Adam Segeritz",
@@ -256,6 +244,10 @@
       "Hendrik Schatt"
     ],
     [
+      "Daniel Berger",
+      "Tobias Kohlmeier"
+    ],
+    [
       "Daniel Hiekel",
       "Kevin Stolze"
     ],
@@ -278,6 +270,10 @@
     [
       "Daniel Schröter",
       "Lukas Knakowski"
+    ],
+    [
+      "David Bakker",
+      "Patrick Pruim"
     ],
     [
       "David Schwalke",

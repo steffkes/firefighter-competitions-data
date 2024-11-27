@@ -1,7 +1,7 @@
 {
-  "date": "2024-11-27T20:13:23.193308",
+  "date": "2024-11-27T20:32:38.374004",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 395,
+  "count": 394,
   "teams": [
     [
       "Alexander Gottfried"
@@ -32,9 +32,6 @@
     ],
     [
       "Guido Suhrmeyer"
-    ],
-    [
-      "Hannes Bauer"
     ],
     [
       "Jürgen Alfanz"
@@ -225,10 +222,6 @@
       "Sebastian Schuberth"
     ],
     [
-      "Claudia Koch",
-      "Sebastian Vogt"
-    ],
-    [
       "Claudio Polzin",
       "Ina Düll"
     ],
@@ -401,10 +394,6 @@
       "Stefan Waldinger"
     ],
     [
-      "Florian Köllmer",
-      "Jochen Hauwetter"
-    ],
-    [
       "Florian Maass",
       "Jasper Lettow"
     ],
@@ -447,6 +436,10 @@
     [
       "Grzegorz Pawlak",
       "Lennart Giese"
+    ],
+    [
+      "Hannes Bauer",
+      "Lukas Bauer"
     ],
     [
       "Heiko Baier",
@@ -507,6 +500,10 @@
     [
       "Jennifer Wehrmann",
       "Lucas Weissmann"
+    ],
+    [
+      "Jochen Hauwetter",
+      "Sebastian Vogt"
     ],
     [
       "Johannes Dreikorn",

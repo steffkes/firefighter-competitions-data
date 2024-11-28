@@ -1,7 +1,7 @@
 {
-  "date": "2024-11-27T21:29:32.195223",
+  "date": "2024-11-28T07:31:11.229229",
   "competition_id": "rectoqxiOwNaoaHRZ",
-  "count": 393,
+  "count": 394,
   "teams": [
     [
       "Alexander Gottfried"
@@ -32,9 +32,6 @@
     ],
     [
       "Guido Suhrmeyer"
-    ],
-    [
-      "Henning Rawe"
     ],
     [
       "Jürgen Alfanz"
@@ -95,6 +92,10 @@
     [
       "Alexander Greis",
       "Marius Freimuth"
+    ],
+    [
+      "Alexander Heim",
+      "Henning Rawe"
     ],
     [
       "Alexander Kulhawy",
@@ -195,10 +196,6 @@
     [
       "Burkhard Meyer",
       "Carola Hildebrandt"
-    ],
-    [
-      "Bäurle Mischa",
-      "Lukas Weiler"
     ],
     [
       "Carsten Rudolph",
@@ -426,7 +423,7 @@
     ],
     [
       "Friedrich Jäschke",
-      "Mildner Julian"
+      "Julian Mildner"
     ],
     [
       "Gerrit Lindlein",
@@ -635,6 +632,10 @@
     [
       "Lukas Lorenz",
       "Toni Menzel"
+    ],
+    [
+      "Lukas Weiler",
+      "Mischa Bäurle"
     ],
     [
       "Maik Freigang",

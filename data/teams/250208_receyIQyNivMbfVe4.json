@@ -1,7 +1,7 @@
 {
-  "date": "2024-11-30T15:44:16.687259",
+  "date": "2024-11-30T21:42:49.968295",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 64,
+  "count": 70,
   "teams": [
     [
       "ARNEGGER Michael",
@@ -104,6 +104,10 @@
       "KÖBERLE Martin"
     ],
     [
+      "Hessler Tim",
+      "RÖMPP Julius"
+    ],
+    [
       "KIRCHNER Armin",
       "Kirchner Adrian"
     ],
@@ -124,12 +128,20 @@
       "Schrader Bianca"
     ],
     [
+      "Maurer Christian",
+      "STARZ Simon"
+    ],
+    [
       "SCHLOSSER Lucca",
       "Schmidt Fabian"
     ],
     [
       "Sommer Nicolai",
       "WEBER Markus"
+    ],
+    [
+      "WIRTH Andreas",
+      "Winter Mark"
     ]
   ]
 }

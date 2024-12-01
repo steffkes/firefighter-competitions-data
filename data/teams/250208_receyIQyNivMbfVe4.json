@@ -1,147 +1,147 @@
 {
-  "date": "2024-12-01T06:54:07.092606",
+  "date": "2024-12-01T10:53:05.375463",
   "competition_id": "receyIQyNivMbfVe4",
   "count": 70,
   "teams": [
     [
-      "ARNEGGER Michael",
-      "Kirchmaier Robin"
-    ],
-    [
-      "Achilles Julian",
+      "ACHILLES Julian",
       "TIETGE Jan-Philipp"
     ],
     [
-      "Amrein Marcel",
+      "AMREIN Marcel",
       "GÖPPEL Fabian"
     ],
     [
-      "BOHUN Jörg",
-      "Steve Roidl"
+      "ARNEGGER Michael",
+      "KIRCHMAIER Robin"
     ],
     [
-      "Blümmert Fabian",
+      "BLÜMMERT Fabian",
       "GREIS Alexander"
     ],
     [
-      "Bohun Jasmin",
+      "BOHUN Jasmin",
       "PYKA Damian"
     ],
     [
-      "Bommert Timo",
+      "BOHUN Jörg",
+      "STEVE Roidl"
+    ],
+    [
+      "BOMMERT Timo",
       "KUNERT Lea"
     ],
     [
-      "Borgia Fabi",
+      "BORGIA Fabi",
       "STAUDENRAUß Leon"
     ],
     [
-      "Bulach Moritz",
+      "BULACH Moritz",
       "DITTRICH Alan"
     ],
     [
-      "Burkhart Stefan",
+      "BURKHART Stefan",
       "HÖRMANN Martin"
     ],
     [
       "DENZ Valentin",
-      "Göppel Sebastian"
+      "GÖPPEL Sebastian"
     ],
     [
-      "Diedrigkeit Tobias",
+      "DIEDRIGKEIT Tobias",
       "THIEL Dominik"
     ],
     [
       "EBERSPÄCHER Fabian",
-      "Eberspächer Frederic"
+      "EBERSPÄCHER Frederic"
     ],
     [
-      "ERBACHER Florian",
-      "Nagel Moritz"
-    ],
-    [
-      "Eisele Luca",
+      "EISELE Luca",
       "HINDELANG Günther"
     ],
     [
-      "Engel Uwe",
+      "ENGEL Uwe",
       "WILHELM Andreas"
     ],
     [
+      "ERBACHER Florian",
+      "NAGEL Moritz"
+    ],
+    [
       "FAURE Nicolas",
-      "Ott Mattias"
+      "OTT Mattias"
     ],
     [
-      "FLESCHHUT Christian",
-      "Gast Korbinian"
-    ],
-    [
-      "Fischer Andreas",
+      "FISCHER Andreas",
       "KREIT Christian"
     ],
     [
-      "Fischer Marco",
+      "FISCHER Marco",
       "HAID Patrick"
     ],
     [
+      "FLESCHHUT Christian",
+      "GAST Korbinian"
+    ],
+    [
       "GRIMM Frederik",
-      "Grimm Hendrik"
+      "GRIMM Hendrik"
     ],
     [
-      "HORMUTH Jonas",
-      "Reinhardt Jana"
-    ],
-    [
-      "Hefele Matthias",
+      "HEFELE Matthias",
       "VOGT Elias"
     ],
     [
-      "Herbst Thomas",
+      "HERBST Thomas",
       "SCHREIBER Hannes"
     ],
     [
-      "Hespeler Nick",
+      "HESPELER Nick",
       "KÖBERLE Martin"
     ],
     [
-      "Hessler Tim",
+      "HESSLER Tim",
       "RÖMPP Julius"
     ],
     [
-      "KIRCHNER Armin",
-      "Kirchner Adrian"
+      "HORMUTH Jonas",
+      "REINHARDT Jana"
+    ],
+    [
+      "KIRCHNER Adrian",
+      "KIRCHNER Armin"
     ],
     [
       "KIRSTEIN Jonas",
-      "Pfleghaar Raphael"
+      "PFLEGHAAR Raphael"
     ],
     [
-      "Klima David",
+      "KLIMA David",
       "MAIER Stephan"
     ],
     [
       "LANGENHAHN Erik",
-      "Renker Sean Paul"
+      "RENKER Sean Paul"
     ],
     [
-      "MISSFELDER Fabian",
-      "Schrader Bianca"
-    ],
-    [
-      "Maurer Christian",
+      "MAURER Christian",
       "STARZ Simon"
     ],
     [
-      "SCHLOSSER Lucca",
-      "Schmidt Fabian"
+      "MISSFELDER Fabian",
+      "SCHRADER Bianca"
     ],
     [
-      "Sommer Nicolai",
+      "SCHLOSSER Lucca",
+      "SCHMIDT Fabian"
+    ],
+    [
+      "SOMMER Nicolai",
       "WEBER Markus"
     ],
     [
-      "WIRTH Andreas",
-      "Winter Mark"
+      "WINTER Mark",
+      "WIRTH Andreas"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2024-12-01T10:53:06.595947",
+  "date": "2024-12-01T16:54:58.193364",
   "competition_id": "recWBkOlwgxBXLHAl",
-  "count": 58,
+  "count": 64,
   "teams": [
     [
       "Aaron Fischer",
@@ -10,6 +10,10 @@
     [
       "Adrian Kirchner",
       "Armin Kirchner"
+    ],
+    [
+      "Alexander Kook",
+      "Thomas Hügle"
     ],
     [
       "Alexandra Fuchs",
@@ -64,6 +68,10 @@
       "Elias Donde"
     ],
     [
+      "Fabian Hägele",
+      "Tom Falkner"
+    ],
+    [
       "Florian Graef",
       "Jakob Haeseler"
     ],
@@ -78,6 +86,10 @@
     [
       "Julia Dawid",
       "Michi Dawid"
+    ],
+    [
+      "Jörg Hartmann",
+      "Marc Quecke"
     ],
     [
       "Lukas Krahl",

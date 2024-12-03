@@ -1,7 +1,7 @@
 {
-  "date": "2024-12-03T09:33:03.806367",
+  "date": "2024-12-03T20:53:11.933855",
   "competition_id": "recWBkOlwgxBXLHAl",
-  "count": 64,
+  "count": 78,
   "teams": [
     [
       "Aaron Fischer",
@@ -16,6 +16,14 @@
       "Thomas Hügle"
     ],
     [
+      "Alexander Lohr",
+      "Manuel Endres"
+    ],
+    [
+      "Alexander Möller",
+      "Christoph Kreutzer"
+    ],
+    [
       "Alexandra Fuchs",
       "Tugce Zinal"
     ],
@@ -26,6 +34,10 @@
     [
       "Andrea Fienold",
       "Patricia Eva Liebmann"
+    ],
+    [
+      "Anna Lena Steurer",
+      "Julia Steppacher"
     ],
     [
       "Benjamin Schrader",
@@ -76,6 +88,10 @@
       "Jakob Haeseler"
     ],
     [
+      "Jana Fischer",
+      "Katrin Fischer"
+    ],
+    [
       "Johannes Vogl",
       "Michael Nortmann"
     ],
@@ -120,6 +136,10 @@
       "Sebastian Grieser"
     ],
     [
+      "Michael Steurer",
+      "Roland Kohler"
+    ],
+    [
       "Mirko Döbert",
       "Robin Scheuring"
     ],
@@ -128,8 +148,16 @@
       "Sophie Bayer"
     ],
     [
+      "Niklas Steurer",
+      "Tobias Mayer"
+    ],
+    [
       "Robert Schulz",
       "Svenja Passek"
+    ],
+    [
+      "Serhii Koptsev",
+      "Tobias Lohr"
     ]
   ]
 }

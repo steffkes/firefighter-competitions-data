@@ -57,7 +57,9 @@ class Spider(scrapy.Spider):
             [firstname, lastname] = reversed(
                 list(map(lambda str: str.strip(), entry.attrib["n"].split("\xa0")))
             )
-            duration = re.sub(r"^(00)h(\d{2})'(\d{2}),(\d)\d*$", r"\1:\2:\3.\4", raw_duration)
+            duration = re.sub(
+                r"^(00)h(\d{2})'(\d{2}),(\d)\d*$", r"\1:\2:\3.\4", raw_duration
+            )
 
             yield ResultItem(
                 date=self.race_date,

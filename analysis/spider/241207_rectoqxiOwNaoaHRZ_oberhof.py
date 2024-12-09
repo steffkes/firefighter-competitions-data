@@ -81,7 +81,7 @@ class Spider(scrapy.Spider):
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
-                duration=row["Time"],
+                duration="00:" + (("0" + row["Time"])[-9:])[:7],
                 type="MPA",
                 category=None,
                 names=sorted(

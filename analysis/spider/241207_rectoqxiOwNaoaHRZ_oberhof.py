@@ -2,6 +2,10 @@ import scrapy
 from datetime import datetime
 from itertools import groupby
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from pathlib import Path
+import csv
+
+changedParticipants = {"Nico Schimeczek": "Matthias Buttig"}
 
 
 class Spider(scrapy.Spider):
@@ -35,16 +39,20 @@ class Spider(scrapy.Spider):
     }
 
     def start_requests(self):
-        for contest in [9026, 9027]:
-            yield scrapy.FormRequest(
-                method="GET",
-                url="https://www.racement.com/rennen/stairrun-oberhof-2024",
-                formdata={
-                    "action": "site/table-data/get-race-participants",
-                    "raceId": "434519",
-                },
-                callback=self.parse_starters,
-            )
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://www.racement.com/rennen/stairrun-oberhof-2024",
+            formdata={
+                "action": "site/table-data/get-race-participants",
+                "raceId": "434519",
+            },
+            callback=self.parse_starters,
+        )
+
+        yield scrapy.Request(
+            "file://%s"
+            % Path("spider/data/241207_rectoqxiOwNaoaHRZ_oberhof.csv").resolve()
+        )
 
     def parse_starters(self, response):
         fireteam_filter = lambda row: row["classification"] == "Feuerwehr-Team"
@@ -64,6 +72,26 @@ class Spider(scrapy.Spider):
                         entries,
                     )
                 ),
+            )
+
+    def parse(self, response):
+
+        def nameMapper(name):
+            fixedName = fixResultName(name)
+            return changedParticipants.get(fixedName, fixedName)
+
+        reader = csv.DictReader(
+            response.body.decode("utf-8").splitlines(), delimiter=";"
+        )
+        for row in reader:
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                duration="00:" + (("0" + row["Time"])[-9:])[:7],
+                type="MPA",
+                category=None,
+                names=sorted(map(nameMapper, [row["Name 1"], row["Name 2"]])),
+                bib=row["No"],
             )
 
 
@@ -86,6 +114,24 @@ def fixName(name):
     )
 
 
+def fixResultName(name):
+    return re.sub(
+        r"(([A-ZÄÜÖäüöß]+[-\s])?([A-ZÄÜÖäüöß]+))\s(.+)",
+        lambda match: " ".join(
+            [
+                match.group(4),
+                "".join(
+                    map(
+                        lambda str: str[0] + str[1:].lower(),
+                        filter(None, match.group(2, 3)),
+                    )
+                ),
+            ]
+        ),
+        name.replace(",", ""),
+    )
+
+
 import pytest
 
 
@@ -101,3 +147,19 @@ import pytest
 )
 def test_fixName(input, output):
     assert fixName(input) == output
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("ZIMMERMANN Maj-Britt", "Maj-Britt Zimmermann"),
+        ("NAUSCHÜTZ Desirée", "Desirée Nauschütz"),
+        ("WEIßMANN Lucas", "Lucas Weißmann"),
+        ("HUIZINGA, Gjalt", "Gjalt Huizinga"),
+        ("BEYER-BRENZ Paula", "Paula Beyer-Brenz"),
+        ("SCHREITMüLLER Steve", "Steve Schreitmüller"),
+        ("TäNZER Mirko", "Mirko Tänzer"),
+    ],
+)
+def test_fixResultName(input, output):
+    assert fixResultName(input) == output

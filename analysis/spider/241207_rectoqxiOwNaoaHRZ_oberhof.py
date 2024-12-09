@@ -2,6 +2,8 @@ import scrapy
 from datetime import datetime
 from itertools import groupby
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from pathlib import Path
+import csv
 
 
 class Spider(scrapy.Spider):
@@ -45,6 +47,11 @@ class Spider(scrapy.Spider):
             callback=self.parse_starters,
         )
 
+        yield scrapy.Request(
+            "file://%s"
+            % Path("spider/data/241207_rectoqxiOwNaoaHRZ_oberhof.csv").resolve()
+        )
+
     def parse_starters(self, response):
         fireteam_filter = lambda row: row["classification"] == "Feuerwehr-Team"
         team_groupfn = lambda row: str(row["team"])
@@ -65,6 +72,21 @@ class Spider(scrapy.Spider):
                 ),
             )
 
+    def parse(self, response):
+
+        reader = csv.DictReader(
+            response.body.decode("utf-8").splitlines(), delimiter=";"
+        )
+        for row in reader:
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                duration=row["Time"],
+                type="MPA",
+                category=None,
+                names=sorted([row["Name 1"], row["Name 2"]]),
+                bib=row["No"],
+            )
 
 import re
 

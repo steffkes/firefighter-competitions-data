@@ -5,6 +5,8 @@ from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, Resul
 from pathlib import Path
 import csv
 
+changedParticipants = {"Nico Schimeczek": "Matthias Buttig"}
+
 
 class Spider(scrapy.Spider):
     name = __name__
@@ -74,6 +76,10 @@ class Spider(scrapy.Spider):
 
     def parse(self, response):
 
+        def nameMapper(name):
+            fixedName = fixResultName(name)
+            return changedParticipants.get(fixedName, fixedName)
+
         reader = csv.DictReader(
             response.body.decode("utf-8").splitlines(), delimiter=";"
         )
@@ -84,9 +90,7 @@ class Spider(scrapy.Spider):
                 duration="00:" + (("0" + row["Time"])[-9:])[:7],
                 type="MPA",
                 category=None,
-                names=sorted(
-                    [fixResultName(row["Name 1"]), fixResultName(row["Name 2"])]
-                ),
+                names=sorted(map(nameMapper, [row["Name 1"], row["Name 2"]])),
                 bib=row["No"],
             )
 

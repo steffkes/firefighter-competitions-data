@@ -35,16 +35,15 @@ class Spider(scrapy.Spider):
     }
 
     def start_requests(self):
-        for contest in [9026, 9027]:
-            yield scrapy.FormRequest(
-                method="GET",
-                url="https://www.racement.com/rennen/stairrun-oberhof-2024",
-                formdata={
-                    "action": "site/table-data/get-race-participants",
-                    "raceId": "434519",
-                },
-                callback=self.parse_starters,
-            )
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://www.racement.com/rennen/stairrun-oberhof-2024",
+            formdata={
+                "action": "site/table-data/get-race-participants",
+                "raceId": "434519",
+            },
+            callback=self.parse_starters,
+        )
 
     def parse_starters(self, response):
         fireteam_filter = lambda row: row["classification"] == "Feuerwehr-Team"

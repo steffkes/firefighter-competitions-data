@@ -84,9 +84,12 @@ class Spider(scrapy.Spider):
                 duration=row["Time"],
                 type="MPA",
                 category=None,
-                names=sorted([row["Name 1"], row["Name 2"]]),
+                names=sorted(
+                    [fixResultName(row["Name 1"]), fixResultName(row["Name 2"])]
+                ),
                 bib=row["No"],
             )
+
 
 import re
 
@@ -107,6 +110,24 @@ def fixName(name):
     )
 
 
+def fixResultName(name):
+    return re.sub(
+        r"(([A-ZÄÜÖäüöß]+[-\s])?([A-ZÄÜÖäüöß]+))\s(.+)",
+        lambda match: " ".join(
+            [
+                match.group(4),
+                "".join(
+                    map(
+                        lambda str: str[0] + str[1:].lower(),
+                        filter(None, match.group(2, 3)),
+                    )
+                ),
+            ]
+        ),
+        name.replace(",", ""),
+    )
+
+
 import pytest
 
 
@@ -122,3 +143,19 @@ import pytest
 )
 def test_fixName(input, output):
     assert fixName(input) == output
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("ZIMMERMANN Maj-Britt", "Maj-Britt Zimmermann"),
+        ("NAUSCHÜTZ Desirée", "Desirée Nauschütz"),
+        ("WEIßMANN Lucas", "Lucas Weißmann"),
+        ("HUIZINGA, Gjalt", "Gjalt Huizinga"),
+        ("BEYER-BRENZ Paula", "Paula Beyer-Brenz"),
+        ("SCHREITMüLLER Steve", "Steve Schreitmüller"),
+        ("TäNZER Mirko", "Mirko Tänzer"),
+    ],
+)
+def test_fixResultName(input, output):
+    assert fixResultName(input) == output

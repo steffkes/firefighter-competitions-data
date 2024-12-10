@@ -10,7 +10,7 @@ jobs:
       contents: write
     defaults:
       run:
-        working-directory: ./analysis
+        working-directory: ./data
     steps:
       - uses: actions/checkout@v4
         with:

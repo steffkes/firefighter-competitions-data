@@ -1,18 +1,5 @@
 version: "3.9"
 services:
-  analysis:
-    build:
-      context: ./analysis
-    working_dir: /app/analysis
-    volumes:
-      - ./:/app
-    environment:
-      STREAMLIT_SERVER_ADDRESS: 0.0.0.0
-      STREAMLIT_SERVER_PORT: 8514
-      AIRTABLE_API_KEY:
-    ports:
-      - 127.0.0.1:8514:8514
-
   stats:
     build:
       context: ./stats

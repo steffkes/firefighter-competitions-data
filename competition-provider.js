@@ -5,7 +5,7 @@ import glob from "fast-glob";
 
 export default async () => {
   const participant_counts = Object.fromEntries(
-    (await glob(["data/teams/*.json"]))
+    (await glob(["data/data/participants/*.json"]))
       .map((path) => {
         try {
           const { competition_id, count } = JSON.parse(

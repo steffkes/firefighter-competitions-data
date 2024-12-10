@@ -68,7 +68,7 @@ class Spider(scrapy.Spider):
                 type=type,
                 category=gender,
                 duration="0" + duration,
-                names=[name],
+                names=[fixName(name)],
                 bib=None,
             )
 
@@ -95,6 +95,33 @@ class Spider(scrapy.Spider):
                     type=type,
                     category=None,
                     duration="0" + duration,
-                    names=[name.strip()],
+                    names=[fixName(name.strip())],
                     bib=None,
                 )
+
+
+def fixName(name):
+    parts = name.split(" ")
+
+    # last part goes first, assuming just one firstname
+    parts.insert(0, parts.pop())
+
+    return " ".join(map(lambda part: part[0].upper() + part[1:].lower(), parts))
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("BANOVEC JOŽEF", "Jožef Banovec"),
+        ("ROGELJ OŽBEJ ROK", "Rok Rogelj Ožbej"),
+        ("NOVAK TOBIJA ALJAŽ", "Aljaž Novak Tobija"),
+        ("Hafner Urban", "Urban Hafner"),
+        ("Hodža Frelih Matic", "Matic Hodža Frelih"),
+        ("Bukovec Kren Ana", "Ana Bukovec Kren"),
+    ],
+)
+def test_fixName(input, output):
+    assert fixName(input) == output

@@ -1,7 +1,7 @@
 {
-  "date": "2024-12-10T17:12:50.451745",
+  "date": "2024-12-10T17:33:16.365777",
   "competition_id": "recWBkOlwgxBXLHAl",
-  "count": 104,
+  "count": 106,
   "teams": [
     [
       "Aaron Fischer",
@@ -210,6 +210,10 @@
     [
       "Serhii Koptsev",
       "Tobias Lohr"
+    ],
+    [
+      "Stefan Matheis",
+      "Tobias Diedrigkeit"
     ]
   ]
 }

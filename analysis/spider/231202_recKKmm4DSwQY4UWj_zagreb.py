@@ -91,5 +91,5 @@ class Spider(scrapy.Spider):
                 category=category,
                 duration="00:" + (("0" + duration)[-9:])[:7],
                 names=[name],
-                bib=bib,
+                bib=bib.strip(),
             )

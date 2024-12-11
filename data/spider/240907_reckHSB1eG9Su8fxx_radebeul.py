@@ -2,6 +2,8 @@ import scrapy
 from datetime import datetime
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
+changedParticipants = {"Matthias Buttig": "Dominik Thiel"}
+
 
 class Spider(scrapy.Spider):
     name = __name__
@@ -53,7 +55,12 @@ class Spider(scrapy.Spider):
         for _, team in data.items():
             [[_, bib, name1, _, raw_duration, category], [_, _, name2, _, _, _]] = team
 
-            names = sorted(map(str.strip, [name1, name2]))
+            names = sorted(
+                map(
+                    lambda name: changedParticipants.get(name.strip(), name.strip()),
+                    [name1, name2],
+                )
+            )
             duration = "00:" + ("0" + raw_duration + ".0")[-7:]
 
             yield ResultItem(

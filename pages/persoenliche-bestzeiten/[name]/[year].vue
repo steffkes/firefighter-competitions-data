@@ -6,7 +6,8 @@
       </div>
     </nav>
 
-    <h1 class="title">Ergebnisse für {{ name }} ({{ year }})</h1>
+    <p class="title is-3 has-text-centered">Persönliche Bestzeiten</p>
+    <p class="subtitle is-5 has-text-centered">{{ name }} ({{ year }})</p>
 
     <table class="table is-striped is-fullwidth">
       <tbody>
@@ -67,7 +68,6 @@ const formatDate = (date) =>
 const {
   params: { name, year },
 } = useRoute();
-
 
 const { data: competitionsList } = await useFetch("/api/competitions");
 const competitions = Object.fromEntries(

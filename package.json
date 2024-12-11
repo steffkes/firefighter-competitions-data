@@ -21,7 +21,7 @@
     "date-fns": "^2.30.0",
     "fast-glob": "^3.3.2",
     "leaflet": "^1.9.4",
-    "nuxt": "^3.3.2",
+    "nuxt": "^3.14.1592",
     "prettier": "2.8.1"
   },
   "dependencies": {

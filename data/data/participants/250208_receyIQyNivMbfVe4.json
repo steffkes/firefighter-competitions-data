@@ -1,7 +1,7 @@
 {
-  "date": "2024-12-12T18:16:23.380726",
+  "date": "2024-12-12T22:11:35.418118",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 98,
+  "count": 106,
   "teams": [
     [
       "ACHILLES Julian",
@@ -14,6 +14,10 @@
     [
       "AMREIN Marcel",
       "GÖPPEL Fabian"
+    ],
+    [
+      "APPENZELLER Michael",
+      "KOLO Firas"
     ],
     [
       "ARNEGGER Michael",
@@ -96,8 +100,16 @@
       "HAID Patrick"
     ],
     [
+      "FLAIG Stefan",
+      "MERZ Jan"
+    ],
+    [
       "FLESCHHUT Christian",
       "GAST Korbinian"
+    ],
+    [
+      "FORSTER Tim",
+      "SCHICKER Kevin"
     ],
     [
       "GRIESMANN Simpert",
@@ -126,6 +138,10 @@
     [
       "HILEBRAND Lorenz",
       "PFLEGHAAR Gabriel"
+    ],
+    [
+      "HILLEBRECHT Sebastian",
+      "WETZEL Dennis"
     ],
     [
       "HOFFMANN Tim",

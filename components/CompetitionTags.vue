@@ -52,6 +52,7 @@ const kind = {
 const singleboerse = {
   recyC5LmxecehTxWD: "240511-schonach",
   reckHSB1eG9Su8fxx: "240907-radebeul",
+  receyIQyNivMbfVe4: "250208-ulm",
 };
 
 const flag = (countryCode) =>

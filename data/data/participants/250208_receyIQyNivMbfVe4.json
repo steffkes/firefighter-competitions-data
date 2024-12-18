@@ -1,7 +1,7 @@
 {
-  "date": "2024-12-18T10:46:31.795718",
+  "date": "2024-12-18T18:16:22.240101",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 116,
+  "count": 126,
   "teams": [
     [
       "Adrian Kirchner",
@@ -38,6 +38,10 @@
     [
       "Christian Fleschhut",
       "Korbinian Gast"
+    ],
+    [
+      "Christian Janzen",
+      "Pierre Huber"
     ],
     [
       "Christian Maurer",
@@ -156,6 +160,10 @@
       "Stefan Weigel"
     ],
     [
+      "Jessica La Mela",
+      "Stefan Stude"
+    ],
+    [
       "Jonas Kirstein",
       "Raphael Pfleghaar"
     ],
@@ -204,6 +212,10 @@
       "Nick Hespeler"
     ],
     [
+      "Marvin Mocker",
+      "Thomas Galenziok"
+    ],
+    [
       "Mattias Ott",
       "Nicolas Faure"
     ],
@@ -216,12 +228,20 @@
       "Robin Kirchmaier"
     ],
     [
+      "Moritz Pelosato",
+      "Timo Bender"
+    ],
+    [
       "Moritz Wegerich",
       "René Stange"
     ],
     [
       "Nico Beha",
       "Pascal Hilser"
+    ],
+    [
+      "Niko Tursky",
+      "Stefan Sohn"
     ],
     [
       "Patrick Ischwang",

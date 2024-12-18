@@ -1,7 +1,7 @@
 {
-  "date": "2024-12-18T11:23:26.884323",
+  "date": "2024-12-18T11:34:32.253551",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 116,
+  "count": 120,
   "teams": [
     [
       "Adrian Kirchner",
@@ -38,6 +38,10 @@
     [
       "Christian Fleschhut",
       "Korbinian Gast"
+    ],
+    [
+      "Christian Janzen",
+      "Pierre Huber"
     ],
     [
       "Christian Maurer",
@@ -222,6 +226,10 @@
     [
       "Nico Beha",
       "Pascal Hilser"
+    ],
+    [
+      "Niko Tursky",
+      "Stefan Sohn"
     ],
     [
       "Patrick Ischwang",

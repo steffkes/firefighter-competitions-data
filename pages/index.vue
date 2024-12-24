@@ -305,7 +305,7 @@
 
               <l-marker
                 v-for="competition in filteredCompetitions.filter(
-                  ({ location: { coordinates } }) => coordinates
+                  ({ location: { coordinates } }) => coordinates,
                 )"
                 :id="competition.id"
                 :lat-lng="[
@@ -476,19 +476,19 @@ const filteredCompetitions = computed(() => {
   let filteredCompetitions = competitions.value;
   if (!displayPastCompetitions.value) {
     filteredCompetitions = filteredCompetitions.filter(
-      (competition) => !isPast(competition)
+      (competition) => !isPast(competition),
     );
   }
 
   if (!competitionFilter.value.FSR) {
     filteredCompetitions = filteredCompetitions.filter(
-      ({ kind }) => kind != "FSR"
+      ({ kind }) => kind != "FSR",
     );
   }
 
   if (!competitionFilter.value.FCC) {
     filteredCompetitions = filteredCompetitions.filter(
-      ({ kind }) => kind != "FCC"
+      ({ kind }) => kind != "FCC",
     );
   }
 
@@ -517,10 +517,10 @@ const upcomingRegistrations = computed(() => {
     ({ date: { registration_opens } }) => {
       const diffDays = differenceInDays(
         parseIsoDate(registration_opens),
-        new Date()
+        new Date(),
       );
       return registration_opens && diffDays >= 0 && diffDays < 7 * 4;
-    }
+    },
   );
 });
 
@@ -541,7 +541,7 @@ const calendarPath = computed(
     Object.keys(kind)
       .filter((kind) => competitionFilter.value[kind])
       .join("-")
-      .toLowerCase() + ".ics"
+      .toLowerCase() + ".ics",
 );
 
 useHead({

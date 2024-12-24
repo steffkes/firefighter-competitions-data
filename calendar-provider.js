@@ -1,6 +1,6 @@
 import competitionProvider from "./competition-provider.js";
 import ical from "ical-generator";
-import { add } from "date-fns";
+import { add, parseISO as parse } from "date-fns";
 
 export default async (variant) => {
   const calendar = ical({
@@ -28,10 +28,10 @@ export default async (variant) => {
       id: competition.id,
       url: competition.url,
       status,
-      start: competition.date.start,
+      start: parse(competition.date.start),
       // competitions over multiple days need the end date adjusted by +1
       // otherwise the last days is skipped in calendars
-      end: add(competition.date.end, {
+      end: add(parse(competition.date.end), {
         days: competition.date.start < competition.date.end ? 1 : 0,
       }),
       allDay: true,
@@ -55,15 +55,13 @@ export default async (variant) => {
     };
 
     // reminder that registrations opens
-    if (
-      competition.date.registration_opens instanceof Date &&
-      !isNaN(competition.date.registration_opens)
-    ) {
+    const regOpenDate = parse(competition.date.registration_opens);
+    if (regOpenDate instanceof Date && !isNaN(regOpenDate)) {
       calendar.createEvent({
         ...event,
         id: event.id + "~RO",
-        start: competition.date.registration_opens,
-        end: competition.date.registration_opens,
+        start: parse(competition.date.registration_opens),
+        end: parse(competition.date.registration_opens),
         summary: "⏰ " + competition.name,
         description: "Ameldung öffnet heute!",
       });

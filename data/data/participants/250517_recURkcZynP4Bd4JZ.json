@@ -1,7 +1,7 @@
 {
-  "date": "2024-12-24T09:47:39.068468",
+  "date": "2024-12-24T15:44:44.338090",
   "competition_id": "recURkcZynP4Bd4JZ",
-  "count": 128,
+  "count": 136,
   "teams": [
     [
       "Adrian Kirchner",
@@ -56,8 +56,16 @@
       "Philipp Weißhaar"
     ],
     [
+      "Christopher Hauser",
+      "Timo Heidlauff"
+    ],
+    [
       "Daniel Grujic",
-      "Klein Klein martin"
+      "Martin Klein Klein"
+    ],
+    [
+      "Daniel Kister",
+      "Ulf Langwasser"
     ],
     [
       "Daniel Rapp",
@@ -69,7 +77,7 @@
     ],
     [
       "Dominic Evers",
-      "Simon Knie nicola"
+      "Nicola Simon Knie"
     ],
     [
       "Dominik Müller",
@@ -152,6 +160,10 @@
       "Raphael Pfleghaar"
     ],
     [
+      "Julia Klein",
+      "Michael Koch"
+    ],
+    [
       "Julia Wester",
       "Martin Franke"
     ],
@@ -170,6 +182,10 @@
     [
       "Jörg Weimer",
       "Kalle Müller"
+    ],
+    [
+      "Jörn Heitmann",
+      "Silas Bösch"
     ],
     [
       "Jürgen Gloger",

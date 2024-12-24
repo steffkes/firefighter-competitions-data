@@ -71,11 +71,11 @@ const {
 
 const { data: competitionsList } = await useFetch("/api/competitions");
 const competitions = Object.fromEntries(
-  competitionsList.value.map((competition) => [competition.id, competition])
+  competitionsList.value.map((competition) => [competition.id, competition]),
 );
 
 const { data: results } = await useFetch(
-  "/api/personal-results/" + encodeURIComponent(name) + "/" + year
+  "/api/personal-results/" + encodeURIComponent(name) + "/" + year,
 );
 
 const filteredNames = (names) => names.filter((item) => item != name);
@@ -92,6 +92,6 @@ const groupedResults = computed(() =>
     result.names = filteredNames(result.names);
     state[id].results.push(result);
     return state;
-  }, {})
+  }, {}),
 );
 </script>

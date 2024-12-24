@@ -5,7 +5,7 @@ import glob from "fast-glob";
 
 export default defineEventHandler(async (event) => {
   const requestedName = decodeURIComponent(
-    getRouterParam(event, "name", { decode: false })
+    getRouterParam(event, "name", { decode: false }),
   );
   const requestedYear = getRouterParam(event, "year");
 
@@ -15,7 +15,7 @@ export default defineEventHandler(async (event) => {
         .trim()
         .split(/\r?\n/)
         .filter(Boolean)
-        .map(JSON.parse)
+        .map(JSON.parse),
     )
     .filter(({ date }) => date.startsWith(requestedYear))
     .filter(({ names }) => names.includes(requestedName));

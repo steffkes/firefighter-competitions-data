@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
   "date": "2024-12-24T10:43:43.079194",
+=======
+  "date": "2024-12-24T10:46:52.261374",
+>>>>>>> Stashed changes
   "competition_id": "recURkcZynP4Bd4JZ",
   "count": 130,
   "teams": [
@@ -57,7 +61,7 @@
     ],
     [
       "Daniel Grujic",
-      "Klein Klein martin"
+      "Martin Klein Klein"
     ],
     [
       "Daniel Rapp",
@@ -69,7 +73,7 @@
     ],
     [
       "Dominic Evers",
-      "Simon Knie nicola"
+      "Nicola Simon Knie"
     ],
     [
       "Dominik Müller",

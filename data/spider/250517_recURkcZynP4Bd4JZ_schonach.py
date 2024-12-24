@@ -1,6 +1,5 @@
 import scrapy
 from datetime import datetime
-import re
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
 
@@ -51,20 +50,6 @@ class Spider(scrapy.Spider):
         )
 
     def parse_starters(self, response):
-        fixName = lambda name: re.sub(
-            r"^(.+)\s(.+)$",
-            lambda match: "%s %s"
-            % (
-                match.group(2),
-                re.sub(
-                    r"^(.)(.+)$",
-                    lambda match: "%s%s" % (match.group(1), match.group(2).lower()),
-                    match.group(1),
-                ),
-            ),
-            name.strip(),
-        )
-
         for _team, record in response.json()["data"].items():
             [
                 [_bib1, name1, _sex1, _category1, _year1, _competition1],
@@ -74,3 +59,40 @@ class Spider(scrapy.Spider):
                 competition_id=self.competition_id,
                 names=sorted(map(fixName, [name1, name2])),
             )
+
+
+import re
+
+
+def fixName(name):
+    return re.sub(
+        r"(([A-ZÄÜÖß]+[-\s])?([A-ZÄÜÖß]+))\s(.+)",
+        lambda match: " ".join(
+            [
+                match.group(4),
+                "".join(
+                    map(
+                        lambda str: str[0] + str[1:].lower(),
+                        filter(None, match.group(2, 3)),
+                    )
+                ),
+            ]
+        ),
+        name,
+    )
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("HARTMANN Jörg", "Jörg Hartmann"),
+        ("MÜLLER Naomi", "Naomi Müller"),
+        ("KNIE Nicola Simon", "Nicola Simon Knie"),
+        ("WEIßHAAR Philipp", "Philipp Weißhaar"),
+    ],
+)
+def test_fixName(input, output):
+    assert fixName(input) == output

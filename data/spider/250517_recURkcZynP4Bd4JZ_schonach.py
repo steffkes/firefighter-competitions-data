@@ -45,11 +45,12 @@ class Spider(scrapy.Spider):
                 "key": self.race_key,
                 "listname": "02_Teilnehmerlisten|Teilnehmer_Schanzenlauf",
                 "contest": "1",
+                "f": "<Ignore><Ignore>",
             },
             callback=self.parse_starters,
         )
 
-    def parse_starters_team(self, response):
+    def parse_starters(self, response):
         fixName = lambda name: re.sub(
             r"^(.+)\s(.+)$",
             lambda match: "%s %s"
@@ -64,30 +65,12 @@ class Spider(scrapy.Spider):
             name.strip(),
         )
 
-        data = response.json()["data"]
-        tmp1 = next(iter(data.values()))
-        tmp2 = next(iter(tmp1.values()))
-        tmp3 = next(iter(tmp2.values()))
-
-        [
-            [_bib1, name1, _sex1, _category1, _year1, _competition1],
-            [_bib2, name2, _sex2, _category2, _year2, _competition2],
-        ] = tmp3
-        yield ParticipantItem(
-            competition_id=self.competition_id,
-            names=sorted(map(fixName, [name1, name2])),
-        )
-
-    def parse_starters(self, response):
-        for team in response.json()["groupFilters"][0]["Values"]:
-            yield scrapy.FormRequest(
-                method="GET",
-                url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
-                formdata={
-                    "key": self.race_key,
-                    "listname": "02_Teilnehmerlisten|Teilnehmer_Schanzenlauf",
-                    "contest": "1",
-                    "f": team,
-                },
-                callback=self.parse_starters_team,
+        for _team, record in response.json()["data"].items():
+            [
+                [_bib1, name1, _sex1, _category1, _year1, _competition1],
+                [_bib2, name2, _sex2, _category2, _year2, _competition2],
+            ] = record
+            yield ParticipantItem(
+                competition_id=self.competition_id,
+                names=sorted(map(fixName, [name1, name2])),
             )

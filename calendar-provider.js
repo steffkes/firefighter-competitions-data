@@ -13,7 +13,7 @@ export default async (variant) => {
   });
 
   const competitions = (await competitionProvider()).filter(({ kind }) =>
-    variant.includes(kind)
+    variant.includes(kind),
   );
   for (const competition of competitions) {
     let status = "CONFIRMED";
@@ -40,7 +40,7 @@ export default async (variant) => {
         title: [
           competition.location.city,
           new Intl.DisplayNames(["de"], { type: "region" }).of(
-            competition.location.country_code
+            competition.location.country_code,
           ),
         ]
           .filter(Boolean)

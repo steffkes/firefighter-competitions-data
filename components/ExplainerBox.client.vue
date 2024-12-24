@@ -118,7 +118,7 @@ const flag = (countryCode) =>
     .replace(/./g, (char) => String.fromCodePoint(127397 + char.charCodeAt()));
 
 const state = ref(
-  JSON.parse(localStorage.getItem("explainerBox/state")) ?? true
+  JSON.parse(localStorage.getItem("explainerBox/state")) ?? true,
 );
 const remove = () => {
   localStorage.setItem("explainerBox/state", false);

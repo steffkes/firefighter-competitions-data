@@ -16,12 +16,12 @@ const records = await airtable
   .firstPage();
 
 const competitions = Object.fromEntries(
-  records.map(({ id, fields }) => [id, fields])
+  records.map(({ id, fields }) => [id, fields]),
 );
 
 console.log(
   "Persönlicher Wettkampfkalender für %s",
-  JSON.stringify(personName)
+  JSON.stringify(personName),
 );
 
 for (const path of await glob(["./data/teams/*.json"])) {
@@ -39,7 +39,7 @@ for (const path of await glob(["./data/teams/*.json"])) {
       "%s %s: %s",
       competitions[competition].Datum,
       competitions[competition].Name,
-      filteredTeams.join(", ")
+      filteredTeams.join(", "),
     );
   }
 }

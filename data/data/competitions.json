@@ -1,0 +1,3686 @@
+[
+    {
+        "id": "reckgeFZUEsEBSCWJ",
+        "kind": "FCC",
+        "name": "Mengener Feuerwehrwettkampf",
+        "url": "https://www.mengen.de/fw/die-feuerwehr/02_wettkampf.php",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2015-09-15",
+            "end": "2015-09-15",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mengen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.049796,
+                "lng": 9.3316096
+            }
+        }
+    },
+    {
+        "id": "recuwV6433Dl9bZfh",
+        "kind": "FCC",
+        "name": "Mengener Feuerwehrwettkampf",
+        "url": "https://www.mengen.de/fw/die-feuerwehr/02_wettkampf.php",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2016-06-11",
+            "end": "2016-06-11",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mengen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.049796,
+                "lng": 9.3316096
+            }
+        }
+    },
+    {
+        "id": "recJxpKSiYA8o9cVA",
+        "kind": "FCC",
+        "name": "Mengener Feuerwehrwettkampf",
+        "url": "https://www.mengen.de/fw/die-feuerwehr/02_wettkampf.php",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2018-06-09",
+            "end": "2018-06-09",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mengen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.049796,
+                "lng": 9.3316096
+            }
+        }
+    },
+    {
+        "id": "recK4hI4ZqfrUYBy2",
+        "kind": "FSR",
+        "name": "SkyRun MesseTurm Frankfurt",
+        "url": "https://my.raceresult.com/96824/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2018-06-10",
+            "end": "2018-06-10",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Frankfurt",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.1125015,
+                "lng": 8.6528873
+            }
+        }
+    },
+    {
+        "id": "rec76TUx69b8J3QkD",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge Mosel",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2018-06-29",
+            "end": "2018-07-01",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ediger-Eller",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.0974912,
+                "lng": 7.1520895
+            }
+        }
+    },
+    {
+        "id": "rec0Mc2EHkLxf3zT2",
+        "kind": "FSR",
+        "name": "Münster Turmlauf",
+        "url": "https://ulmer-muensterturmlauf.de/anmeldung-2/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2019-06-08",
+            "end": "2019-06-08",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ulm",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.3985233,
+                "lng": 9.992555
+            }
+        }
+    },
+    {
+        "id": "recABxHrIfDa0EIsx",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge Austria",
+        "url": "http://www.fcc-austria.com/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2020-10-03",
+            "end": "2020-10-04",
+            "is_draft": null,
+            "is_canceled": true,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Tulln",
+            "country_code": "AT",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recrqAwmbjNaiRQYm",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge Austria",
+        "url": "http://www.fcc-austria.com/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2021-10-02",
+            "end": "2021-10-03",
+            "is_draft": null,
+            "is_canceled": true,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Tulln",
+            "country_code": "AT",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recGa9n6fE9kc37FY",
+        "kind": "FSR",
+        "name": "Treppenlauf Oberhof",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-04-09",
+            "end": "2022-04-09",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Oberhof",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.6977798,
+                "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "recOjBMfLdGi3kAM8",
+        "kind": "FSR",
+        "name": "Blue Light Stair Run",
+        "url": "https://www.britishfirefighterchallenge.co.uk/stair-run/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-04-16",
+            "end": "2022-04-16",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "London Broadgate Tower",
+            "country_code": "GB",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recY68VwoobFgiXbb",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/gardelegen/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-04-29",
+            "end": "2022-05-01",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Gardelegen",
+            "country_code": "DE",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recrdmc7igYPWJuy1",
+        "kind": "FCC",
+        "name": "World Firefighters Games",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-04-30",
+            "end": "2022-05-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Lissabon",
+            "country_code": "PT",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recqvFOGi2jyWOnmu",
+        "kind": "FSR",
+        "name": "Sächsischer Mt. Everest Treppenmarathon",
+        "url": "https://feuerwehrfitnessdresden.de/veranstaltung",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-05-07",
+            "end": "2022-05-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Radebeul",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1136793,
+                "lng": 13.6637052
+            }
+        }
+    },
+    {
+        "id": "rec3ZAb3HcJsgIhqs",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/seesen/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-05-13",
+            "end": "2022-05-15",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Seesen",
+            "country_code": "DE",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "rec06O4xN1c7aklwI",
+        "kind": "FSR",
+        "name": "Berlin Firefighter Stairrun",
+        "url": "https://www.berlin-firefighter-stairrun.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-05-14",
+            "end": "2022-05-14",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.523125,
+                "lng": 13.4127656
+            }
+        }
+    },
+    {
+        "id": "recGF1jAEyQsaNPg8",
+        "kind": "FSR",
+        "name": "Bad Wildbader Stäffeleslauf",
+        "url": "https://my.raceresult.com/190046/info",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-05-20",
+            "end": "2022-05-20",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Bad Wildbad",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.7503279,
+                "lng": 8.5489542
+            }
+        }
+    },
+    {
+        "id": "reccpIRVnvLalxdx2",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge Lahntal",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-05-21",
+            "end": "2022-05-22",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Bad Ems",
+            "country_code": "DE",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recdL2WdMtENbeRRZ",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-06-10",
+            "end": "2022-06-12",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Torun",
+            "country_code": "PL",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recBrjwKQUO0BrTB6",
+        "kind": "FCC",
+        "name": "Thoughest Firefighter Alive",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-06-11",
+            "end": "2022-06-12",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mönchengladbach",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1947131,
+                "lng": 6.4353792
+            }
+        }
+    },
+    {
+        "id": "recWSgD0lD44bHdRU",
+        "kind": "FCC",
+        "name": "Viking Firefighter Challenge",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-06-17",
+            "end": "2022-06-18",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Stavanger",
+            "country_code": "NO",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "rec7XBp96HEiaUVgP",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe ",
+        "url": "https://firefit-europe.eu/hannover/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-06-20",
+            "end": "2022-06-25",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hannover",
+            "country_code": "DE",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recDqFCB45lrZJl9G",
+        "kind": "FSR",
+        "name": "Wildbad345 Treppenlauf",
+        "url": "https://www.racesolution.de/teilnehmer.html?event=wildbad345-treppenlauf-rothenburg-odt-2",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-06-24",
+            "end": "2022-06-24",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Rothenburg ob der Tauber",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 49.3694901,
+                "lng": 10.1802884
+            }
+        }
+    },
+    {
+        "id": "reci0a7vG6SEI21Id",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge Mosel",
+        "url": "https://www.firefighter-challenge-mosel.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-07-01",
+            "end": "2022-07-03",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ediger-Eller",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.0974912,
+                "lng": 7.1520895
+            }
+        }
+    },
+    {
+        "id": "rec5vqRAtKc24KYEo",
+        "kind": "FCC",
+        "name": "Mergel Firefighter Challenge",
+        "url": "https://mergel-challenge.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-07-16",
+            "end": "2022-07-17",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Höver",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.314228,
+                "lng": 9.969482
+            }
+        }
+    },
+    {
+        "id": "recJtCyamnvWgYiKO",
+        "kind": "FCC",
+        "name": "World Police & Firefighter Games",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-07-23",
+            "end": "2022-07-23",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Rotterdam",
+            "country_code": "NL",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recjKwED76BQ5U2zu",
+        "kind": "FCC",
+        "name": "Feuerwehr Challenge Bühl",
+        "url": "http://buehl22.de/fw-challenge/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-07-23",
+            "end": "2022-07-23",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Bühl",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.397733,
+                "lng": 10.196381
+            }
+        }
+    },
+    {
+        "id": "recSgNTv1XHxB0U9u",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe ",
+        "url": "https://firefit-europe.eu/dortmund/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-08-05",
+            "end": "2022-08-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Dortmund",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.507849,
+                "lng": 7.479247
+            }
+        }
+    },
+    {
+        "id": "rec8qhJ0YB06RHZjj",
+        "kind": "FCC",
+        "name": "Hamburger Firefighter Games",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-08-27",
+            "end": "2022-08-27",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hamburg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 53.576158,
+                "lng": 10.007046
+            }
+        }
+    },
+    {
+        "id": "recQt82r1xyE9B2P0",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/pfalzen/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-08-27",
+            "end": "2022-08-28",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Pfalzen",
+            "country_code": "IT",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recNLCQDvjCigPUdV",
+        "kind": "FSR",
+        "name": "Kölnturm Treppenlauf",
+        "url": "https://www.koelner-treppenlauf.de/anmeldung/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-08-28",
+            "end": "2022-08-28",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Köln",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.9480362,
+                "lng": 6.9431545
+            }
+        }
+    },
+    {
+        "id": "rec4PjJznBu3Ccs42",
+        "kind": "FCC",
+        "name": "Berlin Firefighter Challenge",
+        "url": "https://www.firefighter-challenge-germany.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-09-09",
+            "end": "2022-09-10",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2022-06-21T22:00:00.000Z"
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.52045,
+                "lng": 13.40732
+            }
+        }
+    },
+    {
+        "id": "recIcX6KoaFg5JDqb",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-09-17",
+            "end": "2022-09-18",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mainburg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.641534,
+                "lng": 11.782432
+            }
+        }
+    },
+    {
+        "id": "rec6Yv7sohkme5nQe",
+        "kind": "FSR",
+        "name": "TK Elevator Towerrun",
+        "url": "https://towerrun.tkelevator.com/anmeldung/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-09-18",
+            "end": "2022-09-18",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Rottweil",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.1792097,
+                "lng": 8.6251129
+            }
+        }
+    },
+    {
+        "id": "recukzFkzT28JMIzF",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge Austria",
+        "url": "http://www.fcc-austria.com/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-09-23",
+            "end": "2022-09-24",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Tulln",
+            "country_code": "AT",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recwB9KM1YmJosdMj",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/bad-bramstedt/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-09-23",
+            "end": "2022-09-25",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Bad Bramstedt",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 53.917208,
+                "lng": 9.880338
+            }
+        }
+    },
+    {
+        "id": "rec765T0R74lx39Rz",
+        "kind": "FSR",
+        "name": "Escadórios da Humanidade",
+        "url": "https://escadorioshumanidade.pt/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-09-24",
+            "end": "2022-09-24",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2022-06-22T22:00:00.000Z"
+        },
+        "location": {
+            "city": "Braga",
+            "country_code": "PT",
+            "coordinates": {
+                "lat": 41.5545295,
+                "lng": -8.3787141
+            }
+        }
+    },
+    {
+        "id": "recB3C2Agy9CtuAIg",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/valenciennes/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-10-08",
+            "end": "2022-10-09",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Valenciennes",
+            "country_code": "FR",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "reccVY8UxtSXlNN8H",
+        "kind": "FCC",
+        "name": "Firefighter Challenge Worlds",
+        "url": "http://firefighterchallenge.com/worlds-2022/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-10-10",
+            "end": "2022-10-15",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Salt Lake City",
+            "country_code": "US",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "rec3Zdq38Mr3aBbNX",
+        "kind": "FSR",
+        "name": "Schanzenlauf Oberstdorf",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-10-22",
+            "end": "2022-10-22",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Oberstdorf",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 47.3749871,
+                "lng": 10.270242
+            }
+        }
+    },
+    {
+        "id": "recjBlyz3XANB35Zs",
+        "kind": "FSR",
+        "name": "4StairsonFire",
+        "url": "https://www.evendz.at/events/4-stairs/anmeldung/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-10-22",
+            "end": "2022-10-22",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Judenburg",
+            "country_code": "AT",
+            "coordinates": {
+                "lat": 47.1682422,
+                "lng": 14.6613402
+            }
+        }
+    },
+    {
+        "id": "recE6GSdh2TVHhPY6",
+        "kind": "FSR",
+        "name": "SkyRun MesseTurm Frankfurt",
+        "url": "https://my.raceresult.com/210595/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-11-27",
+            "end": "2022-11-27",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2022-10-20T22:00:00.000Z"
+        },
+        "location": {
+            "city": "Frankfurt",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.1125015,
+                "lng": 8.6528873
+            }
+        }
+    },
+    {
+        "id": "recYOMyZIuI5e0ohO",
+        "kind": "FSR",
+        "name": "Tower-Run Berlin",
+        "url": "https://anmeldung.laufauswertung.com/Anmeldung/index.php?VID=4BE137AB0D",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-01-08",
+            "end": "2023-01-08",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.425506,
+                "lng": 13.4697197
+            }
+        }
+    },
+    {
+        "id": "rec0orku3z29R93Q6",
+        "kind": "FCC",
+        "name": "Europas Indoor Challenge Gronau",
+        "url": "http://www.europas-challenge.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-02-04",
+            "end": "2023-02-04",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hardegsen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.649734,
+                "lng": 9.829393
+            }
+        }
+    },
+    {
+        "id": "rec0veAeopdt4HltL",
+        "kind": "FSR",
+        "name": "LLS Firefighter Stairclimb",
+        "url": "https://www.llswa.org/site/TR?fr_id=1730&pg=entry",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-03-12",
+            "end": "2023-03-12",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Seattle",
+            "country_code": "US",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recxKmZJUC6euLvWh",
+        "kind": "FSR",
+        "name": "Treppenlauf Oberhof",
+        "url": "http://runtix.com/sts/10021/2413",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-04-01",
+            "end": "2023-04-01",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Oberhof",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.6977798,
+                "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "rec31B39JJfz4YZnP",
+        "kind": "FSR",
+        "name": "Subida Vertical Gran Hotel Bali",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-04-22",
+            "end": "2023-04-22",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Bali",
+            "country_code": "IN",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recNxdIu7QKkFq4gT",
+        "kind": "FSR",
+        "name": "Zwickauer Hochhaus Treppenlauf",
+        "url": "https://my.raceresult.com/231849/info",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-04-23",
+            "end": "2023-04-23",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Zwickau",
+            "country_code": "DE",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recRXPyeM9LRjUdU0",
+        "kind": "FSR",
+        "name": "Berlin Firefighter Stairrun",
+        "url": "https://www.berlin-firefighter-stairrun.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-05-06",
+            "end": "2023-05-06",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.523125,
+                "lng": 13.4127656
+            }
+        }
+    },
+    {
+        "id": "reczxkPRoCcR1DWTU",
+        "kind": "FSR",
+        "name": "Mt. Everest Treppenmarathon",
+        "url": "https://feuerwehrfitnessdresden.de/veranstaltung",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-05-06",
+            "end": "2023-05-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Radebeul",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1136793,
+                "lng": 13.6637052
+            }
+        }
+    },
+    {
+        "id": "rec50IHAZaTlKnHIg",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/mainburg/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-05-06",
+            "end": "2023-05-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mainburg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.640589,
+                "lng": 11.7820705
+            }
+        }
+    },
+    {
+        "id": "recfbLmSUmkXDLptv",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge",
+        "url": "https://www.firefighter-challenge-germany.de/2022/10/31/wettkaempfe-2023/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-05-13",
+            "end": "2023-05-14",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Bremerhaven",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 53.521763699999994,
+                "lng": 8.586539189362735
+            }
+        }
+    },
+    {
+        "id": "recsf8JKOeKyrvawF",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/muenster/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-05-15",
+            "end": "2023-05-17",
+            "is_draft": null,
+            "is_canceled": true,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Münster",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.954044,
+                "lng": 7.624747
+            }
+        }
+    },
+    {
+        "id": "recCgLEqETsaRvnLn",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/en/tourplan-2023/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-05-27",
+            "end": "2023-05-28",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Pfalzen",
+            "country_code": "IT",
+            "coordinates": {
+                "lat": 46.811545,
+                "lng": 11.8832272
+            }
+        }
+    },
+    {
+        "id": "recMChQ1aRPCV6wjI",
+        "kind": "FSR",
+        "name": "Treppenlauf Halle",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-06-03",
+            "end": "2023-06-03",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Halle (Saale)",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.4825041,
+                "lng": 11.9705452
+            }
+        }
+    },
+    {
+        "id": "recEY5SuiOFvtcF24",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/bern/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-06-06",
+            "end": "2023-06-09",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Bern",
+            "country_code": "CH",
+            "coordinates": {
+                "lat": 46.9484742,
+                "lng": 7.4521749
+            }
+        }
+    },
+    {
+        "id": "recsMYhfPyFuir1Ht",
+        "kind": "FCC",
+        "name": "Toughest Firefighter Alive Mönchengladbach",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-06-09",
+            "end": "2023-06-11",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mönchengladbach",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1947131,
+                "lng": 6.4353792
+            }
+        }
+    },
+    {
+        "id": "recFvh7xPFfq094kF",
+        "kind": "FSR",
+        "name": "Bad Wildbader Stäffeleslauf",
+        "url": "https://my.raceresult.com/230471/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-06-16",
+            "end": "2023-06-16",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2023-02-28T23:00:00.000Z"
+        },
+        "location": {
+            "city": "Bad Wildbad",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.7503279,
+                "lng": 8.5489542
+            }
+        }
+    },
+    {
+        "id": "rec5N3iDX27EQsEF4",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/dortmund/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-06-16",
+            "end": "2023-06-17",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Dortmund",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.4907224,
+                "lng": 7.513473
+            }
+        }
+    },
+    {
+        "id": "recMcLjZmzgyH91Du",
+        "kind": "FCC",
+        "name": "Mengener Feuerwehrwettkampf",
+        "url": "https://www.mengen.de/fw/die-feuerwehr/02_wettkampf.php",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-06-17",
+            "end": "2023-06-17",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mengen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.049796,
+                "lng": 9.3316096
+            }
+        }
+    },
+    {
+        "id": "recY5XiURsOGTS1U3",
+        "kind": "FSR",
+        "name": "Wildbad311 Treppenlauf",
+        "url": "https://www.racesolution.de/teilnehmer.html?event=wildbad345-treppenlauf-rothenburg-odt-2",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-06-23",
+            "end": "2023-06-23",
+            "is_draft": null,
+            "is_canceled": "Zu wenig Teilnehmer",
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Rothenburg ob der Tauber",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 49.3694901,
+                "lng": 10.1802884
+            }
+        }
+    },
+    {
+        "id": "rec4BfGefRTAp9xja",
+        "kind": "FCC",
+        "name": "FireFit Championships Europe",
+        "url": "https://firefit.kwpsp.wroc.pl/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-06-23",
+            "end": "2023-06-24",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Breslau (Wrocław)",
+            "country_code": "PL",
+            "coordinates": {
+                "lat": 51.106947,
+                "lng": 17.027561
+            }
+        }
+    },
+    {
+        "id": "recNs7rFEcf0fQZfl",
+        "kind": "FCC",
+        "name": "Mosel Firefighter Challenge",
+        "url": "https://www.firefighter-challenge-germany.de/2022/10/31/wettkaempfe-2023/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-06-30",
+            "end": "2023-07-02",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ediger-Eller",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.0974912,
+                "lng": 7.1520895
+            }
+        }
+    },
+    {
+        "id": "recgPu6oDw47z8d2X",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/siegertsbrunn/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-07-14",
+            "end": "2023-07-15",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Siegertsbrunn",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.0194894,
+                "lng": 11.7190903
+            }
+        }
+    },
+    {
+        "id": "recHp6Zi1pZTZ1BXW",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge",
+        "url": "https://www.firefighter-challenge-germany.de/2022/10/31/wettkaempfe-2023/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-07-15",
+            "end": "2023-07-16",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Höver",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.3491318,
+                "lng": 9.8926208
+            }
+        }
+    },
+    {
+        "id": "recMTYHiIDwIDvUJW",
+        "kind": "FCC",
+        "name": "Mergel Firefighter Challenge",
+        "url": "https://www.facebook.com/events/689902005859843/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-07-15",
+            "end": "2023-07-16",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ahlter Feld, Lehrte",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.3569695,
+                "lng": 9.9042559
+            }
+        }
+    },
+    {
+        "id": "recv0wpvpba0jNvlE",
+        "kind": "FSR",
+        "name": "SkyRun MesseTurm Frankfurt",
+        "url": "https://my.raceresult.com/237482/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-07-16",
+            "end": "2023-07-16",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Frankfurt",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.1125015,
+                "lng": 8.6528873
+            }
+        }
+    },
+    {
+        "id": "recLfpQn2AW8uQdni",
+        "kind": "FSR",
+        "name": "Feuerwehrlauf Nordschwarzwaldtrophy",
+        "url": "https://my.raceresult.com/223565/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-07-28",
+            "end": "2023-07-28",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Schömberg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.7849506,
+                "lng": 8.6496677
+            }
+        }
+    },
+    {
+        "id": "recs1p7T2gY6quN2R",
+        "kind": "FCC",
+        "name": "British Firefighter Challenge",
+        "url": "https://www.britishfirefighterchallenge.co.uk/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-07-29",
+            "end": "2023-07-30",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Manchester",
+            "country_code": "GB",
+            "coordinates": {
+                "lat": 53.4794892,
+                "lng": -2.2451148
+            }
+        }
+    },
+    {
+        "id": "rec2xxwFWtKqaAA3a",
+        "kind": "FSR",
+        "name": "Kölnturm Treppenlauf",
+        "url": "https://www.koelner-treppenlauf.de/anmeldung/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-08-13",
+            "end": "2023-08-13",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Köln",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.9480362,
+                "lng": 6.9431545
+            }
+        }
+    },
+    {
+        "id": "recCZ6Npaxk5Glzo2",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge",
+        "url": "https://www.firefighter-challenge-germany.de/2022/10/31/wettkaempfe-2023/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-08-18",
+            "end": "2023-08-19",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.5170365,
+                "lng": 13.3888599
+            }
+        }
+    },
+    {
+        "id": "recAF8MF2nDXiH5A6",
+        "kind": "FSR",
+        "name": "Hamburg Firefighter Stairrun",
+        "url": "https://tfa-hamburg.de/hffs-2023/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-08-27",
+            "end": "2023-08-27",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hamburg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 53.561544,
+                "lng": 9.987391
+            }
+        }
+    },
+    {
+        "id": "recDwGeIaFFNkrns5",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/denmark/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-08-30",
+            "end": "2023-08-31",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2023-06-02T13:00:00.000Z"
+        },
+        "location": {
+            "city": "Odense",
+            "country_code": "DK",
+            "coordinates": {
+                "lat": 55.403756,
+                "lng": 10.40237
+            }
+        }
+    },
+    {
+        "id": "recPwLlq8ehuQwgJ5",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/hoexter/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-09-07",
+            "end": "2023-09-10",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Höxter",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.7790274,
+                "lng": 9.3787782
+            }
+        }
+    },
+    {
+        "id": "recdbloT0wTchykPC",
+        "kind": "FSR",
+        "name": "Firefighter Stair Climb",
+        "url": "https://www.instagram.com/firefighter.stair.climb.9_11/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-09-10",
+            "end": "2023-09-10",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Almere",
+            "country_code": "NL",
+            "coordinates": {
+                "lat": 52.3705038,
+                "lng": 5.2185859
+            }
+        }
+    },
+    {
+        "id": "recuxTE3WPxqoyLd1",
+        "kind": "FCC",
+        "name": "Europas Challenge",
+        "url": "http://europas-challenge.de/h-info.php",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-09-16",
+            "end": "2023-09-16",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hardegsen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.651703,
+                "lng": 9.8267769
+            }
+        }
+    },
+    {
+        "id": "recsoVt5VLJUeWhjn",
+        "kind": "FSR",
+        "name": "TK Elevator Towerrun",
+        "url": "https://towerrun.tkelevator.com/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-09-17",
+            "end": "2023-09-17",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Rottweil",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.1792097,
+                "lng": 8.6251129
+            }
+        }
+    },
+    {
+        "id": "recsnE2BV10WGrC4f",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge Austria",
+        "url": "https://www.facebook.com/toughestfirefighteralive?locale=de_DE",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-09-23",
+            "end": "2023-09-24",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Siegendorf",
+            "country_code": "AT",
+            "coordinates": {
+                "lat": 47.7816907,
+                "lng": 16.5393991
+            }
+        }
+    },
+    {
+        "id": "recycVihguhpkyw8L",
+        "kind": "FSR",
+        "name": "Escadórios da Humanidade",
+        "url": "https://escadorioshumanidade.pt/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-09-30",
+            "end": "2023-09-30",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Braga",
+            "country_code": "PT",
+            "coordinates": {
+                "lat": 41.5545295,
+                "lng": -8.3787141
+            }
+        }
+    },
+    {
+        "id": "recPMv3VbrxEYrHSQ",
+        "kind": "FSR",
+        "name": "Garda Lift on Fire",
+        "url": "http://www.vvfrivadelgarda.it/de/veranstaltung/garda-lift-on-fire-2023.html",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-10-01",
+            "end": "2023-10-01",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2023-05-31T22:00:00.000Z"
+        },
+        "location": {
+            "city": "Riva del Garda",
+            "country_code": "IT",
+            "coordinates": {
+                "lat": 45.8847708,
+                "lng": 10.8396942
+            }
+        }
+    },
+    {
+        "id": "recwjgLSOP7hBaDxZ",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge World Championship",
+        "url": "https://runsignup.com/Race/FL/Stuart/2023WorldFirefighterChallengeChampionship",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-10-03",
+            "end": "2023-10-08",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Florida",
+            "country_code": "US",
+            "coordinates": {
+                "lat": 27.7567667,
+                "lng": -81.4639835
+            }
+        }
+    },
+    {
+        "id": "recMKK5BqA6Or6K8d",
+        "kind": "FSR",
+        "name": "Chemnitzer Treppenlauf",
+        "url": "https://www.chemnitzer-treppenlauf.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-10-07",
+            "end": "2023-10-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Chemnitz",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.8360605,
+                "lng": 12.9209794
+            }
+        }
+    },
+    {
+        "id": "recC0hZtId4VxE7HY",
+        "kind": "FSR",
+        "name": "Schanzenlauf Oberstdorf",
+        "url": "https://schanzenlauf-oberstdorf.de",
+        "participants": {
+            "count": 484
+        },
+        "date": {
+            "start": "2023-10-21",
+            "end": "2023-10-21",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Oberstdorf",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 47.3749871,
+                "lng": 10.270242
+            }
+        }
+    },
+    {
+        "id": "recZIJTZPUVgK1u5J",
+        "kind": "FSR",
+        "name": "4Stairs onFire",
+        "url": "https://www.evendz.at/events/4-stairs/anmeldung/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-10-21",
+            "end": "2023-10-21",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Judenburg",
+            "country_code": "AT",
+            "coordinates": {
+                "lat": 47.1682422,
+                "lng": 14.6613402
+            }
+        }
+    },
+    {
+        "id": "recYTNzFkNBssH8qX",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge @ USAG",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-10-28",
+            "end": "2023-10-28",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Böblingen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.6833889,
+                "lng": 9.05125
+            }
+        }
+    },
+    {
+        "id": "recKKmm4DSwQY4UWj",
+        "kind": "FSR",
+        "name": "Zagreb Firefighter Stair Challenge",
+        "url": "https://www.zagreb-firefighter-stair-challenge.com.hr/en/",
+        "participants": {
+            "count": 509
+        },
+        "date": {
+            "start": "2023-12-02",
+            "end": "2023-12-02",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Zagreb",
+            "country_code": "CZ",
+            "coordinates": {
+                "lat": 45.8035601,
+                "lng": 15.9892098
+            }
+        }
+    },
+    {
+        "id": "recKUFtr3LrtYotOK",
+        "kind": "FSR",
+        "name": "X-Mas Stairrun",
+        "url": "https://www1.tu-ilmenau.de/floorball/stairrun2023/index.html",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-12-02",
+            "end": "2023-12-02",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2023-06-30T22:00:00.000Z"
+        },
+        "location": {
+            "city": "Oberhof",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.6977798,
+                "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "recAZkeSWLIzji8cK",
+        "kind": "FSR",
+        "name": "Turmlauf Hersbruck",
+        "url": "https://www.instagram.com/turmlauf.hersbruck/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-01-13",
+            "end": "2024-01-13",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hersbruck",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 49.5041,
+                "lng": 11.43634
+            }
+        }
+    },
+    {
+        "id": "recxAxWccPrMWcVVv",
+        "kind": "FSR",
+        "name": "LOTTO Thüringen Treppenlauf",
+        "url": "https://run4kids-soem.de/unsere-veranstaltungen/t/3__lotto_thueringen_treppenlauf_-36.html",
+        "participants": {
+            "count": 356
+        },
+        "date": {
+            "start": "2024-04-13",
+            "end": "2024-04-13",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Oberhof",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.6977798,
+                "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "recro0bAFSmCCQZBP",
+        "kind": "FSR",
+        "name": "Zwickauer Hochhaus Treppenlauf",
+        "url": "https://my.raceresult.com/275363/info",
+        "participants": {
+            "count": 28
+        },
+        "date": {
+            "start": "2024-04-21",
+            "end": "2024-04-21",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Zwickau",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.720182,
+                "lng": 12.4641671
+            }
+        }
+    },
+    {
+        "id": "recfmFTWYWV7rbsFI",
+        "kind": "FSR",
+        "name": "Subida Vertical Gran Hotel Bali",
+        "url": "http://subidagranhotelbali.com/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-04-27",
+            "end": "2024-04-27",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Benidorm",
+            "country_code": "ES",
+            "coordinates": {
+                "lat": 38.5314827,
+                "lng": -0.1637002
+            }
+        }
+    },
+    {
+        "id": "rec9yCoILDPWnextT",
+        "kind": "FCC",
+        "name": "Höinger Firefighter Challenge",
+        "url": "http://hfc.feuerwehr-ense.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-04-27",
+            "end": "2024-04-27",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ense",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.4850239,
+                "lng": 7.9741183
+            }
+        }
+    },
+    {
+        "id": "reclRpQWg31zYe1uI",
+        "kind": "FSR",
+        "name": "Berlin Firefighter Stairrun",
+        "url": "https://www.berlin-firefighter-stairrun.de/",
+        "participants": {
+            "count": 772
+        },
+        "date": {
+            "start": "2024-05-04",
+            "end": "2024-05-04",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-02-24T23:00:00.000Z"
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.523125,
+                "lng": 13.4127656
+            }
+        }
+    },
+    {
+        "id": "recLoyMFpbemMbfvi",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan-2024/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-05-04",
+            "end": "2024-05-05",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Magdeburg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.1306891,
+                "lng": 11.6268162
+            }
+        }
+    },
+    {
+        "id": "recyC5LmxecehTxWD",
+        "kind": "FSR",
+        "name": "Schonacher Schanzenlauf",
+        "url": "http://www.schonacher-schanzenlauf.de",
+        "participants": {
+            "count": 252
+        },
+        "date": {
+            "start": "2024-05-11",
+            "end": "2024-05-11",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-03-05T23:00:00.000Z"
+        },
+        "location": {
+            "city": "Schonach",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.1352787,
+                "lng": 8.2023015
+            }
+        }
+    },
+    {
+        "id": "recNdFl6cR1xA5l4p",
+        "kind": "FSR",
+        "name": "Stairways to Heaven",
+        "url": "https://stairways.ch/de/",
+        "participants": {
+            "count": 120
+        },
+        "date": {
+            "start": "2024-05-12",
+            "end": "2024-05-12",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-01-31T23:00:00.000Z"
+        },
+        "location": {
+            "city": "Quinto",
+            "country_code": "CH",
+            "coordinates": {
+                "lat": 46.5176215,
+                "lng": 8.6749995
+            }
+        }
+    },
+    {
+        "id": "recNrlEElp1LSetTK",
+        "kind": "FSR",
+        "name": "alive step up",
+        "url": "https://alive.si/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-05-18",
+            "end": "2024-05-18",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ljubljana",
+            "country_code": "SI",
+            "coordinates": {
+                "lat": 46.066912,
+                "lng": 14.541362
+            }
+        }
+    },
+    {
+        "id": "recV0B8sEyuoCmvux",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge",
+        "url": "https://www.facebook.com/tfateamaltmark",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-05-25",
+            "end": "2024-05-26",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Altmark",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.661139,
+                "lng": 11.552944
+            }
+        }
+    },
+    {
+        "id": "recVzAj3TgO0th7JC",
+        "kind": "FSR",
+        "name": "SkyRun MesseTurm Frankfurt",
+        "url": "https://my.raceresult.com/277814/info",
+        "participants": {
+            "count": 348
+        },
+        "date": {
+            "start": "2024-05-26",
+            "end": "2024-05-26",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Frankfurt",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.1125015,
+                "lng": 8.6528873
+            }
+        }
+    },
+    {
+        "id": "recczPSAcFyoQNkUI",
+        "kind": "FSR",
+        "name": "SaaleRun",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-06-01",
+            "end": "2024-06-01",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Halle (Saale)",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.4827088,
+                "lng": 11.968599
+            }
+        }
+    },
+    {
+        "id": "recqjh5V3DUAzgLYQ",
+        "kind": "FSR",
+        "name": "Bad Wildbader Stäffeleslauf",
+        "url": "https://my.raceresult.com/271276/info",
+        "participants": {
+            "count": 89
+        },
+        "date": {
+            "start": "2024-06-07",
+            "end": "2024-06-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-02-29T23:00:00.000Z"
+        },
+        "location": {
+            "city": "Bad Wildbad",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.7503279,
+                "lng": 8.5489542
+            }
+        }
+    },
+    {
+        "id": "recUBqaMJOOe95CEW",
+        "kind": "FCC",
+        "name": "Toughest Firefighter Alive",
+        "url": "https://www.tfa-germany.de/de/startseite/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-06-08",
+            "end": "2024-06-09",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mönchengladbach",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1947131,
+                "lng": 6.4353792
+            }
+        }
+    },
+    {
+        "id": "recN4o1TpaciUpXE5",
+        "kind": "FCC",
+        "name": "FireFit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan-2024/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-06-14",
+            "end": "2024-06-15",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Tauberfeld",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.823673,
+                "lng": 11.2755586
+            }
+        }
+    },
+    {
+        "id": "recMQ7fi1rp7WfEul",
+        "kind": "FCC",
+        "name": "FireFit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan-2024/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-06-27",
+            "end": "2024-06-29",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Toruń",
+            "country_code": "PL",
+            "coordinates": {
+                "lat": 53.0108452,
+                "lng": 18.6044977
+            }
+        }
+    },
+    {
+        "id": "rec040T1tj4CCrza1",
+        "kind": "FCC",
+        "name": "Mosel Firefighter Challenge",
+        "url": "https://www.firefighter-challenge-mosel.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-07-05",
+            "end": "2024-07-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-05-05T10:00:00.000Z"
+        },
+        "location": {
+            "city": "Ediger-Eller",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.0974912,
+                "lng": 7.1520895
+            }
+        }
+    },
+    {
+        "id": "recDRZuKp8VJlzn5q",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge",
+        "url": "https://www.fcc-czech.cz",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-07-12",
+            "end": "2024-07-13",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Jihlava",
+            "country_code": "CZ",
+            "coordinates": {
+                "lat": 49.397629,
+                "lng": 15.584602
+            }
+        }
+    },
+    {
+        "id": "recmsNComDBDJTxhh",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge Jihlava",
+        "url": "https://fcc-czech.cz",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-07-12",
+            "end": "2024-07-13",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Jihlava",
+            "country_code": "CZ",
+            "coordinates": {
+                "lat": 49.3963563,
+                "lng": 15.5892913
+            }
+        }
+    },
+    {
+        "id": "recRqH7LW1AQQ66FR",
+        "kind": "FSR",
+        "name": "Nordschwarzwald Trophy",
+        "url": "https://www.eventservice-stahl.de/veranstaltungen/nordschwarzwald-trophy/feuerwehr-lauf-ohne-pa/",
+        "participants": {
+            "count": 320
+        },
+        "date": {
+            "start": "2024-07-26",
+            "end": "2024-07-26",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Schömberg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.7849506,
+                "lng": 8.6496677
+            }
+        }
+    },
+    {
+        "id": "recMrJdcFKuO7HwMJ",
+        "kind": "FCC",
+        "name": "British Firefighter Challenge",
+        "url": "https://www.britishfirefighterchallenge.co.uk/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-07-27",
+            "end": "2024-07-28",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Liverpool",
+            "country_code": "GB",
+            "coordinates": {
+                "lat": 53.4031217,
+                "lng": -3.0160779
+            }
+        }
+    },
+    {
+        "id": "recHUgS363Cy8kBJh",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan-2024/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-08-02",
+            "end": "2024-08-04",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Szolnok",
+            "country_code": "HU",
+            "coordinates": {
+                "lat": 47.1664467,
+                "lng": 20.174199
+            }
+        }
+    },
+    {
+        "id": "rec2qdwIroGsfj1HX",
+        "kind": "FCC",
+        "name": "Vogtländischen-Firefighter-Contest",
+        "url": "https://neumark-vogtland.de/feuerwehr-neumark/aktuelle-informationen",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-08-17",
+            "end": "2024-08-17",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Neumark ",
+            "country_code": "DE",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recYjHBrXmVkygStd",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge",
+        "url": "https://www.firefighter-challenge-germany.de",
+        "participants": {
+            "count": 622
+        },
+        "date": {
+            "start": "2024-08-17",
+            "end": "2024-08-18",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.5170365,
+                "lng": 13.3888599
+            }
+        }
+    },
+    {
+        "id": "reckycvqGXFmJVmyP",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe ",
+        "url": "https://firefit-europe.eu/75-jahre-bsg-hannover-event/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-08-24",
+            "end": "2024-08-24",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hannover",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.3488436,
+                "lng": 9.6973136
+            }
+        }
+    },
+    {
+        "id": "recbbcQl0KFKj7Ox4",
+        "kind": "FSR",
+        "name": "Kölnturm Treppenlauf",
+        "url": "https://www.koelner-treppenlauf.de/anmeldung/",
+        "participants": {
+            "count": 1006
+        },
+        "date": {
+            "start": "2024-08-25",
+            "end": "2024-08-25",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Köln",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.9480362,
+                "lng": 6.9431545
+            }
+        }
+    },
+    {
+        "id": "recvU7doyi7ksTnMi",
+        "kind": "FCC",
+        "name": "EurOPAS Challenge",
+        "url": "https://www.fireanchor-sportteam.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-08-31",
+            "end": "2024-08-31",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Delligsen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.9416579,
+                "lng": 9.8127947
+            }
+        }
+    },
+    {
+        "id": "reckHSB1eG9Su8fxx",
+        "kind": "FSR",
+        "name": "Treppenlauf Radebeul",
+        "url": "https://feuerwehrfitness-dresden.de/anmeldung-teilnehmer/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-09-07",
+            "end": "2024-09-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Radebeul",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1136793,
+                "lng": 13.6637052
+            }
+        }
+    },
+    {
+        "id": "recMl1jjkVYL3uHoY",
+        "kind": "FCC",
+        "name": "Worlds Firefighter Challenge",
+        "url": "https://www.wfg2024.dk/en/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-09-07",
+            "end": "2024-09-14",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Aalborg",
+            "country_code": "DK",
+            "coordinates": {
+                "lat": 57.048444,
+                "lng": 9.931667
+            }
+        }
+    },
+    {
+        "id": "recqYhG0KpSxOiq0G",
+        "kind": "FCC",
+        "name": "FireFit Championships",
+        "url": "https://firefit-europe.eu/tourplan-2024/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-09-13",
+            "end": "2024-09-14",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "München",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.1642323,
+                "lng": 11.6055522
+            }
+        }
+    },
+    {
+        "id": "reckVPmrGF6ElGwDr",
+        "kind": "FSR",
+        "name": "Towerrun Mainz",
+        "url": "https://ff-mainz-stadt.de/towerrun-mainz",
+        "participants": {
+            "count": 178
+        },
+        "date": {
+            "start": "2024-09-14",
+            "end": "2024-09-14",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mainz",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.0032405,
+                "lng": 8.2598047
+            }
+        }
+    },
+    {
+        "id": "recGasu3wbOcXNOhf",
+        "kind": "FSR",
+        "name": "Firefighter Stair Climb",
+        "url": "https://www.brandweernederland.nl/firefighter-stair-climb/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-09-15",
+            "end": "2024-09-15",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-03-15T23:00:00.000Z"
+        },
+        "location": {
+            "city": "Almere",
+            "country_code": "NL",
+            "coordinates": {
+                "lat": 52.3705038,
+                "lng": 5.2185859
+            }
+        }
+    },
+    {
+        "id": "recgwPH7vAXUg5PBu",
+        "kind": "FSR",
+        "name": "TK Elevator Towerrun",
+        "url": "https://towerrun.tkelevator.com/",
+        "participants": {
+            "count": 550
+        },
+        "date": {
+            "start": "2024-09-15",
+            "end": "2024-09-15",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-03-21T09:00:00.000Z"
+        },
+        "location": {
+            "city": "Rottweil",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.1792097,
+                "lng": 8.6251129
+            }
+        }
+    },
+    {
+        "id": "recYiKkV3mOnjoon6",
+        "kind": "FCC",
+        "name": "Austria Firefighter Combat Challenge",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-09-21",
+            "end": "2024-09-22",
+            "is_draft": null,
+            "is_canceled": true,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "St. Pölten",
+            "country_code": "AT",
+            "coordinates": {
+                "lat": 48.2021108,
+                "lng": 15.6334077
+            }
+        }
+    },
+    {
+        "id": "recpC9aVfPvbijbge",
+        "kind": "FSR",
+        "name": "Escadórios da Humanidade",
+        "url": "https://escadorioshumanidade.pt/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-09-28",
+            "end": "2024-09-28",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Braga",
+            "country_code": "PT",
+            "coordinates": {
+                "lat": 41.5545295,
+                "lng": -8.3787141
+            }
+        }
+    },
+    {
+        "id": "recw6BxYhaiNq4W9r",
+        "kind": "FCC",
+        "name": "Leinetal Firefighter Combat Challenge",
+        "url": "https://www.facebook.com/TFALeinetal/",
+        "participants": {
+            "count": 512
+        },
+        "date": {
+            "start": "2024-09-28",
+            "end": "2024-09-29",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-06-29T16:00:00.000Z"
+        },
+        "location": {
+            "city": "Göttingen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.5285193,
+                "lng": 9.9194699
+            }
+        }
+    },
+    {
+        "id": "recCUVH0nuqh6lcjO",
+        "kind": "FSR",
+        "name": "Garda Lift on Fire",
+        "url": "https://www.instagram.com/gardaliftonfire/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-10-05",
+            "end": "2024-10-05",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-06-01T18:00:00.000Z"
+        },
+        "location": {
+            "city": "Riva del Garda",
+            "country_code": "IT",
+            "coordinates": {
+                "lat": 45.8847708,
+                "lng": 10.8396942
+            }
+        }
+    },
+    {
+        "id": "recL95uxMRJ0CWcPT",
+        "kind": "FSR",
+        "name": "Schanzenlauf Oberstdorf",
+        "url": "https://schanzenlauf-oberstdorf.de",
+        "participants": {
+            "count": 600
+        },
+        "date": {
+            "start": "2024-10-19",
+            "end": "2024-10-19",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Oberstdorf",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 47.3749871,
+                "lng": 10.270242
+            }
+        }
+    },
+    {
+        "id": "recaOVQklHYSxTICb",
+        "kind": "FCC",
+        "name": "Worlds Firefighter Challenge",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-10-21",
+            "end": "2024-10-26",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Nashville",
+            "country_code": "US",
+            "coordinates": {
+                "lat": 36.166479,
+                "lng": -86.77129
+            }
+        }
+    },
+    {
+        "id": "rec74ZNLbB94YbutN",
+        "kind": "FSR",
+        "name": "Chemnitzer Treppenlauf",
+        "url": "https://www.chemnitzer-treppenlauf.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-11-09",
+            "end": "2024-11-09",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Chemnitz",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.8360605,
+                "lng": 12.9209794
+            }
+        }
+    },
+    {
+        "id": "recgpWQzJ2YsIMaDt",
+        "kind": "FSR",
+        "name": "Zagreb Firefighter Stair Challenge",
+        "url": "https://www.zagreb-firefighter-stair-challenge.com.hr/en/",
+        "participants": {
+            "count": 573
+        },
+        "date": {
+            "start": "2024-12-07",
+            "end": "2024-12-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Zagreb",
+            "country_code": "CZ",
+            "coordinates": {
+                "lat": 45.8035601,
+                "lng": 15.9892098
+            }
+        }
+    },
+    {
+        "id": "rectoqxiOwNaoaHRZ",
+        "kind": "FSR",
+        "name": "X-Mas Stairrun",
+        "url": "https://www.racement.com/rennen/stairrun-oberhof-2024",
+        "participants": {
+            "count": 392
+        },
+        "date": {
+            "start": "2024-12-07",
+            "end": "2024-12-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-07-01T16:00:00.000Z"
+        },
+        "location": {
+            "city": "Oberhof",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.6977798,
+                "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "recgbDTn248vw1AEz",
+        "kind": "FSR",
+        "name": "TuS Tower-Run",
+        "url": "http://tus-neukoelln.de/?p=2039",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-01-12",
+            "end": "2025-01-12",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.4255992,
+                "lng": 13.4697113
+            }
+        }
+    },
+    {
+        "id": "receyIQyNivMbfVe4",
+        "kind": "FSR",
+        "name": "Schachmatt Ulm",
+        "url": "https://www.schachmatt-ulm.de/",
+        "participants": {
+            "count": 150
+        },
+        "date": {
+            "start": "2025-02-08",
+            "end": "2025-02-08",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ulm",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.4001358,
+                "lng": 10.0048274
+            }
+        }
+    },
+    {
+        "id": "recfou4HRcIsFI6L3",
+        "kind": "FSR",
+        "name": "BFW Indoor-Treppenlauf Kirchseeon",
+        "url": "https://www.bfw-muenchen.de/ueber-uns/news-medien/news/erster-bfw-indoor-treppenlauf/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-02-16",
+            "end": "2025-02-16",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Kirchseeon",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.0649123,
+                "lng": 11.8941151
+            }
+        }
+    },
+    {
+        "id": "recU4Gi9ndtbJuXCj",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-02-22",
+            "end": "2025-02-23",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hannover",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.327353,
+                "lng": 9.807701
+            }
+        }
+    },
+    {
+        "id": "recH7zZDIjptsmzXr",
+        "kind": "FSR",
+        "name": "Turmlauf Hersbruck",
+        "url": "https://www.instagram.com/turmlauf.hersbruck/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-03-15",
+            "end": "2025-03-15",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hersbruck",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 49.5041,
+                "lng": 11.43634
+            }
+        }
+    },
+    {
+        "id": "recWBkOlwgxBXLHAl",
+        "kind": "FSR",
+        "name": "LOTTO Thüringen Treppenlauf",
+        "url": "https://my.raceresult.com/313752/",
+        "participants": {
+            "count": 166
+        },
+        "date": {
+            "start": "2025-04-05",
+            "end": "2025-04-05",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-09-01T08:00:00.000Z"
+        },
+        "location": {
+            "city": "Oberhof",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.6977798,
+                "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "rec3gmKvkR7p38b0I",
+        "kind": "FSR",
+        "name": "Treppenlauf Radebeul",
+        "url": "https://feuerwehrfitness-dresden.de",
+        "participants": {
+            "count": 120
+        },
+        "date": {
+            "start": "2025-05-10",
+            "end": "2025-05-10",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Radebeul",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1136793,
+                "lng": 13.6637052
+            }
+        }
+    },
+    {
+        "id": "rech5EkRHnQlVspRq",
+        "kind": "FSR",
+        "name": "Stairways to Heaven",
+        "url": "https://stairways.ch/de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-05-11",
+            "end": "2025-05-11",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2025-01-31T23:00:00.000Z"
+        },
+        "location": {
+            "city": "Quinto",
+            "country_code": "CH",
+            "coordinates": {
+                "lat": 46.5176215,
+                "lng": 8.6749995
+            }
+        }
+    },
+    {
+        "id": "recURkcZynP4Bd4JZ",
+        "kind": "FSR",
+        "name": "Schonacher Schanzenlauf",
+        "url": "http://www.schonacher-schanzenlauf.de",
+        "participants": {
+            "count": 130
+        },
+        "date": {
+            "start": "2025-05-17",
+            "end": "2025-05-17",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-12-23T17:00:00.000Z"
+        },
+        "location": {
+            "city": "Schonach",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.1352787,
+                "lng": 8.2023015
+            }
+        }
+    },
+    {
+        "id": "recgIRb0V7cLIbshX",
+        "kind": "FSR",
+        "name": "Bad Wildbader Stäffeleslauf",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-05-23",
+            "end": "2025-05-23",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-02-29T23:00:00.000Z"
+        },
+        "location": {
+            "city": "Bad Wildbad",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.7503279,
+                "lng": 8.5489542
+            }
+        }
+    },
+    {
+        "id": "rec7LjyDM30EEliVH",
+        "kind": "FSR",
+        "name": "SkyRun MesseTurm Frankfurt",
+        "url": "https://www.arquelauf.de/skyrun/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-06-01",
+            "end": "2025-06-01",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Frankfurt",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.1125015,
+                "lng": 8.6528873
+            }
+        }
+    },
+    {
+        "id": "recABpqh8PZftIhlh",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan-2025/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-06-03",
+            "end": "2025-06-04",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Odense",
+            "country_code": "DK",
+            "coordinates": {
+                "lat": 55.403756,
+                "lng": 10.40237
+            }
+        }
+    },
+    {
+        "id": "recIytegDpi69T3L6",
+        "kind": "FCC",
+        "name": "Toughest Firefighter Alive",
+        "url": "https://www.tfa-germany.de/de/startseite/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-06-14",
+            "end": "2025-06-15",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mönchengladbach",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1947131,
+                "lng": 6.4353792
+            }
+        }
+    },
+    {
+        "id": "rech6y6GWTmYpS4CF",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan-2025/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-06-20",
+            "end": "2025-06-21",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": null,
+            "country_code": "PL",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recooWID949hlRemN",
+        "kind": "FCC",
+        "name": "Mosel Firefighter Challenge",
+        "url": "https://www.firefighter-challenge-mosel.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-07-04",
+            "end": "2025-07-06",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-05-05T10:00:00.000Z"
+        },
+        "location": {
+            "city": "Ediger-Eller",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.0974912,
+                "lng": 7.1520895
+            }
+        }
+    },
+    {
+        "id": "recIeu5ietPq0v1Fe",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge Jihlava",
+        "url": "https://fcc-czech.cz",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-07-11",
+            "end": "2025-07-12",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Jihlava",
+            "country_code": "CZ",
+            "coordinates": {
+                "lat": 49.3963563,
+                "lng": 15.5892913
+            }
+        }
+    },
+    {
+        "id": "rec1YO14jpAPEJEUV",
+        "kind": "FCC",
+        "name": "Leinetal Firefighter Combat Challenge",
+        "url": "https://www.facebook.com/TFALeinetal/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-07-18",
+            "end": "2025-07-20",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-06-29T16:00:00.000Z"
+        },
+        "location": {
+            "city": "Göttingen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.5192509,
+                "lng": 9.9266786
+            }
+        }
+    },
+    {
+        "id": "recWkYxWVbZzV4EvE",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan-2025/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-07-19",
+            "end": "2025-07-20",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Zürich",
+            "country_code": "CH",
+            "coordinates": {
+                "lat": 47.3656559,
+                "lng": 8.5460289
+            }
+        }
+    },
+    {
+        "id": "rec0hVWR2BM4b4Ltn",
+        "kind": "FSR",
+        "name": "Kölnturm Treppenlauf",
+        "url": "https://www.koelner-treppenlauf.de/anmeldung/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-08-03",
+            "end": "2025-08-03",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Köln",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.9480362,
+                "lng": 6.9431545
+            }
+        }
+    },
+    {
+        "id": "recmjP5DAD5QpjTMi",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan-2025/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-08-21",
+            "end": "2025-08-24",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Szolnok",
+            "country_code": "HU",
+            "coordinates": {
+                "lat": 47.1587198,
+                "lng": 20.1980632
+            }
+        }
+    },
+    {
+        "id": "rec64vaEInytsYgmf",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan-2025/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-06",
+            "end": "2025-09-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ostrava",
+            "country_code": "CZ",
+            "coordinates": {
+                "lat": 49.8051985,
+                "lng": 18.2777618
+            }
+        }
+    },
+    {
+        "id": "recS4yDdoJGLbydjq",
+        "kind": "FCC",
+        "name": "Austria Firefighter Combat Challenge",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-13",
+            "end": "2025-09-14",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Traisen",
+            "country_code": "AT",
+            "coordinates": {
+                "lat": 48.0453537,
+                "lng": 15.6144483
+            }
+        }
+    },
+    {
+        "id": "recWftiqj9uXljQY9",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge",
+        "url": "https://www.firefighter-challenge-germany.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-13",
+            "end": "2025-09-14",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.5170365,
+                "lng": 13.3888599
+            }
+        }
+    },
+    {
+        "id": "reckTGmSliDzTIz6w",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan-2025/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-20",
+            "end": "2025-09-21",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Landshut",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.531084,
+                "lng": 12.1446714
+            }
+        }
+    },
+    {
+        "id": "rec5MnGt9YZAWi2gI",
+        "kind": "FSR",
+        "name": "Garda Lift on Fire",
+        "url": "https://www.instagram.com/gardaliftonfire/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-10-04",
+            "end": "2025-10-04",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": "2024-06-01T18:00:00.000Z"
+        },
+        "location": {
+            "city": "Riva del Garda",
+            "country_code": "IT",
+            "coordinates": {
+                "lat": 45.8847708,
+                "lng": 10.8396942
+            }
+        }
+    },
+    {
+        "id": "recpgC055ik8nSmpw",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/tourplan-2025/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-10-04",
+            "end": "2025-10-05",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Gera",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.8816904,
+                "lng": 12.1321235
+            }
+        }
+    },
+    {
+        "id": "recs6BJ08TBczNmAR",
+        "kind": "FSR",
+        "name": "X-Mas Stairrun",
+        "url": "https://www.facebook.com/events/1682668382283406/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-12-06",
+            "end": "2025-12-06",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2025-07-01T16:00:00.000Z"
+        },
+        "location": {
+            "city": "Oberhof",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.6977798,
+                "lng": 10.6802269
+            }
+        }
+    }
+]

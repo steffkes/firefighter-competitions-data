@@ -8,13 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    defaults:
-      run:
-        working-directory: ./data
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: data-collection
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -26,5 +21,3 @@ jobs:
           xargs -L1 scrapy runspider
       - run: scrapy runspider collector.py
       - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          branch: data-collection

@@ -1,7 +1,7 @@
 {
-  "date": "2024-12-25T14:11:55.170273",
+  "date": "2024-12-25T14:31:24.874367",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 150,
+  "count": 154,
   "teams": [
     [
       "Adrian Kirchner",
@@ -78,6 +78,10 @@
     [
       "Damian Pyka",
       "Jasmin Bohun"
+    ],
+    [
+      "Daniel Buchmann",
+      "Marco Rehm"
     ],
     [
       "Daniel Widmann",
@@ -302,6 +306,10 @@
     [
       "Sebastian Göppel",
       "Valentin Denz"
+    ],
+    [
+      "Sebastian Kreuzer",
+      "Simon Buchmann"
     ]
   ]
 }

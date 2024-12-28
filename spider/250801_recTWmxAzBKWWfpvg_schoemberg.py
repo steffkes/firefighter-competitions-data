@@ -49,11 +49,27 @@ class Spider(scrapy.Spider):
         )
 
     def parse_starters(self, response):
-        fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
-
         data = list(response.json()["data"].values())[0]
         for [_bib, _team, name1, name2, _byear1, _byear2, _gender1, _gender2] in data:
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=sorted(map(fixName, [name1, name2])),
             )
+
+
+def fixName(name):
+    return " ".join(reversed(list(map(str.strip, name.split(",")))))
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("Wetzel, Denise", "Denise Wetzel"),
+        ("Julia, Keller", "Keller Julia"),
+    ],
+)
+def test_fixName(input, output):
+    assert fixName(input) == output

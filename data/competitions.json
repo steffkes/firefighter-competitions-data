@@ -3468,6 +3468,30 @@
         }
     },
     {
+        "id": "recTWmxAzBKWWfpvg",
+        "kind": "FSR",
+        "name": "Nordschwarzwald Trophy",
+        "url": "https://www.eventservice-stahl.de/veranstaltungen/nordschwarzwald-trophy/feuerwehr-lauf-ohne-pa/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-08-01",
+            "end": "2025-08-01",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Schömberg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.7849506,
+                "lng": 8.6496677
+            }
+        }
+    },
+    {
         "id": "rec0hVWR2BM4b4Ltn",
         "kind": "FSR",
         "name": "Kölnturm Treppenlauf",

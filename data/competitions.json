@@ -3684,6 +3684,30 @@
         }
     },
     {
+        "id": "recfXe2FFz9Q5jBRZ",
+        "kind": "FSR",
+        "name": "Schanzenlauf Oberstdorf",
+        "url": "https://feuerwehr-oberstdorf.de/aktuelles/schanzenlauf-2024",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-10-18",
+            "end": "2025-10-18",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Oberstdorf",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 47.3749871,
+                "lng": 10.270242
+            }
+        }
+    },
+    {
         "id": "recs6BJ08TBczNmAR",
         "kind": "FSR",
         "name": "X-Mas Stairrun",

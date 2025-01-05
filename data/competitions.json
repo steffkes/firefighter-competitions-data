@@ -3255,6 +3255,30 @@
         }
     },
     {
+        "id": "recmjfsbZTbvc1JM0",
+        "kind": "FSR",
+        "name": "Berlin Firefighter Stairrun",
+        "url": "https://www.berlin-firefighter-stairrun.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-05-17",
+            "end": "2025-05-17",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.523125,
+                "lng": 13.4127656
+            }
+        }
+    },
+    {
         "id": "recgIRb0V7cLIbshX",
         "kind": "FSR",
         "name": "Bad Wildbader Stäffeleslauf",

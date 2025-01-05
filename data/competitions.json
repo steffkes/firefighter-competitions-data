@@ -3516,6 +3516,30 @@
         }
     },
     {
+        "id": "recPYTDYqzceAPJmV",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://www.instagram.com/p/DEc5cVBMplg/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-08-02",
+            "end": "2025-08-03",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Kassel",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.32066,
+                "lng": 9.485909
+            }
+        }
+    },
+    {
         "id": "rec0hVWR2BM4b4Ltn",
         "kind": "FSR",
         "name": "Kölnturm Treppenlauf",

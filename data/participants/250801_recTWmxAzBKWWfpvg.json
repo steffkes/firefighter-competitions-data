@@ -1,7 +1,7 @@
 {
-  "date": "2025-01-06T20:13:04.081342",
+  "date": "2025-01-06T20:29:55.534915",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 18,
+  "count": 22,
   "teams": [
     [
       "Alexander Lang",
@@ -10,6 +10,10 @@
     [
       "Bek Markus",
       "Tobias Metzger"
+    ],
+    [
+      "Carsten Schmitteckert",
+      "Philipp Ellinghaus"
     ],
     [
       "Denise Wetzel",
@@ -38,6 +42,10 @@
     [
       "Korupp Christian",
       "Max Mayer"
+    ],
+    [
+      "Sascha Schneider",
+      "Watzl Aaron"
     ]
   ]
 }

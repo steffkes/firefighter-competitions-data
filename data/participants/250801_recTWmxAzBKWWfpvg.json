@@ -1,7 +1,7 @@
 {
-  "date": "2025-01-08T15:14:00.843018",
+  "date": "2025-01-08T15:31:48.904062",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 22,
+  "count": 30,
   "teams": [
     [
       "Alexander Lang",
@@ -44,8 +44,24 @@
       "Max Mayer"
     ],
     [
+      "Krüger Michael",
+      "Patrick Kuhn"
+    ],
+    [
+      "Käß Felix",
+      "Moritz Käß"
+    ],
+    [
+      "Richert Marcel",
+      "Tobias Bellm"
+    ],
+    [
       "Sascha Schneider",
       "Watzl Aaron"
+    ],
+    [
+      "Sautter Patrick",
+      "Yannick Hauser"
     ]
   ]
 }

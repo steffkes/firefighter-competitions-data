@@ -1,7 +1,7 @@
 {
-  "date": "2025-01-12T17:53:56.683823",
+  "date": "2025-01-12T18:16:15.129290",
   "competition_id": "recURkcZynP4Bd4JZ",
-  "count": 202,
+  "count": 206,
   "teams": [
     [
       "Adrian Kirchner",
@@ -62,6 +62,10 @@
     [
       "Andreas Wilhelm",
       "Christian Bradler"
+    ],
+    [
+      "Ben Pfitscher",
+      "Lea Wimmer"
     ],
     [
       "Bernd Scherer",
@@ -398,6 +402,10 @@
     [
       "Sascha Unsöld",
       "Wolfgang Buck"
+    ],
+    [
+      "Sebastian Duffner",
+      "Thomas Schramm"
     ],
     [
       "Thomas Kern",

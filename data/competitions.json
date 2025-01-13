@@ -2034,6 +2034,30 @@
         }
     },
     {
+        "id": "recQaueviMWAVBRwN",
+        "kind": "FSR",
+        "name": "Tower-Run Berlin",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-01-14",
+            "end": "2024-01-14",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.425506,
+                "lng": 13.4697197
+            }
+        }
+    },
+    {
         "id": "recxAxWccPrMWcVVv",
         "kind": "FSR",
         "name": "LOTTO Thüringen Treppenlauf",

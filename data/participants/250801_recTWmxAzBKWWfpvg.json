@@ -1,7 +1,7 @@
 {
-  "date": "2025-01-13T07:13:41.953020",
+  "date": "2025-01-13T07:29:14.039062",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 58,
+  "count": 60,
   "teams": [
     [
       "Alexander Lang",
@@ -18,6 +18,10 @@
     [
       "Buser Jonas",
       "Thomas Ley"
+    ],
+    [
+      "Bär Andreas",
+      "Shawn-Peer Tetting"
     ],
     [
       "Carsten Schmitteckert",
@@ -64,12 +68,12 @@
       "Paul Meßner"
     ],
     [
-      "Heinz-Thomas Jeikowski",
-      "Jonas Jeikowski"
-    ],
-    [
       "Helmer Marco",
       "Sebastian Jansen"
+    ],
+    [
+      "Jeikowski Heinz-Thomas",
+      "Jonas Jeikowski"
     ],
     [
       "Korupp Christian",

@@ -1,6 +1,12 @@
 import scrapy
 from datetime import datetime
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.Spider):
@@ -63,6 +69,14 @@ class Spider(scrapy.Spider):
                 duration="00:%s.0" % ("0" + raw_duration)[-5:],
                 names=[name],
                 age_group=age_group,
+                rank=ResultRankItem(
+                    total=int(row.css('[name="sp1"]::text').get().strip()),
+                    category=int(
+                        row.css('[name="sp2"]::text').get().strip()
+                        or row.css('[name="sp3"]::text').get().strip()
+                    ),
+                    age_group=int(row.css('[name="sp6"]::text').get().strip()),
+                ),
             )
 
 

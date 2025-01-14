@@ -7,6 +7,12 @@ class ParticipantItem(scrapy.Item):
     names = scrapy.Field()
 
 
+class ResultRankItem(scrapy.Item):
+    total = scrapy.Field()
+    category = scrapy.Field()
+    age_group = scrapy.Field()
+
+
 class ResultItem(scrapy.Item):
     date = scrapy.Field()
     competition_id = scrapy.Field()
@@ -16,6 +22,7 @@ class ResultItem(scrapy.Item):
     names = scrapy.Field()
     bib = scrapy.Field()
     age_group = scrapy.Field()
+    rank = scrapy.Field()
 
 
 from scrapy.utils.python import to_bytes

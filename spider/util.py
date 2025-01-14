@@ -15,6 +15,7 @@ class ResultItem(scrapy.Item):
     category = scrapy.Field()
     names = scrapy.Field()
     bib = scrapy.Field()
+    age_group = scrapy.Field()
 
 
 from scrapy.utils.python import to_bytes
@@ -79,6 +80,7 @@ class JsonLinesItemExporter(BaseJsonLinesItemExporter):
                 item["duration"],
                 item["type"],
                 item["category"] or "",
+                item.get("age_group"),
                 item.get("bib"),
             ),
         )

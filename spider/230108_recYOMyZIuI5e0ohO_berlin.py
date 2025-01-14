@@ -53,14 +53,16 @@ class Spider(scrapy.Spider):
         for row in response.css('[class^="LineContainer"]'):
             name = fixName(row.css('[name="sp4"]::text').get().strip())
             raw_duration = row.css('[name="sp9"]::text').get().strip().split(" ")[0]
+            age_group = row.css('[name="sp5"]::text').get().strip()
 
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
                 type=competition_type,
-                category=row.css('[name="sp5"]::text').get().strip()[0],
+                category=age_group[0],
                 duration="00:%s.0" % ("0" + raw_duration)[-5:],
                 names=[name],
+                age_group=age_group,
             )
 
 

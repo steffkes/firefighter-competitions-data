@@ -3732,6 +3732,54 @@
         }
     },
     {
+        "id": "recDiZFHFd14tlLUS",
+        "kind": "FSR",
+        "name": "TK Elevator Towerrun",
+        "url": "https://towerrun.tkelevator.com/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-21",
+            "end": "2025-09-21",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Rottweil",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.1792097,
+                "lng": 8.6251129
+            }
+        }
+    },
+    {
+        "id": "recwxar5TvuBFh28r",
+        "kind": "FSR",
+        "name": "Garda Lift on Fire",
+        "url": "https://www.instagram.com/gardaliftonfire/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-27",
+            "end": "2025-09-27",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Riva del Garda",
+            "country_code": "IT",
+            "coordinates": {
+                "lat": 45.8847708,
+                "lng": 10.8396942
+            }
+        }
+    },
+    {
         "id": "rec5MnGt9YZAWi2gI",
         "kind": "FSR",
         "name": "Garda Lift on Fire",
@@ -3744,7 +3792,7 @@
             "end": "2025-10-04",
             "is_draft": true,
             "is_canceled": null,
-            "registration_opens": "2024-06-01T18:00:00.000Z"
+            "registration_opens": null
         },
         "location": {
             "city": "Riva del Garda",

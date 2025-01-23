@@ -3444,6 +3444,30 @@
         }
     },
     {
+        "id": "recJ1lklfmgyvij7a",
+        "kind": "FCC",
+        "name": "Mengener Feuerwehrwettkampf",
+        "url": "https://www.mengen.de/fw/die-feuerwehr/feuerwehrwettkampf/06_wettkampf.php",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-06-28",
+            "end": "2025-06-28",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mengen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.049796,
+                "lng": 9.3316096
+            }
+        }
+    },
+    {
         "id": "recooWID949hlRemN",
         "kind": "FCC",
         "name": "Mosel Firefighter Challenge",
@@ -3752,6 +3776,30 @@
             "coordinates": {
                 "lat": 48.1792097,
                 "lng": 8.6251129
+            }
+        }
+    },
+    {
+        "id": "recs13RcnPPQGTOr9",
+        "kind": "FSR",
+        "name": "Escadórios da Humanidade",
+        "url": "https://escadorioshumanidade.pt/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-27",
+            "end": "2025-09-27",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Braga",
+            "country_code": "PT",
+            "coordinates": {
+                "lat": 41.5545295,
+                "lng": -8.3787141
             }
         }
     },

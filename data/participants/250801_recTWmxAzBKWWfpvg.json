@@ -1,7 +1,7 @@
 {
-  "date": "2025-01-26T17:38:53.559982",
+  "date": "2025-01-26T17:47:14.787834",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 88,
+  "count": 98,
   "teams": [
     [
       "Alexander Lang",
@@ -96,6 +96,14 @@
       "Philipp Hartmann"
     ],
     [
+      "Gräther Andreas",
+      "Matthias Otto"
+    ],
+    [
+      "Gräther Heiko",
+      "Karsten Sailer"
+    ],
+    [
       "Hanakam Selina",
       "Paul Meßner"
     ],
@@ -108,6 +116,10 @@
       "Sebastian Jansen"
     ],
     [
+      "Henz Daniel",
+      "Stefan Fiedler"
+    ],
+    [
       "Jannic Kuhn",
       "Reutter Simon"
     ],
@@ -118,6 +130,10 @@
     [
       "Jonas Adams",
       "Zader Sven"
+    ],
+    [
+      "Kicherer Ulrich",
+      "Volker Schmidt"
     ],
     [
       "Korupp Christian",
@@ -178,6 +194,10 @@
     [
       "Sautter Patrick",
       "Yannick Hauser"
+    ],
+    [
+      "Simon Schwarz",
+      "Wiegand Maximilian"
     ]
   ]
 }

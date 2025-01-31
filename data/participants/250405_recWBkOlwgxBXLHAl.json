@@ -1,7 +1,7 @@
 {
-  "date": "2025-01-31T11:53:42.597232",
+  "date": "2025-01-31T12:23:59.958707",
   "competition_id": "recWBkOlwgxBXLHAl",
-  "count": 292,
+  "count": 294,
   "teams": [
     [
       "Aaron Fischer",
@@ -586,6 +586,10 @@
     [
       "Stefan Matheis",
       "Tobias Diedrigkeit"
+    ],
+    [
+      "Tim Spaleck",
+      "Tom Spaleck"
     ]
   ]
 }

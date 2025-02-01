@@ -39,17 +39,15 @@ class Spider(scrapy.Spider):
     def start_requests(self):
         yield scrapy.FormRequest(
             method="GET",
-            url="https://apiah.endu.net/events/91215/entries",
-            formdata={
-                "limit": "100000",
-                "teamname": "%",
-            },
+            url="https://event.endu.net/events/event/entrants-json?",
+            formdata={"idevento": "91215", "rows": "500"},
             callback=self.parse_starters,
         )
 
     def parse_starters(self, response):
-        for entry in response.json():
+        for entry in response.json()["rows"]:
+            [_bib, _time, firstname, lastname, _year, _nation, _team] = entry["cell"]
             yield ParticipantItem(
                 competition_id=self.competition_id,
-                names=["%s %s" % (entry["firstname"], entry["lastname"])],
+                names=["%s %s" % (firstname, lastname)],
             )

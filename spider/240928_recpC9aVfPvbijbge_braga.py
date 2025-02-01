@@ -1,6 +1,12 @@
 import scrapy
 from datetime import datetime
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.Spider):
@@ -40,13 +46,27 @@ class Spider(scrapy.Spider):
         )
 
     def parse(self, response):
+        rank = {"category": {}, "age_group": {}}
+
         for entry in response.json():
+            category = {"F": "W"}.get(entry["sexo"], entry["sexo"])
+            age_group = entry["escalao"]
+
+            rank["category"][category] = rank["category"].get(category, 0) + 1
+            rank["age_group"][age_group] = rank["age_group"].get(age_group, 0) + 1
+
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
                 duration=entry["tempo"][0:10],
                 type="OPA",
-                category={"F": "W"}.get(entry["sexo"], entry["sexo"]),
+                category=category,
                 names=[entry["nome"]],
                 bib=entry["dorsal"],
+                age_group=age_group,
+                rank=ResultRankItem(
+                    total=int(entry["pos"]),
+                    category=rank["category"][category],
+                    age_group=rank["age_group"][age_group],
+                ),
             )

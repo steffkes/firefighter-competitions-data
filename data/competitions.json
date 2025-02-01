@@ -2082,30 +2082,6 @@
         }
     },
     {
-        "id": "recDQgPZf3fKZwQV1",
-        "kind": "FSR",
-        "name": "Zwickauer Hochhaus Treppenlauf",
-        "url": "https://my.raceresult.com/322261/info",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2024-04-21",
-            "end": "2024-04-21",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": "2025-01-31T23:00:00.000Z"
-        },
-        "location": {
-            "city": "Zwickau",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 50.720182,
-                "lng": 12.4641671
-            }
-        }
-    },
-    {
         "id": "recro0bAFSmCCQZBP",
         "kind": "FSR",
         "name": "Zwickauer Hochhaus Treppenlauf",
@@ -3227,6 +3203,30 @@
             "coordinates": {
                 "lat": 50.6977798,
                 "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "recDQgPZf3fKZwQV1",
+        "kind": "FSR",
+        "name": "Zwickauer Hochhaus Treppenlauf",
+        "url": "https://my.raceresult.com/322261/info",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-04-13",
+            "end": "2025-04-13",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Zwickau",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.720182,
+                "lng": 12.4641671
             }
         }
     },

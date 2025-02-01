@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-01T11:44:05.709721",
+  "date": "2025-02-01T11:53:40.430228",
   "competition_id": "rech5EkRHnQlVspRq",
-  "count": 35,
+  "count": 36,
   "teams": [
     [
       "Amos Ferrari"
@@ -107,6 +107,9 @@
     ],
     [
       "Stefan Matheis"
+    ],
+    [
+      "Zurich Pascal"
     ]
   ]
 }

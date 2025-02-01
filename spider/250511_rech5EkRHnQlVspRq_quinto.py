@@ -46,7 +46,16 @@ class Spider(scrapy.Spider):
 
     def parse_starters(self, response):
         for entry in response.json()["rows"]:
-            [_bib, _time, firstname, lastname, _year, _nation, _team] = entry["cell"]
+            [
+                _empty,
+                firstname,
+                lastname,
+                _year,
+                _nation,
+                _team,
+                _empty2,
+                _competiton,
+            ] = entry["cell"]
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=["%s %s" % (firstname, lastname)],

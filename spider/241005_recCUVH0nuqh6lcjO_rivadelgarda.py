@@ -42,15 +42,15 @@ class Spider(scrapy.Spider):
     def parse(self, response):
         durations = dict(
             map(
-                lambda entry: (entry.attrib["d"], entry.attrib["t"]),
+                lambda entry: (entry.attrib["d"], fixDuration(entry.attrib["t"])),
                 response.css("Resultats R"),
             )
         )
 
         for entry in response.css("Engages E"):
-            raw_duration = durations.get(entry.attrib["d"])
+            duration = durations.get(entry.attrib["d"])
 
-            if not raw_duration:
+            if not duration:
                 continue
 
             [firstname, lastname] = reversed(
@@ -60,7 +60,7 @@ class Spider(scrapy.Spider):
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
-                duration=fixDuration(raw_duration),
+                duration=duration,
                 type="MPA",
                 category={"M": "M", "F": "W"}.get(entry.attrib["x"]),
                 names=[
@@ -84,6 +84,9 @@ import re
 
 
 def fixDuration(raw_duration):
+    if raw_duration == "Squalificato":
+        return None
+
     return re.sub(r"^(00)h(\d{2})'(\d{2}),(\d)\d*$", r"\1:\2:\3.\4", raw_duration)
 
 
@@ -96,6 +99,7 @@ import pytest
         ("00h07'23,4", "00:07:23.4"),
         ("00h08'52,3", "00:08:52.3"),
         ("00h12'49,6", "00:12:49.6"),
+        ("Squalificato", None),
     ],
 )
 def test_fixDuration(input, output):

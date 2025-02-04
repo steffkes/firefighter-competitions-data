@@ -3462,9 +3462,12 @@
             "registration_opens": null
         },
         "location": {
-            "city": null,
+            "city": "Toruń",
             "country_code": "PL",
-            "coordinates": null
+            "coordinates": {
+                "lat": 53.0116821,
+                "lng": 18.6107678
+            }
         }
     },
     {

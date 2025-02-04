@@ -53,29 +53,13 @@ class Spider(scrapy.Spider):
             if not duration:
                 continue
 
-            [firstname, lastname] = reversed(
-                list(map(lambda str: str.strip(), entry.attrib["n"].split("\xa0")))
-            )
-
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
                 duration=duration,
                 type="MPA",
                 category={"M": "M", "F": "W"}.get(entry.attrib["x"]),
-                names=[
-                    " ".join(
-                        [
-                            firstname,
-                            re.sub(
-                                r"^(.)(.+)$",
-                                lambda match: "%s%s"
-                                % (match.group(1), match.group(2).lower()),
-                                lastname,
-                            ),
-                        ]
-                    )
-                ],
+                names=[fixName(entry.attrib["n"])],
                 bib=entry.attrib["d"],
             )
 
@@ -88,6 +72,23 @@ def fixDuration(raw_duration):
         return None
 
     return re.sub(r"^(00)h(\d{2})'(\d{2}),(\d)\d*$", r"\1:\2:\3.\4", raw_duration)
+
+
+def fixName(name):
+    [firstname, lastname] = reversed(
+        list(map(lambda str: str.strip(), name.split("\xa0")))
+    )
+
+    return " ".join(
+        [
+            firstname,
+            re.sub(
+                r"^(.)(.+)$",
+                lambda match: "%s%s" % (match.group(1), match.group(2).lower()),
+                lastname,
+            ),
+        ]
+    )
 
 
 import pytest
@@ -104,3 +105,15 @@ import pytest
 )
 def test_fixDuration(input, output):
     assert fixDuration(input) == output
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("KOCH Petra", "Petra Koch"),
+        ("FICILI Orso Mario Bartolomeo", "Orso Mario Bartolomeo Ficili"),
+        ("WEISS Anne-Kathrin", "Anne-Kathrin Weiss"),
+    ],
+)
+def test_fixName(input, output):
+    assert fixName(input) == output

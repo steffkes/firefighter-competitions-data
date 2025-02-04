@@ -55,7 +55,6 @@ class Spider(scrapy.spiders.CSVFeedSpider):
         )
 
     def parse_starters(self, response):
-        fixName = lambda name: " ".join(reversed(name.split(", ")))
         for row in csviter(
             response, self.delimiter, self.headers, quotechar=self.quotechar
         ):
@@ -72,14 +71,7 @@ class Spider(scrapy.spiders.CSVFeedSpider):
         ):
             duration = "00:" + ("0" + row.css(":nth-child(9)::text").get())[-7:]
             age_group = row.css(":nth-child(8)::text").get()
-            names = sorted(
-                map(
-                    lambda name: " ".join(
-                        reversed(list(map(str.strip, name.split(","))))
-                    ),
-                    row.css(":nth-child(12)::text").get().split("/"),
-                )
-            )
+            names = row.css(":nth-child(12)::text").get().split("/")
 
             yield ResultItem(
                 date=self.race_date,
@@ -88,10 +80,30 @@ class Spider(scrapy.spiders.CSVFeedSpider):
                 duration=duration,
                 category={"Ladies": "W", "Mix": "X"}.get(age_group, "M"),
                 age_group=age_group,
-                names=names,
+                names=sorted(map(fixName, names)),
                 bib=row.css(":nth-child(5)::text").get(),
                 rank=ResultRankItem(
                     total=int(row.css(":nth-child(11)::text").get()),
                     age_group=int(row.css(":nth-child(10)::text").get()),
                 ),
             )
+
+
+def fixName(name):
+    return " ".join(map(str.strip, reversed(name.split(","))))
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("Süßenbach, Jan ", "Jan Süßenbach"),
+        (" Di Gioia, Alessandro ", "Alessandro Di Gioia"),
+        ("Grote-Lambers, Katrin-Madlen", "Katrin-Madlen Grote-Lambers"),
+        ("Tuchbreiter,Nicole", "Nicole Tuchbreiter")
+    ],
+)
+def test_fixName(input, output):
+    assert fixName(input) == output

@@ -1,7 +1,6 @@
 import scrapy
 from datetime import datetime
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
-import re
 
 
 class Spider(scrapy.Spider):
@@ -57,14 +56,11 @@ class Spider(scrapy.Spider):
             [firstname, lastname] = reversed(
                 list(map(lambda str: str.strip(), entry.attrib["n"].split("\xa0")))
             )
-            duration = re.sub(
-                r"^(00)h(\d{2})'(\d{2}),(\d)\d*$", r"\1:\2:\3.\4", raw_duration
-            )
 
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
-                duration=duration,
+                duration=fixDuration(raw_duration),
                 type="MPA",
                 category={"M": "M", "F": "W"}.get(entry.attrib["x"]),
                 names=[
@@ -82,3 +78,25 @@ class Spider(scrapy.Spider):
                 ],
                 bib=entry.attrib["d"],
             )
+
+
+import re
+
+
+def fixDuration(raw_duration):
+    return re.sub(r"^(00)h(\d{2})'(\d{2}),(\d)\d*$", r"\1:\2:\3.\4", raw_duration)
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("00h07'23,4", "00:07:23.4"),
+        ("00h08'52,3", "00:08:52.3"),
+        ("00h12'49,6", "00:12:49.6"),
+    ],
+)
+def test_fixDuration(input, output):
+    assert fixDuration(input) == output

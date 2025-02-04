@@ -42,15 +42,19 @@ class Spider(scrapy.Spider):
         )
 
     def parse(self, response):
-        durations = dict(
+        entries = dict(
             map(
-                lambda entry: (entry.attrib["d"], fixDuration(entry.attrib["t"])),
-                response.css("Resultats R"),
+                lambda entry: (entry.attrib["d"], entry),
+                response.css("Engages E"),
             )
         )
 
-        for entry in response.css("Engages E"):
-            duration = durations.get(entry.attrib["d"])
+        for result in response.css("Resultats R"):
+            entry = entries[result.attrib["d"]]
+
+            duration = fixDuration(result.attrib["t"])
+            bib = result.attrib["d"]
+            category = {"M": "M", "F": "W"}.get(entry.attrib["x"])
 
             if not duration:
                 continue
@@ -60,9 +64,9 @@ class Spider(scrapy.Spider):
                 competition_id=self.competition_id,
                 duration=duration,
                 type="MPA",
-                category={"M": "M", "F": "W"}.get(entry.attrib["x"]),
+                category=category,
                 names=[fixName(entry.attrib["n"])],
-                bib=entry.attrib["d"],
+                bib=bib,
             )
 
 

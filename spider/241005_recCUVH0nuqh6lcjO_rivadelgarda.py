@@ -2,6 +2,8 @@ import scrapy
 from datetime import datetime
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
+nameMappings = {"Hindelang Günther": "Günther Hindelang"}
+
 
 class Spider(scrapy.Spider):
     name = __name__
@@ -79,7 +81,7 @@ def fixName(name):
         list(map(lambda str: str.strip(), name.split("\xa0")))
     )
 
-    return " ".join(
+    fixed = " ".join(
         [
             firstname,
             re.sub(
@@ -89,6 +91,8 @@ def fixName(name):
             ),
         ]
     )
+
+    return nameMappings.get(fixed, fixed)
 
 
 import pytest
@@ -113,6 +117,7 @@ def test_fixDuration(input, output):
         ("KOCH Petra", "Petra Koch"),
         ("FICILI Orso Mario Bartolomeo", "Orso Mario Bartolomeo Ficili"),
         ("WEISS Anne-Kathrin", "Anne-Kathrin Weiss"),
+        ("GÜNTHER Hindelang", "Günther Hindelang"),
     ],
 )
 def test_fixName(input, output):

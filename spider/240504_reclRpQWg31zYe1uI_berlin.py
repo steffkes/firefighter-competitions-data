@@ -10,6 +10,8 @@ from util import (
     ResultRankItem,
 )
 
+nameMappings = {"Weickmann Matthias": "Matthias Weickmann"}
+
 
 class Spider(scrapy.spiders.CSVFeedSpider):
     name = __name__
@@ -90,7 +92,9 @@ class Spider(scrapy.spiders.CSVFeedSpider):
 
 
 def fixName(name):
-    return " ".join(map(str.strip, reversed(name.split(","))))
+    fixed = " ".join(map(str.strip, reversed(name.split(","))))
+
+    return nameMappings.get(fixed, fixed)
 
 
 import pytest

@@ -102,7 +102,7 @@ import pytest
         ("Süßenbach, Jan ", "Jan Süßenbach"),
         (" Di Gioia, Alessandro ", "Alessandro Di Gioia"),
         ("Grote-Lambers, Katrin-Madlen", "Katrin-Madlen Grote-Lambers"),
-        ("Tuchbreiter,Nicole", "Nicole Tuchbreiter")
+        ("Tuchbreiter,Nicole", "Nicole Tuchbreiter"),
     ],
 )
 def test_fixName(input, output):

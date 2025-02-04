@@ -2442,6 +2442,30 @@
         }
     },
     {
+        "id": "rech2HGehAQ1qcF77",
+        "kind": "FSR",
+        "name": "Stairrun Wilhelmsfeld",
+        "url": "https://stairrun-wilhelmsfeld.de/firefighter/index.php",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-06-30",
+            "end": "2024-06-30",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Wilhelmsfeld",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 49.4660884,
+                "lng": 8.7540678
+            }
+        }
+    },
+    {
         "id": "rec040T1tj4CCrza1",
         "kind": "FCC",
         "name": "Mosel Firefighter Challenge",
@@ -3188,7 +3212,7 @@
         "name": "LOTTO Thüringen Treppenlauf",
         "url": "https://my.raceresult.com/313752/",
         "participants": {
-            "count": 332
+            "count": 334
         },
         "date": {
             "start": "2025-04-05",

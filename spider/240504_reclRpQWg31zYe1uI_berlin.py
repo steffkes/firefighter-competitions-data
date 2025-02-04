@@ -2,7 +2,13 @@ import scrapy
 from datetime import datetime
 from pathlib import Path
 from scrapy.utils.iterators import csviter
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.spiders.CSVFeedSpider):
@@ -65,6 +71,7 @@ class Spider(scrapy.spiders.CSVFeedSpider):
             response.css("table tr"),
         ):
             duration = "00:" + ("0" + row.css(":nth-child(9)::text").get())[-7:]
+            age_group = row.css(":nth-child(8)::text").get()
             names = sorted(
                 map(
                     lambda name: " ".join(
@@ -79,9 +86,12 @@ class Spider(scrapy.spiders.CSVFeedSpider):
                 competition_id=self.competition_id,
                 type="MPA",
                 duration=duration,
-                category={"Ladies": "W", "Mix": "X"}.get(
-                    row.css(":nth-child(8)::text").get(), "M"
-                ),
+                category={"Ladies": "W", "Mix": "X"}.get(age_group, "M"),
+                age_group=age_group,
                 names=names,
                 bib=row.css(":nth-child(5)::text").get(),
+                rank=ResultRankItem(
+                    total=int(row.css(":nth-child(11)::text").get()),
+                    age_group=int(row.css(":nth-child(10)::text").get()),
+                ),
             )

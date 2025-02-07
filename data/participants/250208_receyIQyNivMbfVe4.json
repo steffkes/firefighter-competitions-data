@@ -1,5 +1,5 @@
 {
-  "date": "2025-02-07T21:44:28.296392",
+  "date": "2025-02-07T21:53:39.203299",
   "competition_id": "receyIQyNivMbfVe4",
   "count": 218,
   "teams": [
@@ -288,10 +288,6 @@
       "Steve Roidl"
     ],
     [
-      "Kevin Schicker",
-      "Tim Forster"
-    ],
-    [
       "Lars Volke",
       "Martin Franke"
     ],
@@ -438,6 +434,10 @@
     [
       "Sebastian Kreuzer",
       "Simon Buchmann"
+    ],
+    [
+      "Stefan Flaig",
+      "Tim Forster"
     ]
   ]
 }

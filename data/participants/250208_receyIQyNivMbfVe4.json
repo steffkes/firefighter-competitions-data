@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-07T21:53:39.203299",
+  "date": "2025-02-07T22:12:01.456817",
   "competition_id": "receyIQyNivMbfVe4",
-  "count": 218,
+  "count": 216,
   "teams": [
     [
       "Achim Gekeler",
@@ -140,10 +140,6 @@
       "Flavio Carneiro"
     ],
     [
-      "Dominik Thiel",
-      "Tobias Diedrigkeit"
-    ],
-    [
       "Elias Vogt",
       "Matthias Hefele"
     ],
@@ -237,7 +233,7 @@
     ],
     [
       "Jan Merz",
-      "Stefan Flaig"
+      "Tim Forster"
     ],
     [
       "Jan-Philipp Tietge",
@@ -286,6 +282,10 @@
     [
       "Jörg Bohun",
       "Steve Roidl"
+    ],
+    [
+      "Kevin Schicker",
+      "Stefan Flaig"
     ],
     [
       "Lars Volke",
@@ -434,10 +434,6 @@
     [
       "Sebastian Kreuzer",
       "Simon Buchmann"
-    ],
-    [
-      "Stefan Flaig",
-      "Tim Forster"
     ]
   ]
 }

@@ -3210,7 +3210,7 @@
         "id": "recBQJsktoLvnfXuD",
         "kind": "FCC",
         "name": "EurOPAS Challenge",
-        "url": "https://www.fireanchor-sportteam.de/",
+        "url": "https://förderverein-challenge-team-gronau-leine.de/2022/08/29/europas-challenge-indoor/",
         "participants": {
             "count": null
         },
@@ -3219,10 +3219,10 @@
             "end": "2025-03-29",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2025-02-15T11:00:00.000Z"
         },
         "location": {
-            "city": "Delligsen",
+            "city": "Gronau",
             "country_code": "DE",
             "coordinates": {
                 "lat": 52.0875383,

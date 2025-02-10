@@ -3207,6 +3207,30 @@
         }
     },
     {
+        "id": "recBQJsktoLvnfXuD",
+        "kind": "FCC",
+        "name": "EurOPAS Challenge",
+        "url": "https://www.fireanchor-sportteam.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-03-29",
+            "end": "2025-03-29",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Delligsen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.0875383,
+                "lng": 9.7754431
+            }
+        }
+    },
+    {
         "id": "recWBkOlwgxBXLHAl",
         "kind": "FSR",
         "name": "LOTTO Thüringen Treppenlauf",

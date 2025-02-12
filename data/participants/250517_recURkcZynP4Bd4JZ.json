@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-12T20:14:14.798803",
+  "date": "2025-02-12T20:31:01.498131",
   "competition_id": "recURkcZynP4Bd4JZ",
-  "count": 270,
+  "count": 276,
   "teams": [
     [
       "Adrian Kirchner",
@@ -34,6 +34,10 @@
     [
       "Alexander Schneider",
       "Johannes Blum"
+    ],
+    [
+      "Alexander Trommer",
+      "Martin Schmid"
     ],
     [
       "Alfonso Barcena",
@@ -436,6 +440,10 @@
       "Simon Mezger"
     ],
     [
+      "Markus Steinemann",
+      "Steffen Exner"
+    ],
+    [
       "Markus Weber",
       "Nicolai Sommer"
     ],
@@ -474,6 +482,10 @@
     [
       "Nils Unsöld",
       "Sascha Unsöld"
+    ],
+    [
+      "Olaf Möbius",
+      "Volker Gräber"
     ],
     [
       "Oliver Waibel",

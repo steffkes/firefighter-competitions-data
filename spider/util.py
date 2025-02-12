@@ -86,7 +86,7 @@ class JsonLinesItemExporter(BaseJsonLinesItemExporter):
             key=lambda item: (
                 item["duration"],
                 item["type"],
-                item["category"] or "",
+                item.get("category"),
                 item.get("age_group"),
                 item.get("bib"),
             ),

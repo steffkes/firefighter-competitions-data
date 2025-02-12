@@ -1,4 +1,5 @@
 import scrapy
+import itertools
 from datetime import datetime
 from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
 
@@ -48,9 +49,47 @@ class Spider(scrapy.Spider):
             callback=self.parse_starters,
         )
 
+        for selector in range(1, 9):
+            yield scrapy.FormRequest(
+                method="GET",
+                url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+                formdata={
+                    "key": self.race_key,
+                    "listname": "01 - Online|Results",
+                    "contest": "1",
+                    "page": "results",
+                    "selectorResult": str(selector),
+                },
+            )
+
     def parse_starters(self, response):
         for [[_bib, name1, name2]] in (response.json()["data"] or {}).values():
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=sorted([name1, name2]),
+            )
+
+    def parse(self, response):
+        for [
+            bib,
+            rank,
+            _bib,
+            names,
+            _team,
+            _q,
+            raw_duration,
+            _diff,
+            _cert,
+            _cert_link,
+        ] in itertools.chain.from_iterable(response.json()["data"].values()):
+            if rank == "DNF":
+                continue
+
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                type="OPA",
+                duration="00:0%s" % raw_duration[:-1].replace(",", "."),
+                names=sorted(names.split(" & ")),
+                bib=bib,
             )

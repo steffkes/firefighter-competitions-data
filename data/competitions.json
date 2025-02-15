@@ -3423,6 +3423,30 @@
         }
     },
     {
+        "id": "recoyhqUgEdyLOcT7",
+        "kind": "FSR",
+        "name": "alive step up copy",
+        "url": "https://alive.si/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-05-17",
+            "end": "2025-05-17",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ljubljana",
+            "country_code": "SI",
+            "coordinates": {
+                "lat": 46.066912,
+                "lng": 14.541362
+            }
+        }
+    },
+    {
         "id": "recgIRb0V7cLIbshX",
         "kind": "FSR",
         "name": "Bad Wildbader Stäffeleslauf",

@@ -98,3 +98,40 @@ class JsonLinesItemExporter(BaseJsonLinesItemExporter):
                 self.encoding,
             )
         )
+
+
+class Spider(scrapy.Spider):
+    ranks = {"category": {}, "age_group": {}}
+
+    custom_settings = {
+        "FEED_EXPORTERS": {
+            "starter": JsonItemExporter,
+            "results": JsonLinesItemExporter,
+        },
+        "FEEDS": {
+            "data/participants/%(ident)s.json": {
+                "format": "starter",
+                "encoding": "utf8",
+                "overwrite": True,
+                "item_classes": [ParticipantItem],
+            },
+            "data/results/%(name)s.jsonl": {
+                "format": "results",
+                "encoding": "utf8",
+                "overwrite": True,
+                "item_classes": [ResultItem],
+            },
+        },
+        "EXTENSIONS": {
+            "scrapy.extensions.telnet.TelnetConsole": None,
+        },
+    }
+
+    def __init__(self):
+        self.race_date = datetime.strptime(self.name.split("_")[0], "%y%m%d").strftime(
+            "%Y-%m-%d"
+        )
+        self.competition_id = self.name.split("_")[1]
+        self.ident = self.name[0:24]
+
+        super().__init__()

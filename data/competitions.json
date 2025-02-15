@@ -1032,6 +1032,30 @@
         }
     },
     {
+        "id": "rec1L3ebPq3SZYySy",
+        "kind": "FSR",
+        "name": "Subida Vertical Gran Hotel Bali",
+        "url": "http://subidagranhotelbali.com/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-04-22",
+            "end": "2023-04-22",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Benidorm",
+            "country_code": "ES",
+            "coordinates": {
+                "lat": 38.5314827,
+                "lng": -0.1637002
+            }
+        }
+    },
+    {
         "id": "rec31B39JJfz4YZnP",
         "kind": "FSR",
         "name": "Subida Vertical Gran Hotel Bali",
@@ -3275,6 +3299,30 @@
             "coordinates": {
                 "lat": 50.720182,
                 "lng": 12.4641671
+            }
+        }
+    },
+    {
+        "id": "recPwmchFPwCoSaTK",
+        "kind": "FSR",
+        "name": "Subida Vertical Gran Hotel Bali",
+        "url": "http://subidagranhotelbali.com/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-04-25",
+            "end": "2025-04-25",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Benidorm",
+            "country_code": "ES",
+            "coordinates": {
+                "lat": 38.5314827,
+                "lng": -0.1637002
             }
         }
     },

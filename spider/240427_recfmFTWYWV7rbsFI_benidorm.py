@@ -62,7 +62,7 @@ class Spider(scrapy.Spider):
                 competition_id=self.competition_id,
                 type="MPA",
                 duration="%s.0" % row.css(".campo-tiempo::text").get(),
-                names=[row.css(".nombre-corredor::text").get()],
+                names=[fixName(row.css(".nombre-corredor::text").get())],
                 category=category,
                 age_group=age_group,
                 bib=row.css(".campo-dorsal::text").get(),
@@ -75,3 +75,31 @@ class Spider(scrapy.Spider):
 
             self.ranks["category"][category] = category_rank + 1
             self.ranks["age_group"][age_group] = age_group_rank + 1
+
+
+import re
+
+
+def fixName(name):
+    return " ".join(
+        map(
+            lambda part: part[0].upper() + part[1:],
+            filter(None, re.split(r"[ -]", name.lower())),
+        )
+    )
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("ÁLVARO  GARCÍA PASTOR ", "Álvaro García Pastor"),
+        ("JUAN CARLOS PASTOR ROSADO", "Juan Carlos Pastor Rosado"),
+        ("JOSÉ GONZALO PASTOR SIGÜENZA", "José Gonzalo Pastor Sigüenza"),
+        ("GUSTAVO JOSÉ  GARCÍA IBÁÑEZ ", "Gustavo José García Ibáñez"),
+    ],
+)
+def test_fixName(input, output):
+    assert fixName(input) == output

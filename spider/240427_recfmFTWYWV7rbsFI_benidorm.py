@@ -1,5 +1,6 @@
 from util import Spider, ResultItem, ResultRankItem
 import scrapy
+import re
 
 
 class CompetitionSpider(Spider):
@@ -10,6 +11,13 @@ class CompetitionSpider(Spider):
             method="GET",
             url="https://cronorunner.com/resultados.php?ref=441-1821-2651",
         )
+
+    def fixName(self, name):
+        def mapper(arg):
+            (sep, name) = arg
+            return sep + name[0].upper() + name[1:].lower()
+
+        return "".join(map(mapper, re.findall(r"([- ])?(\w+)", name)))
 
     def parse(self, response):
         for row in response.css(
@@ -26,7 +34,7 @@ class CompetitionSpider(Spider):
                 competition_id=self.competition_id,
                 type="MPA",
                 duration="%s.0" % row.css(".campo-tiempo::text").get(),
-                names=[fixName(row.css(".nombre-corredor::text").get())],
+                names=[self.fixName(row.css(".nombre-corredor::text").get())],
                 category=category,
                 age_group=age_group,
                 bib=row.css(".campo-dorsal::text").get(),
@@ -39,17 +47,6 @@ class CompetitionSpider(Spider):
 
             self.ranks["category"][category] = category_rank + 1
             self.ranks["age_group"][age_group] = age_group_rank + 1
-
-
-import re
-
-
-def fixName(name):
-    def mapper(arg):
-        (sep, name) = arg
-        return sep + name[0].upper() + name[1:].lower()
-
-    return "".join(map(mapper, re.findall(r"([- ])?(\w+)", name)))
 
 
 import pytest
@@ -66,4 +63,4 @@ import pytest
     ],
 )
 def test_fixName(input, output):
-    assert fixName(input) == output
+    assert CompetitionSpider.fixName(input) == output

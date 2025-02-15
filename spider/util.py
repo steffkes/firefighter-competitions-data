@@ -135,3 +135,6 @@ class Spider(scrapy.Spider):
         self.ident = self.name[0:24]
 
         super().__init__()
+
+    def fixName(name):
+        return name

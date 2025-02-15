@@ -81,12 +81,11 @@ import re
 
 
 def fixName(name):
-    return " ".join(
-        map(
-            lambda part: part[0].upper() + part[1:],
-            filter(None, re.split(r"[ -]", name.lower())),
-        )
-    )
+    def mapper(arg):
+        (sep, name) = arg
+        return sep + name[0].upper() + name[1:].lower()
+
+    return "".join(map(mapper, re.findall(r"([- ])?(\w+)", name)))
 
 
 import pytest
@@ -99,6 +98,7 @@ import pytest
         ("JUAN CARLOS PASTOR ROSADO", "Juan Carlos Pastor Rosado"),
         ("JOSÉ GONZALO PASTOR SIGÜENZA", "José Gonzalo Pastor Sigüenza"),
         ("GUSTAVO JOSÉ  GARCÍA IBÁÑEZ ", "Gustavo José García Ibáñez"),
+        ("INÉS SUÁREZ ALONSO -CORTÉS ", "Inés Suárez Alonso-Cortés"),
     ],
 )
 def test_fixName(input, output):

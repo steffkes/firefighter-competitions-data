@@ -1,8 +1,12 @@
 {
-  "date": "2025-02-17T21:13:03.395484",
+  "date": "2025-02-17T21:27:32.863058",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 132,
+  "count": 140,
   "teams": [
+    [
+      "Agostino Marulli",
+      "Seemann Kai"
+    ],
     [
       "Alexander Lang",
       "Lukas Sautter"
@@ -40,6 +44,10 @@
       "Tobias Metzger"
     ],
     [
+      "Benjamin Zollt",
+      "Wurzer Miriam"
+    ],
+    [
       "Buser Jonas",
       "Thomas Ley"
     ],
@@ -74,6 +82,10 @@
     [
       "Engelhardt Sascha",
       "Michael Wetzel"
+    ],
+    [
+      "Enrico Oswald",
+      "Popp Pascal"
     ],
     [
       "Fabian Kiewning",
@@ -238,6 +250,10 @@
     [
       "Nils Häußer",
       "Volk Jeremias"
+    ],
+    [
+      "Oswald Manuel",
+      "Tobias Rolle"
     ],
     [
       "Patrick Friedrich",

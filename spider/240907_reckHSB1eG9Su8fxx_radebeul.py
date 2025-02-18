@@ -66,7 +66,6 @@ class Spider(scrapy.Spider):
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
-                bib=bib,
                 type=competition_type,
                 category={
                     "Männer-Team": "M",
@@ -75,4 +74,5 @@ class Spider(scrapy.Spider):
                 }.get(category),
                 duration=duration,
                 names=names,
+                bib=bib.split("-")[0],
             )

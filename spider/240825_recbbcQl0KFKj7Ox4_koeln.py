@@ -86,7 +86,10 @@ class Spider(scrapy.Spider):
 
     def parse(self, response, data_key, competition_type):
         for entry in response.json()["data"][data_key]:
-            [_, _, bib, _, names, category, raw_duration] = entry
+            [_, status, bib, _, names, category, raw_duration] = entry
+
+            if status == "a.k.":  # DNF / DSQ
+                continue
 
             [category, _] = category.split(" ")
             names = sorted(map(str.strip, names.split("/")))

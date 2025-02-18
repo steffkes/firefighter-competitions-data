@@ -1,7 +1,13 @@
 import scrapy
 from datetime import datetime
 import re
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.Spider):
@@ -12,6 +18,8 @@ class Spider(scrapy.Spider):
 
     race_id = "259924"
     race_key = "9cca7a2e787022b15a2c81b253b2dde6"
+
+    ranks = {"category": {}, "age_group": {}}
 
     custom_settings = {
         "FEED_EXPORTERS": {
@@ -75,7 +83,7 @@ class Spider(scrapy.Spider):
     def parse(self, response):
         data = response.json()["data"]
         for entry in data:
-            [bib, _, _, _, _, _, raw_duration, names, _, category] = entry
+            [bib, _, _, _, _, _, raw_duration, names, _, raw_age_group] = entry
 
             duration = "00:" + raw_duration.split(" ")[0].replace(",", ".")
             names = sorted(
@@ -85,12 +93,31 @@ class Spider(scrapy.Spider):
                 )
             )
 
-            yield ResultItem(
+            category = {"MIX": "X", "MIXO": "X", "LADIES": "W"}.get(raw_age_group, "M")
+            age_group = raw_age_group.split("-")[0] if category == "M" else None
+
+            result = ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
-                type="MPA" if category[-1:] != "O" else "OPA",
+                type="MPA" if raw_age_group[-1:] != "O" else "OPA",
                 duration=duration,
-                category={"MIX": "X", "MIXO": "X", "LADIES": "W"}.get(category, "M"),
+                category=category,
                 names=names,
+                rank=ResultRankItem(
+                    total=self.ranks.get("total", 1),
+                    category=self.ranks["category"].get(category, 1),
+                ),
                 bib=bib,
             )
+
+            if age_group:
+                result["rank"]["age_group"] = self.ranks["age_group"].get(age_group, 1)
+                result["age_group"] = age_group
+
+            yield result
+
+            self.ranks["total"] = result["rank"]["total"] + 1
+            self.ranks["category"][category] = result["rank"]["category"] + 1
+
+            if "age_group" in result["rank"]:
+                self.ranks["age_group"][age_group] = result["rank"]["age_group"] + 1

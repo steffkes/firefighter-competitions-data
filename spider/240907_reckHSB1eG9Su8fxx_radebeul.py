@@ -1,6 +1,12 @@
 import scrapy
 from datetime import datetime
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 changedParticipants = {"Matthias Buttig": "Dominik Thiel"}
 
@@ -13,6 +19,8 @@ class Spider(scrapy.Spider):
 
     race_id = "306993"
     race_key = "74179817c718adcf847cc589ff700c91"
+
+    ranks = {"category": {}}
 
     custom_settings = {
         "FEED_EXPORTERS": {
@@ -63,6 +71,9 @@ class Spider(scrapy.Spider):
             )
             duration = "00:" + ("0" + raw_duration + ".0")[-7:]
 
+            rank_total = self.ranks.get("total", 1)
+            rank_category = self.ranks["category"].get(category, 1)
+
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
@@ -74,5 +85,12 @@ class Spider(scrapy.Spider):
                 }.get(category),
                 duration=duration,
                 names=names,
+                rank=ResultRankItem(
+                    total=rank_total,
+                    category=rank_category,
+                ),
                 bib=bib.split("-")[0],
             )
+
+            self.ranks["total"] = rank_total + 1
+            self.ranks["category"][category] = rank_category + 1

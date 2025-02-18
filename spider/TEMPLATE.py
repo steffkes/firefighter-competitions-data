@@ -1,4 +1,4 @@
-from util import Spider, ResultItem, ResultRankItem
+from util import Spider, ParticipantItem, ResultItem, ResultRankItem
 import scrapy
 import re
 
@@ -10,6 +10,16 @@ class CompetitionSpider(Spider):
         yield scrapy.FormRequest(
             method="GET",
             url="http://example.org",
+            formdata={},
+            callback=self.parse_starters,
+        )
+
+        yield scrapy.FormRequest(method="GET", url="http://example.org", formdata={})
+
+    def parse_starters(self, response):
+        yield ParticipantItem(
+            competition_id=self.competition_id,
+            names=[self.fixName(None)],
         )
 
     def parse(self, response):

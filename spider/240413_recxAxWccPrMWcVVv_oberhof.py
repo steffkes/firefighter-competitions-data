@@ -88,9 +88,9 @@ class Spider(scrapy.Spider):
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
-                bib=bib,
                 type="MPA" if category[-1:] != "O" else "OPA",
                 duration=duration,
                 category={"MIX": "X", "MIXO": "X", "LADIES": "W"}.get(category, "M"),
                 names=names,
+                bib=bib,
             )

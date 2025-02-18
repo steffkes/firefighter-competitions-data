@@ -3,7 +3,14 @@ from datetime import datetime
 import re
 import itertools
 import string
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+import requests
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.Spider):
@@ -60,6 +67,15 @@ class Spider(scrapy.Spider):
                 "#1_{DE:Feuerwehr-Team ohne PA|EN:Firefighters without SCBA}",
             ),
         ]:
+            r = requests.get(
+                "https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+                params={
+                    "key": self.race_key,
+                    "listname": "01 - Detail|Details Team",
+                    "contest": str(contest),
+                },
+            )
+
             yield scrapy.FormRequest(
                 method="GET",
                 url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
@@ -71,6 +87,7 @@ class Spider(scrapy.Spider):
                 cb_kwargs={
                     "competition_type": competition_type,
                     "data_key": data_key,
+                    "details": dict(map(lambda row: (row[1], row), r.json()["data"])),
                 },
             )
 
@@ -84,16 +101,36 @@ class Spider(scrapy.Spider):
                 names=sorted(map(fixName, names.split(" / "))),
             )
 
-    def parse(self, response, data_key, competition_type):
+    def parse(self, response, data_key, competition_type, details):
         for entry in response.json()["data"][data_key]:
-            [_, status, bib, _, names, category, raw_duration] = entry
+            [_, status, bib, _, names, age_group, raw_duration] = entry
 
             if status == "a.k.":  # DNF / DSQ
                 continue
 
-            [category, _] = category.split(" ")
+            [category, _] = age_group.split(" ")
             names = sorted(map(str.strip, names.split("/")))
             duration = "00:%s.0" % raw_duration.zfill(5)
+
+            [
+                _id,
+                _bib,
+                _person1,
+                _person2,
+                _team,
+                _unknown,
+                _unknown,
+                _label1,
+                _label2,
+                _label3,
+                _label4,
+                _contest,
+                _duration,
+                _speed,
+                rank_total,
+                rank_category,
+                rank_age_group,
+            ] = details[bib]
 
             yield ResultItem(
                 date=self.race_date,
@@ -102,5 +139,11 @@ class Spider(scrapy.Spider):
                 type=competition_type,
                 category={"MIX": "X"}.get(category, category),
                 names=names,
+                age_group=age_group,
+                rank=ResultRankItem(
+                    total=int(rank_total[:-1]),
+                    category=int(rank_category[:-1]),
+                    age_group=int(rank_age_group[:-1]),
+                ),
                 bib=bib,
             )

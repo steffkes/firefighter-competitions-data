@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-19T10:14:30.929725",
+  "date": "2025-02-19T10:35:35.018861",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 30,
+  "count": 40,
   "teams": [
     [
       "Andreas Hauser",
@@ -24,8 +24,20 @@
       "Philipp Weißhaar"
     ],
     [
+      "Damian Pyka",
+      "Ingo Kolhoff"
+    ],
+    [
+      "Damian Pyka",
+      "Jasmin Bohun"
+    ],
+    [
       "Jacqueline Phan",
       "Martin Franke"
+    ],
+    [
+      "Julia Dawid",
+      "Michi Dawid"
     ],
     [
       "Julia Zaun",
@@ -34,6 +46,10 @@
     [
       "Juliane Schmidt",
       "Markus Braun"
+    ],
+    [
+      "Kai Junker",
+      "Lars Neumeyer"
     ],
     [
       "Laurenz Fuchs",
@@ -62,6 +78,10 @@
     [
       "Martin Brieden",
       "Thomas Ciolek"
+    ],
+    [
+      "Oliver Thelen",
+      "Tim Breickmann"
     ]
   ]
 }

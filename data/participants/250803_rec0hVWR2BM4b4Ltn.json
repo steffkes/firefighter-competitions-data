@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-19T10:07:56.351608",
+  "date": "2025-02-19T10:14:30.929725",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 28,
+  "count": 30,
   "teams": [
     [
       "Andreas Hauser",
@@ -58,6 +58,10 @@
     [
       "Markus Rebstock",
       "Simon Weiß"
+    ],
+    [
+      "Martin Brieden",
+      "Thomas Ciolek"
     ]
   ]
 }

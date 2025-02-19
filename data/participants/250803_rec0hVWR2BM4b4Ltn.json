@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-19T18:17:00.940427",
+  "date": "2025-02-19T18:38:51.260879",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 66,
+  "count": 70,
   "teams": [
     [
       "Andreas Engelhardt",
@@ -96,6 +96,10 @@
       "Philipp Koch"
     ],
     [
+      "Luca Tresch",
+      "Simon Peier"
+    ],
+    [
       "Lukas Scholten",
       "Sebastian Deckers"
     ],
@@ -134,6 +138,10 @@
     [
       "Oliver Thelen",
       "Tim Breickmann"
+    ],
+    [
+      "Philipp Ehniss",
+      "Tim Rothfuß"
     ]
   ]
 }

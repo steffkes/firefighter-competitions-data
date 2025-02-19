@@ -1,5 +1,5 @@
 from psycopg2 import pool, extras
-from itertools import repeat
+from itertools import repeat, chain
 from pathlib import Path
 import jsonlines
 import json
@@ -49,10 +49,20 @@ CREATE TABLE results (
   competition_id TEXT,
   duration TEXT,
   type TEXT,
-  names VARCHAR[]
+  names VARCHAR[],
+  ranks JSON
 )
 """
 )
+
+
+def computeRank(record):
+    def mapper(item):
+        (type, rank) = item
+        return [{"type": type, "rank": rank, "label": record.get(type)}]
+
+    return list(chain.from_iterable(map(mapper, record.get("rank", {}).items())))
+
 
 for path in sorted(
     filter(lambda path: path.stat().st_size > 1, Path("data/results").glob("*.jsonl"))
@@ -66,6 +76,7 @@ for path in sorted(
                     record["duration"],
                     record["type"],
                     record["names"],
+                    json.dumps(computeRank(record)),
                 ),
                 reader,
             )

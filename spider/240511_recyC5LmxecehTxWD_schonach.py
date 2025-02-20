@@ -81,13 +81,14 @@ class Spider(scrapy.Spider):
             name.strip(),
         )
 
-        for [_bib1, name1, _gender1, _competition1, _birthyear1, _category1], [
+        for [_bib1, name1, _gender1, _competition1, _birthyear1, _category1, _rand1], [
             _bib2,
             name2,
             _gender2,
             _competition2,
             _birthyear2,
             _category2,
+            _rand2,
         ] in itertools.batched(response.json()["data"], 2):
             yield ParticipantItem(
                 competition_id=self.competition_id,

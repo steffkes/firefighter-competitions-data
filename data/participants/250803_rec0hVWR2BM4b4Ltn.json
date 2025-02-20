@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-20T13:47:35.110897",
+  "date": "2025-02-20T13:55:46.401295",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 84,
+  "count": 86,
   "teams": [
     [
       "Alexander Wigger",
@@ -138,6 +138,10 @@
     [
       "Marcel Lindhorst",
       "Tobias Schneider"
+    ],
+    [
+      "Marcel Schindler",
+      "Moritz Schneider"
     ],
     [
       "Marcel Sonnefeld",

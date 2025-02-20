@@ -3,7 +3,14 @@ from datetime import datetime
 import re
 import itertools
 import string
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+import requests
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.Spider):
@@ -60,6 +67,15 @@ class Spider(scrapy.Spider):
                 "#1_{DE:Feuerwehr-Team ohne PA|EN:Firefighters team without SCBA}",
             ),
         ]:
+            r = requests.get(
+                "https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+                params={
+                    "key": self.race_key,
+                    "listname": "01 - Detail|Details Team",
+                    "contest": str(contest),
+                },
+            )
+
             yield scrapy.FormRequest(
                 method="GET",
                 url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
@@ -71,6 +87,7 @@ class Spider(scrapy.Spider):
                 cb_kwargs={
                     "competition_type": competition_type,
                     "data_key": data_key,
+                    "details": dict(map(lambda row: (row[0], row), r.json()["data"])),
                 },
             )
 
@@ -82,28 +99,54 @@ class Spider(scrapy.Spider):
                 names=sorted(names.split(" / ")),
             )
 
-    def parse(self, response, data_key, competition_type):
+    def parse(self, response, data_key, competition_type, details):
         data = response.json()["data"]
         for entry in (
             data[data_key]["#1_Männer"]
             + data[data_key]["#2_Frauen"]
             + data[data_key]["#3_Mixed"]
         ):
-            [_, status, bib, names, category, _, raw_duration] = entry
+            [id, status, bib, names, age_group, _, raw_duration] = entry
 
-            if status == "DNF" or not raw_duration:  # disqualified
+            if status in ["DNF", "a.k."] or not raw_duration:  # disqualified
                 continue
 
-            [category, _] = category.split(" ")
+            [category, _] = age_group.split(" ")
             names = sorted(map(str.strip, names.split("/")))
             duration = ("0" + ("0:" + raw_duration + ".0")[-9:])[-11:]
+
+            [
+                _id,
+                _bib,
+                _person1,
+                _person2,
+                _team,
+                _org,
+                _unknown,
+                _label1,
+                _label2,
+                _label3,
+                _label4,
+                _contest,
+                _time,
+                _speed,
+                rank_total,
+                rank_category,
+                rank_age_group,
+            ] = details[id]
 
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
                 type=competition_type,
-                category={"MIX": "X"}.get(category, category),
                 duration=duration,
                 names=names,
+                category={"MIX": "X"}.get(category, category),
+                age_group=age_group,
+                rank=ResultRankItem(
+                    total=int(rank_total[:-1]),
+                    category=int(rank_category[:-1]),
+                    age_group=int(rank_age_group[:-1]),
+                ),
                 bib=bib,
             )

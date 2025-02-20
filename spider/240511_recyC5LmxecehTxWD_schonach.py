@@ -2,7 +2,13 @@ import scrapy
 from datetime import datetime
 import re
 import itertools
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.Spider):
@@ -103,20 +109,66 @@ class Spider(scrapy.Spider):
             name.strip(),
         )
 
-        for category, teams in response.json()["data"].items():
-            is_mpa = "Mit PA" in category
+        groups = []
+        entries = []
+        for group, teams in response.json()["data"].items():
+            (contest, raw_age_group) = re.match(
+                r"#\d_((Ohne|Mit) PA) / (\w+)\s", group
+            ).group(1, 3)
+            type = "MPA" if "Mit PA" == contest else "OPA"
+
             for team, names in teams.items():
-                duration = "00:%s.0" % team.split("///").pop().zfill(5)
+                [rank_age_group, raw_duration] = re.match(
+                    r"\#\d+_(\d+)\.///.*?///(.+)", team
+                ).group(1, 2)
                 [
                     [_id1, bib, name1, gender1, _time1],
                     [_id2, _bib2, name2, gender2, _time2],
                 ] = names
-                yield ResultItem(
+
+                duration = "00:%s.0" % raw_duration.zfill(5)
+                gender = list(set([gender1, gender2]))
+                category = gender[0] if len(gender) == 1 else "X"
+                age_group = raw_age_group if category == "M" else None
+                groups.append((type, category, age_group))
+
+                result = ResultItem(
                     date=self.race_date,
                     competition_id=self.competition_id,
-                    bib=bib,
-                    type="MPA" if is_mpa else "OPA",
+                    type=type,
                     duration=duration,
-                    category=None,
                     names=sorted(map(fixName, [name1, name2])),
+                    category=category,
+                    bib=bib,
                 )
+
+                if age_group:
+                    result["age_group"] = age_group
+
+                entries.append(result)
+
+        entries = sorted(entries, key=lambda record: record["duration"])
+
+        for group in sorted(set(groups)):
+            (type, category, age_group) = group
+
+            entries_type = list(filter(lambda entry: entry["type"] == type, entries))
+            entries_category = list(
+                filter(lambda entry: entry["category"] == category, entries_type)
+            )
+            entries_age_group = list(
+                filter(
+                    lambda entry: entry.get("age_group") == age_group, entries_category
+                )
+            )
+
+            for entry in entries_age_group:
+                entry["rank"] = ResultRankItem(
+                    total=entries_type.index(entry) + 1,
+                    category=entries_category.index(entry) + 1,
+                )
+
+                if "age_group" in entry:
+                    entry["rank"]["age_group"] = entries_age_group.index(entry) + 1
+
+                yield entry

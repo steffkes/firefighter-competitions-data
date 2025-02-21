@@ -1,48 +1,14 @@
+from util import Spider, ParticipantItem, ResultItem, ResultRankItem
 import scrapy
-from datetime import datetime
 import re
 import itertools
-from util import (
-    JsonItemExporter,
-    JsonLinesItemExporter,
-    ParticipantItem,
-    ResultItem,
-    ResultRankItem,
-)
 
 
-class Spider(scrapy.Spider):
+class CompetitionSpider(Spider):
     name = __name__
-    race_date = datetime.strptime(__name__.split("_")[0], "%y%m%d").strftime("%Y-%m-%d")
-    competition_id = __name__.split("_")[1]
-    ident = __name__[0:24]
 
     race_id = "279564"
     race_key = "0b390ff34ee4d88a57b036f1dc1fbf9e"
-
-    custom_settings = {
-        "FEED_EXPORTERS": {
-            "starter": JsonItemExporter,
-            "results": JsonLinesItemExporter,
-        },
-        "FEEDS": {
-            "data/participants/%(ident)s.json": {
-                "format": "starter",
-                "encoding": "utf8",
-                "overwrite": True,
-                "item_classes": [ParticipantItem],
-            },
-            "data/results/%(name)s.jsonl": {
-                "format": "results",
-                "encoding": "utf8",
-                "overwrite": True,
-                "item_classes": [ResultItem],
-            },
-        },
-        "EXTENSIONS": {
-            "scrapy.extensions.telnet.TelnetConsole": None,
-        },
-    }
 
     @staticmethod
     def fixName(name):
@@ -179,4 +145,4 @@ import pytest
     ],
 )
 def test_fixName(input, output):
-    assert Spider.fixName(input) == output
+    assert CompetitionSpider.fixName(input) == output

@@ -44,6 +44,24 @@ class Spider(scrapy.Spider):
         },
     }
 
+    @staticmethod
+    def fixName(name):
+        return re.sub(
+            r"(([A-ZÄÜÖß]+[-\s])?([A-ZÄÜÖß]+))\s(.+)",
+            lambda match: " ".join(
+                [
+                    match.group(4),
+                    "".join(
+                        map(
+                            lambda str: str[0] + str[1:].lower(),
+                            filter(None, match.group(2, 3)),
+                        )
+                    ),
+                ]
+            ),
+            name,
+        )
+
     def start_requests(self):
         yield scrapy.FormRequest(
             method="GET",
@@ -67,20 +85,6 @@ class Spider(scrapy.Spider):
         )
 
     def parse_starters(self, response):
-        fixName = lambda name: re.sub(
-            r"^(.+)\s(.+)$",
-            lambda match: "%s %s"
-            % (
-                match.group(2),
-                re.sub(
-                    r"^(.)(.+)$",
-                    lambda match: "%s%s" % (match.group(1), match.group(2).lower()),
-                    match.group(1),
-                ),
-            ),
-            name.strip(),
-        )
-
         for [_bib1, name1, _gender1, _competition1, _birthyear1, _category1, _rand1], [
             _bib2,
             name2,
@@ -92,24 +96,10 @@ class Spider(scrapy.Spider):
         ] in itertools.batched(response.json()["data"], 2):
             yield ParticipantItem(
                 competition_id=self.competition_id,
-                names=sorted(map(fixName, [name1, name2])),
+                names=sorted([self.fixName(name1), self.fixName(name2)]),
             )
 
     def parse(self, response):
-        fixName = lambda name: re.sub(
-            r"^(.+)\s(.+)$",
-            lambda match: "%s %s"
-            % (
-                match.group(2),
-                re.sub(
-                    r"^(.)(.+)$",
-                    lambda match: "%s%s" % (match.group(1), match.group(2).lower()),
-                    match.group(1),
-                ),
-            ),
-            name.strip(),
-        )
-
         groups = []
         entries = []
         for group, teams in response.json()["data"].items():
@@ -138,7 +128,7 @@ class Spider(scrapy.Spider):
                     competition_id=self.competition_id,
                     type=type,
                     duration=duration,
-                    names=sorted(map(fixName, [name1, name2])),
+                    names=sorted([self.fixName(name1), self.fixName(name2)]),
                     category=category,
                     bib=bib,
                 )
@@ -173,3 +163,20 @@ class Spider(scrapy.Spider):
                     entry["rank"]["age_group"] = entries_age_group.index(entry) + 1
 
                 yield entry
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("ZIMMERMANN Lukas", "Lukas Zimmermann"),
+        ("BOGENSCHÜTZ Jörg", "Jörg Bogenschütz"),
+        ("CECH-MEDAK Boris", "Boris Cech-Medak"),
+        ("TO Han Kiet", "Han Kiet To"),
+        ("MENZL Marc Michael", "Marc Michael Menzl"),
+    ],
+)
+def test_fixName(input, output):
+    assert Spider.fixName(input) == output

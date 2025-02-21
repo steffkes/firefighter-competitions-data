@@ -88,7 +88,7 @@ class Spider(scrapy.Spider):
                 url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
                 formdata={
                     "key": self.race_key,
-                    "listname": "Ergebnislisten|EG ZIEL M/W",
+                    "listname": "Ergebnislisten|EG ZIEL Teamwertung FF&RDC",
                     "contest": str(contest),
                 },
                 cb_kwargs={
@@ -121,29 +121,36 @@ class Spider(scrapy.Spider):
         fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
 
         data = response.json()["data"]
-        for [
-            _id,
-            _rank,
-            name,
-            _team,
-            _nationality,
-            category,
-            _category_detail,
-            _rank_age,
-            _rank_total,
-            raw_duration,
-            bib,
-        ] in (
-            data[data_key]["#1_M"] + data[data_key]["#2_W"]
-        ):
-            duration = "0" + ("0:%s" % raw_duration.replace(",", "."))[-9:]
 
-            yield ResultItem(
-                date=self.race_date,
-                competition_id=self.competition_id,
-                bib=bib,
-                type=competition_type,
-                duration=duration,
-                category=category,
-                names=[fixName(name)],
-            )
+        results = []
+        for team, names in data[data_key].items():
+            [
+                [_id1, bib1, name1, raw_duration1, age_group1, _nationality1],
+                [_id2, bib2, name2, raw_duration2, age_group2, _nationality2],
+                [_id3, bib3, name3, raw_duration3, age_group3, _nationality3],
+            ] = names
+
+            for bib, name, raw_duration, age_group in zip(
+                [bib1, bib2, bib3],
+                [name1, name2, name3],
+                [raw_duration1, raw_duration2, raw_duration3],
+                [age_group1, age_group2, age_group3],
+            ):
+                duration = "0" + ("0:%s" % raw_duration.replace(",", "."))[-9:]
+                category = age_group[0].upper()
+
+                result = ResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    bib=bib,
+                    type=competition_type,
+                    duration=duration,
+                    category=category,
+                    names=[fixName(name)],
+                )
+                results.append(result)
+
+        results = sorted(results, key=lambda result: result["duration"])
+
+        for result in results:
+            yield result

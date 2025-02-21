@@ -131,11 +131,32 @@ class Spider(scrapy.Spider):
         groups = []
         results = []
         for team, names in data[data_key].items():
+            [rank_team, raw_team_duration] = re.match(
+                r"\#\d+_(\d+)\.///.*?///(.+)", team
+            ).group(1, 2)
+
             [
                 [_id1, bib1, name1, raw_duration1, age_group1, _nationality1],
                 [_id2, bib2, name2, raw_duration2, age_group2, _nationality2],
                 [_id3, bib3, name3, raw_duration3, age_group3, _nationality3],
             ] = names
+
+            team_gender = list(
+                set(map(lambda ag: ag[0].upper(), [age_group1, age_group2, age_group3]))
+            )
+            team_category = team_gender[0] if len(team_gender) == 1 else "X"
+            team_duration = ("00:" + raw_team_duration.replace(",", "."))[-10:]
+
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                type=competition_type,
+                duration=team_duration,
+                category=team_category,
+                names=sorted(map(fixName, [name1, name2, name3])),
+                rank=ResultRankItem(total=int(rank_team)),
+                bib=bib1.split("-")[0],
+            )
 
             for bib, name, raw_duration, age_group in zip(
                 [bib1, bib2, bib3],

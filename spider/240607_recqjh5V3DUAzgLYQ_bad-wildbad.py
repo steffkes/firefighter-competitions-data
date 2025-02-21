@@ -3,7 +3,13 @@ from datetime import datetime
 import re
 import itertools
 import string
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.Spider):
@@ -14,6 +20,8 @@ class Spider(scrapy.Spider):
 
     race_id = "271276"
     race_key = "353bdf54f57af48fa0d1af824aa6e860"
+
+    ranks = {"category": {}}
 
     custom_settings = {
         "FEED_EXPORTERS": {
@@ -89,7 +97,7 @@ class Spider(scrapy.Spider):
             name,
             _nationality,
             _byear,
-            gender,
+            category,
             _gender_full,
             team,
             raw_duration,
@@ -97,12 +105,19 @@ class Spider(scrapy.Spider):
         ] in response.json()["data"][data_key]:
             duration = "00:%s.0" % raw_duration
 
+            rank_total = self.ranks.get("total", 1)
+            rank_category = self.ranks["category"].get(category, 1)
+
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
-                bib=bib,
                 type="OPA",
-                category=gender,
                 duration=duration,
                 names=[name],
+                category=category,
+                rank=ResultRankItem(total=rank_total, category=rank_category),
+                bib=bib,
             )
+
+            self.ranks["total"] = rank_total + 1
+            self.ranks["category"][category] = rank_category + 1

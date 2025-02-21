@@ -3,7 +3,13 @@ from datetime import datetime
 import re
 import itertools
 import string
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 from scrapy.utils.python import to_bytes
 from collections import defaultdict
 
@@ -122,6 +128,7 @@ class Spider(scrapy.Spider):
 
         data = response.json()["data"]
 
+        groups = []
         results = []
         for team, names in data[data_key].items():
             [
@@ -142,15 +149,34 @@ class Spider(scrapy.Spider):
                 result = ResultItem(
                     date=self.race_date,
                     competition_id=self.competition_id,
-                    bib=bib,
                     type=competition_type,
                     duration=duration,
                     category=category,
+                    age_group=age_group,
                     names=[fixName(name)],
+                    bib=bib,
                 )
                 results.append(result)
+                groups.append((category, age_group))
 
         results = sorted(results, key=lambda result: result["duration"])
 
-        for result in results:
-            yield result
+        for category, age_group in sorted(set(groups)):
+            entries_type = results
+            entries_category = list(
+                filter(lambda result: result["category"] == category, entries_type)
+            )
+            entries_age_group = list(
+                filter(
+                    lambda result: result["age_group"] == age_group, entries_category
+                )
+            )
+
+            for entry in entries_age_group:
+                entry["rank"] = ResultRankItem(
+                    total=entries_type.index(entry) + 1,
+                    category=entries_category.index(entry) + 1,
+                    age_group=entries_age_group.index(entry) + 1,
+                )
+
+                yield entry

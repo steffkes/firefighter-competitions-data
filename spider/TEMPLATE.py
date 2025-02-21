@@ -6,6 +6,12 @@ import re
 class CompetitionSpider(Spider):
     name = __name__
 
+    """
+    @staticmethod
+    def fixName(name):
+        return name
+    """
+
     def start_requests(self):
         yield scrapy.FormRequest(
             method="GET",

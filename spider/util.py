@@ -136,5 +136,6 @@ class Spider(scrapy.Spider):
 
         super().__init__()
 
+    @staticmethod
     def fixName(name):
         return name

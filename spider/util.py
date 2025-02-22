@@ -162,9 +162,6 @@ class FirefitSpider(Spider):
             for row in table.css("tbody tr.status-ok"):
                 raw_duration = "".join(row.css(".result-line1 span::text").getall())
                 category = categories[index]
-                age_group = "{category}{age}".format(
-                    category=category, age=int(row.css(".age::text").get()) // 10 * 10
-                )
 
                 names = [row.css(".name-line1::text").get().strip()]
                 team = sorted(row.css(".member-name span::text").getall())
@@ -175,10 +172,16 @@ class FirefitSpider(Spider):
                     date=self.race_date,
                     competition_id=self.competition_id,
                     type={0: "MPA", 1: "MPA"}.get(index, "OPA"),
-                    category=category,
                     duration=self.fixDuration(raw_duration),
                     names=names,
+                    category=category,
+                    rank=ResultRankItem(
+                        category=int(
+                            row.css(".rank-val.age-overall::text").get()[0:-1]
+                        ),
+                    ),
                 )
+
 
 import pytest
 

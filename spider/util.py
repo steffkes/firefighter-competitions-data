@@ -152,12 +152,46 @@ class Spider(scrapy.Spider):
         )
 
 
+class FirefitSpider(Spider):
+    def parse(self, response):
+        categories = ["M", "W", "M", "W", "X", "M", "W", "X"]
+
+        for index, table in enumerate(
+            response.css("table.ffc-table-dark")[0 : len(categories)]
+        ):
+            for row in table.css("tbody tr.status-ok"):
+                raw_duration = "".join(row.css(".result-line1 span::text").getall())
+                category = categories[index]
+                age_group = "{category}{age}".format(
+                    category=category, age=int(row.css(".age::text").get()) // 10 * 10
+                )
+
+                names = [row.css(".name-line1::text").get().strip()]
+                team = sorted(row.css(".member-name span::text").getall())
+                if len(team):
+                    names = team
+
+                yield ResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    type={0: "MPA", 1: "MPA"}.get(index, "OPA"),
+                    category=category,
+                    duration=self.fixDuration(raw_duration),
+                    names=names,
+                )
+
 import pytest
 
 
 @pytest.mark.parametrize(
     "output,input",
-    [("00:13:31.6", "13:31,6"), ("01:00:27.0", "1:00:27,0")],
+    [
+        ("00:13:31.6", "13:31,6"),
+        ("01:00:27.0", "1:00:27,0"),
+        ("00:05:48.3", "5:48,34"),
+        ("00:02:55.7", "2:55,70"),
+        ("00:02:46.9", "2:46,96"),
+    ],
 )
 def test_fixDuration(input, output):
     assert Spider.fixDuration(input) == output

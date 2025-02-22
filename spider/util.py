@@ -1,5 +1,6 @@
 import scrapy
 from datetime import datetime
+import re
 
 
 class ParticipantItem(scrapy.Item):
@@ -139,3 +140,24 @@ class Spider(scrapy.Spider):
     @staticmethod
     def fixName(name):
         return name
+
+    @staticmethod
+    def fixDuration(duration):
+        return re.sub(
+            r"((\d+):)?(\d+):(\d+),(\d)\d*",
+            lambda match: "{0:02d}:{1:02d}:{2:02d}.{3}".format(
+                *map(lambda input: int(input or 0), match.group(2, 3, 4, 5))
+            ),
+            duration,
+        )
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "output,input",
+    [("00:13:31.6", "13:31,6"), ("01:00:27.0", "1:00:27,0")],
+)
+def test_fixDuration(input, output):
+    assert Spider.fixDuration(input) == output

@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-22T07:12:21.561790",
+  "date": "2025-02-22T07:26:08.038497",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 112,
+  "count": 114,
   "teams": [
     [
       "Alexander Hanke",
@@ -222,6 +222,10 @@
     [
       "Pascal Haubrichs",
       "Sven Tuchscherer"
+    ],
+    [
+      "Patrick Kirsch",
+      "Robin Kuhnert"
     ],
     [
       "Philipp Ehniss",

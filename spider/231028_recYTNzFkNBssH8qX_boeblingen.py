@@ -1,7 +1,13 @@
 import scrapy
 from datetime import datetime
 import re
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.Spider):
@@ -68,7 +74,7 @@ class Spider(scrapy.Spider):
                 "//div[@data-target='results-15' and @data-targetid='MG']"
             ),
             type="MPA",
-            category="M",
+            category="M individual",
         )
 
         yield from handler(
@@ -76,7 +82,7 @@ class Spider(scrapy.Spider):
                 "//div[@data-target='results-15' and @data-targetid='WG']"
             ),
             type="MPA",
-            category="W",
+            category="W individual",
         )
 
         yield from handler(
@@ -84,7 +90,7 @@ class Spider(scrapy.Spider):
                 "//div[@data-target='results-15' and @data-targetid='TM']"
             ),
             type="OPA",
-            category="M",
+            category="M tandem",
         )
 
         yield from handler(
@@ -92,7 +98,7 @@ class Spider(scrapy.Spider):
                 "//div[@data-target='results-15' and @data-targetid='TMIX40']"
             ),
             type="OPA",
-            category="X",
+            category="X tandem",
         )
 
         yield from handler(
@@ -100,5 +106,5 @@ class Spider(scrapy.Spider):
                 "//div[@data-target='results-15' and @data-targetid='RV']"
             ),
             type="OPA",
-            category="X",
+            category="X relay",
         )

@@ -154,14 +154,22 @@ class Spider(scrapy.Spider):
 
 class FirefitSpider(Spider):
     def parse(self, response):
-        categories = ["M", "W", "M", "W", "X", "M", "W", "X"]
+        tables = response.css("table.ffc-table-dark")
 
-        for index, table in enumerate(
-            response.css("table.ffc-table-dark")[0 : len(categories)]
+        for index, (type, category) in enumerate(
+            [
+                ("MPA", "M"),
+                ("MPA", "W"),
+                ("OPA", "M"),
+                ("OPA", "W"),
+                ("OPA", "X"),
+                ("OPA", "M"),
+                ("OPA", "W"),
+                ("OPA", "X"),
+            ]
         ):
-            for row in table.css("tbody tr.status-ok"):
+            for row in tables[index].css("tbody tr.status-ok"):
                 raw_duration = "".join(row.css(".result-line1 span::text").getall())
-                category = categories[index]
 
                 names = [row.css(".name-line1::text").get().strip()]
                 team = sorted(row.css(".member-name span::text").getall())
@@ -171,7 +179,7 @@ class FirefitSpider(Spider):
                 yield ResultItem(
                     date=self.race_date,
                     competition_id=self.competition_id,
-                    type={0: "MPA", 1: "MPA"}.get(index, "OPA"),
+                    type=type,
                     duration=self.fixDuration(raw_duration),
                     names=names,
                     category=category,

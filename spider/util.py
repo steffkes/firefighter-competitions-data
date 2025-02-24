@@ -168,7 +168,19 @@ class FirefitSpider(Spider):
                 ("OPA", "X relay"),
             ]
         ):
-            for row in tables[index].css("tbody tr.status-ok"):
+            table = tables[index]
+
+            ranks = {"age_group": {}}
+            age_selectors = [
+                {
+                    "label": item.css("::text").get(),
+                    "min_age": int(item.css("::attr(data-age-min)").get()),
+                    "max_age": int(item.css("::attr(data-age-max)").get()),
+                }
+                for item in table.css(".age-selectors div")[1:]
+            ]
+
+            for row in table.css("tbody tr.status-ok"):
                 raw_duration = "".join(row.css(".result-line1 span::text").getall())
 
                 names = [row.css(".name-line1::text").get().strip()]
@@ -176,7 +188,7 @@ class FirefitSpider(Spider):
                 if len(team):
                     names = team
 
-                yield ResultItem(
+                result = ResultItem(
                     date=self.race_date,
                     competition_id=self.competition_id,
                     type=type,
@@ -189,6 +201,22 @@ class FirefitSpider(Spider):
                         ),
                     ),
                 )
+
+                if age_selectors:
+                    age = int(row.css(".age::text").get())
+                    age_group = next(
+                        (
+                            ag["label"]
+                            for ag in age_selectors
+                            if ag["min_age"] <= age <= ag["max_age"]
+                        ),
+                        None,
+                    )
+                    result["age_group"] = age_group
+                    result["rank"]["age_group"] = ranks["age_group"].get(age_group, 1)
+                    ranks["age_group"][age_group] = result["rank"]["age_group"] + 1
+
+                yield result
 
 
 import pytest

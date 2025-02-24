@@ -8,5 +8,5 @@ class CompetitionSpider(FirefitSpider):
     def start_requests(self):
         yield scrapy.FormRequest(
             method="GET",
-            url="https://firefit-europe.eu/ranking-siegertsbrunn-2023/",
+            url="https://firefit-europe.eu/en/ranking-siegertsbrunn-2023/",
         )

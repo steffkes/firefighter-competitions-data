@@ -44,6 +44,25 @@ class Spider(scrapy.Spider):
     }
 
     def start_requests(self):
+        for contest, data_key in [
+            (5, "#1_{DE:Feuerwehr-Team mit PA|EN:Firefighters team with SCBA}"),
+            (
+                6,
+                "#1_{DE:Feuerwehr-Team ohne PA|EN:Firefighters team without SCBA}",
+            ),
+        ]:
+            yield scrapy.FormRequest(
+                method="GET",
+                url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+                formdata={
+                    "key": self.race_key,
+                    "listname": "07 - Teilnehmer - PUBLIC|Teilnehmer ABC-Team",
+                    "contest": str(contest),
+                },
+                cb_kwargs={"data_key": data_key},
+                callback=self.parse_starters,
+            )
+
         for contest, competition_type, data_key in [
             (5, "MPA", "#1_{DE:Feuerwehr-Team mit PA|EN:Firefighters team with SCBA}"),
             (
@@ -74,6 +93,14 @@ class Spider(scrapy.Spider):
                     "data_key": data_key,
                     "details": dict(map(lambda row: (row[0], row), r.json()["data"])),
                 },
+            )
+
+    def parse_starters(self, response, data_key):
+        data = response.json()["data"][data_key]
+        for [_id, _bib, _team, names, _category] in data:
+            yield ParticipantItem(
+                competition_id=self.competition_id,
+                names=sorted(names.split(" / ")),
             )
 
     def parse(self, response, data_key, competition_type, details):

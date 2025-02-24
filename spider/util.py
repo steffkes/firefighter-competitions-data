@@ -156,14 +156,18 @@ class FirefitSpider(Spider):
 
     competition_map = {
         "individual - men": ("MPA", "M individual"),
-         "individual - women": ("MPA", "W individual"),
+        "individual - women": ("MPA", "W individual"),
         "tandem - men": ("OPA", "M tandem"),
-         "tandem - women": ("OPA", "W tandem"),
-         "tandem - mixed": ("OPA", "X tandem"),
-         "relay - men": ("OPA", "M relay"),
-         "relay - women": ("OPA", "W relay"),
-         "relay - mixed": ("OPA", "X relay"),
-         "relay - women & mixed": ("OPA", "W & X relay"),
+        "tandem - women": ("OPA", "W tandem"),
+        "tandem - mixed": ("OPA", "X tandem"),
+        "relay - men": ("OPA", "M relay"),
+        "relay - women": ("OPA", "W relay"),
+        "relay - mixed": ("OPA", "X relay"),
+        "relay - women & mixed": ("OPA", "W & X relay"),
+        # 'relay - elimination - men',
+        # 'relay - elimination - women',
+        # 'relay - elimination - mixed'
+        # 'relay - elimination - women & mixed'
     }
 
     def parse(self, response):
@@ -171,10 +175,10 @@ class FirefitSpider(Spider):
         buttons = response.css(".ffc-button.table-selector::text").getall()
 
         for (type, category), table in [
-                    (self.competition_map[button], tables[index])
-                    for (index, button) in enumerate(buttons)
-                    if button in self.competition_map
-                ]:
+            (self.competition_map[button], tables[index])
+            for (index, button) in enumerate(buttons)
+            if button in self.competition_map
+        ]:
             ranks = {"age_group": {}}
             age_selectors = [
                 {

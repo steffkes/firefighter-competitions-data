@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-24T20:54:08.745388",
+  "date": "2025-02-24T21:12:27.705567",
   "competition_id": "rech5EkRHnQlVspRq",
-  "count": 132,
+  "count": 133,
   "teams": [
     [
       "Alex Itin"
@@ -398,6 +398,9 @@
     ],
     [
       "Zurich Pascal"
+    ],
+    [
+      "philippe loose"
     ]
   ]
 }

@@ -64,9 +64,10 @@ class Spider(scrapy.Spider):
                     date=self.race_date,
                     competition_id=self.competition_id,
                     type=type,
-                    category=category,
                     duration=duration,
                     names=names,
+                    category=category,
+                    rank=ResultRankItem(category=(row.css(".place::text").get())),
                 )
 
         yield from handler(

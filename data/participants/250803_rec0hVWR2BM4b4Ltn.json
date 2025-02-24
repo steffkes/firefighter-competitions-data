@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-24T15:54:20.618434",
+  "date": "2025-02-24T16:17:51.173263",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 128,
+  "count": 134,
   "teams": [
     [
       "Alexander Hanke",
@@ -98,6 +98,10 @@
     [
       "Florian Schweickard",
       "Pirmin Prokein"
+    ],
+    [
+      "Gerrit Dehne",
+      "Tobias Reichler"
     ],
     [
       "Gina Görmer",
@@ -236,6 +240,10 @@
       "Vanessa Jegszenties"
     ],
     [
+      "Matthias Richter",
+      "Sven Lütticke"
+    ],
+    [
       "Michael Kuper",
       "Oliver Müller"
     ],
@@ -258,6 +266,10 @@
     [
       "Philipp Ehniss",
       "Tim Rothfuß"
+    ],
+    [
+      "Stefan Aniello",
+      "Tom Aniello"
     ]
   ]
 }

@@ -1,7 +1,13 @@
 import scrapy
 from datetime import datetime
 import re
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.Spider):
@@ -12,6 +18,8 @@ class Spider(scrapy.Spider):
 
     race_id = 266311
     race_key = "bac6b526cf62ea3cc99afd4f707ac0cc"
+
+    ranks = {"category": {}, "age_group": {}}
 
     custom_settings = {
         "FEED_EXPORTERS": {
@@ -95,27 +103,45 @@ class Spider(scrapy.Spider):
 
     def parse(self, response, competition_type):
         for entry in response.json()["data"]:
-            [_, status, bib, _, _, names, category, raw_duration, _] = entry
+            [_, status, bib, _, _, names, raw_age_group, raw_duration, _] = entry
 
             if status == "DSQ":  # disqualified
                 continue
 
-            category = category.split(" ")[0]
             names = sorted(map(str.strip, names.split("|")))
             duration = "00:" + raw_duration.replace(",", ".")
+            age_group = " ".join(raw_age_group.split(" ")[:-1])
+            category = {
+                "Burschen": "M",
+                "Mannsbilder": "M",
+                "Alte Knacker": "M",
+                "Pärchen": "X",
+                "Mädels": "W",
+            }[age_group]
 
-            yield ResultItem(
+            rank_total = self.ranks.get("total", 1)
+            rank_category = self.ranks["category"].get(category, 1)
+
+            result = ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
-                bib=bib,
                 type=competition_type,
                 duration=duration,
-                category={
-                    "Burschen": "M",
-                    "Mannsbilder": "M",
-                    "Alte": "M",
-                    "Pärchen": "X",
-                    "Mädels": "W",
-                }[category],
+                category=category,
                 names=names,
+                rank=ResultRankItem(total=rank_total, category=rank_category),
+                bib=bib,
             )
+
+            self.ranks["total"] = rank_total + 1
+            self.ranks["category"][category] = rank_category + 1
+
+            if category == "M":
+                rank_age_group = self.ranks["age_group"].get(age_group, 1)
+
+                result["age_group"] = age_group
+                result["rank"]["age_group"] = rank_age_group
+
+                self.ranks["age_group"][age_group] = rank_age_group + 1
+
+            yield result

@@ -158,14 +158,14 @@ class FirefitSpider(Spider):
 
         for index, (type, category) in enumerate(
             [
-                ("MPA", "M"),
-                ("MPA", "W"),
-                ("OPA", "M"),
-                ("OPA", "W"),
-                ("OPA", "X"),
-                ("OPA", "M"),
-                ("OPA", "W"),
-                ("OPA", "X"),
+                ("MPA", "M individual"),
+                ("MPA", "W individual"),
+                ("OPA", "M tandem"),
+                ("OPA", "W tandem"),
+                ("OPA", "X tandem"),
+                ("OPA", "M relay"),
+                ("OPA", "W relay"),
+                ("OPA", "X relay"),
             ]
         ):
             for row in tables[index].css("tbody tr.status-ok"):

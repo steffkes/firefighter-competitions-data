@@ -212,9 +212,12 @@ class FirefitSpider(Spider):
                         ),
                         None,
                     )
-                    result["age_group"] = age_group
-                    result["rank"]["age_group"] = ranks["age_group"].get(age_group, 1)
-                    ranks["age_group"][age_group] = result["rank"]["age_group"] + 1
+                    if age_group:
+                        result["age_group"] = age_group
+                        result["rank"]["age_group"] = ranks["age_group"].get(
+                            age_group, 1
+                        )
+                        ranks["age_group"][age_group] = result["rank"]["age_group"] + 1
 
                 yield result
 

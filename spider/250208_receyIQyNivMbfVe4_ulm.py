@@ -49,7 +49,7 @@ class Spider(scrapy.Spider):
             callback=self.parse_starters,
         )
 
-        for selector in range(1, 9):
+        for selector in range(1, 10):
             yield scrapy.FormRequest(
                 method="GET",
                 url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,

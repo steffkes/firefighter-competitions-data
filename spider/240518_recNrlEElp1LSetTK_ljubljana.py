@@ -66,10 +66,9 @@ class Spider(scrapy.Spider):
                 date=self.race_date,
                 competition_id=self.competition_id,
                 type=type,
-                category=gender,
                 duration="0" + duration,
                 names=[fixName(name)],
-                bib=None,
+                category=gender,
             )
 
     def parse_relay(self, response, type):
@@ -93,10 +92,8 @@ class Spider(scrapy.Spider):
                     date=self.race_date,
                     competition_id=self.competition_id,
                     type=type,
-                    category=None,
                     duration="0" + duration,
                     names=[fixName(name.strip())],
-                    bib=None,
                 )
 
 

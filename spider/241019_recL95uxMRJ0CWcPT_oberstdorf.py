@@ -9,8 +9,6 @@ class CompetitionSpider(Spider):
     race_id = "313822"
     race_key = "6c9e34b3e68526be8ae12fdaa2a5158c"
 
-    ranks = {"category": {}, "age_group": {}}
-
     def start_requests(self):
         for contest in [9026, 9027]:
             yield scrapy.FormRequest(
@@ -56,6 +54,8 @@ class CompetitionSpider(Spider):
             )
 
     def parse(self, response, competition_type):
+        ranks = {"category": {}, "age_group": {}}
+
         for entry in response.json()["data"]:
             [_, status, bib, _, _, names, raw_age_group, raw_duration, _] = entry
 
@@ -72,8 +72,8 @@ class CompetitionSpider(Spider):
                 "Mädels": "W",
             }[age_group]
 
-            rank_total = self.ranks.get("total", 1)
-            rank_category = self.ranks["category"].get(category, 1)
+            rank_total = ranks.get("total", 1)
+            rank_category = ranks["category"].get(category, 1)
 
             result = ResultItem(
                 date=self.race_date,
@@ -86,15 +86,15 @@ class CompetitionSpider(Spider):
                 bib=bib,
             )
 
-            self.ranks["total"] = rank_total + 1
-            self.ranks["category"][category] = rank_category + 1
+            ranks["total"] = rank_total + 1
+            ranks["category"][category] = rank_category + 1
 
             if category == "M":
-                rank_age_group = self.ranks["age_group"].get(age_group, 1)
+                rank_age_group = ranks["age_group"].get(age_group, 1)
 
                 result["age_group"] = age_group
                 result["rank"]["age_group"] = rank_age_group
 
-                self.ranks["age_group"][age_group] = rank_age_group + 1
+                ranks["age_group"][age_group] = rank_age_group + 1
 
             yield result

@@ -4,6 +4,9 @@ import scrapy
 import re
 
 
+changedParticipants = {"Tobias Diedrikeit": "Tobias Diedrigkeit"}
+
+
 class CompetitionSpider(Spider):
     name = __name__
 
@@ -12,11 +15,14 @@ class CompetitionSpider(Spider):
 
     @staticmethod
     def matchNames(input, template):
-        replacerFn = lambda name: re.sub(
-            r"^(.+)\s+(" + "|".join(map(re.escape, template)) + ")$",
-            r"\2 \1",
-            name,
-        )
+        def replacerFn(name):
+            fixedName = re.sub(
+                r"^(.+)\s+(" + "|".join(map(re.escape, template)) + ")$",
+                r"\2 \1",
+                name,
+            )
+            return changedParticipants.get(fixedName, fixedName)
+
         work = list(map(replacerFn, input))
 
         return sorted(work) if len(set(input) & set(work)) == 0 else None
@@ -173,6 +179,11 @@ import pytest
             ["Fabio", "Finn"],
             ["Fabio Di Palma", "Finn Sonsalla"],
         ),  # BIB 1313
+        (
+            ["Diedrikeit Tobias", "Thiel Dominik"],
+            ["Dominik", "Tobias"],
+            ["Dominik Thiel", "Tobias Diedrigkeit"],
+        ),
     ],
 )
 def test_matchNames(input, template, output):

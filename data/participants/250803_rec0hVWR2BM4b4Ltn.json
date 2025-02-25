@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-25T11:45:20.785323",
+  "date": "2025-02-25T11:54:14.447262",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 136,
+  "count": 138,
   "teams": [
     [
       "Alexander Hanke",
@@ -250,6 +250,10 @@
     [
       "Michael Kuper",
       "Oliver Müller"
+    ],
+    [
+      "Michael Zink",
+      "Patrick Uetz"
     ],
     [
       "Nils Lindemann",

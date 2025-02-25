@@ -1,4 +1,5 @@
 from util import Spider, ParticipantItem, ResultItem, ResultRankItem
+import requests
 import scrapy
 import re
 
@@ -8,6 +9,17 @@ class CompetitionSpider(Spider):
 
     race_id = "313822"
     race_key = "6c9e34b3e68526be8ae12fdaa2a5158c"
+
+    @staticmethod
+    def matchNames(input, template):
+        replacerFn = lambda name: re.sub(
+            r"^(.+)\s+(" + "|".join(map(re.escape, template)) + ")$",
+            r"\2 \1",
+            name,
+        )
+        work = list(map(replacerFn, input))
+
+        return sorted(work) if len(set(input) & set(work)) == 0 else None
 
     def start_requests(self):
         for contest in [9026, 9027]:
@@ -24,7 +36,20 @@ class CompetitionSpider(Spider):
                 callback=self.parse_starters,
             )
 
-        for contest, type in [(1, "OPA"), (2, "MPA")]:
+        fixName = lambda name: re.match(r"^(.+)\s+\w\s+\d+$", name).group(1).strip()
+
+        for contest, type, participant_contest in [(1, "OPA", 9026), (2, "MPA", 9027)]:
+            r = requests.post(
+                "https://www.anmeldungs-service.de/module/teilnehmer/staffel_cache.php",
+                params={
+                    "wettid": str(participant_contest),
+                    "totalrows": "2000",
+                },
+                headers={
+                    "X-Requested-With": "XMLHttpRequest",
+                },
+            )
+
             yield scrapy.FormRequest(
                 method="GET",
                 url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
@@ -35,6 +60,15 @@ class CompetitionSpider(Spider):
                 },
                 cb_kwargs={
                     "competition_type": type,
+                    "allParticipants": dict(
+                        map(
+                            lambda row: (
+                                row["cell"]["stnr"],
+                                list(map(fixName, row["cell"]["name"].split("<br>"))),
+                            ),
+                            r.json()["rows"],
+                        )
+                    ),
                 },
             )
 
@@ -53,13 +87,18 @@ class CompetitionSpider(Spider):
                 names=sorted(map(fixName, entry["cell"]["name"].split("<br>"))),
             )
 
-    def parse(self, response, competition_type):
+    def parse(self, response, competition_type, allParticipants):
         ranks = {"category": {}, "age_group": {}}
 
         for entry in response.json()["data"]:
             [_, status, bib, _, _, names, raw_age_group, raw_duration, _] = entry
 
             if status in ["DSQ", "DNF", "a.k."]:  # disqualified
+                continue
+
+            # BIB is not registered as participant
+            participants = allParticipants.get(bib)
+            if not participants:
                 continue
 
             names = sorted(map(str.strip, names.split("|")))
@@ -72,6 +111,9 @@ class CompetitionSpider(Spider):
                 "Mädels": "W",
             }[age_group]
 
+            # matches between starter & finisher don't match
+            matchedNames = self.matchNames(participants, names)
+
             rank_total = ranks.get("total", 1)
             rank_category = ranks["category"].get(category, 1)
 
@@ -81,7 +123,7 @@ class CompetitionSpider(Spider):
                 type=competition_type,
                 duration=self.fixDuration(raw_duration),
                 category=category,
-                names=names,
+                names=matchedNames,
                 rank=ResultRankItem(total=rank_total, category=rank_category),
                 bib=bib,
             )
@@ -97,4 +139,41 @@ class CompetitionSpider(Spider):
 
                 ranks["age_group"][age_group] = rank_age_group + 1
 
+            # we need to pass late, to ensure that all rank calc is done properly
+            # we skip the participants, but the rank needs to continue
+            if not matchedNames:
+                continue
+
             yield result
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,template,output",
+    [
+        (
+            ["Missfelder Fabian", "Ruf Juliane"],
+            ["Juliane", "Fabian"],
+            ["Fabian Missfelder", "Juliane Ruf"],
+        ),  # BIB  712
+        (
+            ["Albrecht Nils", "Kohrs Karsten Kala"],
+            ["Karsten Kala", "Vincent"],
+            None,
+        ),  # BIB  307
+        (
+            ["Chech-Madak Boris", "Dohrmann Rocky"],
+            ["Rocky", "Boris"],
+            ["Boris Chech-Madak", "Rocky Dohrmann"],
+        ),  # BIB  711
+        (
+            ["Di Palma Fabio", "Sonsalla Finn"],
+            ["Fabio", "Finn"],
+            ["Fabio Di Palma", "Finn Sonsalla"],
+        ),  # BIB 1313
+    ],
+)
+def test_matchNames(input, template, output):
+    assert CompetitionSpider.matchNames(input, template) == output

@@ -1,49 +1,15 @@
+from util import Spider, ParticipantItem, ResultItem, ResultRankItem
 import scrapy
-from datetime import datetime
 import re
-from util import (
-    JsonItemExporter,
-    JsonLinesItemExporter,
-    ParticipantItem,
-    ResultItem,
-    ResultRankItem,
-)
 
 
-class Spider(scrapy.Spider):
+class CompetitionSpider(Spider):
     name = __name__
-    race_date = datetime.strptime(__name__.split("_")[0], "%y%m%d").strftime("%Y-%m-%d")
-    competition_id = __name__.split("_")[1]
-    ident = __name__[0:24]
 
     race_id = "313822"
     race_key = "6c9e34b3e68526be8ae12fdaa2a5158c"
 
     ranks = {"category": {}, "age_group": {}}
-
-    custom_settings = {
-        "FEED_EXPORTERS": {
-            "starter": JsonItemExporter,
-            "results": JsonLinesItemExporter,
-        },
-        "FEEDS": {
-            "data/participants/%(ident)s.json": {
-                "format": "starter",
-                "encoding": "utf8",
-                "overwrite": True,
-                "item_classes": [ParticipantItem],
-            },
-            "data/results/%(name)s.jsonl": {
-                "format": "results",
-                "encoding": "utf8",
-                "overwrite": True,
-                "item_classes": [ResultItem],
-            },
-        },
-        "EXTENSIONS": {
-            "scrapy.extensions.telnet.TelnetConsole": None,
-        },
-    }
 
     def start_requests(self):
         for contest in [9026, 9027]:
@@ -97,7 +63,6 @@ class Spider(scrapy.Spider):
                 continue
 
             names = sorted(map(str.strip, names.split("|")))
-            duration = "00:" + raw_duration.replace(",", ".")
             age_group = " ".join(raw_age_group.split(" ")[:-1])
             category = {
                 "Burschen": "M",
@@ -114,7 +79,7 @@ class Spider(scrapy.Spider):
                 date=self.race_date,
                 competition_id=self.competition_id,
                 type=competition_type,
-                duration=duration,
+                duration=self.fixDuration(raw_duration),
                 category=category,
                 names=names,
                 rank=ResultRankItem(total=rank_total, category=rank_category),

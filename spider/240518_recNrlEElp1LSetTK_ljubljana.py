@@ -1,6 +1,12 @@
 import scrapy
 from datetime import datetime
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.Spider):
@@ -60,7 +66,7 @@ class Spider(scrapy.Spider):
 
     def parse_single(self, response, type, gender):
         for row in response.css("table tr")[1:]:
-            [_, name, _country, _team, duration] = row.css("td ::text").getall()
+            [rank, name, _country, _team, duration] = row.css("td ::text").getall()
 
             yield ResultItem(
                 date=self.race_date,
@@ -69,6 +75,7 @@ class Spider(scrapy.Spider):
                 duration="0" + duration,
                 names=[fixName(name)],
                 category=gender,
+                rank=ResultRankItem(category=rank),
             )
 
     def parse_relay(self, response, type):

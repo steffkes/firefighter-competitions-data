@@ -1,7 +1,13 @@
 import scrapy
 import itertools
 from datetime import datetime
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.Spider):
@@ -60,6 +66,9 @@ class Spider(scrapy.Spider):
                     "page": "results",
                     "selectorResult": str(selector),
                 },
+                cb_kwargs={
+                    "ranks": {9: {0: 1, 1: 2}, 8: {0: 3}}.get(selector, {}),
+                },
             )
 
     def parse_starters(self, response):
@@ -69,8 +78,8 @@ class Spider(scrapy.Spider):
                 names=sorted([name1, name2]),
             )
 
-    def parse(self, response):
-        for [
+    def parse(self, response, ranks):
+        for index, [
             bib,
             rank,
             _bib,
@@ -81,11 +90,11 @@ class Spider(scrapy.Spider):
             _diff,
             _cert,
             _cert_link,
-        ] in itertools.chain.from_iterable(response.json()["data"].values()):
+        ] in enumerate(itertools.chain.from_iterable(response.json()["data"].values())):
             if rank == "DNF":
                 continue
 
-            yield ResultItem(
+            result = ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
                 type="OPA",
@@ -93,3 +102,8 @@ class Spider(scrapy.Spider):
                 names=sorted(names.split(" & ")),
                 bib=bib,
             )
+
+            if index in ranks:
+                result["rank"] = ResultRankItem(total=ranks.get(index))
+
+            yield result

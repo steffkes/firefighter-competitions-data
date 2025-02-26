@@ -101,9 +101,7 @@ class CompetitionSpider(Spider):
                 competition_id=self.competition_id,
                 type="OPA",
                 duration=self.fixDuration(row.css(".totaltime::text").get()),
-                names=sorted(
-                    map(fixName, row.css(".member::text").get().split(","))
-                ),
+                names=sorted(map(fixName, row.css(".member::text").get().split(","))),
                 category="W tandem",
                 rank=ResultRankItem(category=int(row.css(".place::text").get())),
             )
@@ -119,9 +117,7 @@ class CompetitionSpider(Spider):
                 competition_id=self.competition_id,
                 type="OPA",
                 duration=self.fixDuration(row.css(".totaltime::text").get()),
-                names=sorted(
-                    map(fixName, row.css(".member::text").get().split(","))
-                ),
+                names=sorted(map(fixName, row.css(".member::text").get().split(","))),
                 category="M tandem",
                 rank=ResultRankItem(category=int(row.css(".place::text").get())),
             )

@@ -58,6 +58,7 @@ class Spider(scrapy.Spider):
         )
 
     def parse(self, response):
+        results = []
         data = response.json()["data"]
         for entry in (
             data["#1_Feuerwehr (1) - Zeit: 19:38:15 - Durchschnitt: 12:39"]
@@ -71,18 +72,24 @@ class Spider(scrapy.Spider):
             duration = "00:%s.0" % raw_duration.zfill(5)
             category = {"weiblich": "W", "männlich": "M"}[gender.lower()]
 
+            results.append(
+                ResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    type="MPA",
+                    duration=duration,
+                    names=[changedParticipants.get(name, name)],
+                    category=category,
+                )
+            )
+
+        for result in sorted(results, key=lambda result: result["duration"]):
             rank_total = self.ranks.get("total", 1)
             rank_category = self.ranks["category"].get(category, 1)
 
-            yield ResultItem(
-                date=self.race_date,
-                competition_id=self.competition_id,
-                type="MPA",
-                duration=duration,
-                names=[changedParticipants.get(name, name)],
-                category=category,
-                rank=ResultRankItem(total=rank_total, category=rank_category),
-            )
+            result["rank"] = ResultRankItem(total=rank_total, category=rank_category)
+
+            yield result
 
             self.ranks["total"] = rank_total + 1
             self.ranks["category"][category] = rank_category + 1

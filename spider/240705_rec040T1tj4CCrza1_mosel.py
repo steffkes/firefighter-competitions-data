@@ -1,5 +1,4 @@
-from util import FccSpider, ParticipantItem
-import scrapy
+from util import FccSpider
 
 
 class CompetitionSpider(FccSpider):

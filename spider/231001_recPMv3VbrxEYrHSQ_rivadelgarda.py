@@ -7,7 +7,11 @@ import csv
 class CompetitionSpider(Spider):
     name = __name__
 
-    delimiter = ";"
+    @staticmethod
+    def fixName(name):
+        [firstname, *lastname] = reversed(name.split(" "))
+        names = map(lambda str: str[0] + str[1:].lower(), [firstname, *lastname])
+        return " ".join(names)
 
     def start_requests(self):
         yield scrapy.Request(
@@ -19,16 +23,28 @@ class CompetitionSpider(Spider):
             response.body.decode("utf-8").splitlines(), delimiter=";"
         )
         for row in reader:
-            [firstname, *lastname] = reversed(row["Name"].split(" "))
-            names = map(lambda str: str[0] + str[1:].lower(), [firstname, *lastname])
-
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
                 duration=row["Time"] + ".0",
                 type="MPA",
                 category=None,
-                names=[" ".join(names)],
+                names=[self.fixName(row["Name"])],
                 rank=ResultRankItem(total=int(row["Position"])),
                 bib=row["BIB"],
             )
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("MATHEIS STEFAN", "Stefan Matheis"),
+        ("DAL FARRA ENRICO", "Enrico Farra Dal"),
+        ("MOOZ LUKÁŠ", "Lukáš Mooz"),
+    ],
+)
+def test_fixName(input, output):
+    assert CompetitionSpider.fixName(input) == output

@@ -1458,6 +1458,30 @@
         }
     },
     {
+        "id": "recS7oqNRGFksCS0a",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge Mosel",
+        "url": "https://www.firefighter-challenge-mosel.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-07-01",
+            "end": "2023-07-02",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ediger-Eller",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.0974912,
+                "lng": 7.1520895
+            }
+        }
+    },
+    {
         "id": "recgPu6oDw47z8d2X",
         "kind": "FCC",
         "name": "Firefit Championships Europe",

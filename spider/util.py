@@ -232,16 +232,18 @@ class FirefitSpider(Spider):
 
 
 class FccSpider(Spider):
+    event_day_ids = []
     @staticmethod
     def fixName(name):
         return re.sub(r"\s+", " ", name.strip())
 
     def start_requests(self):
-        yield scrapy.FormRequest(
-            method="GET",
-            url="https://www.firefighter-challenge-germany.de/combat-challenge/registrierungsliste/",
-            callback=self.parse_starters,
-        )
+        if self.event_day_ids:
+            yield scrapy.FormRequest(
+                method="GET",
+                url="https://www.firefighter-challenge-germany.de/combat-challenge/registrierungsliste/",
+                callback=self.parse_starters,
+            )
 
         yield scrapy.FormRequest(
             method="GET",

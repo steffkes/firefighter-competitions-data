@@ -1,134 +1,134 @@
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:08:07.0", "type": "MPA", "category": null, "names": ["Claudio Bailoni"], "rank": {"total": 1}, "bib": "60"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:08:26.0", "type": "MPA", "category": null, "names": ["Andrea Oradini"], "rank": {"total": 2}, "bib": "76"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:08:28.0", "type": "MPA", "category": null, "names": ["Dezulian Ludovico"], "rank": {"total": 3}, "bib": "157"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:08:54.0", "type": "MPA", "category": null, "names": ["Matteo Longhi"], "rank": {"total": 4}, "bib": "15"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:08:56.0", "type": "MPA", "category": null, "names": ["Nicola Nones"], "rank": {"total": 5}, "bib": "41"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:02.0", "type": "MPA", "category": null, "names": ["Gabriele Simi"], "rank": {"total": 6}, "bib": "13"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:15.0", "type": "MPA", "category": null, "names": ["Lorenzo Morandini"], "rank": {"total": 7}, "bib": "46"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:17.0", "type": "MPA", "category": null, "names": ["Stefan Matheis"], "rank": {"total": 8}, "bib": "12"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:19.0", "type": "MPA", "category": null, "names": ["Leonardo Trinco"], "rank": {"total": 9}, "bib": "32"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:27.0", "type": "MPA", "category": null, "names": ["Marco Micheloni"], "rank": {"total": 10}, "bib": "20"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:29.0", "type": "MPA", "category": null, "names": ["Lorenzo Anzelini"], "rank": {"total": 11}, "bib": "67"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:30.0", "type": "MPA", "category": null, "names": ["Alex Tormena"], "rank": {"total": 12}, "bib": "119"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:31.0", "type": "MPA", "category": null, "names": ["Matteo Zappacosta"], "rank": {"total": 13}, "bib": "30"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:32.0", "type": "MPA", "category": null, "names": ["Nicola Ioriatti"], "rank": {"total": 14}, "bib": "24"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:39.0", "type": "MPA", "category": null, "names": ["Martin Ludescher"], "rank": {"total": 15}, "bib": "109"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:46.0", "type": "MPA", "category": null, "names": ["Michele Piccini"], "rank": {"total": 16}, "bib": "43"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:51.0", "type": "MPA", "category": null, "names": ["Mike Salvaterra"], "rank": {"total": 17}, "bib": "57"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:54.0", "type": "MPA", "category": null, "names": ["Enrico Farra Dal"], "rank": {"total": 18}, "bib": "9"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:56.0", "type": "MPA", "category": null, "names": ["Mattia Ropelato"], "rank": {"total": 19}, "bib": "2"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:59.0", "type": "MPA", "category": null, "names": ["Simone Comacchio"], "rank": {"total": 20}, "bib": "11"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:09.0", "type": "MPA", "category": null, "names": ["Mattia Simi"], "rank": {"total": 21}, "bib": "14"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:10.0", "type": "MPA", "category": null, "names": ["Andrea Alesina"], "rank": {"total": 22}, "bib": "91"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:14.0", "type": "MPA", "category": null, "names": ["Gianluca Andreatta"], "rank": {"total": 23}, "bib": "25"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:15.0", "type": "MPA", "category": null, "names": ["Lukáš Mooz"], "rank": {"total": 24}, "bib": "42"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:17.0", "type": "MPA", "category": null, "names": ["Mattia Coppi"], "rank": {"total": 25}, "bib": "140"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:23.0", "type": "MPA", "category": null, "names": ["Nicholas Fiamozzini"], "rank": {"total": 26}, "bib": "16"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:26.0", "type": "MPA", "category": null, "names": ["Lorenzo Tondin"], "rank": {"total": 27}, "bib": "82"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:33.0", "type": "MPA", "category": null, "names": ["Alessandro Monaco"], "rank": {"total": 28}, "bib": "52"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:35.0", "type": "MPA", "category": null, "names": ["Giuseppe Ferrara"], "rank": {"total": 29}, "bib": "84"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:36.0", "type": "MPA", "category": null, "names": ["Federico Sarti"], "rank": {"total": 30}, "bib": "88"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:39.0", "type": "MPA", "category": null, "names": ["Francesco Travaglia"], "rank": {"total": 31}, "bib": "129"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:40.0", "type": "MPA", "category": null, "names": ["Guido Conci"], "rank": {"total": 33}, "bib": "103"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:40.0", "type": "MPA", "category": null, "names": ["Daniele Crestani"], "rank": {"total": 32}, "bib": "37"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:44.0", "type": "MPA", "category": null, "names": ["Fabio Sgarbossa"], "rank": {"total": 34}, "bib": "120"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:44.0", "type": "MPA", "category": null, "names": ["Enrico Marchisio"], "rank": {"total": 35}, "bib": "96"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:48.0", "type": "MPA", "category": null, "names": ["Lorenzo Tardivo"], "rank": {"total": 36}, "bib": "77"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:51.0", "type": "MPA", "category": null, "names": ["Riccardo Modena"], "rank": {"total": 37}, "bib": "68"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:53.0", "type": "MPA", "category": null, "names": ["Tiziano Bolognani"], "rank": {"total": 38}, "bib": "27"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:53.0", "type": "MPA", "category": null, "names": ["Matteo Bailoni"], "rank": {"total": 39}, "bib": "63"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:58.0", "type": "MPA", "category": null, "names": ["Alessandro Pellegrin"], "rank": {"total": 40}, "bib": "116"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:01.0", "type": "MPA", "category": null, "names": ["Massimo Antonini"], "rank": {"total": 42}, "bib": "1"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:01.0", "type": "MPA", "category": null, "names": ["Daniele Nicolussi"], "rank": {"total": 41}, "bib": "26"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:03.0", "type": "MPA", "category": null, "names": ["Michele Vanzo"], "rank": {"total": 43}, "bib": "137"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:05.0", "type": "MPA", "category": null, "names": ["Eugenio Dossi"], "rank": {"total": 44}, "bib": "78"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:06.0", "type": "MPA", "category": null, "names": ["Matteo Marini"], "rank": {"total": 45}, "bib": "94"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:07.0", "type": "MPA", "category": null, "names": ["Manuel Felicetti"], "rank": {"total": 46}, "bib": "146"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:08.0", "type": "MPA", "category": null, "names": ["Stefano Ropelato"], "rank": {"total": 48}, "bib": "3"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:08.0", "type": "MPA", "category": null, "names": ["Fabrizio Marzadri"], "rank": {"total": 47}, "bib": "59"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:09.0", "type": "MPA", "category": null, "names": ["Riccardo Antonini"], "rank": {"total": 49}, "bib": "4"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:16.0", "type": "MPA", "category": null, "names": ["Manuel Chinellato"], "rank": {"total": 50}, "bib": "132"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:21.0", "type": "MPA", "category": null, "names": ["Yuri Nardon"], "rank": {"total": 51}, "bib": "5"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:22.0", "type": "MPA", "category": null, "names": ["Roberto Tiecher"], "rank": {"total": 52}, "bib": "123"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:23.0", "type": "MPA", "category": null, "names": ["Lorenzo Redolfi"], "rank": {"total": 53}, "bib": "105"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:25.0", "type": "MPA", "category": null, "names": ["Mirko Randi"], "rank": {"total": 54}, "bib": "110"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:29.0", "type": "MPA", "category": null, "names": ["Massimo Nicoletti"], "rank": {"total": 55}, "bib": "61"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:32.0", "type": "MPA", "category": null, "names": ["Andraž Markelj"], "rank": {"total": 57}, "bib": "111"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:32.0", "type": "MPA", "category": null, "names": ["Francesco Cravero"], "rank": {"total": 56}, "bib": "139"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:36.0", "type": "MPA", "category": null, "names": ["Marco Turella"], "rank": {"total": 58}, "bib": "29"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:37.0", "type": "MPA", "category": null, "names": ["Silvio Milanesio"], "rank": {"total": 59}, "bib": "31"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:38.0", "type": "MPA", "category": null, "names": ["Emanuele Glacelli"], "rank": {"total": 60}, "bib": "38"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:42.0", "type": "MPA", "category": null, "names": ["Saulo Ramoni"], "rank": {"total": 61}, "bib": "33"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:44.0", "type": "MPA", "category": null, "names": ["Sebastian Dufter"], "rank": {"total": 62}, "bib": "101"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:47.0", "type": "MPA", "category": null, "names": ["Lorenzo Stefani"], "rank": {"total": 63}, "bib": "58"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:49.0", "type": "MPA", "category": null, "names": ["Markus Herbst"], "rank": {"total": 65}, "bib": "48"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:49.0", "type": "MPA", "category": null, "names": ["Lorenzo Giacomelli"], "rank": {"total": 64}, "bib": "64"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:50.0", "type": "MPA", "category": null, "names": ["Marco Sovilla"], "rank": {"total": 66}, "bib": "10"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:53.0", "type": "MPA", "category": null, "names": ["Saverio Torbol"], "rank": {"total": 67}, "bib": "69"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:58.0", "type": "MPA", "category": null, "names": ["Alessandro Morandini"], "rank": {"total": 68}, "bib": "113"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:59.0", "type": "MPA", "category": null, "names": ["Janis Perschl"], "rank": {"total": 70}, "bib": "21"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:59.0", "type": "MPA", "category": null, "names": ["Alessio Carcerano"], "rank": {"total": 69}, "bib": "28"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:05.0", "type": "MPA", "category": null, "names": ["Alessio Bartoli"], "rank": {"total": 71}, "bib": "93"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:07.0", "type": "MPA", "category": null, "names": ["Matjaž Rozman"], "rank": {"total": 72}, "bib": "18"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:11.0", "type": "MPA", "category": null, "names": ["Alessandro Tortora"], "rank": {"total": 73}, "bib": "92"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:20.0", "type": "MPA", "category": null, "names": ["Giovanni Facchinelli"], "rank": {"total": 74}, "bib": "56"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:21.0", "type": "MPA", "category": null, "names": ["Nicola Collotta"], "rank": {"total": 75}, "bib": "74"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:25.0", "type": "MPA", "category": null, "names": ["Massimiliano Zanetti"], "rank": {"total": 77}, "bib": "44"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:25.0", "type": "MPA", "category": null, "names": ["Leonardo Degasperi"], "rank": {"total": 76}, "bib": "53"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:26.0", "type": "MPA", "category": null, "names": ["Fabrizio Maffei"], "rank": {"total": 78}, "bib": "54"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:27.0", "type": "MPA", "category": null, "names": ["Stefano Verones"], "rank": {"total": 79}, "bib": "55"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:28.0", "type": "MPA", "category": null, "names": ["Nicola Debiasi"], "rank": {"total": 81}, "bib": "121"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:28.0", "type": "MPA", "category": null, "names": ["Nico Mencarelli"], "rank": {"total": 80}, "bib": "62"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:33.0", "type": "MPA", "category": null, "names": ["Filippo Allibardi"], "rank": {"total": 82}, "bib": "87"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:35.0", "type": "MPA", "category": null, "names": ["Andrea Leonardi"], "rank": {"total": 83}, "bib": "73"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:39.0", "type": "MPA", "category": null, "names": ["Jaka Stare"], "rank": {"total": 84}, "bib": "19"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:41.0", "type": "MPA", "category": null, "names": ["Fabian Promutico"], "rank": {"total": 85}, "bib": "35"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:48.0", "type": "MPA", "category": null, "names": ["Oliver Böhr"], "rank": {"total": 86}, "bib": "17"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:55.0", "type": "MPA", "category": null, "names": ["Mirco Lageder"], "rank": {"total": 87}, "bib": "153"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:04.0", "type": "MPA", "category": null, "names": ["Sandra Santoni"], "rank": {"total": 88}, "bib": "142"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:06.0", "type": "MPA", "category": null, "names": ["Anže Pavlovič"], "rank": {"total": 89}, "bib": "112"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:12.0", "type": "MPA", "category": null, "names": ["Dominik Przybilla"], "rank": {"total": 90}, "bib": "100"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:12.0", "type": "MPA", "category": null, "names": ["Maurizio Stoppini"], "rank": {"total": 91}, "bib": "117"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:13.0", "type": "MPA", "category": null, "names": ["Julian Scarabellin"], "rank": {"total": 92}, "bib": "145"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:14.0", "type": "MPA", "category": null, "names": ["Ivan Nocera"], "rank": {"total": 93}, "bib": "97"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:18.0", "type": "MPA", "category": null, "names": ["Luca Falvo"], "rank": {"total": 94}, "bib": "47"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:20.0", "type": "MPA", "category": null, "names": ["Nicolo' Libardoni"], "rank": {"total": 95}, "bib": "104"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:21.0", "type": "MPA", "category": null, "names": ["Massimo Segala"], "rank": {"total": 97}, "bib": "135"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:21.0", "type": "MPA", "category": null, "names": ["Giuseppe Costantino"], "rank": {"total": 96}, "bib": "154"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:28.0", "type": "MPA", "category": null, "names": ["Gianluca Faes"], "rank": {"total": 98}, "bib": "70"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:29.0", "type": "MPA", "category": null, "names": ["Michele Biasiolli"], "rank": {"total": 99}, "bib": "134"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:33.0", "type": "MPA", "category": null, "names": ["Niklas Krauss"], "rank": {"total": 100}, "bib": "156"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:40.0", "type": "MPA", "category": null, "names": ["Andreas Ostermann"], "rank": {"total": 101}, "bib": "99"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:50.0", "type": "MPA", "category": null, "names": ["Günther Hindelang"], "rank": {"total": 102}, "bib": "75"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:04.0", "type": "MPA", "category": null, "names": ["Giulia Martini"], "rank": {"total": 103}, "bib": "86"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:05.0", "type": "MPA", "category": null, "names": ["Roberto Boroni"], "rank": {"total": 104}, "bib": "102"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:07.0", "type": "MPA", "category": null, "names": ["Matteo Zumiani"], "rank": {"total": 105}, "bib": "118"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:12.0", "type": "MPA", "category": null, "names": ["Nicola Dalledonne"], "rank": {"total": 106}, "bib": "114"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:18.0", "type": "MPA", "category": null, "names": ["Daniel Driesslein"], "rank": {"total": 107}, "bib": "124"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:36.0", "type": "MPA", "category": null, "names": ["Federico Brognoli"], "rank": {"total": 108}, "bib": "66"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:42.0", "type": "MPA", "category": null, "names": ["Luca Testor"], "rank": {"total": 109}, "bib": "81"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:46.0", "type": "MPA", "category": null, "names": ["Michele Casagranda"], "rank": {"total": 110}, "bib": "72"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:55.0", "type": "MPA", "category": null, "names": ["Leonardo Failo"], "rank": {"total": 111}, "bib": "71"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:57.0", "type": "MPA", "category": null, "names": ["Simone Rospocher"], "rank": {"total": 112}, "bib": "49"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:11.0", "type": "MPA", "category": null, "names": ["Zeshan Iqbal"], "rank": {"total": 114}, "bib": "115"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:11.0", "type": "MPA", "category": null, "names": ["Tomas Curzel"], "rank": {"total": 113}, "bib": "80"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:16.0", "type": "MPA", "category": null, "names": ["Giulia Nistri"], "rank": {"total": 115}, "bib": "40"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:31.0", "type": "MPA", "category": null, "names": ["Emil Gottardi"], "rank": {"total": 116}, "bib": "133"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:31.0", "type": "MPA", "category": null, "names": ["Andrea Sarti"], "rank": {"total": 117}, "bib": "7"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:33.0", "type": "MPA", "category": null, "names": ["Marco Ognibeni"], "rank": {"total": 119}, "bib": "131"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:33.0", "type": "MPA", "category": null, "names": ["Leonardo Albarello"], "rank": {"total": 118}, "bib": "95"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:16:03.0", "type": "MPA", "category": null, "names": ["Daniele Lucia Di"], "rank": {"total": 120}, "bib": "8"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:16:05.0", "type": "MPA", "category": null, "names": ["Cristopher Ciullo"], "rank": {"total": 121}, "bib": "89"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:16:13.0", "type": "MPA", "category": null, "names": ["Samuele Santelli"], "rank": {"total": 122}, "bib": "51"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:16:18.0", "type": "MPA", "category": null, "names": ["Giorgio Amistadi"], "rank": {"total": 123}, "bib": "6"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:16:28.0", "type": "MPA", "category": null, "names": ["Michaela Böhr"], "rank": {"total": 124}, "bib": "98"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:16:59.0", "type": "MPA", "category": null, "names": ["Leonhard Thums"], "rank": {"total": 125}, "bib": "125"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:17:32.0", "type": "MPA", "category": null, "names": ["Fabio Russo"], "rank": {"total": 126}, "bib": "85"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:18:19.0", "type": "MPA", "category": null, "names": ["Luca Maran"], "rank": {"total": 127}, "bib": "108"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:19:05.0", "type": "MPA", "category": null, "names": ["Sara Minoletti"], "rank": {"total": 128}, "bib": "106"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:21:06.0", "type": "MPA", "category": null, "names": ["Francesca Nicolodi"], "rank": {"total": 129}, "bib": "141"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:21:18.0", "type": "MPA", "category": null, "names": ["Carlotta Spezia"], "rank": {"total": 130}, "bib": "128"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:21:54.0", "type": "MPA", "category": null, "names": ["Marco Fontana"], "rank": {"total": 131}, "bib": "122"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:22:01.0", "type": "MPA", "category": null, "names": ["Luca Cavarero"], "rank": {"total": 132}, "bib": "36"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:22:25.0", "type": "MPA", "category": null, "names": ["Matthias Nastvogel"], "rank": {"total": 133}, "bib": "50"}
-{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:33:05.0", "type": "MPA", "category": null, "names": ["Eleonora Fedrizzi"], "rank": {"total": 134}, "bib": "155"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:08:07.0", "type": "MPA", "names": ["Claudio Bailoni"], "rank": {"total": 1}, "bib": "60"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:08:26.0", "type": "MPA", "names": ["Andrea Oradini"], "rank": {"total": 2}, "bib": "76"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:08:28.0", "type": "MPA", "names": ["Dezulian Ludovico"], "rank": {"total": 3}, "bib": "157"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:08:54.0", "type": "MPA", "names": ["Matteo Longhi"], "rank": {"total": 4}, "bib": "15"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:08:56.0", "type": "MPA", "names": ["Nicola Nones"], "rank": {"total": 5}, "bib": "41"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:02.0", "type": "MPA", "names": ["Gabriele Simi"], "rank": {"total": 6}, "bib": "13"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:15.0", "type": "MPA", "names": ["Lorenzo Morandini"], "rank": {"total": 7}, "bib": "46"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:17.0", "type": "MPA", "names": ["Stefan Matheis"], "rank": {"total": 8}, "bib": "12"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:19.0", "type": "MPA", "names": ["Leonardo Trinco"], "rank": {"total": 9}, "bib": "32"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:27.0", "type": "MPA", "names": ["Marco Micheloni"], "rank": {"total": 10}, "bib": "20"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:29.0", "type": "MPA", "names": ["Lorenzo Anzelini"], "rank": {"total": 11}, "bib": "67"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:30.0", "type": "MPA", "names": ["Alex Tormena"], "rank": {"total": 12}, "bib": "119"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:31.0", "type": "MPA", "names": ["Matteo Zappacosta"], "rank": {"total": 13}, "bib": "30"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:32.0", "type": "MPA", "names": ["Nicola Ioriatti"], "rank": {"total": 14}, "bib": "24"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:39.0", "type": "MPA", "names": ["Martin Ludescher"], "rank": {"total": 15}, "bib": "109"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:46.0", "type": "MPA", "names": ["Michele Piccini"], "rank": {"total": 16}, "bib": "43"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:51.0", "type": "MPA", "names": ["Mike Salvaterra"], "rank": {"total": 17}, "bib": "57"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:54.0", "type": "MPA", "names": ["Enrico Farra Dal"], "rank": {"total": 18}, "bib": "9"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:56.0", "type": "MPA", "names": ["Mattia Ropelato"], "rank": {"total": 19}, "bib": "2"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:09:59.0", "type": "MPA", "names": ["Simone Comacchio"], "rank": {"total": 20}, "bib": "11"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:09.0", "type": "MPA", "names": ["Mattia Simi"], "rank": {"total": 21}, "bib": "14"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:10.0", "type": "MPA", "names": ["Andrea Alesina"], "rank": {"total": 22}, "bib": "91"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:14.0", "type": "MPA", "names": ["Gianluca Andreatta"], "rank": {"total": 23}, "bib": "25"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:15.0", "type": "MPA", "names": ["Lukáš Mooz"], "rank": {"total": 24}, "bib": "42"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:17.0", "type": "MPA", "names": ["Mattia Coppi"], "rank": {"total": 25}, "bib": "140"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:23.0", "type": "MPA", "names": ["Nicholas Fiamozzini"], "rank": {"total": 26}, "bib": "16"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:26.0", "type": "MPA", "names": ["Lorenzo Tondin"], "rank": {"total": 27}, "bib": "82"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:33.0", "type": "MPA", "names": ["Alessandro Monaco"], "rank": {"total": 28}, "bib": "52"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:35.0", "type": "MPA", "names": ["Giuseppe Ferrara"], "rank": {"total": 29}, "bib": "84"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:36.0", "type": "MPA", "names": ["Federico Sarti"], "rank": {"total": 30}, "bib": "88"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:39.0", "type": "MPA", "names": ["Francesco Travaglia"], "rank": {"total": 31}, "bib": "129"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:40.0", "type": "MPA", "names": ["Guido Conci"], "rank": {"total": 33}, "bib": "103"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:40.0", "type": "MPA", "names": ["Daniele Crestani"], "rank": {"total": 32}, "bib": "37"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:44.0", "type": "MPA", "names": ["Fabio Sgarbossa"], "rank": {"total": 34}, "bib": "120"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:44.0", "type": "MPA", "names": ["Enrico Marchisio"], "rank": {"total": 35}, "bib": "96"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:48.0", "type": "MPA", "names": ["Lorenzo Tardivo"], "rank": {"total": 36}, "bib": "77"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:51.0", "type": "MPA", "names": ["Riccardo Modena"], "rank": {"total": 37}, "bib": "68"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:53.0", "type": "MPA", "names": ["Tiziano Bolognani"], "rank": {"total": 38}, "bib": "27"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:53.0", "type": "MPA", "names": ["Matteo Bailoni"], "rank": {"total": 39}, "bib": "63"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:10:58.0", "type": "MPA", "names": ["Alessandro Pellegrin"], "rank": {"total": 40}, "bib": "116"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:01.0", "type": "MPA", "names": ["Massimo Antonini"], "rank": {"total": 42}, "bib": "1"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:01.0", "type": "MPA", "names": ["Daniele Nicolussi"], "rank": {"total": 41}, "bib": "26"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:03.0", "type": "MPA", "names": ["Michele Vanzo"], "rank": {"total": 43}, "bib": "137"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:05.0", "type": "MPA", "names": ["Eugenio Dossi"], "rank": {"total": 44}, "bib": "78"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:06.0", "type": "MPA", "names": ["Matteo Marini"], "rank": {"total": 45}, "bib": "94"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:07.0", "type": "MPA", "names": ["Manuel Felicetti"], "rank": {"total": 46}, "bib": "146"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:08.0", "type": "MPA", "names": ["Stefano Ropelato"], "rank": {"total": 48}, "bib": "3"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:08.0", "type": "MPA", "names": ["Fabrizio Marzadri"], "rank": {"total": 47}, "bib": "59"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:09.0", "type": "MPA", "names": ["Riccardo Antonini"], "rank": {"total": 49}, "bib": "4"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:16.0", "type": "MPA", "names": ["Manuel Chinellato"], "rank": {"total": 50}, "bib": "132"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:21.0", "type": "MPA", "names": ["Yuri Nardon"], "rank": {"total": 51}, "bib": "5"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:22.0", "type": "MPA", "names": ["Roberto Tiecher"], "rank": {"total": 52}, "bib": "123"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:23.0", "type": "MPA", "names": ["Lorenzo Redolfi"], "rank": {"total": 53}, "bib": "105"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:25.0", "type": "MPA", "names": ["Mirko Randi"], "rank": {"total": 54}, "bib": "110"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:29.0", "type": "MPA", "names": ["Massimo Nicoletti"], "rank": {"total": 55}, "bib": "61"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:32.0", "type": "MPA", "names": ["Andraž Markelj"], "rank": {"total": 57}, "bib": "111"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:32.0", "type": "MPA", "names": ["Francesco Cravero"], "rank": {"total": 56}, "bib": "139"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:36.0", "type": "MPA", "names": ["Marco Turella"], "rank": {"total": 58}, "bib": "29"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:37.0", "type": "MPA", "names": ["Silvio Milanesio"], "rank": {"total": 59}, "bib": "31"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:38.0", "type": "MPA", "names": ["Emanuele Glacelli"], "rank": {"total": 60}, "bib": "38"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:42.0", "type": "MPA", "names": ["Saulo Ramoni"], "rank": {"total": 61}, "bib": "33"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:44.0", "type": "MPA", "names": ["Sebastian Dufter"], "rank": {"total": 62}, "bib": "101"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:47.0", "type": "MPA", "names": ["Lorenzo Stefani"], "rank": {"total": 63}, "bib": "58"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:49.0", "type": "MPA", "names": ["Markus Herbst"], "rank": {"total": 65}, "bib": "48"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:49.0", "type": "MPA", "names": ["Lorenzo Giacomelli"], "rank": {"total": 64}, "bib": "64"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:50.0", "type": "MPA", "names": ["Marco Sovilla"], "rank": {"total": 66}, "bib": "10"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:53.0", "type": "MPA", "names": ["Saverio Torbol"], "rank": {"total": 67}, "bib": "69"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:58.0", "type": "MPA", "names": ["Alessandro Morandini"], "rank": {"total": 68}, "bib": "113"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:59.0", "type": "MPA", "names": ["Janis Perschl"], "rank": {"total": 70}, "bib": "21"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:11:59.0", "type": "MPA", "names": ["Alessio Carcerano"], "rank": {"total": 69}, "bib": "28"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:05.0", "type": "MPA", "names": ["Alessio Bartoli"], "rank": {"total": 71}, "bib": "93"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:07.0", "type": "MPA", "names": ["Matjaž Rozman"], "rank": {"total": 72}, "bib": "18"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:11.0", "type": "MPA", "names": ["Alessandro Tortora"], "rank": {"total": 73}, "bib": "92"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:20.0", "type": "MPA", "names": ["Giovanni Facchinelli"], "rank": {"total": 74}, "bib": "56"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:21.0", "type": "MPA", "names": ["Nicola Collotta"], "rank": {"total": 75}, "bib": "74"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:25.0", "type": "MPA", "names": ["Massimiliano Zanetti"], "rank": {"total": 77}, "bib": "44"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:25.0", "type": "MPA", "names": ["Leonardo Degasperi"], "rank": {"total": 76}, "bib": "53"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:26.0", "type": "MPA", "names": ["Fabrizio Maffei"], "rank": {"total": 78}, "bib": "54"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:27.0", "type": "MPA", "names": ["Stefano Verones"], "rank": {"total": 79}, "bib": "55"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:28.0", "type": "MPA", "names": ["Nicola Debiasi"], "rank": {"total": 81}, "bib": "121"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:28.0", "type": "MPA", "names": ["Nico Mencarelli"], "rank": {"total": 80}, "bib": "62"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:33.0", "type": "MPA", "names": ["Filippo Allibardi"], "rank": {"total": 82}, "bib": "87"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:35.0", "type": "MPA", "names": ["Andrea Leonardi"], "rank": {"total": 83}, "bib": "73"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:39.0", "type": "MPA", "names": ["Jaka Stare"], "rank": {"total": 84}, "bib": "19"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:41.0", "type": "MPA", "names": ["Fabian Promutico"], "rank": {"total": 85}, "bib": "35"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:48.0", "type": "MPA", "names": ["Oliver Böhr"], "rank": {"total": 86}, "bib": "17"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:12:55.0", "type": "MPA", "names": ["Mirco Lageder"], "rank": {"total": 87}, "bib": "153"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:04.0", "type": "MPA", "names": ["Sandra Santoni"], "rank": {"total": 88}, "bib": "142"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:06.0", "type": "MPA", "names": ["Anže Pavlovič"], "rank": {"total": 89}, "bib": "112"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:12.0", "type": "MPA", "names": ["Dominik Przybilla"], "rank": {"total": 90}, "bib": "100"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:12.0", "type": "MPA", "names": ["Maurizio Stoppini"], "rank": {"total": 91}, "bib": "117"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:13.0", "type": "MPA", "names": ["Julian Scarabellin"], "rank": {"total": 92}, "bib": "145"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:14.0", "type": "MPA", "names": ["Ivan Nocera"], "rank": {"total": 93}, "bib": "97"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:18.0", "type": "MPA", "names": ["Luca Falvo"], "rank": {"total": 94}, "bib": "47"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:20.0", "type": "MPA", "names": ["Nicolo' Libardoni"], "rank": {"total": 95}, "bib": "104"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:21.0", "type": "MPA", "names": ["Massimo Segala"], "rank": {"total": 97}, "bib": "135"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:21.0", "type": "MPA", "names": ["Giuseppe Costantino"], "rank": {"total": 96}, "bib": "154"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:28.0", "type": "MPA", "names": ["Gianluca Faes"], "rank": {"total": 98}, "bib": "70"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:29.0", "type": "MPA", "names": ["Michele Biasiolli"], "rank": {"total": 99}, "bib": "134"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:33.0", "type": "MPA", "names": ["Niklas Krauss"], "rank": {"total": 100}, "bib": "156"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:40.0", "type": "MPA", "names": ["Andreas Ostermann"], "rank": {"total": 101}, "bib": "99"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:13:50.0", "type": "MPA", "names": ["Günther Hindelang"], "rank": {"total": 102}, "bib": "75"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:04.0", "type": "MPA", "names": ["Giulia Martini"], "rank": {"total": 103}, "bib": "86"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:05.0", "type": "MPA", "names": ["Roberto Boroni"], "rank": {"total": 104}, "bib": "102"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:07.0", "type": "MPA", "names": ["Matteo Zumiani"], "rank": {"total": 105}, "bib": "118"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:12.0", "type": "MPA", "names": ["Nicola Dalledonne"], "rank": {"total": 106}, "bib": "114"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:18.0", "type": "MPA", "names": ["Daniel Driesslein"], "rank": {"total": 107}, "bib": "124"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:36.0", "type": "MPA", "names": ["Federico Brognoli"], "rank": {"total": 108}, "bib": "66"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:42.0", "type": "MPA", "names": ["Luca Testor"], "rank": {"total": 109}, "bib": "81"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:46.0", "type": "MPA", "names": ["Michele Casagranda"], "rank": {"total": 110}, "bib": "72"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:55.0", "type": "MPA", "names": ["Leonardo Failo"], "rank": {"total": 111}, "bib": "71"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:14:57.0", "type": "MPA", "names": ["Simone Rospocher"], "rank": {"total": 112}, "bib": "49"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:11.0", "type": "MPA", "names": ["Zeshan Iqbal"], "rank": {"total": 114}, "bib": "115"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:11.0", "type": "MPA", "names": ["Tomas Curzel"], "rank": {"total": 113}, "bib": "80"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:16.0", "type": "MPA", "names": ["Giulia Nistri"], "rank": {"total": 115}, "bib": "40"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:31.0", "type": "MPA", "names": ["Emil Gottardi"], "rank": {"total": 116}, "bib": "133"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:31.0", "type": "MPA", "names": ["Andrea Sarti"], "rank": {"total": 117}, "bib": "7"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:33.0", "type": "MPA", "names": ["Marco Ognibeni"], "rank": {"total": 119}, "bib": "131"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:15:33.0", "type": "MPA", "names": ["Leonardo Albarello"], "rank": {"total": 118}, "bib": "95"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:16:03.0", "type": "MPA", "names": ["Daniele Lucia Di"], "rank": {"total": 120}, "bib": "8"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:16:05.0", "type": "MPA", "names": ["Cristopher Ciullo"], "rank": {"total": 121}, "bib": "89"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:16:13.0", "type": "MPA", "names": ["Samuele Santelli"], "rank": {"total": 122}, "bib": "51"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:16:18.0", "type": "MPA", "names": ["Giorgio Amistadi"], "rank": {"total": 123}, "bib": "6"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:16:28.0", "type": "MPA", "names": ["Michaela Böhr"], "rank": {"total": 124}, "bib": "98"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:16:59.0", "type": "MPA", "names": ["Leonhard Thums"], "rank": {"total": 125}, "bib": "125"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:17:32.0", "type": "MPA", "names": ["Fabio Russo"], "rank": {"total": 126}, "bib": "85"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:18:19.0", "type": "MPA", "names": ["Luca Maran"], "rank": {"total": 127}, "bib": "108"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:19:05.0", "type": "MPA", "names": ["Sara Minoletti"], "rank": {"total": 128}, "bib": "106"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:21:06.0", "type": "MPA", "names": ["Francesca Nicolodi"], "rank": {"total": 129}, "bib": "141"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:21:18.0", "type": "MPA", "names": ["Carlotta Spezia"], "rank": {"total": 130}, "bib": "128"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:21:54.0", "type": "MPA", "names": ["Marco Fontana"], "rank": {"total": 131}, "bib": "122"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:22:01.0", "type": "MPA", "names": ["Luca Cavarero"], "rank": {"total": 132}, "bib": "36"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:22:25.0", "type": "MPA", "names": ["Matthias Nastvogel"], "rank": {"total": 133}, "bib": "50"}
+{"date": "2023-10-01", "competition_id": "recPMv3VbrxEYrHSQ", "duration": "00:33:05.0", "type": "MPA", "names": ["Eleonora Fedrizzi"], "rank": {"total": 134}, "bib": "155"}

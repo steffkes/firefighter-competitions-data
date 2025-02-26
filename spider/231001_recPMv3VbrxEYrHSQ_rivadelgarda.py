@@ -28,7 +28,6 @@ class CompetitionSpider(Spider):
                 competition_id=self.competition_id,
                 duration=row["Time"] + ".0",
                 type="MPA",
-                category=None,
                 names=[self.fixName(row["Name"])],
                 rank=ResultRankItem(total=int(row["Position"])),
                 bib=row["BIB"],

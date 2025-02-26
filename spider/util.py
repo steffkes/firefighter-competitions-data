@@ -307,6 +307,7 @@ class FccSpider(Spider):
         for target_id, category in [
             ("TF", "W tandem"),
             ("TM", "M tandem"),
+            ("TMIX", "X tandem"),
             ("RV", "relay"),
         ]:
             for row in response.css(

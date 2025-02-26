@@ -2,6 +2,7 @@ from util import Spider, ParticipantItem, ResultItem, ResultRankItem
 from datetime import datetime
 import scrapy
 import itertools
+import re
 
 
 class CompetitionSpider(Spider):
@@ -93,8 +94,8 @@ class CompetitionSpider(Spider):
                 competition_id=self.competition_id,
                 type=competition_type,
                 duration=self.fixDuration(team_duration),
-                category=team_category,
                 names=sorted(map(fixName, [name1, name2, name3])),
+                category=team_category,
                 rank=ResultRankItem(total=int(rank_team)),
                 bib=bib1.split("-")[0],
             )
@@ -112,9 +113,9 @@ class CompetitionSpider(Spider):
                     competition_id=self.competition_id,
                     type=competition_type,
                     duration=self.fixDuration(duration),
+                    names=[fixName(name)],
                     category=category,
                     age_group=age_group,
-                    names=[fixName(name)],
                     bib=bib,
                 )
                 results.append(result)

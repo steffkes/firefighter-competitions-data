@@ -5,6 +5,7 @@ import re
 
 class CompetitionSpider(Spider):
     name = __name__
+    event_id = 18
 
     @staticmethod
     def fixName(name):
@@ -23,7 +24,9 @@ class CompetitionSpider(Spider):
     def parse_single(self, response):
         ranks = {"category": {}, "age_group": {}}
         for row in response.css(
-            "div[data-targetid='overall'][data-target='results-18'] table tbody tr"
+            "div[data-targetid='overall'][data-target='results-{}'] table tbody tr".format(
+                self.event_id
+            )
         ):
             if row.css(".place::text").get() in ["DSQ", "DNS"]:
                 continue
@@ -55,14 +58,15 @@ class CompetitionSpider(Spider):
             ranks["age_group"][age_group] = rank_age_group + 1
 
     def parse_teams(self, response):
-        for target, category in [
+        for target_id, category in [
             ("TF", "W tandem"),
             ("TM", "M tandem"),
             ("RV", "relay"),
         ]:
             for row in response.css(
-                "div[data-targetid='%s'][data-target='results-18'] table tbody tr"
-                % target,
+                "div[data-targetid='{}'][data-target='results-{}'] table tbody tr".format(
+                    target_id, self.event_id
+                )
             ):
                 if row.css(".place::text").get() in ["DSQ", "DNS"]:
                     continue

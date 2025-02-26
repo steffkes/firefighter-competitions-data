@@ -233,6 +233,8 @@ class FirefitSpider(Spider):
 
 class FccSpider(Spider):
     event_day_ids = []
+    age_group_fallback = None
+
     @staticmethod
     def fixName(name):
         return re.sub(r"\s+", " ", name.strip())
@@ -279,7 +281,7 @@ class FccSpider(Spider):
             if row.css(".place::text").get() in ["DSQ", "DNS"]:
                 continue
 
-            age_group = row.css(".ageclass::text").get()
+            age_group = row.css(".ageclass::text").get() or self.age_group_fallback
             category = "%s individual" % age_group[0].upper()
 
             rank_total = ranks.get("total", 1)

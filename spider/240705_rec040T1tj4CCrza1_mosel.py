@@ -6,6 +6,10 @@ import re
 class CompetitionSpider(Spider):
     name = __name__
 
+    @staticmethod
+    def fixName(name):
+        return re.sub(r"\s+", " ", name.strip())
+
     def start_requests(self):
         yield scrapy.FormRequest(
             method="GET",
@@ -19,8 +23,6 @@ class CompetitionSpider(Spider):
         )
 
     def parse_starters(self, response):
-        cleanName = lambda name: re.sub(r"\s+", " ", name.strip())
-
         for row in response.css("table[data-eventdayid='34'] tr"):
             entry = row.css("td:nth-child(3)::text").get()
 
@@ -29,7 +31,7 @@ class CompetitionSpider(Spider):
 
             yield ParticipantItem(
                 competition_id=self.competition_id,
-                names=sorted(map(cleanName, entry.split(","))),
+                names=sorted(map(self.fixName, entry.split(","))),
             )
 
         for row in response.css("table[data-eventdayid='35'] tr"):
@@ -40,7 +42,7 @@ class CompetitionSpider(Spider):
 
             yield ParticipantItem(
                 competition_id=self.competition_id,
-                names=sorted(map(cleanName, entry.split(","))),
+                names=sorted(map(self.fixName, entry.split(","))),
             )
 
         for row in response.css("table[data-eventdayid='36'] tr"):
@@ -51,12 +53,10 @@ class CompetitionSpider(Spider):
 
             yield ParticipantItem(
                 competition_id=self.competition_id,
-                names=sorted(map(cleanName, entry.split(","))),
+                names=sorted(map(self.fixName, entry.split(","))),
             )
 
     def parse(self, response):
-        fixName = lambda name: self.fixName(re.sub(r"\s+", " ", name.strip()))
-
         ranks = {"category": {}, "age_group": {}}
         for row in response.css(
             "div[data-targetid='overall'][data-target='results-17'] table tbody tr"
@@ -101,7 +101,9 @@ class CompetitionSpider(Spider):
                 competition_id=self.competition_id,
                 type="OPA",
                 duration=self.fixDuration(row.css(".totaltime::text").get()),
-                names=sorted(map(fixName, row.css(".member::text").get().split(","))),
+                names=sorted(
+                    map(self.fixName, row.css(".member::text").get().split(","))
+                ),
                 category="W tandem",
                 rank=ResultRankItem(category=int(row.css(".place::text").get())),
             )
@@ -117,7 +119,9 @@ class CompetitionSpider(Spider):
                 competition_id=self.competition_id,
                 type="OPA",
                 duration=self.fixDuration(row.css(".totaltime::text").get()),
-                names=sorted(map(fixName, row.css(".member::text").get().split(","))),
+                names=sorted(
+                    map(self.fixName, row.css(".member::text").get().split(","))
+                ),
                 category="M tandem",
                 rank=ResultRankItem(category=int(row.css(".place::text").get())),
             )
@@ -133,7 +137,9 @@ class CompetitionSpider(Spider):
                 competition_id=self.competition_id,
                 type="OPA",
                 duration=self.fixDuration(row.css(".totaltime::text").get()),
-                names=sorted(map(fixName, row.css(".member::text").get().split(","))),
+                names=sorted(
+                    map(self.fixName, row.css(".member::text").get().split(","))
+                ),
                 category="relay",
                 rank=ResultRankItem(category=int(row.css(".place::text").get())),
             )

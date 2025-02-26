@@ -17,6 +17,10 @@ class CompetitionSpider(Spider):
         )
 
     def parse(self, response):
+        yield from self.parse_single(response)
+        yield from self.parse_teams(response)
+
+    def parse_single(self, response):
         ranks = {"category": {}, "age_group": {}}
         for row in response.css(
             "div[data-targetid='overall'][data-target='results-18'] table tbody tr"
@@ -50,56 +54,27 @@ class CompetitionSpider(Spider):
             ranks["category"][category] = rank_category + 1
             ranks["age_group"][age_group] = rank_age_group + 1
 
-        for row in response.css(
-            "div[data-targetid='TF'][data-target='results-18'] table tbody tr"
-        ):
-            if row.css(".place::text").get() in ["DSQ", "DNS"]:
-                continue
+    def parse_teams(self, response):
+        for target, category in [
+            ("TF", "W tandem"),
+            ("TM", "M tandem"),
+            ("RV", "relay"),
+        ]:
+            for row in response.css(
+                "div[data-targetid='%s'][data-target='results-18'] table tbody tr"
+                % target,
+            ):
+                if row.css(".place::text").get() in ["DSQ", "DNS"]:
+                    continue
 
-            yield ResultItem(
-                date=self.race_date,
-                competition_id=self.competition_id,
-                type="OPA",
-                duration=self.fixDuration(row.css(".totaltime::text").get()),
-                names=sorted(
-                    map(self.fixName, row.css(".member::text").get().split(","))
-                ),
-                category="W tandem",
-                rank=ResultRankItem(category=int(row.css(".place::text").get())),
-            )
-
-        for row in response.css(
-            "div[data-targetid='TM'][data-target='results-18'] table tbody tr"
-        ):
-            if row.css(".place::text").get() in ["DSQ", "DNS"]:
-                continue
-
-            yield ResultItem(
-                date=self.race_date,
-                competition_id=self.competition_id,
-                type="OPA",
-                duration=self.fixDuration(row.css(".totaltime::text").get()),
-                names=sorted(
-                    map(self.fixName, row.css(".member::text").get().split(","))
-                ),
-                category="M tandem",
-                rank=ResultRankItem(category=int(row.css(".place::text").get())),
-            )
-
-        for row in response.css(
-            "div[data-targetid='RV'][data-target='results-18'] table tbody tr"
-        ):
-            if row.css(".place::text").get() in ["DSQ", "DNS"]:
-                continue
-
-            yield ResultItem(
-                date=self.race_date,
-                competition_id=self.competition_id,
-                type="OPA",
-                duration=self.fixDuration(row.css(".totaltime::text").get()),
-                names=sorted(
-                    map(self.fixName, row.css(".member::text").get().split(","))
-                ),
-                category="relay",
-                rank=ResultRankItem(category=int(row.css(".place::text").get())),
-            )
+                yield ResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    type="OPA",
+                    duration=self.fixDuration(row.css(".totaltime::text").get()),
+                    names=sorted(
+                        map(self.fixName, row.css(".member::text").get().split(","))
+                    ),
+                    category=category,
+                    rank=ResultRankItem(category=int(row.css(".place::text").get())),
+                )

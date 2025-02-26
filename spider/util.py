@@ -239,8 +239,29 @@ class FccSpider(Spider):
     def start_requests(self):
         yield scrapy.FormRequest(
             method="GET",
+            url="https://www.firefighter-challenge-germany.de/combat-challenge/registrierungsliste/",
+            callback=self.parse_starters,
+        )
+
+        yield scrapy.FormRequest(
+            method="GET",
             url="https://www.firefighter-challenge-germany.de/ergebnisse/",
         )
+
+    def parse_starters(self, response):
+        for event_day_id in self.event_day_ids:
+            for row in response.css(
+                "table[data-eventdayid='{}'] tr".format(event_day_id)
+            ):
+                entry = row.css("td:nth-child(3)::text").get()
+
+                if not entry:
+                    continue
+
+                yield ParticipantItem(
+                    competition_id=self.competition_id,
+                    names=sorted(map(self.fixName, entry.split(","))),
+                )
 
     def parse(self, response):
         yield from self.parse_single(response)

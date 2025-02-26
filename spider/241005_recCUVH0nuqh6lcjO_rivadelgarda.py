@@ -34,8 +34,7 @@ class CompetitionSpider(Spider):
         if raw_duration == "Squalificato":
             return None
 
-        return re.sub(r"^(00)h(\d{2})'(\d{2}),(\d)\d*$", r"\1:\2:\3.\4", raw_duration)
-
+        return Spider.fixDuration(raw_duration)
 
     def start_requests(self):
         yield scrapy.FormRequest(
@@ -86,8 +85,6 @@ import pytest
     "input,output",
     [
         ("00h07'23,4", "00:07:23.4"),
-        ("00h08'52,3", "00:08:52.3"),
-        ("00h12'49,6", "00:12:49.6"),
         ("Squalificato", None),
     ],
 )

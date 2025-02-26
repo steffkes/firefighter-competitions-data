@@ -3375,6 +3375,30 @@
         }
     },
     {
+        "id": "recrMkTawpkCCSRBl",
+        "kind": "FCC",
+        "name": "Höinger Firefighter Challenge",
+        "url": "http://hfc.feuerwehr-ense.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-04-26",
+            "end": "2025-04-26",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ense",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.4850239,
+                "lng": 7.9741183
+            }
+        }
+    },
+    {
         "id": "rec3gmKvkR7p38b0I",
         "kind": "FSR",
         "name": "Treppenlauf Radebeul",
@@ -3522,7 +3546,7 @@
         "id": "rec7LjyDM30EEliVH",
         "kind": "FSR",
         "name": "SkyRun MesseTurm Frankfurt",
-        "url": "https://www.arquelauf.de/skyrun/",
+        "url": "https://my.raceresult.com/323081",
         "participants": {
             "count": null
         },
@@ -3531,7 +3555,7 @@
             "end": "2025-06-01",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2025-02-26T23:00:00.000Z"
         },
         "location": {
             "city": "Frankfurt",

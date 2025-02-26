@@ -65,7 +65,7 @@ class CompetitionSpider(Spider):
                 continue
 
             age_group = row.css(".ageclass::text").get()
-            category = age_group[0].upper()
+            category = "%s individual" % age_group[0].upper()
 
             rank_total = ranks.get("total", 1)
             rank_category = ranks["category"].get(category, 1)

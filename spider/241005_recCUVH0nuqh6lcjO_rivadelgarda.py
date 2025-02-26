@@ -29,6 +29,14 @@ class CompetitionSpider(Spider):
 
         return nameMappings.get(fixed, fixed)
 
+    @staticmethod
+    def fixDuration(raw_duration):
+        if raw_duration == "Squalificato":
+            return None
+
+        return re.sub(r"^(00)h(\d{2})'(\d{2}),(\d)\d*$", r"\1:\2:\3.\4", raw_duration)
+
+
     def start_requests(self):
         yield scrapy.FormRequest(
             method="GET",
@@ -46,7 +54,7 @@ class CompetitionSpider(Spider):
         for result in response.css("Resultats R"):
             entry = entries[result.attrib["d"]]
 
-            duration = fixDuration(result.attrib["t"])
+            duration = self.fixDuration(result.attrib["t"])
             bib = result.attrib["d"]
             category = {"M": "M", "F": "W"}.get(entry.attrib["x"])
 
@@ -71,16 +79,6 @@ class CompetitionSpider(Spider):
             self.ranks["category"][category] = rank_category + 1
 
 
-import re
-
-
-def fixDuration(raw_duration):
-    if raw_duration == "Squalificato":
-        return None
-
-    return re.sub(r"^(00)h(\d{2})'(\d{2}),(\d)\d*$", r"\1:\2:\3.\4", raw_duration)
-
-
 import pytest
 
 
@@ -94,7 +92,7 @@ import pytest
     ],
 )
 def test_fixDuration(input, output):
-    assert fixDuration(input) == output
+    assert CompetitionSpider.fixDuration(input) == output
 
 
 @pytest.mark.parametrize(

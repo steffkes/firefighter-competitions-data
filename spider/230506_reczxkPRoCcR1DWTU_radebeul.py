@@ -8,6 +8,8 @@ from util import (
     ResultRankItem,
 )
 
+changedParticipants = {"Stefan Mattheis": "Stefan Matheis"}
+
 
 class Spider(scrapy.Spider):
     name = __name__
@@ -77,7 +79,7 @@ class Spider(scrapy.Spider):
                 competition_id=self.competition_id,
                 type="MPA",
                 duration=duration,
-                names=[name],
+                names=[changedParticipants.get(name, name)],
                 category=category,
                 rank=ResultRankItem(total=rank_total, category=rank_category),
             )

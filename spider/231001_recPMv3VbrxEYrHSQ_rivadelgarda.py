@@ -29,5 +29,6 @@ class CompetitionSpider(Spider):
                 type="MPA",
                 category=None,
                 names=[" ".join(names)],
+                rank=ResultRankItem(total=int(row["Position"])),
                 bib=row["BIB"],
             )

@@ -1,5 +1,6 @@
 from util import Spider, ParticipantItem, ResultItem, ResultRankItem
 import scrapy
+import re
 
 nameMappings = {"Hindelang Günther": "Günther Hindelang"}
 
@@ -8,6 +9,25 @@ class CompetitionSpider(Spider):
     name = __name__
 
     ranks = {"total": 1, "category": {"M": 1, "W": 1}}
+
+    @staticmethod
+    def fixName(name):
+        [firstname, lastname] = reversed(
+            list(map(lambda str: str.strip(), name.split("\xa0")))
+        )
+
+        fixed = " ".join(
+            [
+                firstname,
+                re.sub(
+                    r"^(.)(.+)$",
+                    lambda match: "%s%s" % (match.group(1), match.group(2).lower()),
+                    lastname,
+                ),
+            ]
+        )
+
+        return nameMappings.get(fixed, fixed)
 
     def start_requests(self):
         yield scrapy.FormRequest(
@@ -39,7 +59,7 @@ class CompetitionSpider(Spider):
                 duration=duration,
                 type="MPA",
                 category=category,
-                names=[fixName(entry.attrib["n"])],
+                names=[self.fixName(entry.attrib["n"])],
                 rank=ResultRankItem(
                     total=self.ranks["total"], category=self.ranks["category"][category]
                 ),
@@ -58,25 +78,6 @@ def fixDuration(raw_duration):
         return None
 
     return re.sub(r"^(00)h(\d{2})'(\d{2}),(\d)\d*$", r"\1:\2:\3.\4", raw_duration)
-
-
-def fixName(name):
-    [firstname, lastname] = reversed(
-        list(map(lambda str: str.strip(), name.split("\xa0")))
-    )
-
-    fixed = " ".join(
-        [
-            firstname,
-            re.sub(
-                r"^(.)(.+)$",
-                lambda match: "%s%s" % (match.group(1), match.group(2).lower()),
-                lastname,
-            ),
-        ]
-    )
-
-    return nameMappings.get(fixed, fixed)
 
 
 import pytest
@@ -105,4 +106,4 @@ def test_fixDuration(input, output):
     ],
 )
 def test_fixName(input, output):
-    assert fixName(input) == output
+    assert CompetitionSpider.fixName(input) == output

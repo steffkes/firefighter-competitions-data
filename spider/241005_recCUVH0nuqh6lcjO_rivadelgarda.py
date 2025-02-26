@@ -8,7 +8,7 @@ nameMappings = {"Hindelang Günther": "Günther Hindelang"}
 class CompetitionSpider(Spider):
     name = __name__
 
-    ranks = {"total": 1, "category": {"M": 1, "W": 1}}
+    ranks = {"category": {}}
 
     @staticmethod
     def fixName(name):
@@ -53,6 +53,9 @@ class CompetitionSpider(Spider):
             if not duration:
                 continue
 
+            rank_total = self.ranks.get("total", 1)
+            rank_category = self.ranks["category"].get(category, 1)
+
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
@@ -60,14 +63,12 @@ class CompetitionSpider(Spider):
                 type="MPA",
                 category=category,
                 names=[self.fixName(entry.attrib["n"])],
-                rank=ResultRankItem(
-                    total=self.ranks["total"], category=self.ranks["category"][category]
-                ),
+                rank=ResultRankItem(total=rank_total, category=rank_category),
                 bib=bib,
             )
 
-            self.ranks["total"] += 1
-            self.ranks["category"][category] += 1
+            self.ranks["total"] = rank_total + 1
+            self.ranks["category"][category] = rank_category + 1
 
 
 import re

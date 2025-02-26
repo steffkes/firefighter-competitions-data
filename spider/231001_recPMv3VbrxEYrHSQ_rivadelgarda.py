@@ -9,9 +9,10 @@ class CompetitionSpider(Spider):
 
     @staticmethod
     def fixName(name):
-        [firstname, *lastname] = reversed(name.split(" "))
-        names = map(lambda str: str[0] + str[1:].lower(), [firstname, *lastname])
-        return " ".join(names)
+        [*lastname, firstname] = name.split(" ")
+        return " ".join(
+            map(lambda str: str[0] + str[1:].lower(), [firstname, *lastname])
+        )
 
     def start_requests(self):
         yield scrapy.Request(
@@ -41,7 +42,7 @@ import pytest
     "input,output",
     [
         ("MATHEIS STEFAN", "Stefan Matheis"),
-        ("DAL FARRA ENRICO", "Enrico Farra Dal"),
+        ("DAL FARRA ENRICO", "Enrico Dal Farra"),
         ("MOOZ LUKÁŠ", "Lukáš Mooz"),
     ],
 )

@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-27T11:11:39.623987",
+  "date": "2025-02-27T11:26:42.967405",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 27,
+  "count": 30,
   "teams": [
     [
       "Alexander Lang",
@@ -17,6 +17,11 @@
       "Dominik Thiel",
       "Stefan Matheis",
       "Tobias Diedrigkeit"
+    ],
+    [
+      "Florian Erlenmaier",
+      "Julian Reichhold",
+      "Roman Reichhold"
     ],
     [
       "Jan Sven Dumbeck",

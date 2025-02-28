@@ -18,8 +18,8 @@ class Spider(scrapy.Spider):
     competition_id = __name__.split("_")[1]
     ident = __name__[0:24]
 
-    race_id = "271276"
-    race_key = "353bdf54f57af48fa0d1af824aa6e860"
+    race_id = "309460"
+    race_key = "56a60c6e165f85306496963612462b2f"
 
     ranks = {"category": {}}
 

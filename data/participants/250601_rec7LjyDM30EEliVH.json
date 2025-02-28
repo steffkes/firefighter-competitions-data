@@ -1,7 +1,7 @@
 {
-  "date": "2025-02-28T11:11:46.023740",
+  "date": "2025-02-28T11:26:32.406817",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 39,
+  "count": 42,
   "teams": [
     [
       "Alexander Lang",
@@ -27,6 +27,11 @@
       "Dominik Thiel",
       "Stefan Matheis",
       "Tobias Diedrigkeit"
+    ],
+    [
+      "Dorian Pfaff",
+      "Milan Rohrbach",
+      "Tobias Diener"
     ],
     [
       "Florian Erlenmaier",

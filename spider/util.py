@@ -335,6 +335,83 @@ class FccSpider(Spider):
                 )
 
 
+class BadWildbadSpider(Spider):
+    ranks = {"category": {}}
+
+    def start_requests(self):
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "Online|Teilnehmerliste ABC",
+                "contest": "3",
+            },
+            callback=self.parse_starters,
+        )
+
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "Online|Zieleinlaufliste",
+                "contest": "3",
+            },
+        )
+
+    def parse_starters(self, response):
+        fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
+
+        for [
+            _bib,
+            _bib2,
+            name,
+            _nationality,
+            _byear,
+            _gender,
+            _category,
+            _team,
+            _empty,
+        ] in (response.json()["data"] or {}).get("#1_Feuerwehr-Stäffeleslauf", []):
+            yield ParticipantItem(
+                competition_id=self.competition_id, names=[fixName(name)]
+            )
+
+    def parse(self, response):
+        for [
+            bib,
+            _bib2,
+            _rank,
+            name,
+            _nationality,
+            _byear,
+            category,
+            _gender_full,
+            team,
+            raw_duration,
+            _time_difference,
+        ] in (response.json()["data"] or {}).get("#1_Feuerwehr-Stäffeleslauf", []):
+            duration = "00:%s.0" % raw_duration
+
+            rank_total = self.ranks.get("total", 1)
+            rank_category = self.ranks["category"].get(category, 1)
+
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                type="OPA",
+                duration=duration,
+                names=[name],
+                category=category,
+                rank=ResultRankItem(total=rank_total, category=rank_category),
+                bib=bib,
+            )
+
+            self.ranks["total"] = rank_total + 1
+            self.ranks["category"][category] = rank_category + 1
+
+
 import pytest
 
 

@@ -1,8 +1,14 @@
 {
-  "date": "2025-03-01T08:46:26.086360",
+  "date": "2025-03-01T08:54:39.935723",
   "competition_id": "recgIRb0V7cLIbshX",
-  "count": 17,
+  "count": 22,
   "teams": [
+    [
+      "Christian Lörcher"
+    ],
+    [
+      "Felix Mayer"
+    ],
     [
       "Freddy Reich"
     ],
@@ -16,10 +22,16 @@
       "Jens Bader"
     ],
     [
+      "Jens Kleinert"
+    ],
+    [
       "Jost Claßen"
     ],
     [
       "Jörg Weimer"
+    ],
+    [
+      "Kai Klaiber"
     ],
     [
       "Kalle Müller"
@@ -38,6 +50,9 @@
     ],
     [
       "Nick Genz"
+    ],
+    [
+      "Petra Koch"
     ],
     [
       "Ruben Heinzelmann"

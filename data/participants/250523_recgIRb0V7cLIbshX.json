@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-01T21:12:06.660512",
+  "date": "2025-03-01T21:29:10.580909",
   "competition_id": "recgIRb0V7cLIbshX",
-  "count": 27,
+  "count": 29,
   "teams": [
     [
       "Albrecht Gutjahr"
@@ -46,6 +46,9 @@
       "Louisa Wein"
     ],
     [
+      "Manuel Knoll"
+    ],
+    [
       "Marc Becker"
     ],
     [
@@ -83,6 +86,9 @@
     ],
     [
       "Tobias Alber"
+    ],
+    [
+      "Tristan Burkhardt"
     ]
   ]
 }

@@ -3687,6 +3687,27 @@
         }
     },
     {
+        "id": "recYFTEtSxRAUPOt7",
+        "kind": "FCC",
+        "name": "Firefighter Challenge Slovenia",
+        "url": "https://firefighter-challenge-slovenia.si/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-06-27",
+            "end": "2025-06-29",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": null,
+            "country_code": "SI",
+            "coordinates": null
+        }
+    },
+    {
         "id": "recJ1lklfmgyvij7a",
         "kind": "FCC",
         "name": "Mengener Feuerwehrwettkampf",
@@ -3767,7 +3788,7 @@
             "count": null
         },
         "date": {
-            "start": "2025-07-18",
+            "start": "2025-07-19",
             "end": "2025-07-20",
             "is_draft": null,
             "is_canceled": null,
@@ -3951,30 +3972,6 @@
         }
     },
     {
-        "id": "recWftiqj9uXljQY9",
-        "kind": "FCC",
-        "name": "Firefighter Combat Challenge",
-        "url": "https://www.firefighter-challenge-germany.de",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2025-09-13",
-            "end": "2025-09-14",
-            "is_draft": true,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Berlin",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 52.5170365,
-                "lng": 13.3888599
-            }
-        }
-    },
-    {
         "id": "reczDUPUd3QCRSGFr",
         "kind": "FSR",
         "name": "Towerrun Mainz",
@@ -4139,6 +4136,30 @@
             "coordinates": {
                 "lat": 50.8816904,
                 "lng": 12.1321235
+            }
+        }
+    },
+    {
+        "id": "recWftiqj9uXljQY9",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge",
+        "url": "https://www.firefighter-challenge-germany.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-10-10",
+            "end": "2025-10-11",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.5170365,
+                "lng": 13.3888599
             }
         }
     },

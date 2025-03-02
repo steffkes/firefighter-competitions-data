@@ -3529,7 +3529,7 @@
         "date": {
             "start": "2025-05-17",
             "end": "2025-05-17",
-            "is_draft": true,
+            "is_draft": null,
             "is_canceled": null,
             "registration_opens": null
         },

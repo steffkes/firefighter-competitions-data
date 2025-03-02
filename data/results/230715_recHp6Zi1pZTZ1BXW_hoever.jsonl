@@ -86,7 +86,7 @@
 {"date": "2023-07-15", "competition_id": "recHp6Zi1pZTZ1BXW", "type": "MPA", "duration": "00:02:11.3", "names": ["Jan-Nick Rische"], "category": "M individual", "age_group": "M", "rank": {"total": 37, "category": 37, "age_group": 10}}
 {"date": "2023-07-15", "competition_id": "recHp6Zi1pZTZ1BXW", "type": "MPA", "duration": "00:02:11.5", "names": ["Mathias Hey"], "category": "M individual", "age_group": "M30", "rank": {"total": 38, "category": 38, "age_group": 20}}
 {"date": "2023-07-15", "competition_id": "recHp6Zi1pZTZ1BXW", "type": "OPA", "duration": "00:02:11.7", "names": ["Anna Janssen", "Robin Müller"], "category": "X tandem", "rank": {"category": 10}}
-{"date": "2023-07-15", "competition_id": "recHp6Zi1pZTZ1BXW", "type": "OPA", "duration": "00:02:11.7", "names": [""], "category": "relay", "rank": {"category": 18}}
+{"date": "2023-07-15", "competition_id": "recHp6Zi1pZTZ1BXW", "type": "OPA", "duration": "00:02:11.7", "names": [], "category": "relay", "rank": {"category": 18}}
 {"date": "2023-07-15", "competition_id": "recHp6Zi1pZTZ1BXW", "type": "OPA", "duration": "00:02:11.7", "names": ["Erik Hoffmeister", "Hans-Jürgen Vogt", "Jörg-Sven Winkler", "Oliver Göllnitz"], "category": "relay", "rank": {"category": 19}}
 {"date": "2023-07-15", "competition_id": "recHp6Zi1pZTZ1BXW", "type": "MPA", "duration": "00:02:12.2", "names": ["Alexander Sader"], "category": "M individual", "age_group": "M30", "rank": {"total": 39, "category": 39, "age_group": 21}}
 {"date": "2023-07-15", "competition_id": "recHp6Zi1pZTZ1BXW", "type": "MPA", "duration": "00:02:12.4", "names": ["Marco Gebhardt"], "category": "M individual", "age_group": "M50", "rank": {"total": 40, "category": 40, "age_group": 3}}

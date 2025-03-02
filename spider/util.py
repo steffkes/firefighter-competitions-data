@@ -328,7 +328,12 @@ class FccSpider(Spider):
                     type="OPA",
                     duration=self.fixDuration(row.css(".totaltime::text").get()),
                     names=sorted(
-                        map(self.fixName, row.css(".member::text").get().split(","))
+                        filter(
+                            bool,
+                            map(
+                                self.fixName, row.css(".member::text").get().split(",")
+                            ),
+                        )
                     ),
                     category=category,
                     rank=ResultRankItem(category=int(row.css(".place::text").get())),

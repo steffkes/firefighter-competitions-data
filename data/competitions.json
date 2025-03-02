@@ -2847,6 +2847,30 @@
         }
     },
     {
+        "id": "recuVyJLujwYovxfn",
+        "kind": "FCC",
+        "name": "Firefighter Challenge Slovenia",
+        "url": "https://firefighter-challenge-slovenia.si/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-09-07",
+            "end": "2024-09-08",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Radovljica",
+            "country_code": "SI",
+            "coordinates": {
+                "lat": 46.353623,
+                "lng": 14.163749
+            }
+        }
+    },
+    {
         "id": "recSVTIVNI0UmxpeT",
         "kind": "FSR",
         "name": "Pyramidenkogel Turmlauf",

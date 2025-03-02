@@ -3828,6 +3828,27 @@
         }
     },
     {
+        "id": "rechoK8QzzMJP52ZY",
+        "kind": "FCC",
+        "name": "British Firefighter Challenge",
+        "url": "https://www.britishfirefighterchallenge.co.uk/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-07-26",
+            "end": "2025-07-27",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Watford",
+            "country_code": "GB",
+            "coordinates": null
+        }
+    },
+    {
         "id": "recTWmxAzBKWWfpvg",
         "kind": "FSR",
         "name": "Nordschwarzwald Trophy",

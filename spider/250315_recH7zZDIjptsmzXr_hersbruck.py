@@ -20,7 +20,10 @@ class CompetitionSpider(Spider):
         )
 
     def parse_starters(self, response):
-        for names in itertools.repeat([None], 60):
+        starter = ["Stefan Matheis", "Damian Pyka", "Jasmin Bohun", "Nicolas Faure"]
+        for names in list(map(lambda name: [name], starter)) + list(
+            itertools.repeat([None], 60 - len(starter))
+        ):
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=names,

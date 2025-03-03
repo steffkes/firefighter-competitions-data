@@ -52,7 +52,7 @@ class JsonItemExporter(BaseItemExporter):
 
         teams = sorted(
             map(lambda item: item["names"], self.items),
-            key=lambda entry: (len(entry), entry),
+            key=lambda names: (len(names), list(map(lambda name: name or "", names))),
         )
         data = {
             "date": datetime.now().isoformat(),

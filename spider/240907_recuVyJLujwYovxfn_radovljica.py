@@ -21,7 +21,7 @@ class CompetitionSpider(Spider):
                 continue
 
             age_group = entry["application"]["assignedCategory"]["label"][1:]
-            category = {"F": "W"}.get(age_group[0], age_group[0])
+            category = "%s individual" % {"F": "W"}.get(age_group[0], age_group[0])
 
             groups.append((category, age_group))
             entries.append(

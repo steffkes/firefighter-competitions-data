@@ -1,11 +1,8 @@
 {
-  "date": "2025-03-03T23:13:08.881845",
+  "date": "2025-03-03T23:26:00.281284",
   "competition_id": "recDQgPZf3fKZwQV1",
-  "count": 11,
+  "count": 12,
   "teams": [
-    [
-      "Karsten Neupert/ Kay Hain"
-    ],
     [
       "Christian Grüner",
       "Ingo Blut"
@@ -21,6 +18,10 @@
     [
       "Heene, Marc",
       "Strauß, Martin"
+    ],
+    [
+      "Karsten Neupert",
+      "Kay Hain"
     ],
     [
       "Matthias Schmidt",

@@ -52,5 +52,5 @@ class Spider(scrapy.Spider):
         for [_bib, _team, _gender, names] in response.json()["data"]:
             yield ParticipantItem(
                 competition_id=self.competition_id,
-                names=sorted(names.split(" / ")),
+                names=sorted(map(str.strip, names.split("/"))),
             )

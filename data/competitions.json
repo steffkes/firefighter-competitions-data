@@ -3404,7 +3404,7 @@
         "name": "Zwickauer Hochhaus Treppenlauf",
         "url": "https://my.raceresult.com/322261/info",
         "participants": {
-            "count": 12
+            "count": null
         },
         "date": {
             "start": "2025-04-13",
@@ -3572,7 +3572,7 @@
         "name": "alive step up",
         "url": "https://alive.si/",
         "participants": {
-            "count": 158
+            "count": 159
         },
         "date": {
             "start": "2025-05-17",

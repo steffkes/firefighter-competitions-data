@@ -7,6 +7,17 @@ class CompetitionSpider(Spider):
     name = __name__
 
     def start_requests(self):
+        def categoryAgeGroupTandem(entry):
+            raw_age_group = entry["application"]["assignedCategory"]["label"][1:]
+            category = "%s tandem" % {"F": "W", "MX": "X"}.get(
+                raw_age_group, raw_age_group[0]
+            )
+            age_group = raw_age_group if category == "M tandem" else None
+            return (category, age_group)
+
+        def categoryAgeGroupRelay(entry):
+            return ("relay", None)
+
         yield scrapy.FormRequest(
             method="GET",
             url="https://api.fcc-slo.eu/api/races/42/runs",
@@ -17,6 +28,14 @@ class CompetitionSpider(Spider):
             method="GET",
             url="https://api.fcc-slo.eu/api/races/43/runs",
             callback=self.parse_teams,
+            cb_kwargs={"categoryAgeGroupMapper": categoryAgeGroupTandem},
+        )
+
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://api.fcc-slo.eu/api/races/44/runs",
+            callback=self.parse_teams,
+            cb_kwargs={"categoryAgeGroupMapper": categoryAgeGroupRelay},
         )
 
     def parse_single(self, response):
@@ -68,7 +87,7 @@ class CompetitionSpider(Spider):
 
                 yield entry
 
-    def parse_teams(self, response):
+    def parse_teams(self, response, categoryAgeGroupMapper):
         groups = []
         entries = []
 
@@ -76,11 +95,7 @@ class CompetitionSpider(Spider):
             if entry["disqualification"]:
                 continue
 
-            raw_age_group = entry["application"]["assignedCategory"]["label"][1:]
-            category = "%s tandem" % {"F": "W", "MX": "X"}.get(
-                raw_age_group, raw_age_group[0]
-            )
-            age_group = None
+            (category, age_group) = categoryAgeGroupMapper(entry)
 
             result = ResultItem(
                 date=self.race_date,
@@ -99,9 +114,8 @@ class CompetitionSpider(Spider):
                 bib=entry["startNumber"],
             )
 
-            if category == "M tandem":
-                result["age_group"] = raw_age_group
-                age_group = raw_age_group
+            if age_group:
+                result["age_group"] = age_group
 
             groups.append((category, age_group))
             entries.append(result)

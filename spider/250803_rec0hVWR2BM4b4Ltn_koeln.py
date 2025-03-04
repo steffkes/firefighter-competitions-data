@@ -63,7 +63,7 @@ class Spider(scrapy.Spider):
         fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
 
         data = list(response.json()["data"].values())[0]
-        for [_bib, _id, _team, names, _category] in data:
+        for [_bib, _number2, _id, _team, names, _category] in data:
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=sorted(map(fixName, names.split(" / "))),

@@ -1,4 +1,5 @@
 from util import Spider, ParticipantItem, ResultItem, ResultRankItem
+import itertools
 import scrapy
 import re
 
@@ -37,6 +38,13 @@ class CompetitionSpider(Spider):
             callback=self.parse_teams,
             cb_kwargs={"categoryAgeGroupMapper": categoryAgeGroupRelay},
         )
+
+        for id in [45, 46, 47, 48]:
+            yield scrapy.FormRequest(
+                method="GET",
+                url="https://api.fcc-slo.eu/api/races/{id}/runs".format(id=id),
+                callback=self.parse_relay_ko,
+            )
 
     def parse_single(self, response):
         groups = []
@@ -145,3 +153,29 @@ class CompetitionSpider(Spider):
                     entry["rank"]["age_group"] = entries_age_group.index(entry) + 1
 
                 yield entry
+
+    def parse_relay_ko(self, response):
+        # group them in pairs of 2
+        for pair in itertools.batched(
+            sorted(response.json(), key=lambda entry: entry["startNumber"]), 2
+        ):
+            # ensure the fastest one is first.
+            for position, entry in enumerate(
+                sorted(pair, key=lambda entry: entry["totalTime"])
+            ):
+                yield ResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    type="OPA",
+                    duration=self.fixDuration(entry["totalTime"]),
+                    names=sorted(
+                        map(
+                            lambda item: "{firstName} {lastName}".format(
+                                **item["competitor"]
+                            ),
+                            entry["application"]["applicationCompetitors"],
+                        )
+                    ),
+                    category="relay k.o.",
+                    bib=entry["startNumber"],
+                )

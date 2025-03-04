@@ -10,9 +10,17 @@ class CompetitionSpider(BadWildbadSpider):
     def parse_starters(self, response):
         fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
 
-        for [_bib, name, _nationality, _byear, _gender, _category, _team, _empty] in (
-            response.json()["data"] or {}
-        ).get("#1_Feuerwehr-Stäffeleslauf", []):
+        for [
+            _bib,
+            _number2,
+            name,
+            _nationality,
+            _byear,
+            _gender,
+            _category,
+            _team,
+            _empty,
+        ] in (response.json()["data"] or {}).get("#1_Feuerwehr-Stäffeleslauf", []):
             yield ParticipantItem(
                 competition_id=self.competition_id, names=[fixName(name)]
             )

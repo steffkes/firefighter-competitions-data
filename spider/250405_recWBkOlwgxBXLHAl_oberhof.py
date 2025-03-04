@@ -49,13 +49,14 @@ class Spider(scrapy.Spider):
 
     def parse_starters(self, response):
         for [
-            _bib,
-            _team,
+            _number1,
+            _number2,
             _team,
             _nationality,
+            _department,
             _category,
             names,
-            _info,
+            _ages,
         ] in response.json()["data"]:
             yield ParticipantItem(
                 competition_id=self.competition_id,

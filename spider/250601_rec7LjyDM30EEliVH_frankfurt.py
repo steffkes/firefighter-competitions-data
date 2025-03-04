@@ -29,6 +29,7 @@ class CompetitionSpider(Spider):
         starters = []
         for [
             _id,
+            _number2,
             _empty,
             bib,
             name,

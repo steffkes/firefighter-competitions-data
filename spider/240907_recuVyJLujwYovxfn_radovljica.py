@@ -39,11 +39,13 @@ class CompetitionSpider(Spider):
             cb_kwargs={"categoryAgeGroupMapper": categoryAgeGroupRelay},
         )
 
-        for id in [45, 46, 47, 48]:
+        # ranks: 0 = first item in pair / 1 = second item in pair
+        for id, ranks in [(45, {}), (46, {}), (47, {0: 1, 1: 2}), (48, {1: 3})]:
             yield scrapy.FormRequest(
                 method="GET",
                 url="https://api.fcc-slo.eu/api/races/{id}/runs".format(id=id),
                 callback=self.parse_relay_ko,
+                cb_kwargs={"ranks": ranks},
             )
 
     def parse_single(self, response):
@@ -154,7 +156,7 @@ class CompetitionSpider(Spider):
 
                 yield entry
 
-    def parse_relay_ko(self, response):
+    def parse_relay_ko(self, response, ranks):
         # group them in pairs of 2
         for pair in itertools.batched(
             sorted(response.json(), key=lambda entry: entry["startNumber"]), 2
@@ -163,7 +165,7 @@ class CompetitionSpider(Spider):
             for position, entry in enumerate(
                 sorted(pair, key=lambda entry: entry["totalTime"])
             ):
-                yield ResultItem(
+                result = ResultItem(
                     date=self.race_date,
                     competition_id=self.competition_id,
                     type="OPA",
@@ -179,3 +181,8 @@ class CompetitionSpider(Spider):
                     category="relay k.o.",
                     bib=entry["startNumber"],
                 )
+
+                if position in ranks:
+                    result["rank"] = ResultRankItem(category=ranks[position])
+
+                yield result

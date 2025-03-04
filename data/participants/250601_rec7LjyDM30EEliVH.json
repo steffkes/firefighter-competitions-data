@@ -1,12 +1,17 @@
 {
-  "date": "2025-03-04T07:29:48.240454",
+  "date": "2025-03-04T07:39:51.248295",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 66,
+  "count": 69,
   "teams": [
     [
       "Alexander Lang",
       "Jendrik Schäfer",
       "Kilian Kreutz"
+    ],
+    [
+      "Alexander Meier",
+      "David Relke",
+      "Marcus Malki"
     ],
     [
       "Andre Jesserig",

@@ -1,11 +1,15 @@
 {
-  "date": "2025-03-05T13:00:26.877582",
+  "date": "2025-03-05T13:30:26.242553",
   "competition_id": "recURkcZynP4Bd4JZ",
-  "count": 306,
+  "count": 310,
   "teams": [
     [
       "Adrian Kirchner",
       "Armin Kirchner"
+    ],
+    [
+      "Ahmad Darwish",
+      "Willy Jäger"
     ],
     [
       "Alan Dittrich",
@@ -46,6 +50,10 @@
     [
       "Alfonso Barcena",
       "Philipp Nickles"
+    ],
+    [
+      "Alfredo Arteaga",
+      "Marcel König"
     ],
     [
       "Alwin Lotzer",

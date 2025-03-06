@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-06T08:39:06.417386",
+  "date": "2025-03-06T08:50:55.564994",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 72,
+  "count": 75,
   "teams": [
     [
       "Alexander Lang",
@@ -77,6 +77,11 @@
       "Florian Erlenmaier",
       "Julian Reichhold",
       "Roman Reichhold"
+    ],
+    [
+      "Florian Rose",
+      "Nico Rütershoff",
+      "Torge Brunhorn"
     ],
     [
       "Jan Sven Dumbeck",

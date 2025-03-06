@@ -1,8 +1,12 @@
 {
-  "date": "2025-03-06T17:13:15.215838",
+  "date": "2025-03-06T17:32:10.377171",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 184,
+  "count": 190,
   "teams": [
+    [
+      "Adrian Schwind",
+      "Valentin Teufel"
+    ],
     [
       "Alexander Armbruster",
       "Morten Beumker"
@@ -130,6 +134,10 @@
     [
       "Elisa Ehmer",
       "Martin Eichenlaub"
+    ],
+    [
+      "Fabian Ernst",
+      "Tobias Ernst"
     ],
     [
       "Fabian Kluge",
@@ -314,6 +322,10 @@
     [
       "Marcos Oliveira",
       "Oliver Söll"
+    ],
+    [
+      "Marius Fath",
+      "Tobias Spieth"
     ],
     [
       "Markus Rebstock",

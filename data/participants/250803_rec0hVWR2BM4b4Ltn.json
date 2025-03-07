@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-07T14:14:05.443738",
+  "date": "2025-03-07T14:33:32.318735",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 196,
+  "count": 198,
   "teams": [
     [
       "Adrian Schwind",
@@ -358,6 +358,10 @@
     [
       "Michael Zink",
       "Patrick Uetz"
+    ],
+    [
+      "Mike Schumacher",
+      "Stephan Arndt"
     ],
     [
       "Nils Lindemann",

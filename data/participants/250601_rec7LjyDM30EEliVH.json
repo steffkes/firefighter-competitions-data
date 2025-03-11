@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-11T08:39:38.477786",
+  "date": "2025-03-11T08:51:43.589206",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 96,
+  "count": 99,
   "teams": [
     [
       "Alexander Lang",
@@ -62,6 +62,11 @@
       "Darius Fritsch",
       "Michele Giambrone",
       "Till Arnold"
+    ],
+    [
+      "Dominik Schneider",
+      "Julian Schepp",
+      "Maximilian Ried"
     ],
     [
       "Dominik Thiel",

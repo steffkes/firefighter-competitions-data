@@ -1,8 +1,13 @@
 {
-  "date": "2025-03-11T14:55:11.774560",
+  "date": "2025-03-11T15:15:55.756961",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 99,
+  "count": 108,
   "teams": [
+    [
+      "Alexander Hick",
+      "Jan Lüders",
+      "Tobias Hübner"
+    ],
     [
       "Alexander Lang",
       "Jendrik Schäfer",
@@ -24,9 +29,19 @@
       "Maimuna Krüger"
     ],
     [
+      "Benjamin Ohl",
+      "Christian Heß",
+      "Patrick Fleet"
+    ],
+    [
       "Catrin Klemm -Möhn",
       "Jasmin Bohun",
       "Petra Koch"
+    ],
+    [
+      "Cedric Mayer",
+      "Christoph Maurer",
+      "Philipp Maurer"
     ],
     [
       "Christian Erbes",

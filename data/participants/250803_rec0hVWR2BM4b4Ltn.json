@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-11T08:51:46.123335",
+  "date": "2025-03-11T09:15:13.025583",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 212,
+  "count": 222,
   "teams": [
     [
       "Adrian Schwind",
@@ -26,6 +26,10 @@
     [
       "Andre Herborn",
       "Björn Herborn"
+    ],
+    [
+      "Andre Ulbrich",
+      "Christian Oehlert"
     ],
     [
       "Andreas Engelhardt",
@@ -70,6 +74,10 @@
     [
       "Cedrik Kleinschmidt",
       "Louisa Langholz"
+    ],
+    [
+      "Celine Stegmann",
+      "Lea Kemper"
     ],
     [
       "Chantal Stötzer",
@@ -280,6 +288,14 @@
       "Lars Neumeyer"
     ],
     [
+      "Katja Schygulla",
+      "Nicole Schumacher"
+    ],
+    [
+      "Kilian Schumacher",
+      "Robin Krumm"
+    ],
+    [
       "Kimberly Hock",
       "Stephanie Eisenreich"
     ],
@@ -394,6 +410,10 @@
     [
       "Nils Lindemann",
       "Skrollan Heuser"
+    ],
+    [
+      "Oliver Hager",
+      "Stefan Hager"
     ],
     [
       "Oliver Thelen",

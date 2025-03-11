@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-11T13:54:43.727870",
+  "date": "2025-03-11T14:16:16.535107",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 234,
+  "count": 238,
   "teams": [
     [
       "Adrian Schwind",
@@ -304,6 +304,10 @@
       "Lars Neumeyer"
     ],
     [
+      "Kai Klinkenberg",
+      "Marcel Santana"
+    ],
+    [
       "Katja Schygulla",
       "Nicole Schumacher"
     ],
@@ -470,6 +474,10 @@
     [
       "Stefan Aniello",
       "Tom Aniello"
+    ],
+    [
+      "Timm Kramer",
+      "Timo Hoß"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-11T06:42:56.158761",
+  "date": "2025-03-11T06:53:56.255503",
   "competition_id": "recDQgPZf3fKZwQV1",
-  "count": 14,
+  "count": 16,
   "teams": [
     [
       "Christian Grüner",
@@ -30,6 +30,10 @@
     [
       "Matthias Schmidt",
       "Rosario Roth"
+    ],
+    [
+      "Scheibe Erik",
+      "Siegel Kevin"
     ]
   ]
 }

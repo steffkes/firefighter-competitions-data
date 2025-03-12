@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-12T06:20:01.974172",
+  "date": "2025-03-12T06:43:57.379970",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 240,
+  "count": 242,
   "teams": [
     [
       "Adrian Schwind",
@@ -234,6 +234,10 @@
     [
       "Ingo Petri",
       "Tobias Diehl"
+    ],
+    [
+      "Ivan Kolesnikov",
+      "Nils Kubicki"
     ],
     [
       "Jacqueline Phan",

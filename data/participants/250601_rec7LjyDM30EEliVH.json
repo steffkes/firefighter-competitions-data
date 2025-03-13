@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-13T14:13:52.962305",
+  "date": "2025-03-13T14:34:44.545056",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 123,
+  "count": 132,
   "teams": [
     [
       "Alexander Hick",
@@ -79,6 +79,11 @@
       "Till Arnold"
     ],
     [
+      "Darwin Botthof",
+      "Florian Axer",
+      "Florian Wagner"
+    ],
+    [
       "Dennis Joerger",
       "Lukas Kraushaar",
       "Wolfgang Mueller"
@@ -97,6 +102,11 @@
       "Dorian Pfaff",
       "Milan Rohrbach",
       "Tobias Diener"
+    ],
+    [
+      "Eike Schucht",
+      "Matthias Blaschke",
+      "Stefan Weimar"
     ],
     [
       "Felix Niese",
@@ -207,6 +217,11 @@
       "N. N.",
       "René Hacker",
       "Torsten Zarnke"
+    ],
+    [
+      "Philipp Weitzel",
+      "Sebastian Menn",
+      "Tim Fox"
     ]
   ]
 }

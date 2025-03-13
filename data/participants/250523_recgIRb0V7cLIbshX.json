@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-13T17:13:40.792325",
+  "date": "2025-03-13T17:31:39.530786",
   "competition_id": "recgIRb0V7cLIbshX",
-  "count": 57,
+  "count": 59,
   "teams": [
     [
       "Albrecht Gutjahr"
@@ -32,6 +32,9 @@
     ],
     [
       "Claude Rieff"
+    ],
+    [
+      "Daniel Henz"
     ],
     [
       "Daniel Senger"
@@ -173,6 +176,9 @@
     ],
     [
       "Tristan Burkhardt"
+    ],
+    [
+      "Volker Schmidt"
     ]
   ]
 }

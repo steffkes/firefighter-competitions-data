@@ -3555,7 +3555,7 @@
             "end": "2025-05-17",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2025-03-17T17:00:00.000Z"
         },
         "location": {
             "city": "Berlin",
@@ -4077,7 +4077,7 @@
             "end": "2025-09-21",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2025-03-17T09:00:00.000Z"
         },
         "location": {
             "city": "Rottweil",

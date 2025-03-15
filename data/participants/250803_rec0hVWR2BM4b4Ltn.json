@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-15T19:12:48.557510",
+  "date": "2025-03-15T19:26:28.270723",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 302,
+  "count": 304,
   "teams": [
     [
       "Adrian Opielewicz",
@@ -182,6 +182,10 @@
     [
       "Daniel Brunner",
       "Ronny Weber"
+    ],
+    [
+      "Daniel Dengler",
+      "Markus Most"
     ],
     [
       "Daniel Hauser",

@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "0 * * * *"
 
 jobs:
   fetch:
@@ -15,11 +15,7 @@ jobs:
           python-version: "3.12"
           cache: "pip"
       - run: pip install -r requirements.txt
-      - run: >
-          python active_spiders.py |
-          tee /dev/stderr |
-          xargs -L1 scrapy runspider
-      - run: scrapy runspider collector.py
+      - run: python competition-provider.py
         env:
           AIRTABLE_API_KEY: ${{ secrets.AIRTABLE_API_KEY }}
       - uses: stefanzweifel/git-auto-commit-action@v4

@@ -93,7 +93,7 @@ class Spider(scrapy.Spider):
 
     def parse_starters(self, response):
         data = response.json()["data"]
-        for [_id, _bib, _team, names, _category] in data:
+        for [_id, _id2, _bib, _team, names, _category] in data:
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=sorted(names.split(" / ")),
@@ -106,7 +106,7 @@ class Spider(scrapy.Spider):
             + data[data_key]["#2_Frauen"]
             + data[data_key]["#3_Mixed"]
         ):
-            [id, status, bib, names, age_group, _, raw_duration] = entry
+            [id, _id2, status, bib, names, age_group, _, raw_duration] = entry
 
             if status in ["DNF", "a.k."] or not raw_duration:  # disqualified
                 continue
@@ -117,6 +117,7 @@ class Spider(scrapy.Spider):
 
             [
                 _id,
+                _id2,
                 _bib,
                 _person1,
                 _person2,

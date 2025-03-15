@@ -1,11 +1,19 @@
 {
-  "date": "2025-03-15T03:05:11.886118",
+  "date": "2025-03-15T03:34:26.905170",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 272,
+  "count": 290,
   "teams": [
+    [
+      "Adrian Opielewicz",
+      "Fabian Schmidt"
+    ],
     [
       "Adrian Schwind",
       "Valentin Teufel"
+    ],
+    [
+      "Albert Marin",
+      "Stefan Reinhart"
     ],
     [
       "Alexander Armbruster",
@@ -32,6 +40,10 @@
       "Tom Kaiser"
     ],
     [
+      "Andre Grawron",
+      "Moritz Lindemann"
+    ],
+    [
       "Andre Herborn",
       "Björn Herborn"
     ],
@@ -42,6 +54,10 @@
     [
       "Andreas Engelhardt",
       "Christian Rau"
+    ],
+    [
+      "Andreas Frick",
+      "Nikolay Shaparin"
     ],
     [
       "Andreas Hauser",
@@ -98,6 +114,10 @@
     [
       "Chantal Stötzer",
       "Melissa Renger"
+    ],
+    [
+      "Christian Hoffmann",
+      "Luc Schreiner"
     ],
     [
       "Christian Mitsch",
@@ -160,6 +180,10 @@
       "Lena Sänger"
     ],
     [
+      "Daniel Krebs",
+      "Oliver Krebs"
+    ],
+    [
       "Denis Siejek",
       "Matthias Mund"
     ],
@@ -216,6 +240,10 @@
       "Pirmin Prokein"
     ],
     [
+      "Florian Stortz",
+      "Stephan Vogt"
+    ],
+    [
       "Fred Zarges",
       "Jonas Nies"
     ],
@@ -226,6 +254,10 @@
     [
       "Gerrit Dehne",
       "Tobias Reichler"
+    ],
+    [
+      "Gian Palma Schulte",
+      "Malik Bloedt"
     ],
     [
       "Gina Görmer",
@@ -470,6 +502,10 @@
     [
       "Matthias Weickmann",
       "Nicole Tuchbreiter"
+    ],
+    [
+      "Max Jakubaschk",
+      "Yannek Bock"
     ],
     [
       "Max Schreiber",

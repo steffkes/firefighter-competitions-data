@@ -19,8 +19,8 @@ class Spider(scrapy.Spider):
     competition_id = __name__.split("_")[1]
     ident = __name__[0:24]
 
-    race_id = "281781"
-    race_key = "1a92069df75cc5903748fe12993e7e8b"
+    race_id = "326961"
+    race_key = "cea1bfecebe76305675f5af5f93c2fb0"
 
     custom_settings = {
         "FEED_EXPORTERS": {

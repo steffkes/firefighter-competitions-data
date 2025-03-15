@@ -3926,7 +3926,7 @@
         "name": "Kölnturm Treppenlauf",
         "url": "https://www.koelner-treppenlauf.de/anmeldung/",
         "participants": {
-            "count": 300
+            "count": 302
         },
         "date": {
             "start": "2025-08-03",
@@ -4277,6 +4277,54 @@
             "coordinates": {
                 "lat": 50.6977798,
                 "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "recaZfWXTDzidPgls",
+        "kind": "FSR",
+        "name": "TuS Tower-Run",
+        "url": "http://tus-neukoelln.de/?p=2039",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-01-11",
+            "end": "2026-01-11",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.4255992,
+                "lng": 13.4697113
+            }
+        }
+    },
+    {
+        "id": "recaosEDE2lCHJbiY",
+        "kind": "FSR",
+        "name": "Turmlauf Hersbruck",
+        "url": "https://www.instagram.com/turmlauf.hersbruck/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-03-14",
+            "end": "2026-03-14",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hersbruck",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 49.5041,
+                "lng": 11.43634
             }
         }
     }

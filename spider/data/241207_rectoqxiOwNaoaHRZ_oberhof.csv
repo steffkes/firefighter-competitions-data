@@ -1,185 +1,179 @@
-"Rnk";"No";"Team";"Name 1";"Name 2";"Nat";"Time";"Difference"
-9;178;"Bavaria meets Saxonia";"MATHEIS Stefan";"THIEL Dominik";"GER";"7:08.300";"+1:31.890"
-10;27;"1/44/1";"RAABE Bert";"THIERBACH Marcel";"GER";"7:11.990";"+1:35.580"
-11;132;"BF Göttingen";"STANGE René";"WEGERICH Moritz";"GER";"7:14.520";"+1:38.110"
-12;123;"BwF5";"DIETRICH Rene";"OPITZ Nico";"GER";"7:14.780";"+1:38.370"
-13;129;"Elbläufer";"DIEDRIGKEIT Tobias";"SCHIMECZEK Nico";"GER";"7:16.390";"+1:39.980"
-14;182;"BwF6";"KUBIS Georg";"WüSTEFELD Florian";"GER";"7:21.680";"+1:45.270"
-15;174;"Stairrunners Gotha";"KNAKOWSKI Lukas";"SCHRöTER Daniel";"GER";"7:30.510";"+1:54.100"
-18;177;"Hamburger Elbjungs";"KUMMER Maximilian";"LEBLOND Samuel";"GER";"7:34.170";"+1:57.760"
-19;138;"Umkleide 5";"HARTMANN Tobias";"LACHMANN Alexander";"GER";"7:35.750";"+1:59.340"
-21;130;"AMB-Feuerwehr Technik";"KORNEL Nagy";"WINDISCHMANN Dávid";"HUN";"7:36.950";"+2:00.540"
-22;230;"Ost/West";"SCHIRRA Hendrik";"WEIß Alexander";"GER";"7:42.500";"+2:06.090"
-23;83;"Feuerwehr Gera";"HEIM Alexander";"RAWE Henning";"GER";"7:49.000";"+2:12.590"
-26;87;"BFEF WA-A";"KIRCHNER Phillip";"SCHRÖTER Fabian";"GER";"7:59.090";"+2:22.680"
-28;222;"TFA-Team Hamburg 1";"BLOCK Finn";"MATHIES Lucas-Constantin";"GER";"8:05.280";"+2:28.870"
-29;59;"TFA Team Schwedt/Oder";"LETTOW Jasper";"MAAß Florian";"GER";"8:06.820";"+2:30.410"
-30;28;"Vertical Fire Runners";"JäGER Robert";"KARG Martin";"GER";"8:08.150";"+2:31.740"
-31;237;"Feuerwehr Schmellwitz 112";"MEWES Luca";"WEICHERT Paul";"GER";"8:08.590";"+2:32.180"
-33;131;"Fire Czech";"MOOZ Lukas";"ZAPLETAL Karel";"CZE";"8:10.910";"+2:34.500"
-34;175;"Fokus Blaulicht/ Feuerwehr Kra";"SCHLEICHER Til";"THOMAS Michael";"GER";"8:12.160";"+2:35.750"
-35;88;"FF Oberhof";"KRAUSE Pascal";"POSER Jonas";"GER";"8:13.830";"+2:37.420"
-37;229;"Kirschflitzer";"MARKS Christian";"OERTELT-GRIMM Florian";"GER";"8:19.260";"+2:42.850"
-38;97;"Hochfranken Stepper";"HELLER Christoph";"SCHUBERTH Sebastian";"GER";"8:19.360";"+2:42.950"
-39;11;"Team Ostsachsen 1";"HAUSCHILD Richard";"SICKERT Florian";"GER";"8:22.410";"+2:46.000"
-40;94;"FireFit Europe";"BERGER Daniel";"KOHLMEIER Tobias";"GER";"8:25.820";"+2:49.410"
-41;173;"Firefighter Stair Climb 2 NL";"MOL Jeffrey";"DROST, Remco";"NED";"8:26.433";"+2:50.023"
-42;56;"Oberlind-Eisfeld";"ENGELHARDT Andreas";"LEIPOLD Torsten";"GER";"8:26.460";"+2:50.050"
-43;2;"Feuerwehr Mahlberg Team 1";"OBERGFÖLL Felix";"MÜLLER Felix";"GER";"8:26.600";"+2:50.190"
-44;260;"Nachnennung";"HOPPE Mike";"SONNENBERG Helge";" ";"8:27.160";"+2:50.750"
-45;100;"Fokus.Blaulicht / Feuerwehr Ge";"LANGENHAHN Erik";"RENKER Sean";"GER";"8:31.650";"+2:55.240"
-47;5;"BF Zwickau";"BLUT Ingo";"ROTH Rosario";"GER";"8:41.150";"+3:04.740"
-49;113;"TFA Team Mitte kids";"Moritz Juffa";"Philipp Juffa";"GER";"8:46.640";"+3:10.230"
-50;91;"BwF2";"BANTEL Michael";"HöHER Julian";"GER";"8:49.070";"+3:12.660"
-51;33;"Team Hof der Qualen 2";"JAGUSCH Adrian";"REICHELT Kai";"GER";"8:49.450";"+3:13.040"
-52;146;"Pass op, Hasi !";"WESTER Julia";"FRANKE Martin";"GER";"8:52.620";"+3:16.210"
-53;12;"TFA Team Mitte 3";"FREIMUTH Marius";"GREIS Alexander";"GER";"8:53.570";"+3:17.160"
-54;119;"Feuerwehr Goslar 3";"MANN, Lukas";"RÖNEKE Niklas";"GER";"8:54.440";"+3:18.030"
-55;86;"Turnow/Siewisch";"GUTSCHE Michael";"PAHN Markus";"GER";"8:55.730";"+3:19.320"
-56;147;"Klipphausen 3";"GüNZEL Markus";"ROST Wendel";"GER";"8:55.890";"+3:19.480"
-57;219;"Frankenblitz";"DöRR Lukas";"ZEH  Nick ";"GER";"8:59.670";"+3:23.260"
-58;172;"BwFw Holzdorf";"GüNTHER Steffen";"KAISER Jan";"GER";"9:01.500";"+3:25.090"
-61;171;"Feuerwehrsport Team Rheinland";"FETTING Stefan";"LINDLEIN Marius";"GER";"9:04.340";"+3:27.930"
-62;154;"Firefighter Stair Climb 1 NL";"SCHARLOO Bas";"VAN MECHELEN Alex";"NED";"9:05.310";"+3:28.900"
-63;148;"Pfaffendorf/Niederschlesien";"LORENZ Lukas";"MENZEL Toni";"GER";"9:05.660";"+3:29.250"
-64;199;"Team Ostsachsen 3";"KNEBEL Claudia";"FRöHLICH Tobias";"GER";"9:07.180";"+3:30.770"
-66;63;"TFA Runners";"HERBORN Björn";"PÄTZOLT Daniel";"GER";"9:08.200";"+3:31.790"
-67;103;"BwF12";"MüLLER Jonas";"ZOSCHKE Stephan";"GER";"9:08.750";"+3:32.340"
-68;93;"Team Ostsachsen 2";"JäSCHKE Friedrich";"MILDNER Julian";"GER";"9:12.270";"+3:35.860"
-69;16;"HWB Merseburg/WF Tesla";"KUNZ René";"TäNZER Mirko";"GER";"9:16.480";"+3:40.070"
-70;231;"BF Suhl";"HäUSLER Peter";"SPäTH Sven";"GER";"9:17.590";"+3:41.180"
-71;232;"Fokus.Blaulicht - Feuerwehr Ge";"HEMMANN Norma";"WEDEL Florian";"GER";"9:17.980";"+3:41.570"
-73;40;"Competition Team Badem";"BAEHREN Nico";"KOHLEI Fabian";"GER";"9:21.460";"+3:45.050"
-74;39;"BwF9";"KIEHL Maximilian";"SCURLA Michael";"GER";"9:22.090";"+3:45.680"
-75;32;"TFA-Team Hamburg 5";"SCHNEIDEREIT Kirsten";"SCHWERDT Björn";"GER";"9:27.020";"+3:50.610"
-76;43;"Feuerwehr Etzenricht 1";"PLEIER Johannes";"RöSCH Tobias";"GER";"9:30.270";"+3:53.860"
-77;17;"Team Hof der Qualen 1";"KOHRS Karsten";"MEIRITZ Maik";"GER";"9:31.140";"+3:54.730"
-78;127;"Brombeercity Firefighters";"AUWEILER Leon";"HOSE Tristan";"GER";"9:32.050";"+3:55.640"
-80;112;"TFA Team Mitte Mix";"URBACH Verena";"JUFFA Marco";"GER";"9:40.610";"+4:04.200"
-81;60;"Treppenjäger";"BOTHUR Sebastian";"SIGG Dominik";"GER";"9:40.780";"+4:04.370"
-82;46;"Dienstfrei";"THOMSEN Ken";"HENGELHAUPT Thorsten";"GER";"9:40.960";"+4:04.550"
-84;134;"TFA Team Hamburg 2";"HOFFMANN Vivienne";"MENZEL Justus";"GER";"9:42.460";"+4:06.050"
-85;165;"Schmellwitzer Bouletten";"BASTO Lenny";"HARNATH Philipp";"GER";"9:45.020";"+4:08.610"
-86;116;"Firefighter Challenge Team M";"BRANDES Marian";"KULHAWY Alexander";"GER";"9:48.680";"+4:12.270"
-87;207;"Feuerwehr Spiesen / Ottweiler";"SCHUMACHER Marcel";"GOTTFRIED Alexander";"GER";"9:49.860";"+4:13.450"
-88;85;"Solefighter";"SCHREITMüLLER Steve";"WEBER Paul";"GER";"9:52.200";"+4:15.790"
-90;226;"Ober trifft Unter 2.0";"BAUER Lukas";"BAUER Hannes";"GER";"9:55.180";"+4:18.770"
-91;169;"FF Gotha 2";"HAUWETTER Jochen";"VOGT Sebastian";"GER";"9:57.280";"+4:20.870"
-92;168;"Der Osten Rockt";"KADE Anett";"LUCIUS Monique";"GER";"9:58.000";"+4:21.590"
-93;67;"Fw Ziegendorf";"PAULI Vincent";"PöHL Silvio";"GER";"10:02.790";"+4:26.380"
-94;135;"Team Hof der Qualen 3";"PETERS Florian";"SöMMER Vincent";"GER";"10:02.970";"+4:26.560"
-95;144;"BwF13";"MICHAELIS Jörn";"WOLDT Paul";"GER";"10:04.100";"+4:27.690"
-97;221;"Feuerwehr Mahlberg Team 4";"STUDER Dominik";"HILLER Marcus";"GER";"10:07.130";"+4:30.720"
-98;89;"Bechstedt-Wagd Team 1";"HASENOHR Sandro";"ROHR Ricardo";"GER";"10:07.230";"+4:30.820"
-99;34;"Restdruck 112";"SCHAAL Martin";"GÖRMS Florian";"GER";"10:07.570";"+4:31.160"
-100;117;"Feuerwehr Klipphausen";"HöHNE Bruno";"SCHüTZE Tim";"GER";"10:09.390";"+4:32.980"
-102;31;"Riechheim 1";"FROß Kai";"HEYDER Michael";"GER";"10:14.080";"+4:37.670"
-103;210;"FF Schmellwitz";"RICHTER Heiko";"WEICHERT Thomas";"GER";"10:15.150";"+4:38.740"
-104;26;"TFA Team Mitte 4";"NEHRDICH, Pascal";"HOCKAUF Florian";"GER";"10:15.580";"+4:39.170"
-105;150;"TFA-Hamburg";"COLBERG Svenja";"RISCHE Jan-Nick";"GER";"10:17.790";"+4:41.380"
-108;9;"Eisfeld-Oberlind";"RAU Christian";"WICHT Michael";"GER";"10:19.190";"+4:42.780"
-109;167;"BwF10";"HEßDöRFER Florian";"SEGERITZ Adam";"GER";"10:21.270";"+4:44.860"
-110;122;"Coburg Fire Challenge Team 1";"DUPSLAFF Christian";"ILLEIN Marco";"GER";"10:23.160";"+4:46.750"
-111;218;"Feuerwehr Goslar 2";"HöLZNER Sophie";"MANN Lukas";"GER";"10:25.440";"+4:49.030"
-112;156;"Feuerwehr Sonneberg-Ost 1";"HOFMANN Hugo";"OBERENDER Sascha";"GER";"10:27.450";"+4:51.040"
-113;126;"Tönningstedt 2";"BUNSEN Lars";"TOLLSCHNIBBE Tjorben";"GER";"10:27.790";"+4:51.380"
-114;196;"Die langen vom THW";"ORTLEPP Ingo";"TRÖGER Marc";"GER";"10:28.270";"+4:51.860"
-115;133;"Die Streifenhörnchen";"RIEDEL Patrick";"VOIGT Tommy";"GER";"10:28.970";"+4:52.560"
-116;6;"BwF1";"DüLL Ina";"POLZIN Claudio";"GER";"10:32.390";"+4:55.980"
-118;224;"Werkfeuerwehr Wacker Nünchritz";"BAIER Heiko";"WINKLER Marcel";"GER";"10:33.520";"+4:57.110"
-120;29;"Team Wölfis 2";"SCHATT Hendrik";"WINKLER Damon";"GER";"10:36.430";"+5:00.020"
-121;4;"Bad Schmiedeberg - Korgau";"POSTEL Sven";"ZSCHIESCHE Maik";"GER";"10:41.550";"+5:05.140"
-122;82;"Feuerwehr Goslar 1";"DIERCKS Kevin";"EISOLDT Sven";"GER";"10:42.720";"+5:06.310"
-123;65;"Hartha 1";"ROßBERG Felix";"WAGNER Maik";"GER";"10:52.410";"+5:16.000"
-124;137;"Die Rudloff‘s";"SCHOENEWALD Melanie";"RUDLOFF Korbinian";"GER";"10:53.120";"+5:16.710"
-125;30;"Team Ostsachsen 6";"BöHM Felix";"SAUTER Patrick";"GER";"10:58.980";"+5:22.570"
-126;220;"Seukendorf trifft Rabenau";"KISTER Daniel";"BOHUN Jasmin";" ";"11:02.190";"+5:25.780"
-127;42;"Feuerwehr Artern";"GöLLNITZ Florian";"LANGE Mark";"GER";"11:03.070";"+5:26.660"
-128;69;"Heiß auf Höhen";"KAUFUNG Leon";"PAUL Felix";"GER";"11:12.310";"+5:35.900"
-129;125;"Es eskaliert eh";"KISTER Daniel";"LANGWASSER Ulf";"GER";"11:12.500";"+5:36.090"
-130;184;"Feuerwehr Etzenricht 3";"USCHOLD Markus";"WITTMANN Kilian";"GER";"11:12.670";"+5:36.260"
-131;158;"FireCopGirls";"FITZNER Stefanie";"KRüTZMANN Vicky";"GER";"11:14.750";"+5:38.340"
-132;66;"Lungenkollaps";"BRANDT Sebastian";"FUTH Jannik";"GER";"11:16.450";"+5:40.040"
-133;99;"Treppenkommando";"MüLLER Sascha";"TOMKOWIAK André";"GER";"11:21.010";"+5:44.600"
-134;15;"BwF15";"MACHALKE Martin";"MÖLLER Robert";"GER";"11:25.670";"+5:49.260"
-135;183;"Ostalb Firefighters 1";"BÄURLE Mischa";"WEILER Lukas";"GER";"11:27.800";"+5:51.390"
-137;111;"TFA Rhein-Lahn Kampfzwerge";"SAUER Sabine";"FREIGANG Maik";"GER";"11:39.740";"+6:03.330"
-138;140;"Oberkotzau 2";"FUNK Andreas";"PLENK Felix";"GER";"11:41.400";"+6:04.990"
-139;214;"Riechheim 2";"HEYDER Steffen";"MALKEWITZ John";"GER";"11:44.740";"+6:08.330"
-140;18;"TFA-Team Hamburg 4";"GERKEN Bianca";"KOCH Sebastian";"GER";"11:45.370";"+6:08.960"
-142;240;"Team Altmark";"Hentschel Felix";"LEMM Matthias";"GER";"11:46.030";"+6:09.620"
-143;128;"Feuerwehr Artern 2";"HIEKEL Daniel";"STOLZE Kevin";"GER";"11:46.510";"+6:10.100"
-144;41;"BwF16";"KORNDöRFER Michael";"LISSNER Heiko";"GER";"11:47.460";"+6:11.050"
-145;57;"Deister Firesports";"BRANDT Neal";"WIENEKE Ole";"GER";"11:47.560";"+6:11.150"
-146;198;"Feuerwehr Rotheul";"KADEN Matthias";"KAUFMANN Michael";"GER";"11:49.890";"+6:13.480"
-147;145;"Ober trifft Unter";"REINWAND Fabian";"SCHMITT Matthias";"GER";"11:55.630";"+6:19.220"
-148;143;"Team Hochfranken";"JAHN Jens";"KAHL Dominik";"GER";"12:01.060";"+6:24.650"
-149;120;"Old Farmers";"SCHLONSAK Uwe";"SONNENBERG Helge";"GER";"12:04.940";"+6:28.530"
-150;206;"Feuerwehr Oberlind";"DöBERT Mirko";"SCHEURING Robin";"GER";"12:06.900";"+6:30.490"
-152;166;"Chiemsee Zwei";"KNAUß Johannes";"REICHELT Dirk";"GER";"12:12.770";"+6:36.360"
-153;195;"Fachgruppe Ney";"NEY Heike";"NEY Andy";"GER";"12:13.880";"+6:37.470"
-154;234;"FF Borstel 1";"BEBENSEE Malte";"HENKE Jonas";"GER";"12:14.760";"+6:38.350"
-155;186;"Team Ostsachsen 4";"BUBNER Chiara";"WILSKI Immo";"GER";"12:16.560";"+6:40.150"
-156;202;"FF Fredenbeck/Mulsum";"BOESLER Nadja";"BOESCH Silas";"GER";"12:26.350";"+6:49.940"
-157;181;"Team Wölfis 1";"ROTTER Pascal";"EUCHLER Moritz";"GER";"12:29.280";"+6:52.870"
-158;176;"Bechstedt-Wagd Team 2";"BüRGE Fabian";"LEINHOS Steve";"GER";"12:31.280";"+6:54.870"
-159;179;"Vochtstorsten";"BARTELT Alex";"VOIGT Philip";"GER";"12:32.680";"+6:56.270"
-160;142;"Feuerwehr Etzenricht 2";"DREYER Florian";"RöSCH Florian";"GER";"12:34.010";"+6:57.600"
-161;201;"Feuerwehr Rudolstadt";"KRETZSCHMAR Denny";"LINDNER Wolfgang";"GER";"12:39.800";"+7:03.390"
-162;35;"Kirchworbis 1";"KAUFUNG Mario";"KAUFUNG Tobias";"GER";"12:42.570";"+7:06.160"
-163;197;"TFA Team Mitte 5";"ROMMERT Tim";"THORMEYER Julian";"GER";"12:45.020";"+7:08.610"
-164;74;"Frankfurter Mädsche";"KRIMM Jennifer";"WEIß Anne-Kathrin";"GER";"12:45.620";"+7:09.210"
-165;61;"Die Aufsteiger";"FALTIN Cynthia";"BEHRINGER Uwe";"GER";"12:47.880";"+7:11.470"
-166;81;"Chiemsee";"DREIKORN Johannes";"PALK Josef";"GER";"12:50.120";"+7:13.710"
-167;242;"Irgendwas ist immer";"BÄHRE Alexander";"STEIN Fabian";"GER";"12:51.870";"+7:15.460"
-168;72;"Gate City";"GOLLER Denise";"GOLLER Fabienne";"GER";"12:56.850";"+7:20.440"
-169;235;"Feuerwehr Sonneberg-Ost";"FRITSCH Andre";"LIEBERMANN Nico";"GER";"13:01.750";"+7:25.340"
-170;98;"Team Ostsachsen 5";"HäNEL Marvin";"WAGNER Maximilian";"GER";"13:02.830";"+7:26.420"
-171;185;"TFA Rhein-Lahn";"FRIEDRICH Andreas";"SCHOLZ Dominic";"GER";"13:04.500";"+7:28.090"
-172;3;"Feuerwehr Ottweiler 3";"SAHNER Leah";"MARTIN Jonas";"GER";"13:14.640";"+7:38.230"
-173;44;"Alte Säcke";"BLUME Sandro";"PAUL Alexander";"GER";"13:19.990";"+7:43.580"
-174;233;"FF Gotha 1";"BAUMBACH Michel";"BRöDE Miguel";"GER";"13:22.110";"+7:45.700"
-175;152;"FF Eisenach Mitte";"PFEIFER Julia";"KIESSBAUER Kevin";"GER";"13:22.310";"+7:45.900"
-176;139;"FFW Schnaittach / Eismannsberg";"SAUPE Frank";"WEICKMANN Matthias";"GER";"13:25.950";"+7:49.540"
-177;14;"FCC Team Lehre";"FLÜGGE Jannik";"ROCKAR Sven";"GER";"13:26.400";"+7:49.990"
-178;136;"Young & Wild Frankenblick";"MEINHOLD Frank";"SCHALLER Daniel";"GER";"13:26.540";"+7:50.130"
-179;48;"Brandweer Ter Apel";"BAKKER David";"PRUIM Patrick";"NED";"13:29.000";"+7:52.590"
-180;223;"Tönningstedt-Borstel";"PHILIPS Jan";"REICHELT Paul";"GER";"13:38.760";"+8:02.350"
-181;666;"ABC Anzug";"xx";"yy";" ";"13:40.610";"+8:04.200"
-182;8;"Die 2 Minions";"KöLLNER Anna";"BUTTIG Matthias";"GER";"13:43.630";"+8:07.220"
-183;151;"Kesselbach Kernstadt";"BERG Markus";"BERG Thorben";"GER";"13:44.330";"+8:07.920"
-184;45;"Team Rheinland 2";"KRONBERGER Maurine";"LINDLEIN Gerrit";"GER";"13:48.010";"+8:11.600"
-185;104;"TFA Team Mitte 6";"ZEINER Yvonne";"BLüMMERT Fabian";"GER";"13:48.750";"+8:12.340"
-186;58;"Olli‘s Lieblinge";"MEYENSCHEIN Niclas";"SPATZ Nicolas";"GER";"13:49.360";"+8:12.950"
-187;155;"FF Borstel 2";"GIESE Lennart";"PAWLAK Grzegorz";"GER";"13:51.590";"+8:15.180"
-188;70;"Ostalb Firefighters 2";"GAYER Marion";"WOLFRAM Peter";"GER";"13:51.850";"+8:15.440"
-189;47;"Feuerwehr Mahlberg Team 2";"IPS Florian";"BALAJ Andi";"GER";"13:53.810";"+8:17.400"
-190;204;"BF und FF Hand in Hand";"GÖTZ, Dominic";"LINSER Oliver";"GER";"13:56.430";"+8:20.020"
-191;149;"FF Nurzen";"RUDOLPH Carsten";"SCHäDEL Paul";"GER";"14:01.350";"+8:24.940"
-192;19;"TFA Team Mitte 9";"DEGENHARDT Sebastian";"DRANSFELD Max";"GER";"14:02.050";"+8:25.640"
-193;213;"Feuerwehr Mahlberg Team 3";"WALDINGER Stefan";"WEBER Moritz";"GER";"14:02.580";"+8:26.170"
-194;84;"BwF11";"KERSTEN Christin";"ZIEGLER Erik";"GER";"14:09.430";"+8:33.020"
-195;92;"Stark und Stufig";"GROßE Rebekka";"PAUL Karina";"GER";"14:13.510";"+8:37.100"
-196;188;"Bermbacher Feuerwichtel";"JäGER Lea";"FULSCHE Leon";"GER";"14:16.840";"+8:40.430"
-197;90;"Firefighter Team Phoenix Germa";"KIUPEL Denny";"THOMSEN Christian";"GER";"14:16.940";"+8:40.530"
-198;68;"Gestiefelter Muskelkater";"PAUL Emma";"NOLL Sidney";"GER";"14:25.970";"+8:49.560"
-199;236;"Feuerwehr Schriesheim";"BRAND Dominik";"SCHMITT Tobias";"GER";"14:36.800";"+9:00.390"
-200;203;"Feuerwehr Artern 3";"HöCHE Marcel";"SCHWALKE David";"GER";"14:40.970";"+9:04.560"
-201;225;"Feuerwehr Klipphausen 2";"MARTIN Johannes";"WEBER Jörgen";"GER";"14:43.870";"+9:07.460"
-202;170;"Austrian Firefigther";"ALFANZ Jürgen";"LEITENBAUER Konstantin";"AUT";"14:55.160";"+9:18.750"
-203;141;"Atemnot";"HOMEYER Lars";"KRÖSCH Tobias";"GER";"15:19.080";"+9:42.670"
-204;64;"BwF7";"JäGER Rune";"NAVE Sebastian";"GER";"15:21.600";"+9:45.190"
-205;96;"Firefighter Stair Climb 3 NL";"HUIZINGA, Gjalt";"SPLINTER, Kees";"NED";"15:31.450";"+9:55.040"
-206;157;"Feuerwehr Ottweiler";"WEHRMANN Jennifer";"WEIßMANN Lucas";"GER";"15:33.850";"+9:57.440"
-207;187;"Feuerwehr Schmellwitz";"APEL Markus";"HILGER Marvin";"GER";"15:41.130";"+10:04.720"
-208;121;"FFW Allendorf/Lumda";"HEIDER Silke";"HEIDER Jannis";"GER";"15:55.870";"+10:19.460"
-209;200;"Team Lehvitz Mixed";"WEISS Milena";"ROCKAR Sven";"GER";"16:13.280";"+10:36.870"
-210;216;"Team KaRo firefighter";"LANGBEIN Ronny";"NENDZIAK Karsten";"GER";"16:20.220";"+10:43.810"
-211;101;"GF vs. ZF";"HILPERT Anke";"WEIPRECHT Michael";"GER";"16:26.420";"+10:50.010"
-213;37;"Hartha 5";"WINKLER Anne";"FICHTNER Tim";"GER";"17:00.930";"+11:24.520"
-214;209;"Firebuddies";"KAISER Anja";"SCHäFER Yvonne";"GER";"17:46.040";"+12:09.630"
-215;49;"Tönningstedt 1";"ZIMMERMANN Maj-Britt";"SENSEN Jonas";"GER";"17:52.950";"+12:16.540"
-216;71;"Peine Ladies";"KULHAWY Antonia";"SONNENBERG Rebea";"GER";"18:07.660";"+12:31.250"
-217;114;"Frauenpower Seukendorf";"BOHUN Jasmin";"TUCHBREITER Nicole";"GER";"18:32.940";"+12:56.530"
-218;1;"Bob & Phil";"BLAU Phillip";"JÜLICH Marcel";"GER";"18:42.430";"+13:06.020"
-219;10;"FCC Seukendorf Team Einhorn";"TUCHBREITER Nicole";"WEICKMANN Matthias";"GER";"19:02.100";"+13:25.690"
+Rnk;No;Team;Name 1;Name 2;Nat;Time;Difference;Category;Age Group
+9;178;Bavaria meets Saxonia;MATHEIS Stefan;THIEL Dominik;GER;7:08.300;+1:31.890;M;Männer
+10;27;1/44/1;RAABE Bert;THIERBACH Marcel;GER;7:11.990;+1:35.580;M;Männer
+11;132;BF Göttingen;STANGE René;WEGERICH Moritz;GER;7:14.520;+1:38.110;M;Männer
+12;123;BwF5;DIETRICH Rene;OPITZ Nico;GER;7:14.780;+1:38.370;M;Männer 80
+13;129;Elbläufer;DIEDRIGKEIT Tobias;SCHIMECZEK Nico;GER;7:16.390;+1:39.980;M;Männer
+14;182;BwF6;KUBIS Georg;WüSTEFELD Florian;GER;7:21.680;+1:45.270;M;Männer
+15;174;Stairrunners Gotha;KNAKOWSKI Lukas;SCHRöTER Daniel;GER;7:30.510;+1:54.100;M;Männer 80
+18;177;Hamburger Elbjungs;KUMMER Maximilian;LEBLOND Samuel;GER;7:34.170;+1:57.760;M;Männer
+19;138;Umkleide 5;HARTMANN Tobias;LACHMANN Alexander;GER;7:35.750;+1:59.340;M;Männer
+21;130;AMB-Feuerwehr Technik;KORNEL Nagy;WINDISCHMANN Dávid;HUN;7:36.950;+2:00.540;M;Männer
+22;230;Ost/West;SCHIRRA Hendrik;WEIß Alexander;GER;7:42.500;+2:06.090;M;Männer
+23;83;Feuerwehr Gera;HEIM Alexander;RAWE Henning;GER;7:49.000;+2:12.590;M;Männer
+26;87;BFEF WA-A;KIRCHNER Phillip;SCHRÖTER Fabian;GER;7:59.090;+2:22.680;M;Männer
+28;222;TFA-Team Hamburg 1;BLOCK Finn;MATHIES Lucas-Constantin;GER;8:05.280;+2:28.870;M;Männer
+29;59;TFA Team Schwedt/Oder;LETTOW Jasper;MAAß Florian;GER;8:06.820;+2:30.410;M;Männer
+30;28;Vertical Fire Runners;JäGER Robert;KARG Martin;GER;8:08.150;+2:31.740;M;Männer 80
+31;237;Feuerwehr Schmellwitz 112;MEWES Luca;WEICHERT Paul;GER;8:08.590;+2:32.180;M;Männer
+33;131;Fire Czech;MOOZ Lukas;ZAPLETAL Karel;CZE;8:10.910;+2:34.500;M;Männer
+34;175;Fokus Blaulicht/ Feuerwehr Kra;SCHLEICHER Til;THOMAS Michael;GER;8:12.160;+2:35.750;M;Männer
+35;88;FF Oberhof;KRAUSE Pascal;POSER Jonas;GER;8:13.830;+2:37.420;M;Männer
+37;229;Kirschflitzer;MARKS Christian;OERTELT-GRIMM Florian;GER;8:19.260;+2:42.850;M;Männer
+38;97;Hochfranken Stepper;HELLER Christoph;SCHUBERTH Sebastian;GER;8:19.360;+2:42.950;M;Männer
+39;11;Team Ostsachsen 1;HAUSCHILD Richard;SICKERT Florian;GER;8:22.410;+2:46.000;M;Männer
+40;94;FireFit Europe;BERGER Daniel;KOHLMEIER Tobias;GER;8:25.820;+2:49.410;M;Männer
+41;173;Firefighter Stair Climb 2 NL;MOL Jeffrey;DROST, Remco;NED;8:26.433;+2:50.023;M;Männer 100
+42;56;Oberlind-Eisfeld;ENGELHARDT Andreas;LEIPOLD Torsten;GER;8:26.460;+2:50.050;M;Männer 80
+43;2;Feuerwehr Mahlberg Team 1;OBERGFÖLL Felix;MÜLLER Felix;GER;8:26.600;+2:50.190;M;Männer
+44;260;Nachnennung;HOPPE Mike;SONNENBERG Helge; ;8:27.160;+2:50.750;M;Männer 100
+45;100;Fokus.Blaulicht / Feuerwehr Ge;LANGENHAHN Erik;RENKER Sean;GER;8:31.650;+2:55.240;M;Männer
+47;5;BF Zwickau;BLUT Ingo;ROTH Rosario;GER;8:41.150;+3:04.740;M;Männer
+50;91;BwF2;BANTEL Michael;HöHER Julian;GER;8:49.070;+3:12.660;M;Männer
+51;33;Team Hof der Qualen 2;JAGUSCH Adrian;REICHELT Kai;GER;8:49.450;+3:13.040;M;Männer
+52;146;Pass op, Hasi !;WESTER Julia;FRANKE Martin;GER;8:52.620;+3:16.210;MIX;
+53;12;TFA Team Mitte 3;FREIMUTH Marius;GREIS Alexander;GER;8:53.570;+3:17.160;M;Männer
+54;119;Feuerwehr Goslar 3;MANN, Lukas;RÖNEKE Niklas;GER;8:54.440;+3:18.030;M;Männer
+55;86;Turnow/Siewisch;GUTSCHE Michael;PAHN Markus;GER;8:55.730;+3:19.320;M;Männer
+56;147;Klipphausen 3;GüNZEL Markus;ROST Wendel;GER;8:55.890;+3:19.480;M;Männer
+57;219;Frankenblitz;DöRR Lukas;ZEH  Nick ;GER;8:59.670;+3:23.260;M;Männer
+58;172;BwFw Holzdorf;GüNTHER Steffen;KAISER Jan;GER;9:01.500;+3:25.090;M;Männer
+61;171;Feuerwehrsport Team Rheinland;FETTING Stefan;LINDLEIN Marius;GER;9:04.340;+3:27.930;M;Männer
+62;154;Firefighter Stair Climb 1 NL;SCHARLOO Bas;VAN MECHELEN Alex;NED;9:05.310;+3:28.900;M;Männer
+63;148;Pfaffendorf/Niederschlesien;LORENZ Lukas;MENZEL Toni;GER;9:05.660;+3:29.250;M;Männer
+64;199;Team Ostsachsen 3;KNEBEL Claudia;FRöHLICH Tobias;GER;9:07.180;+3:30.770;MIX;
+66;63;TFA Runners;HERBORN Björn;PÄTZOLT Daniel;GER;9:08.200;+3:31.790;M;Männer
+67;103;BwF12;MüLLER Jonas;ZOSCHKE Stephan;GER;9:08.750;+3:32.340;M;Männer
+68;93;Team Ostsachsen 2;JäSCHKE Friedrich;MILDNER Julian;GER;9:12.270;+3:35.860;M;Männer
+69;16;HWB Merseburg/WF Tesla;KUNZ René;TäNZER Mirko;GER;9:16.480;+3:40.070;M;Männer 80
+70;231;BF Suhl;HäUSLER Peter;SPäTH Sven;GER;9:17.590;+3:41.180;M;Männer 80
+71;232;Fokus.Blaulicht - Feuerwehr Ge;HEMMANN Norma;WEDEL Florian;GER;9:17.980;+3:41.570;MIX;
+73;40;Competition Team Badem;BAEHREN Nico;KOHLEI Fabian;GER;9:21.460;+3:45.050;M;Männer
+74;39;BwF9;KIEHL Maximilian;SCURLA Michael;GER;9:22.090;+3:45.680;M;Männer
+75;32;TFA-Team Hamburg 5;SCHNEIDEREIT Kirsten;SCHWERDT Björn;GER;9:27.020;+3:50.610;MIX;
+76;43;Feuerwehr Etzenricht 1;PLEIER Johannes;RöSCH Tobias;GER;9:30.270;+3:53.860;M;Männer
+77;17;Team Hof der Qualen 1;KOHRS Karsten;MEIRITZ Maik;GER;9:31.140;+3:54.730;M;Männer 100
+78;127;Brombeercity Firefighters;AUWEILER Leon;HOSE Tristan;GER;9:32.050;+3:55.640;M;Männer
+80;112;TFA Team Mitte Mix;URBACH Verena;JUFFA Marco;GER;9:40.610;+4:04.200;MIX;
+81;60;Treppenjäger;BOTHUR Sebastian;SIGG Dominik;GER;9:40.780;+4:04.370;M;Männer
+82;46;Dienstfrei;THOMSEN Ken;HENGELHAUPT Thorsten;GER;9:40.960;+4:04.550;M;Männer
+84;134;TFA Team Hamburg 2;HOFFMANN Vivienne;MENZEL Justus;GER;9:42.460;+4:06.050;MIX;
+85;165;Schmellwitzer Bouletten;BASTO Lenny;HARNATH Philipp;GER;9:45.020;+4:08.610;M;Männer
+86;116;Firefighter Challenge Team M;BRANDES Marian;KULHAWY Alexander;GER;9:48.680;+4:12.270;M;Männer
+87;207;Feuerwehr Spiesen / Ottweiler;SCHUMACHER Marcel;GOTTFRIED Alexander;GER;9:49.860;+4:13.450;M;Männer
+88;85;Solefighter;SCHREITMüLLER Steve;WEBER Paul;GER;9:52.200;+4:15.790;M;Männer
+90;226;Ober trifft Unter 2.0;BAUER Lukas;BAUER Hannes;GER;9:55.180;+4:18.770;M;Männer
+91;169;FF Gotha 2;HAUWETTER Jochen;VOGT Sebastian;GER;9:57.280;+4:20.870;M;Männer
+92;168;Der Osten Rockt;KADE Anett;LUCIUS Monique;GER;9:58.000;+4:21.590;W;
+93;67;Fw Ziegendorf;PAULI Vincent;PöHL Silvio;GER;10:02.790;+4:26.380;M;Männer
+94;135;Team Hof der Qualen 3;PETERS Florian;SöMMER Vincent;GER;10:02.970;+4:26.560;M;Männer
+95;144;BwF13;MICHAELIS Jörn;WOLDT Paul;GER;10:04.100;+4:27.690;M;Männer
+97;221;Feuerwehr Mahlberg Team 4;STUDER Dominik;HILLER Marcus;GER;10:07.130;+4:30.720;M;Männer
+98;89;Bechstedt-Wagd Team 1;HASENOHR Sandro;ROHR Ricardo;GER;10:07.230;+4:30.820;M;Männer
+99;34;Restdruck 112;SCHAAL Martin;GÖRMS Florian;GER;10:07.570;+4:31.160;M;Männer
+100;117;Feuerwehr Klipphausen;HöHNE Bruno;SCHüTZE Tim;GER;10:09.390;+4:32.980;M;Männer
+102;31;Riechheim 1;FROß Kai;HEYDER Michael;GER;10:14.080;+4:37.670;M;Männer 80
+103;210;FF Schmellwitz;RICHTER Heiko;WEICHERT Thomas;GER;10:15.150;+4:38.740;M;Männer
+104;26;TFA Team Mitte 4;NEHRDICH, Pascal;HOCKAUF Florian;GER;10:15.580;+4:39.170;MIX;
+105;150;TFA-Hamburg;COLBERG Svenja;RISCHE Jan-Nick;GER;10:17.790;+4:41.380;MIX;
+108;9;Eisfeld-Oberlind;RAU Christian;WICHT Michael;GER;10:19.190;+4:42.780;M;Männer 100
+109;167;BwF10;HEßDöRFER Florian;SEGERITZ Adam;GER;10:21.270;+4:44.860;M;Männer
+110;122;Coburg Fire Challenge Team 1;DUPSLAFF Christian;ILLEIN Marco;GER;10:23.160;+4:46.750;M;Männer
+111;218;Feuerwehr Goslar 2;HöLZNER Sophie;MANN Lukas;GER;10:25.440;+4:49.030;MIX;
+112;156;Feuerwehr Sonneberg-Ost 1;HOFMANN Hugo;OBERENDER Sascha;GER;10:27.450;+4:51.040;M;Männer
+113;126;Tönningstedt 2;BUNSEN Lars;TOLLSCHNIBBE Tjorben;GER;10:27.790;+4:51.380;M;Männer
+115;133;Die Streifenhörnchen;RIEDEL Patrick;VOIGT Tommy;GER;10:28.970;+4:52.560;M;Männer
+116;6;BwF1;DüLL Ina;POLZIN Claudio;GER;10:32.390;+4:55.980;MIX;
+118;224;Werkfeuerwehr Wacker Nünchritz;BAIER Heiko;WINKLER Marcel;GER;10:33.520;+4:57.110;M;Männer
+120;29;Team Wölfis 2;SCHATT Hendrik;WINKLER Damon;GER;10:36.430;+5:00.020;M;Männer
+121;4;Bad Schmiedeberg - Korgau;POSTEL Sven;ZSCHIESCHE Maik;GER;10:41.550;+5:05.140;M;Männer 80
+122;82;Feuerwehr Goslar 1;DIERCKS Kevin;EISOLDT Sven;GER;10:42.720;+5:06.310;M;Männer
+123;65;Hartha 1;ROßBERG Felix;WAGNER Maik;GER;10:52.410;+5:16.000;M;Männer
+124;137;Die Rudloff‘s;SCHOENEWALD Melanie;RUDLOFF Korbinian;GER;10:53.120;+5:16.710;MIX;
+125;30;Team Ostsachsen 6;BöHM Felix;SAUTER Patrick;GER;10:58.980;+5:22.570;M;Männer
+126;220;Seukendorf trifft Rabenau;KISTER Daniel;BOHUN Jasmin; ;11:02.190;+5:25.780;MIX;
+127;42;Feuerwehr Artern;GöLLNITZ Florian;LANGE Mark;GER;11:03.070;+5:26.660;M;Männer
+128;69;Heiß auf Höhen;KAUFUNG Leon;PAUL Felix;GER;11:12.310;+5:35.900;M;Männer
+129;125;Es eskaliert eh;KISTER Daniel;LANGWASSER Ulf;GER;11:12.500;+5:36.090;M;Männer
+130;184;Feuerwehr Etzenricht 3;USCHOLD Markus;WITTMANN Kilian;GER;11:12.670;+5:36.260;M;Männer
+131;158;FireCopGirls;FITZNER Stefanie;KRüTZMANN Vicky;GER;11:14.750;+5:38.340;W;
+132;66;Lungenkollaps;BRANDT Sebastian;FUTH Jannik;GER;11:16.450;+5:40.040;M;Männer
+133;99;Treppenkommando;MüLLER Sascha;TOMKOWIAK André;GER;11:21.010;+5:44.600;M;Männer 80
+134;15;BwF15;MACHALKE Martin;MÖLLER Robert;GER;11:25.670;+5:49.260;M;Männer
+135;183;Ostalb Firefighters 1;BÄURLE Mischa;WEILER Lukas;GER;11:27.800;+5:51.390;M;Männer
+137;111;TFA Rhein-Lahn Kampfzwerge;SAUER Sabine;FREIGANG Maik;GER;11:39.740;+6:03.330;MIX;
+138;140;Oberkotzau 2;FUNK Andreas;PLENK Felix;GER;11:41.400;+6:04.990;M;Männer
+139;214;Riechheim 2;HEYDER Steffen;MALKEWITZ John;GER;11:44.740;+6:08.330;M;Männer
+140;18;TFA-Team Hamburg 4;GERKEN Bianca;KOCH Sebastian;GER;11:45.370;+6:08.960;MIX;
+142;240;Team Altmark;Hentschel Felix;LEMM Matthias;GER;11:46.030;+6:09.620;M;Männer
+143;128;Feuerwehr Artern 2;HIEKEL Daniel;STOLZE Kevin;GER;11:46.510;+6:10.100;M;Männer
+144;41;BwF16;KORNDöRFER Michael;LISSNER Heiko;GER;11:47.460;+6:11.050;M;Männer
+145;57;Deister Firesports;BRANDT Neal;WIENEKE Ole;GER;11:47.560;+6:11.150;M;Männer
+146;198;Feuerwehr Rotheul;KADEN Matthias;KAUFMANN Michael;GER;11:49.890;+6:13.480;M;Männer 80
+147;145;Ober trifft Unter;REINWAND Fabian;SCHMITT Matthias;GER;11:55.630;+6:19.220;M;Männer
+148;143;Team Hochfranken;JAHN Jens;KAHL Dominik;GER;12:01.060;+6:24.650;M;Männer
+149;120;Old Farmers;SCHLONSAK Uwe;SONNENBERG Helge;GER;12:04.940;+6:28.530;M;Männer 100
+150;206;Feuerwehr Oberlind;DöBERT Mirko;SCHEURING Robin;GER;12:06.900;+6:30.490;M;Männer
+152;166;Chiemsee Zwei;KNAUß Johannes;REICHELT Dirk;GER;12:12.770;+6:36.360;M;Männer
+154;234;FF Borstel 1;BEBENSEE Malte;HENKE Jonas;GER;12:14.760;+6:38.350;M;Männer
+155;186;Team Ostsachsen 4;BUBNER Chiara;WILSKI Immo;GER;12:16.560;+6:40.150;MIX;
+156;202;FF Fredenbeck/Mulsum;BOESLER Nadja;BOESCH Silas;GER;12:26.350;+6:49.940;MIX;
+157;181;Team Wölfis 1;ROTTER Pascal;EUCHLER Moritz;GER;12:29.280;+6:52.870;M;Männer
+158;176;Bechstedt-Wagd Team 2;BüRGE Fabian;LEINHOS Steve;GER;12:31.280;+6:54.870;M;Männer 80
+159;179;Vochtstorsten;BARTELT Alex;VOIGT Philip;GER;12:32.680;+6:56.270;M;Männer
+160;142;Feuerwehr Etzenricht 2;DREYER Florian;RöSCH Florian;GER;12:34.010;+6:57.600;M;Männer
+161;201;Feuerwehr Rudolstadt;KRETZSCHMAR Denny;LINDNER Wolfgang;GER;12:39.800;+7:03.390;M;Männer
+162;35;Kirchworbis 1;KAUFUNG Mario;KAUFUNG Tobias;GER;12:42.570;+7:06.160;M;Männer
+163;197;TFA Team Mitte 5;ROMMERT Tim;THORMEYER Julian;GER;12:45.020;+7:08.610;M;Männer
+164;74;Frankfurter Mädsche;KRIMM Jennifer;WEIß Anne-Kathrin;GER;12:45.620;+7:09.210;W;
+165;61;Die Aufsteiger;FALTIN Cynthia;BEHRINGER Uwe;GER;12:47.880;+7:11.470;MIX;
+166;81;Chiemsee;DREIKORN Johannes;PALK Josef;GER;12:50.120;+7:13.710;M;Männer 100
+167;242;Irgendwas ist immer;BÄHRE Alexander;STEIN Fabian;GER;12:51.870;+7:15.460;M;Männer
+168;72;Gate City;GOLLER Denise;GOLLER Fabienne;GER;12:56.850;+7:20.440;W;
+169;235;Feuerwehr Sonneberg-Ost;FRITSCH Andre;LIEBERMANN Nico;GER;13:01.750;+7:25.340;M;Männer
+170;98;Team Ostsachsen 5;HäNEL Marvin;WAGNER Maximilian;GER;13:02.830;+7:26.420;M;Männer
+171;185;TFA Rhein-Lahn;FRIEDRICH Andreas;SCHOLZ Dominic;GER;13:04.500;+7:28.090;M;Männer 80
+172;3;Feuerwehr Ottweiler 3;SAHNER Leah;MARTIN Jonas;GER;13:14.640;+7:38.230;MIX;
+173;44;Alte Säcke;BLUME Sandro;PAUL Alexander;GER;13:19.990;+7:43.580;M;Männer 80
+174;233;FF Gotha 1;BAUMBACH Michel;BRöDE Miguel;GER;13:22.110;+7:45.700;M;Männer
+175;152;FF Eisenach Mitte;PFEIFER Julia;KIESSBAUER Kevin;GER;13:22.310;+7:45.900;MIX;
+176;139;FFW Schnaittach / Eismannsberg;SAUPE Frank;WEICKMANN Matthias;GER;13:25.950;+7:49.540;M;Männer 80
+177;14;FCC Team Lehre;FLÜGGE Jannik;ROCKAR Sven;GER;13:26.400;+7:49.990;M;Männer
+178;136;Young & Wild Frankenblick;MEINHOLD Frank;SCHALLER Daniel;GER;13:26.540;+7:50.130;M;Männer
+179;48;Brandweer Ter Apel;BAKKER David;PRUIM Patrick;NED;13:29.000;+7:52.590;M;Männer 80
+180;223;Tönningstedt-Borstel;PHILIPS Jan;REICHELT Paul;GER;13:38.760;+8:02.350;M;Männer
+182;8;Die 2 Minions;KöLLNER Anna;BUTTIG Matthias;GER;13:43.630;+8:07.220;MIX;
+183;151;Kesselbach Kernstadt;BERG Markus;BERG Thorben;GER;13:44.330;+8:07.920;M;Männer
+184;45;Team Rheinland 2;KRONBERGER Maurine;LINDLEIN Gerrit;GER;13:48.010;+8:11.600;MIX;
+185;104;TFA Team Mitte 6;ZEINER Yvonne;BLüMMERT Fabian;GER;13:48.750;+8:12.340;MIX;
+186;58;Olli‘s Lieblinge;MEYENSCHEIN Niclas;SPATZ Nicolas;GER;13:49.360;+8:12.950;M;Männer
+187;155;FF Borstel 2;GIESE Lennart;PAWLAK Grzegorz;GER;13:51.590;+8:15.180;M;Männer
+188;70;Ostalb Firefighters 2;GAYER Marion;WOLFRAM Peter;GER;13:51.850;+8:15.440;MIX;
+189;47;Feuerwehr Mahlberg Team 2;IPS Florian;BALAJ Andi;GER;13:53.810;+8:17.400;M;Männer
+190;204;BF und FF Hand in Hand;GÖTZ, Dominic;LINSER Oliver;GER;13:56.430;+8:20.020;M;Männer
+191;149;FF Nurzen;RUDOLPH Carsten;SCHäDEL Paul;GER;14:01.350;+8:24.940;M;Männer
+192;19;TFA Team Mitte 9;DEGENHARDT Sebastian;DRANSFELD Max;GER;14:02.050;+8:25.640;M;Männer
+193;213;Feuerwehr Mahlberg Team 3;WALDINGER Stefan;WEBER Moritz;GER;14:02.580;+8:26.170;M;Männer
+194;84;BwF11;KERSTEN Christin;ZIEGLER Erik;GER;14:09.430;+8:33.020;MIX;
+195;92;Stark und Stufig;GROßE Rebekka;PAUL Karina;GER;14:13.510;+8:37.100;W;
+196;188;Bermbacher Feuerwichtel;JäGER Lea;FULSCHE Leon;GER;14:16.840;+8:40.430;MIX;
+197;90;Firefighter Team Phoenix Germa;KIUPEL Denny;THOMSEN Christian;GER;14:16.940;+8:40.530;M;Männer
+198;68;Gestiefelter Muskelkater;PAUL Emma;NOLL Sidney;GER;14:25.970;+8:49.560;MIX;
+199;236;Feuerwehr Schriesheim;BRAND Dominik;SCHMITT Tobias;GER;14:36.800;+9:00.390;M;Männer
+200;203;Feuerwehr Artern 3;HöCHE Marcel;SCHWALKE David;GER;14:40.970;+9:04.560;M;Männer
+201;225;Feuerwehr Klipphausen 2;MARTIN Johannes;WEBER Jörgen;GER;14:43.870;+9:07.460;M;Männer
+202;170;Austrian Firefigther;ALFANZ Jürgen;LEITENBAUER Konstantin;AUT;14:55.160;+9:18.750;M;Männer
+203;141;Atemnot;HOMEYER Lars;KRÖSCH Tobias;GER;15:19.080;+9:42.670;M;Männer
+204;64;BwF7;JäGER Rune;NAVE Sebastian;GER;15:21.600;+9:45.190;M;Männer 80
+205;96;Firefighter Stair Climb 3 NL;HUIZINGA, Gjalt;SPLINTER, Kees;NED;15:31.450;+9:55.040;M;Männer
+206;157;Feuerwehr Ottweiler;WEHRMANN Jennifer;WEIßMANN Lucas;GER;15:33.850;+9:57.440;MIX;
+207;187;Feuerwehr Schmellwitz;APEL Markus;HILGER Marvin;GER;15:41.130;+10:04.720;M;Männer 80
+208;121;FFW Allendorf/Lumda;HEIDER Silke;HEIDER Jannis;GER;15:55.870;+10:19.460;MIX;
+210;216;Team KaRo firefighter;LANGBEIN Ronny;NENDZIAK Karsten;GER;16:20.220;+10:43.810;M;Männer
+211;101;GF vs. ZF;HILPERT Anke;WEIPRECHT Michael;GER;16:26.420;+10:50.010;MIX;
+213;37;Hartha 5;WINKLER Anne;FICHTNER Tim;GER;17:00.930;+11:24.520;MIX;
+214;209;Firebuddies;KAISER Anja;SCHäFER Yvonne;GER;17:46.040;+12:09.630;W;
+215;49;Tönningstedt 1;ZIMMERMANN Maj-Britt;SENSEN Jonas;GER;17:52.950;+12:16.540;MIX;
+216;71;Peine Ladies;KULHAWY Antonia;SONNENBERG Rebea;GER;18:07.660;+12:31.250;W;
+217;114;Frauenpower Seukendorf;BOHUN Jasmin;TUCHBREITER Nicole;GER;18:32.940;+12:56.530;W;
+218;1;Bob & Phil;BLAU Phillip;JÜLICH Marcel;GER;18:42.430;+13:06.020;M;Männer

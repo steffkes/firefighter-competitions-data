@@ -84,15 +84,20 @@ class Spider(scrapy.Spider):
             response.body.decode("utf-8").splitlines(), delimiter=";"
         )
         for row in reader:
-            yield ResultItem(
+            result = ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
                 duration="00:" + (("0" + row["Time"])[-9:])[:7],
                 type="MPA",
-                category=None,
                 names=sorted(map(nameMapper, [row["Name 1"], row["Name 2"]])),
+                category=row["Category"],
                 bib=row["No"],
             )
+
+            if row["Age Group"]:
+                result["age_group"] = row["Age Group"]
+
+            yield result
 
 
 import re

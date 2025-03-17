@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-17T09:16:35.629029",
+  "date": "2025-03-17T09:33:30.708470",
   "competition_id": "recDiZFHFd14tlLUS",
-  "count": 522,
+  "count": 572,
   "teams": [
     [
       "A Frick",
@@ -24,8 +24,16 @@
       "Markus Baum"
     ],
     [
+      "Ahmad Darwish",
+      "Philipp Matzka"
+    ],
+    [
       "Albrecht Gutjahr",
       "Martin Weber"
+    ],
+    [
+      "Alexander Binder",
+      "Hannah Liebmann"
     ],
     [
       "Alexander Emmert",
@@ -80,6 +88,10 @@
       "Maximilian Saile"
     ],
     [
+      "Andreas Betzikofer",
+      "Markus Moser"
+    ],
+    [
       "Andreas Feger",
       "Dominic Butze"
     ],
@@ -126,6 +138,10 @@
     [
       "André Seifert",
       "Valentin Strehle"
+    ],
+    [
+      "Ann Manegold",
+      "Jan Anschütz"
     ],
     [
       "Anna Lena Steurer",
@@ -176,6 +192,10 @@
       "Heiko Zepf"
     ],
     [
+      "Benjamin Sigrist",
+      "Gabriel Jäger"
+    ],
+    [
       "Bernd Müller",
       "Christian Müller"
     ],
@@ -210,6 +230,10 @@
     [
       "Chris Koppenhöfer",
       "Hugo Hölzle"
+    ],
+    [
+      "Christian Bräuer",
+      "Lukas Halas"
     ],
     [
       "Christian Ehrich",
@@ -320,12 +344,28 @@
       "Martin Klein"
     ],
     [
+      "Daniel Huonker",
+      "Thomas Huonker"
+    ],
+    [
       "Daniel Jetter",
       "Philipp Rigoni"
     ],
     [
+      "Daniel Kärcher",
+      "Luka Strugar"
+    ],
+    [
+      "Daniel Link",
+      "Jannik Walz"
+    ],
+    [
       "Daniel Nordmann",
       "Raffael Rimkus"
+    ],
+    [
+      "Daniel Polly",
+      "Raffael Rashidi"
     ],
     [
       "Daniel Schnur",
@@ -469,7 +509,15 @@
     ],
     [
       "Ferdinand Oser",
+      "Stefanie Hägele"
+    ],
+    [
+      "Ferdinand Oser",
       "Sven Reuter"
+    ],
+    [
+      "Finn Seibold",
+      "Marvin Schäfer"
     ],
     [
       "Firdavs Kenjaev",
@@ -498,6 +546,10 @@
     [
       "Florian Mayerhofer",
       "Mathias Scheuermann"
+    ],
+    [
+      "Florian Meisinger",
+      "Tobias Kiefer"
     ],
     [
       "Florian Pfeffer",
@@ -560,6 +612,10 @@
       "Lorenz Hilebrand"
     ],
     [
+      "Gaia Fignon",
+      "Julien Agasse"
+    ],
+    [
       "Georg Zimmer",
       "Matthias Kunle"
     ],
@@ -568,8 +624,20 @@
       "Kai Lanik"
     ],
     [
+      "Gunther Fuchs",
+      "Tobias Alber"
+    ],
+    [
+      "Günther Hindelang",
+      "Steve Roidl"
+    ],
+    [
       "Hannes Saile",
       "Samuel Kleck"
+    ],
+    [
+      "Hans Lehre",
+      "Timo Knorr"
     ],
     [
       "Hans Schreiter",
@@ -624,6 +692,10 @@
       "Paul Löffler"
     ],
     [
+      "Jannis Pfeiffer",
+      "Vera Maier"
+    ],
+    [
       "Jasmin Bohu.",
       "Petra Koch"
     ],
@@ -648,8 +720,8 @@
       "Mike Reif"
     ],
     [
-      "Johannes Blum",
-      "Mike Reif"
+      "Johannes Danen",
+      "Kai Plehn"
     ],
     [
       "Johannes Riederer",
@@ -660,8 +732,16 @@
       "Laura Leitschuh"
     ],
     [
+      "Jonas Ehrmann",
+      "Michael Gsell"
+    ],
+    [
       "Jonas Kirstein",
       "Raphael Pfleghaar"
+    ],
+    [
+      "Jonathan Knodel",
+      "Matthias Mutschler"
     ],
     [
       "Joshua Römer",
@@ -674,6 +754,10 @@
     [
       "Julia Leisner",
       "Verena Broghammer"
+    ],
+    [
+      "Julian Fritz",
+      "Martin Jannack"
     ],
     [
       "Julian Tauer",
@@ -698,6 +782,10 @@
     [
       "Jörg Burghard",
       "Stefanie Hauser"
+    ],
+    [
+      "Jürgen Maier",
+      "Michael Benitz"
     ],
     [
       "Karsten Neupert",
@@ -824,8 +912,16 @@
       "Patrick Fecker"
     ],
     [
+      "Marc Richter",
+      "Philipp Jehle"
+    ],
+    [
       "Marcel Sulz",
       "Marius Rothfelder"
+    ],
+    [
+      "Marcel Zerrer",
+      "Moritz Armbruster"
     ],
     [
       "Marco Dietrich",
@@ -898,6 +994,10 @@
     [
       "Maurice Kretzschmar",
       "Max Blankenhorn"
+    ],
+    [
+      "Max Hermann",
+      "Willeon Köckeritz"
     ],
     [
       "Max Kraft",

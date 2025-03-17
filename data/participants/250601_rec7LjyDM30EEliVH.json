@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-17T10:15:52.828173",
+  "date": "2025-03-17T10:38:16.505637",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 138,
+  "count": 147,
   "teams": [
     [
       "Alexander Hick",
@@ -32,6 +32,11 @@
       "Benjamin Ohl",
       "Christian Heß",
       "Patrick Fleer"
+    ],
+    [
+      "Bernd Helmer",
+      "Steven Müller",
+      "Thomas Galemziok"
     ],
     [
       "Catrin Klemm -Möhn",
@@ -202,6 +207,16 @@
       "Markus Sojka",
       "Michael Schulz",
       "Wolfgang Mueller"
+    ],
+    [
+      "Marvin Mocker",
+      "Moritz Pelosato",
+      "Timo Bender"
+    ],
+    [
+      "Max Fischer",
+      "Stefan Schulz",
+      "Tom Lettermann"
     ],
     [
       "Moritz Höhn",

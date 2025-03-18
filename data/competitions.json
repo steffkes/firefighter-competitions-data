@@ -3500,7 +3500,7 @@
         "name": "Stairways to Heaven",
         "url": "https://stairways.ch/de/",
         "participants": {
-            "count": 149
+            "count": 150
         },
         "date": {
             "start": "2025-05-11",
@@ -4123,31 +4123,7 @@
         "date": {
             "start": "2025-09-27",
             "end": "2025-09-27",
-            "is_draft": true,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Riva del Garda",
-            "country_code": "IT",
-            "coordinates": {
-                "lat": 45.8847708,
-                "lng": 10.8396942
-            }
-        }
-    },
-    {
-        "id": "rec5MnGt9YZAWi2gI",
-        "kind": "FSR",
-        "name": "Garda Lift on Fire",
-        "url": "https://www.instagram.com/gardaliftonfire/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2025-10-04",
-            "end": "2025-10-04",
-            "is_draft": true,
+            "is_draft": null,
             "is_canceled": null,
             "registration_opens": null
         },
@@ -4221,7 +4197,7 @@
             "end": "2025-10-18",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2025-03-30T10:00:00.000Z"
         },
         "location": {
             "city": "Oberstdorf",

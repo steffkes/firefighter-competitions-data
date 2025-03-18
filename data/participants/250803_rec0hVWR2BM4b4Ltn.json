@@ -1,8 +1,12 @@
 {
-  "date": "2025-03-18T13:46:54.127480",
+  "date": "2025-03-18T13:55:19.078440",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 326,
+  "count": 328,
   "teams": [
+    [
+      "Adrian Gonschor",
+      "Nils Eilau"
+    ],
     [
       "Adrian Opielewicz",
       "Fabian Schmidt"

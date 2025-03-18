@@ -57,7 +57,7 @@ class Spider(scrapy.Spider):
             re.match(r"^(.+)\s+\w\s+\d+$", name).group(1).strip()
         )
 
-        data = response.json()["rows"]
+        data = response.json().get("rows", [])
         for entry in data:
             yield ParticipantItem(
                 competition_id=self.competition_id,

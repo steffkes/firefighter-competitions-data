@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-18T07:14:26.823092",
+  "date": "2025-03-18T07:30:30.963830",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 147,
+  "count": 162,
   "teams": [
     [
       "Alexander Hick",
@@ -27,6 +27,11 @@
       "Andre Jesserig",
       "Fabian Kluge",
       "Maimuna Krüger"
+    ],
+    [
+      "Andreas Berberich",
+      "Maximilian Schmitt",
+      "Sebastian Keuth"
     ],
     [
       "Benjamin Ohl",
@@ -149,6 +154,11 @@
       "Max Mustermann"
     ],
     [
+      "Franziska Läßig",
+      "Joan Nitsche",
+      "Lukas Endner"
+    ],
+    [
       "Heiko Neumeier",
       "Kim Luca Melms",
       "Pascal Witzel"
@@ -157,6 +167,11 @@
       "Jan Sven Dumbeck",
       "N. N.",
       "N. N."
+    ],
+    [
+      "Jonas Eisenhauer",
+      "Markus Brähler",
+      "Pascal Bernhard"
     ],
     [
       "Jonas Thiem",
@@ -182,6 +197,11 @@
       "Kathrin Kuske",
       "N. N.",
       "N. N."
+    ],
+    [
+      "Konstantina Arvanitidi",
+      "Nick Naujoks",
+      "Robin Küster"
     ],
     [
       "Leon Fleischmann",
@@ -212,6 +232,11 @@
       "Marvin Mocker",
       "Moritz Pelosato",
       "Timo Bender"
+    ],
+    [
+      "Marvin Reinecke",
+      "Maximilian Berg",
+      "Nicholas Wolf"
     ],
     [
       "Max Fischer",

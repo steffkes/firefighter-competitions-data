@@ -57,7 +57,7 @@ class Spider(scrapy.Spider):
             callback=self.parse_individual,
         )
 
-        scrapy.Request(
+        yield scrapy.Request(
             "file://%s"
             % Path(
                 "spider/data/240608_recUBqaMJOOe95CEW_moenchengladbach_relay.txt"
@@ -135,4 +135,67 @@ class Spider(scrapy.Spider):
         )
 
     def parse_relay(self, response):
-        print({"body": response.body.decode("utf-8")})
+        df = pd.read_fwf(StringIO(response.body.decode("utf-8")))
+
+        results = []
+        for index, row in df.iterrows():
+            results.append(
+                TfaResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    duration=row["Staffel gesamt"] + ".0",
+                    type="OPA",
+                    names=sorted(
+                        [
+                            row["1. Starter"],
+                            row["2. Starter"],
+                            row["3. Starter"],
+                            row["4. Starter"],
+                        ]
+                    ),
+                    category="%s relay"
+                    % {"Male": "M", "Mixed": "X"}.get(row["StaffelTyp"]),
+                    bib=str(row["BIB"]),
+                    country=row["Land"],
+                )
+            )
+
+        def handler(results, label):
+            durations = sorted(map(lambda result: result["duration"], results))
+
+            for category in sorted(
+                set(
+                    map(
+                        lambda result: result["category"],
+                        results,
+                    )
+                )
+            ):
+                results_category = list(
+                    filter(lambda result: result["category"] == category, results)
+                )
+
+                durations_category = sorted(
+                    map(lambda result: result["duration"], results_category)
+                )
+
+                for result in results_category:
+                    result["rank"] = ResultRankItem(
+                        total=durations.index(result["duration"]) + 1,
+                        category=durations_category.index(result["duration"]) + 1,
+                    )
+
+                    result["category"] = "%s (%s)" % (result["category"], label)
+                    del result["country"]
+
+                    yield result
+
+        yield from handler(copy.deepcopy(results), "EU")
+        yield from handler(
+            list(
+                filter(
+                    lambda result: result["country"] == "DEU", copy.deepcopy(results)
+                )
+            ),
+            "DE",
+        )

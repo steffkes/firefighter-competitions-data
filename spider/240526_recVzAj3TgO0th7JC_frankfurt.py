@@ -48,6 +48,7 @@ class CompetitionSpider(Spider):
         starters = []
         for [
             _id,
+            _id2,
             _empty,
             bib,
             name,
@@ -79,9 +80,9 @@ class CompetitionSpider(Spider):
             ).group(1, 2)
 
             [
-                [_id1, bib1, name1, duration1, age_group1, _nationality1],
-                [_id2, bib2, name2, duration2, age_group2, _nationality2],
-                [_id3, bib3, name3, duration3, age_group3, _nationality3],
+                [_id1, _id21, bib1, name1, duration1, age_group1, _nationality1],
+                [_id2, _id22, bib2, name2, duration2, age_group2, _nationality2],
+                [_id3, _id32, bib3, name3, duration3, age_group3, _nationality3],
             ] = names
 
             team_gender = list(

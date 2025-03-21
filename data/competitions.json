@@ -3458,7 +3458,7 @@
             "start": "2025-04-26",
             "end": "2025-04-26",
             "is_draft": null,
-            "is_canceled": null,
+            "is_canceled": true,
             "registration_opens": null
         },
         "location": {
@@ -3878,7 +3878,7 @@
         "name": "Nordschwarzwald Trophy",
         "url": "https://www.eventservice-stahl.de/veranstaltungen/nordschwarzwald-trophy/feuerwehr-lauf-ohne-pa/",
         "participants": {
-            "count": 176
+            "count": 178
         },
         "date": {
             "start": "2025-08-01",

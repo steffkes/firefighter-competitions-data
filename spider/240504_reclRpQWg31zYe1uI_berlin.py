@@ -66,6 +66,7 @@ class Spider(scrapy.spiders.CSVFeedSpider):
             )
 
     def parse(self, response):
+        results = []
         for row in filter(
             lambda row: row.css(":nth-child(4)::text").get() == "Stairrun"
             and row.css(".datum::text").get() == "04.05.2024",
@@ -75,20 +76,38 @@ class Spider(scrapy.spiders.CSVFeedSpider):
             age_group = row.css(":nth-child(8)::text").get()
             names = row.css(":nth-child(12)::text").get().split("/")
 
-            yield ResultItem(
-                date=self.race_date,
-                competition_id=self.competition_id,
-                type="MPA",
-                duration=duration,
-                category={"Ladies": "W", "Mix": "X"}.get(age_group, "M"),
-                age_group=age_group,
-                names=sorted(map(fixName, names)),
-                bib=row.css(":nth-child(5)::text").get(),
-                rank=ResultRankItem(
-                    total=int(row.css(":nth-child(11)::text").get()),
-                    age_group=int(row.css(":nth-child(10)::text").get()),
-                ),
+            results.append(
+                ResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    type="MPA",
+                    duration=duration,
+                    category={"Ladies": "W", "Mix": "X"}.get(age_group, "M"),
+                    age_group=age_group,
+                    names=sorted(map(fixName, names)),
+                    bib=row.css(":nth-child(5)::text").get(),
+                    rank=ResultRankItem(
+                        total=int(row.css(":nth-child(11)::text").get()),
+                        age_group=int(row.css(":nth-child(10)::text").get()),
+                    ),
+                )
             )
+
+        results = sorted(results, key=lambda result: result["duration"])
+
+        for category in sorted(set(map(lambda result: result["category"], results))):
+            results_category = list(
+                filter(lambda result: result["category"] == category, results)
+            )
+            durations_category = list(
+                map(lambda result: result["duration"], results_category)
+            )
+
+            for result in results_category:
+                result["rank"]["category"] = (
+                    durations_category.index(result["duration"]) + 1
+                )
+                yield result
 
 
 def fixName(name):

@@ -3362,7 +3362,7 @@
             "start": "2025-03-29",
             "end": "2025-03-29",
             "is_draft": null,
-            "is_canceled": null,
+            "is_canceled": true,
             "registration_opens": "2025-02-15T11:00:00.000Z"
         },
         "location": {

@@ -76,22 +76,26 @@ class Spider(scrapy.spiders.CSVFeedSpider):
             age_group = row.css(":nth-child(8)::text").get()
             names = row.css(":nth-child(12)::text").get().split("/")
 
-            results.append(
-                ResultItem(
-                    date=self.race_date,
-                    competition_id=self.competition_id,
-                    type="MPA",
-                    duration=duration,
-                    category={"Ladies": "W", "Mix": "X"}.get(age_group, "M"),
-                    age_group=age_group,
-                    names=sorted(map(fixName, names)),
-                    bib=row.css(":nth-child(5)::text").get(),
-                    rank=ResultRankItem(
-                        total=int(row.css(":nth-child(11)::text").get()),
-                        age_group=int(row.css(":nth-child(10)::text").get()),
-                    ),
-                )
+            result = ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                type="MPA",
+                duration=duration,
+                category={"Ladies": "W", "Mix": "X"}.get(age_group, "M"),
+                age_group=age_group,
+                names=sorted(map(fixName, names)),
+                bib=row.css(":nth-child(5)::text").get(),
+                rank=ResultRankItem(
+                    total=int(row.css(":nth-child(11)::text").get()),
+                    age_group=int(row.css(":nth-child(10)::text").get()),
+                ),
             )
+
+            if result["category"] in ["W", "X"]:
+                del result["age_group"]
+                del result["rank"]["age_group"]
+
+            results.append(result)
 
         results = sorted(results, key=lambda result: result["duration"])
 

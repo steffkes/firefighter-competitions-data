@@ -51,6 +51,44 @@ class Spider(scrapy.Spider):
     def parse_starters(self, response):
         for [_bib, _number2, _team, _gender, names] in response.json()["data"]:
             yield ParticipantItem(
-                competition_id=self.competition_id,
-                names=sorted(map(str.strip, names.split("/"))),
+                competition_id=self.competition_id, names=fixNames(names)
             )
+
+
+import re
+
+
+def fixNames(raw_names):
+    names = raw_names.split("/")
+
+    if len(names) == 1:
+        names = re.split(r"\s{2,}", raw_names)
+
+    if len(names) == 1:
+        names = raw_names.split(",")
+
+    return sorted(list(map(str.strip, names)))
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        (
+            "Strobel, Patrick     Brummer, Justin",
+            ["Brummer, Justin", "Strobel, Patrick"],
+        ),
+        (
+            "Wittig, Johannes      Brosius, Marius",
+            ["Brosius, Marius", "Wittig, Johannes"],
+        ),
+        ("Hagen Scherer, Ronny Becker", ["Hagen Scherer", "Ronny Becker"]),
+        ("Schubert Toni, Windisch Rick", ["Schubert Toni", "Windisch Rick"]),
+        ("Alexander, Höhne / Rene, Richter", ["Alexander, Höhne", "Rene, Richter"]),
+        ("Anja Werner / Julia Drews", ["Anja Werner", "Julia Drews"]),
+    ],
+)
+def test_fixNames(input, output):
+    assert fixNames(input) == output

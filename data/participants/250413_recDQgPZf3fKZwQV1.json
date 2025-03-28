@@ -1,20 +1,8 @@
 {
-  "date": "2025-03-28T21:12:48.197179",
+  "date": "2025-03-28T21:17:57.089832",
   "competition_id": "recDQgPZf3fKZwQV1",
-  "count": 42,
+  "count": 46,
   "teams": [
-    [
-      "Hagen Scherer, Ronny Becker"
-    ],
-    [
-      "Schubert Toni, Windisch Rick"
-    ],
-    [
-      "Strobel, Patrick     Brummer, Justin"
-    ],
-    [
-      "Wittig, Johannes      Brosius, Marius"
-    ],
     [
       "Alexander, Höhne",
       "Rene, Richter"
@@ -22,6 +10,14 @@
     [
       "Anja Werner",
       "Julia Drews"
+    ],
+    [
+      "Brosius, Marius",
+      "Wittig, Johannes"
+    ],
+    [
+      "Brummer, Justin",
+      "Strobel, Patrick"
     ],
     [
       "Cedric Matthäus",
@@ -50,6 +46,10 @@
     [
       "Falko Hammermüller",
       "Monique Lucius"
+    ],
+    [
+      "Hagen Scherer",
+      "Ronny Becker"
     ],
     [
       "Heene, Marc",
@@ -90,6 +90,10 @@
     [
       "Scheibe Erik",
       "Siegel Kevin"
+    ],
+    [
+      "Schubert Toni",
+      "Windisch Rick"
     ]
   ]
 }

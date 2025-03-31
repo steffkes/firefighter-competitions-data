@@ -1,7 +1,7 @@
 {
-  "date": "2025-03-31T19:12:28.669343",
+  "date": "2025-03-31T19:26:42.603664",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 402,
+  "count": 404,
   "teams": [
     [
       "Aaron Saad Albrecht",
@@ -142,6 +142,10 @@
     [
       "Benjamin Hess",
       "David Bergmann"
+    ],
+    [
+      "Benjamin Lepper",
+      "Thorsten Funk"
     ],
     [
       "Benjamin Osswald",

@@ -4190,7 +4190,7 @@
         "name": "Schanzenlauf Oberstdorf",
         "url": "https://feuerwehr-oberstdorf.de/aktuelles/schanzenlauf-2024",
         "participants": {
-            "count": 504
+            "count": 502
         },
         "date": {
             "start": "2025-10-18",
@@ -4229,6 +4229,30 @@
             "coordinates": {
                 "lat": 51.4807764,
                 "lng": 11.9212063
+            }
+        }
+    },
+    {
+        "id": "recjK2NA5Tk2hvZfP",
+        "kind": "FSR",
+        "name": "Zagreb Firefighter Stair Challenge",
+        "url": "https://www.zagreb-firefighter-stair-challenge.com.hr/en/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-12-06",
+            "end": "2025-12-06",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Zagreb",
+            "country_code": "CZ",
+            "coordinates": {
+                "lat": 45.8035601,
+                "lng": 15.9892098
             }
         }
     },

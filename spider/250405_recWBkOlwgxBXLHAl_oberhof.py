@@ -51,6 +51,7 @@ class Spider(scrapy.Spider):
         for [
             _number1,
             _number2,
+            _time,
             _team,
             _nationality,
             _department,

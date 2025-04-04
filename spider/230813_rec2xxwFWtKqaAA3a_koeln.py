@@ -9,6 +9,8 @@ from util import (
     ResultRankItem,
 )
 
+changedParticipants = {"Stefan Mathwis": "Stefan Matheis"}
+
 
 class Spider(scrapy.Spider):
     name = __name__
@@ -99,11 +101,13 @@ class Spider(scrapy.Spider):
             )
 
     def parse(self, response, data_key, competition_type, details):
+        fixName = lambda name: changedParticipants.get(name.strip(), name.strip())
+
         for entry in response.json()["data"][data_key]:
             [id, _id2, _rank, bib, _, names, age_group, raw_duration] = entry
 
             [category, _] = age_group.split(" ")
-            names = sorted(map(str.strip, names.split("/")))
+            names = sorted(map(fixName, names.split("/")))
             duration = "00:%s.0" % raw_duration.zfill(5)
 
             [

@@ -92,7 +92,7 @@ class Spider(scrapy.Spider):
         fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
 
         data = list(response.json()["data"].values())[0]
-        for [_bib, _id, _team, names, _category] in data:
+        for [_bib, _id, _id2, _team, names, _category] in data:
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=sorted(map(fixName, names.split(" / "))),
@@ -100,10 +100,7 @@ class Spider(scrapy.Spider):
 
     def parse(self, response, data_key, competition_type, details):
         for entry in response.json()["data"][data_key]:
-            [id, status, bib, _, names, age_group, raw_duration] = entry
-
-            if status == "a.k.":  # DNF / DSQ
-                continue
+            [id, _id2, _rank, bib, _, names, age_group, raw_duration] = entry
 
             [category, _] = age_group.split(" ")
             names = sorted(map(str.strip, names.split("/")))
@@ -111,6 +108,7 @@ class Spider(scrapy.Spider):
 
             [
                 _id,
+                _id2,
                 _bib,
                 _person1,
                 _person2,

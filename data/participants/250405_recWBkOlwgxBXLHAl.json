@@ -1,12 +1,8 @@
 {
-  "date": "2025-04-05T07:53:52.381246",
+  "date": "2025-04-05T08:16:16.050986",
   "competition_id": "recWBkOlwgxBXLHAl",
-  "count": 352,
+  "count": 348,
   "teams": [
-    [
-      "",
-      ""
-    ],
     [
       "Aaron Fischer",
       "Christian Weber"
@@ -96,10 +92,6 @@
       "Björn Herborn"
     ],
     [
-      "André Möckl",
-      "Kay Galler"
-    ],
-    [
       "Anke Topf",
       "Max Ludwig"
     ],
@@ -130,10 +122,6 @@
     [
       "Benjamin Michel",
       "Christian Metz"
-    ],
-    [
-      "Benjamin Nast",
-      "Tony Fuß"
     ],
     [
       "Benjamin Schrader",
@@ -326,6 +314,10 @@
     [
       "Fritz Kielmann",
       "Willy Gerber"
+    ],
+    [
+      "Guido Suhrmeyer",
+      "Steve Roidl"
     ],
     [
       "Hannes Senge",

@@ -1,11 +1,11 @@
 {
-  "date": "2025-04-06T14:12:24.366810",
+  "date": "2025-04-06T14:31:39.685111",
   "competition_id": "recDQgPZf3fKZwQV1",
   "count": 58,
   "teams": [
     [
-      "Alexander, Höhne",
-      "Rene, Richter"
+      "Alexander Höhne",
+      "Rene Richter"
     ],
     [
       "Ali Leistner",
@@ -22,14 +22,6 @@
     [
       "Bendix Gasch",
       "Pascal Arne Lange"
-    ],
-    [
-      "Brosius, Marius",
-      "Wittig, Johannes"
-    ],
-    [
-      "Brummer, Justin",
-      "Strobel, Patrick"
     ],
     [
       "Cedric Matthäus",
@@ -52,6 +44,10 @@
       "Florian Wedel"
     ],
     [
+      "Erik Scheibe",
+      "Kevin Siegel"
+    ],
+    [
       "Erik Wurlitzer",
       "Florian Oehme"
     ],
@@ -70,10 +66,6 @@
     [
       "Hagen Scherer",
       "Ronny Becker"
-    ],
-    [
-      "Heene, Marc",
-      "Strauß, Martin"
     ],
     [
       "Heiko Baier",
@@ -96,12 +88,24 @@
       "Johanna Kühn"
     ],
     [
+      "Johannes Wittig",
+      "Marius Brosius"
+    ],
+    [
       "John Päßler",
       "Robin Schlömilch"
     ],
     [
+      "Justin Brummer",
+      "Patrik Strobel"
+    ],
+    [
       "Katrin Danz",
       "Nadja Steps"
+    ],
+    [
+      "Marc Heene",
+      "Martin Strauß"
     ],
     [
       "Marcel Lehmann",
@@ -112,12 +116,8 @@
       "Rosario Roth"
     ],
     [
-      "Scheibe Erik",
-      "Siegel Kevin"
-    ],
-    [
-      "Schubert Toni",
-      "Windisch Rick"
+      "Rick Windisch",
+      "Toni Schubert"
     ]
   ]
 }

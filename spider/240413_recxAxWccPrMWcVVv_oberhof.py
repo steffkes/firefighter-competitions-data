@@ -85,6 +85,11 @@ class Spider(scrapy.Spider):
         for entry in data:
             [bib, _, _, _, _, _, raw_duration, names, _, raw_age_group] = entry
 
+            # it's basically everything without a breathing apparatus
+            # also no gear on the back .. no rules at all?
+            if raw_age_group == "MIXO":
+                continue
+
             duration = "00:" + raw_duration.split(" ")[0].replace(",", ".")
             names = sorted(
                 map(

@@ -3816,7 +3816,7 @@
             "end": "2025-07-20",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": "2024-06-29T16:00:00.000Z"
+            "registration_opens": "2025-04-27T15:00:00.000Z"
         },
         "location": {
             "city": "Göttingen",
@@ -4173,7 +4173,7 @@
             "end": "2025-10-11",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2025-05-11T14:00:00.000Z"
         },
         "location": {
             "city": "Berlin",

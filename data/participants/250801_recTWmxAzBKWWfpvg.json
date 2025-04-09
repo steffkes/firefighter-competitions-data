@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-09T13:04:30.365540",
+  "date": "2025-04-09T13:37:42.655230",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 192,
+  "count": 196,
   "teams": [
     [
       "Agostino Marulli",
@@ -276,6 +276,10 @@
       "Patrick Kuhn"
     ],
     [
+      "Kurz Fabian",
+      "Mathias Knödler"
+    ],
+    [
       "Käß Felix",
       "Moritz Käß"
     ],
@@ -386,6 +390,10 @@
     [
       "Sven Schmitt",
       "Weindel Luis"
+    ],
+    [
+      "Vanessa Mai",
+      "Walter Tobias"
     ]
   ]
 }

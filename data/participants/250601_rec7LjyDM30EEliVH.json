@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-10T11:15:58.357050",
+  "date": "2025-04-10T11:28:16.371537",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 225,
+  "count": 228,
   "teams": [
     [
       "Alexander Fischer",
@@ -62,6 +62,11 @@
       "Bastian Freudenstein",
       "Dennis Küllmer",
       "Jessy Frede"
+    ],
+    [
+      "Benedikt Bangert",
+      "Johannes Bangert",
+      "Johannes Wind"
     ],
     [
       "Benjamin Ohl",

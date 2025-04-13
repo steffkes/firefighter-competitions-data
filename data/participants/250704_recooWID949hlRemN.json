@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-13T16:51:12.673071",
+  "date": "2025-04-13T17:12:10.375083",
   "competition_id": "recooWID949hlRemN",
-  "count": 559,
+  "count": 563,
   "teams": [
     [
       "Adam Slavicek"
@@ -104,6 +104,9 @@
     ],
     [
       "David Kubis"
+    ],
+    [
+      "David Probst"
     ],
     [
       "Dennis Wolz"
@@ -1006,6 +1009,11 @@
       "Jörg Winkler",
       "Mario Fleerkortte",
       "Mirco Feuerhack"
+    ],
+    [
+      "Markus Brockers",
+      "Matthias Metzen",
+      "Stefan Masson"
     ],
     [
       "Patrick Kirsch",

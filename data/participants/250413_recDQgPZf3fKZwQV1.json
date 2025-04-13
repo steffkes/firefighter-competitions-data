@@ -1,5 +1,5 @@
 {
-  "date": "2025-04-13T08:17:16.935584",
+  "date": "2025-04-13T08:37:14.241732",
   "competition_id": "recDQgPZf3fKZwQV1",
   "count": 64,
   "teams": [
@@ -32,8 +32,16 @@
       "Ingo Blut"
     ],
     [
+      "Christian Roth",
+      "Heiko Wenzel"
+    ],
+    [
       "Dominik Thiel",
       "Tobias Diedrigkeit"
+    ],
+    [
+      "Emma Eibisch",
+      "Isabell Müller"
     ],
     [
       "Eric Hering",
@@ -64,6 +72,10 @@
       "Monique Lucius"
     ],
     [
+      "Florian Romanowsky",
+      "Rick Windisch"
+    ],
+    [
       "Franz Engelhardt",
       "Thorben Lenzen"
     ],
@@ -78,14 +90,6 @@
     [
       "Heiko Baier",
       "Stan Flecher"
-    ],
-    [
-      "Heiko Wenzel",
-      "Luca Englert"
-    ],
-    [
-      "Isabell Müller",
-      "Kay Hain"
     ],
     [
       "Jana Reinhardt",
@@ -126,10 +130,6 @@
     [
       "Matthias Schmidt",
       "Rosario Roth"
-    ],
-    [
-      "Rick Windisch",
-      "Toni Schubert"
     ]
   ]
 }

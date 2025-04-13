@@ -248,10 +248,11 @@ class FccSpider(Spider):
                 callback=self.parse_starters,
             )
 
-        yield scrapy.FormRequest(
-            method="GET",
-            url="https://www.firefighter-challenge-germany.de/ergebnisse/",
-        )
+        if self.get("event_id"):
+            yield scrapy.FormRequest(
+                method="GET",
+                url="https://www.firefighter-challenge-germany.de/ergebnisse/",
+            )
 
     def parse_starters(self, response):
         for event_day_id in self.event_day_ids:

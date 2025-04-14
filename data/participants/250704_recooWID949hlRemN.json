@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-14T20:16:21.529528",
+  "date": "2025-04-14T20:34:27.551562",
   "competition_id": "recooWID949hlRemN",
-  "count": 590,
+  "count": 592,
   "teams": [
     [
       "Adam Slavicek"
@@ -890,6 +890,10 @@
     [
       "Matthias Hey",
       "Severin Körschgen"
+    ],
+    [
+      "Matthias Metzen",
+      "Stefan Masson"
     ],
     [
       "Matthias Weickmann",

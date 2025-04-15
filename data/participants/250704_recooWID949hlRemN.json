@@ -1,13 +1,16 @@
 {
-  "date": "2025-04-15T15:14:54.593083",
+  "date": "2025-04-15T15:34:24.371500",
   "competition_id": "recooWID949hlRemN",
-  "count": 602,
+  "count": 626,
   "teams": [
     [
       "Adam Slavicek"
     ],
     [
       "Alan Dittrich"
+    ],
+    [
+      "Alessia Hörning"
     ],
     [
       "Alex Schwarte"
@@ -76,12 +79,6 @@
       "Christian Follmann"
     ],
     [
-      "Christian Follmann"
-    ],
-    [
-      "Christian Follmann"
-    ],
-    [
       "Christian Küpers"
     ],
     [
@@ -118,13 +115,13 @@
       "Dietmar Kirsch"
     ],
     [
+      "Dominik Zirbes"
+    ],
+    [
       "Erik Hoffmeister"
     ],
     [
       "Erik Langenhahn"
-    ],
-    [
-      "Fabian Kluge"
     ],
     [
       "Fabian Kluge"
@@ -227,6 +224,9 @@
     ],
     [
       "Kathrin Madlen Grote Lambers"
+    ],
+    [
+      "Khalid Alotaibi"
     ],
     [
       "Kirsten Schneidereit"
@@ -364,6 +364,9 @@
       "Michel Bantel"
     ],
     [
+      "Michel Menten"
+    ],
+    [
       "Mike Stöbener"
     ],
     [
@@ -490,9 +493,6 @@
       "Simon Feuerhack"
     ],
     [
-      "Simon Feuerhack"
-    ],
-    [
       "Simon Schwert"
     ],
     [
@@ -584,6 +584,9 @@
     ],
     [
       "Yannic Linnemann"
+    ],
+    [
+      "Yousef Alqallaf"
     ],
     [
       "Zdenko Jamnik"
@@ -692,6 +695,10 @@
     [
       "Christian Bradler",
       "Tim Hoffmann"
+    ],
+    [
+      "Christian Follmann",
+      "David Probst"
     ],
     [
       "Christian Küpers",
@@ -844,6 +851,10 @@
     [
       "Kathrin Grote Lambers",
       "Sven Ramaker"
+    ],
+    [
+      "Khalid Alotaibi",
+      "Yousef Alqallaf"
     ],
     [
       "Lea Wagner",
@@ -1010,6 +1021,10 @@
       "Steve Rimmer"
     ],
     [
+      "Roman Munzer",
+      "Tomislav Visnar"
+    ],
+    [
       "Ruben Werbke",
       "Zora Werbke"
     ],
@@ -1040,11 +1055,6 @@
       "Zora Werbke"
     ],
     [
-      "Bianca Schöffegger",
-      "Melanie Schönewald",
-      "Sebastian Vovko"
-    ],
-    [
       "Birthe Plohg",
       "Mona Röse",
       "Rebea Sonnenberg"
@@ -1053,11 +1063,6 @@
       "Christian Meyer",
       "Nina Korittko",
       "Wolfgang Stark"
-    ],
-    [
-      "Dietmar Kirsch",
-      "Gerd Müller",
-      "Magnus Hirschfeld"
     ],
     [
       "Finn Giersberg",
@@ -1102,6 +1107,12 @@
       "Viktoria Klik"
     ],
     [
+      "Alexander Hellwig",
+      "Christian Franzen",
+      "Michel Menten",
+      "Pierre Fischer"
+    ],
+    [
       "Andreas Wilhelm",
       "Christian Bradler",
       "Sven Reuter",
@@ -1130,6 +1141,12 @@
       "Jannik Wagner",
       "Maik Stöbener",
       "Michel Bantel"
+    ],
+    [
+      "Dietmar Kirsch",
+      "Gerd Müller",
+      "Magnus Hirschfeld",
+      "Michael Joseph"
     ],
     [
       "Dirk Fuhrmann",
@@ -1231,11 +1248,25 @@
       "Timo Schulz"
     ],
     [
+      "Bianca Schöffegger",
+      "Khalid Alotaibi",
+      "Melanie Schönewald",
+      "Sebastian Vovko",
+      "Yousef Alqallaf"
+    ],
+    [
       "Brandon Sigala",
       "Colby Hanilton",
       "Grayson Gibble",
       "Jackson Apar",
       "Teague Kaiser-Kendall"
+    ],
+    [
+      "Christian Follmann",
+      "David Probst",
+      "Dirk Fischer",
+      "Dominik Zirbes",
+      "Rüdiger Zeuner-Christ"
     ],
     [
       "Damian Pyka",
@@ -1285,6 +1316,13 @@
       "Reinhard Vierhaus",
       "Roberto Segundo",
       "Vivien Eick"
+    ],
+    [
+      "Khalid Alotaibi",
+      "Roman Munzer",
+      "Sebastian Vovko",
+      "Thomislav Visnar",
+      "Yousef Algallaf"
     ],
     [
       "Luka Heim",

@@ -86,7 +86,7 @@ class Spider(scrapy.Spider):
                 ResultItem(
                     date=self.race_date,
                     competition_id=self.competition_id,
-                    type="OPA",
+                    type="MPA",
                     duration=duration,
                     names=names,
                     category={"Männer": "M", "Frauen": "W", "Mixed": "X"}[raw_category],

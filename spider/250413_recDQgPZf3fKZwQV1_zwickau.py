@@ -1,6 +1,12 @@
 import scrapy
 from datetime import datetime
-from util import JsonItemExporter, JsonLinesItemExporter, ParticipantItem, ResultItem
+from util import (
+    JsonItemExporter,
+    JsonLinesItemExporter,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+)
 
 
 class Spider(scrapy.Spider):
@@ -67,25 +73,36 @@ class Spider(scrapy.Spider):
 
     def parse(self, response, data_key):
         data = response.json()["data"]
+        results = []
+
         for entry in (
             data[data_key]["#1_w"]["#1_"]
             + data[data_key]["#2_m"]["#2_"]
             + data[data_key]["#3_a"]["#3_"]
         ):
-            [bib, _, _, _, _, _, names, raw_duration] = entry
+            [bib, _, rank_category, _, _, raw_category, names, raw_duration] = entry
 
             names = sorted(list(map(str.strip, re.split(r"[/,]", names))))
             duration = "00:" + raw_duration.replace(",", ".")
 
-            yield ResultItem(
-                date=self.race_date,
-                competition_id=self.competition_id,
-                bib=bib,
-                type="OPA",
-                category=None,
-                duration=duration,
-                names=names,
+            results.append(
+                ResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    type="OPA",
+                    duration=duration,
+                    names=names,
+                    category={"Männer": "M", "Frauen": "W", "Mixed": "X"}[raw_category],
+                    rank=ResultRankItem(category=int(rank_category[0:-1])),
+                    bib=bib,
+                )
             )
+
+        durations = sorted(map(lambda result: result["duration"], results))
+
+        for result in results:
+            result["rank"]["total"] = durations.index(result["duration"]) + 1
+            yield result
 
 
 import re

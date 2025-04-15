@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-15T09:20:04.206746",
+  "date": "2025-04-15T09:46:16.925421",
   "competition_id": "recooWID949hlRemN",
-  "count": 600,
+  "count": 602,
   "teams": [
     [
       "Adam Slavicek"
@@ -748,6 +748,10 @@
     [
       "Finn Giersberg",
       "Kira Haida"
+    ],
+    [
+      "Finn Giersberg",
+      "Thomas Werxhausen"
     ],
     [
       "Florian Rosenbaum",

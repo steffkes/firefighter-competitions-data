@@ -1,11 +1,11 @@
-{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "bib": "35", "type": "OPA", "category": null, "duration": "00:01:02.5", "names": ["Christian Grüner", "Toni Schubert"]}
-{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "bib": "21", "type": "OPA", "category": null, "duration": "00:01:06.6", "names": ["Max Leibelt", "Philipp Leibelt"]}
-{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "bib": "34", "type": "OPA", "category": null, "duration": "00:01:10.8", "names": ["Heene Marc", "Spitzner Ernst"]}
-{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "bib": "31", "type": "OPA", "category": null, "duration": "00:01:11.8", "names": ["Eric Zimmermann", "Immanuel Borau"]}
-{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "bib": "15", "type": "OPA", "category": null, "duration": "00:01:12.9", "names": ["Lukas Pahlisch", "Tobias Kahnes"]}
-{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "bib": "24", "type": "OPA", "category": null, "duration": "00:01:13.9", "names": ["Hans Schreiter", "Stefan Marienthal"]}
-{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "bib": "14", "type": "OPA", "category": null, "duration": "00:01:15.0", "names": ["Marc Schuster", "Niclas Schuster"]}
-{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "bib": "11", "type": "OPA", "category": null, "duration": "00:01:15.5", "names": ["Erik Scheibe", "Pascal Arne Lange"]}
-{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "bib": "23", "type": "OPA", "category": null, "duration": "00:01:24.7", "names": ["Jeremy Löffler", "Philipp Tischer"]}
-{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "bib": "13", "type": "OPA", "category": null, "duration": "00:01:38.8", "names": ["Elina Görler", "Florian Löffler"]}
-{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "bib": "12", "type": "OPA", "category": null, "duration": "00:01:49.8", "names": ["Julius Hardege", "Philipp Simon"]}
+{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "type": "OPA", "duration": "00:01:02.5", "names": ["Christian Grüner", "Toni Schubert"], "category": "M", "rank": {"category": 1, "total": 1}, "bib": "35"}
+{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "type": "OPA", "duration": "00:01:06.6", "names": ["Max Leibelt", "Philipp Leibelt"], "category": "M", "rank": {"category": 2, "total": 2}, "bib": "21"}
+{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "type": "OPA", "duration": "00:01:10.8", "names": ["Heene Marc", "Spitzner Ernst"], "category": "M", "rank": {"category": 3, "total": 3}, "bib": "34"}
+{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "type": "OPA", "duration": "00:01:11.8", "names": ["Eric Zimmermann", "Immanuel Borau"], "category": "M", "rank": {"category": 4, "total": 4}, "bib": "31"}
+{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "type": "OPA", "duration": "00:01:12.9", "names": ["Lukas Pahlisch", "Tobias Kahnes"], "category": "M", "rank": {"category": 5, "total": 5}, "bib": "15"}
+{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "type": "OPA", "duration": "00:01:13.9", "names": ["Hans Schreiter", "Stefan Marienthal"], "category": "M", "rank": {"category": 6, "total": 6}, "bib": "24"}
+{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "type": "OPA", "duration": "00:01:15.0", "names": ["Marc Schuster", "Niclas Schuster"], "category": "M", "rank": {"category": 7, "total": 7}, "bib": "14"}
+{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "type": "OPA", "duration": "00:01:15.5", "names": ["Erik Scheibe", "Pascal Arne Lange"], "category": "M", "rank": {"category": 8, "total": 8}, "bib": "11"}
+{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "type": "OPA", "duration": "00:01:24.7", "names": ["Jeremy Löffler", "Philipp Tischer"], "category": "M", "rank": {"category": 9, "total": 9}, "bib": "23"}
+{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "type": "OPA", "duration": "00:01:38.8", "names": ["Elina Görler", "Florian Löffler"], "category": "X", "rank": {"category": 1, "total": 10}, "bib": "13"}
+{"date": "2024-04-21", "competition_id": "recro0bAFSmCCQZBP", "type": "OPA", "duration": "00:01:49.8", "names": ["Julius Hardege", "Philipp Simon"], "category": "M", "rank": {"category": 10, "total": 11}, "bib": "12"}

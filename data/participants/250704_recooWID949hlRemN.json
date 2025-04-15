@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-15T05:46:26.992044",
+  "date": "2025-04-15T05:54:16.161635",
   "competition_id": "recooWID949hlRemN",
-  "count": 597,
+  "count": 598,
   "teams": [
     [
       "Adam Slavicek"
@@ -1098,12 +1098,6 @@
       "Tim Hoffmann"
     ],
     [
-      "Anja Riehn",
-      "Bianca Schöffegger",
-      "Lena Schuster",
-      "Melanie Schönewald"
-    ],
-    [
       "Anna Jansen",
       "Janna Hoppman",
       "Marvin Stöbener",
@@ -1211,6 +1205,13 @@
       "Matthias Ascheberg",
       "Michael Bartmann",
       "Simon Schoog-Döhring"
+    ],
+    [
+      "Anja Riehn",
+      "Bianca Schöffegger",
+      "Lena Schuster",
+      "Meike Denecke",
+      "Melanie Schönewald"
     ],
     [
       "Anja Sudholt",

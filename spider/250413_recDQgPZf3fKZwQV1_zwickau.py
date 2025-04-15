@@ -48,10 +48,43 @@ class Spider(scrapy.Spider):
             callback=self.parse_starters,
         )
 
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "Ergebnislisten|Feuerwehr AK",
+                "contest": "2",
+            },
+            cb_kwargs={"data_key": "#1_Feuerwehr-Treppenlauf-Zwickau"},
+        )
+
     def parse_starters(self, response):
         for [_bib, _number2, _team, _gender, names] in response.json()["data"]:
             yield ParticipantItem(
                 competition_id=self.competition_id, names=fixNames(names)
+            )
+
+    def parse(self, response, data_key):
+        data = response.json()["data"]
+        for entry in (
+            data[data_key]["#1_w"]["#1_"]
+            + data[data_key]["#2_m"]["#2_"]
+            + data[data_key]["#3_a"]["#3_"]
+        ):
+            [bib, _, _, _, _, _, names, raw_duration] = entry
+
+            names = sorted(list(map(str.strip, re.split(r"[/,]", names))))
+            duration = "00:" + raw_duration.replace(",", ".")
+
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                bib=bib,
+                type="OPA",
+                category=None,
+                duration=duration,
+                names=names,
             )
 
 

@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-16T17:18:00.303198",
+  "date": "2025-04-16T17:33:31.144531",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 249,
+  "count": 252,
   "teams": [
     [
       "Alexander Fischer",
@@ -12,11 +12,6 @@
       "Alexander Gnau",
       "Christian Winter",
       "Michael Ronde"
-    ],
-    [
-      "Alexander Gohlke",
-      "Emma Schermbeck",
-      "Max Pälmer"
     ],
     [
       "Alexander Hick",
@@ -417,6 +412,14 @@
       "Philipp Weitzel",
       "Sebastian Menn",
       "Tim Fox"
+    ],
+    [
+      "Christian Klimaschka",
+      "Dennis Wieland",
+      "Emma Schermbeck",
+      "Fynn Bügemannskemper",
+      "Matthias Bülow",
+      "Max Pälmer"
     ]
   ]
 }

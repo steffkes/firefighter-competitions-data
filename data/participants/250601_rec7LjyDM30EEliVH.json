@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-16T17:45:19.854835",
+  "date": "2025-04-16T17:53:58.095778",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 252,
+  "count": 255,
   "teams": [
     [
       "Alexander Fischer",
@@ -414,12 +414,15 @@
       "Tim Fox"
     ],
     [
+      "Alexander Gohlke",
+      "Andreas Weißelberg",
       "Christian Klimaschka",
       "Dennis Wieland",
       "Emma Schermbeck",
       "Fynn Bügemannskemper",
       "Matthias Bülow",
-      "Max Pälmer"
+      "Max Pälmer",
+      "Sebastian Durth"
     ]
   ]
 }

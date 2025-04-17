@@ -4020,14 +4020,14 @@
         "id": "reczDUPUd3QCRSGFr",
         "kind": "FSR",
         "name": "Towerrun Mainz",
-        "url": null,
+        "url": "https://www.ff-mainz-stadt.de/towerrun-mainz",
         "participants": {
-            "count": null
+            "count": 2
         },
         "date": {
             "start": "2025-09-14",
             "end": "2025-09-14",
-            "is_draft": true,
+            "is_draft": null,
             "is_canceled": null,
             "registration_opens": null
         },

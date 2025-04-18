@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-18T16:40:15.202768",
+  "date": "2025-04-18T16:52:13.023840",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 456,
+  "count": 458,
   "teams": [
     [
       "Aaron Saad Albrecht",
@@ -486,6 +486,10 @@
     [
       "Jahn-Chris Schmalbach",
       "Jan Weber"
+    ],
+    [
+      "Jan Niklas Decher",
+      "Maximilian Ried"
     ],
     [
       "Jan-Lukas Hepe",

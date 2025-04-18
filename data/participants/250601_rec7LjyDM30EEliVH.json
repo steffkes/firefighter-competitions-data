@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-18T08:40:34.039075",
+  "date": "2025-04-18T08:52:44.708374",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 258,
+  "count": 261,
   "teams": [
     [
       "Alexander Fischer",
@@ -142,6 +142,11 @@
       "Claude Kaufmann",
       "Martin Loos",
       "Nico Kleer"
+    ],
+    [
+      "Claude Rieff",
+      "Nico Kleer",
+      "Remy Harpes"
     ],
     [
       "Claudio Polzin",

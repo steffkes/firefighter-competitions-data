@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-18T05:45:15.310027",
+  "date": "2025-04-18T05:53:58.699908",
   "competition_id": "recooWID949hlRemN",
-  "count": 626,
+  "count": 628,
   "teams": [
     [
       "Adam Slavicek"
@@ -737,6 +737,10 @@
       "Simon Gapp"
     ],
     [
+      "Dummy Dummy",
+      "Khalid Alotaibi"
+    ],
+    [
       "Eric Kessler",
       "Karsten Schug"
     ],
@@ -851,10 +855,6 @@
     [
       "Kathrin Grote Lambers",
       "Sven Ramaker"
-    ],
-    [
-      "Khalid Alotaibi",
-      "Yousef Alqallaf"
     ],
     [
       "Lea Wagner",
@@ -1031,6 +1031,10 @@
     [
       "Sabine Sauer",
       "Werner Sauer"
+    ],
+    [
+      "Sebastian Vovko",
+      "Yousef Alqallaf"
     ],
     [
       "Soraya Troppa",

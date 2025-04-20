@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-20T19:12:17.813913",
+  "date": "2025-04-20T19:26:39.227975",
   "competition_id": "rec0hVWR2BM4b4Ltn",
-  "count": 462,
+  "count": 464,
   "teams": [
     [
       "Aaron Saad Albrecht",
@@ -826,6 +826,10 @@
     [
       "Nick Pircher",
       "Tom Albus"
+    ],
+    [
+      "Nicolas Loest",
+      "Sebastian Huber"
     ],
     [
       "Niklas Keßel",

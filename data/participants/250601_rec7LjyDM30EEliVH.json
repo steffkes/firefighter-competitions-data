@@ -1,8 +1,12 @@
 {
-  "date": "2025-04-22T16:45:46.305698",
+  "date": "2025-04-22T16:56:10.771136",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 264,
+  "count": 267,
   "teams": [
+    [
+      "Julius Bruhn",
+      "Peter Benz"
+    ],
     [
       "Alexander Fischer",
       "Carsten Jäger",
@@ -147,11 +151,6 @@
       "Claude Kaufmann",
       "Martin Loos",
       "Nico Kleer"
-    ],
-    [
-      "Claude Rieff",
-      "Nico Kleer",
-      "Remy Harpes"
     ],
     [
       "Claudio Polzin",
@@ -427,6 +426,12 @@
       "Philipp Weitzel",
       "Sebastian Menn",
       "Tim Fox"
+    ],
+    [
+      "Claude Rieff",
+      "Julian Dehner",
+      "Nico Kleer",
+      "Remy Harpes"
     ],
     [
       "Alexander Gohlke",

@@ -1,11 +1,16 @@
 {
-  "date": "2025-04-28T06:01:35.282395",
+  "date": "2025-04-28T06:47:11.022858",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 309,
+  "count": 321,
   "teams": [
     [
       "Enrico Furnari",
       "Jonas Traud"
+    ],
+    [
+      "Alex Ulm",
+      "Alexander Schaper",
+      "Ralph Schwäch"
     ],
     [
       "Alexander Fischer",
@@ -91,6 +96,11 @@
       "Bastian Freudenstein",
       "Dennis Küllmer",
       "Jessy Frede"
+    ],
+    [
+      "Ben Baumgärtel",
+      "Shalina Beran",
+      "Tom Beister"
     ],
     [
       "Ben Gleske",
@@ -413,6 +423,11 @@
       "Sebastian Jansen"
     ],
     [
+      "Marc Schwarz",
+      "Patrick Berner",
+      "Timo Crößmann"
+    ],
+    [
       "Marcel Finkernagel",
       "Sascha Dimmer",
       "Tamara Bedacht"
@@ -421,6 +436,11 @@
       "Marcel Hoffmann",
       "Stefan Sauer",
       "Svenja Kötter"
+    ],
+    [
+      "Marcus Schramm",
+      "Patrick Hummel",
+      "Tobias Menke"
     ],
     [
       "Markus Bek",

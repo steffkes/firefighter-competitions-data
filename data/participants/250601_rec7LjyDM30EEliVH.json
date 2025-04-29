@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-29T05:46:15.847742",
+  "date": "2025-04-29T05:54:20.195372",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 330,
+  "count": 333,
   "teams": [
     [
       "Jakob Albert",
@@ -276,6 +276,11 @@
       "Eric Mrosek",
       "Florian Leuchtweis",
       "Malte Menold"
+    ],
+    [
+      "Fabian Beck",
+      "Lukas Lang",
+      "Tim Köhler"
     ],
     [
       "Fabian Bresnik",

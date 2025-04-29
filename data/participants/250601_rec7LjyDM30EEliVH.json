@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-29T16:18:04.073088",
+  "date": "2025-04-29T16:42:28.187290",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 339,
+  "count": 342,
   "teams": [
     [
       "Jakob Albert",
@@ -546,6 +546,11 @@
       "Philipp Weitzel",
       "Sebastian Menn",
       "Tim Fox"
+    ],
+    [
+      "Ralf Schmitt",
+      "Simon Dechert",
+      "Tim Ueberschaer"
     ],
     [
       "Claude Rieff",

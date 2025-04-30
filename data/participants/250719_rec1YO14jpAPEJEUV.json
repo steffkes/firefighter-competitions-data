@@ -1,7 +1,7 @@
 {
-  "date": "2025-04-30T07:44:09.771463",
+  "date": "2025-04-30T07:53:59.289015",
   "competition_id": "rec1YO14jpAPEJEUV",
-  "count": 251,
+  "count": 265,
   "teams": [
     [
       "Alex Fromme"
@@ -62,6 +62,9 @@
     ],
     [
       "Dario Peter"
+    ],
+    [
+      "David Kubiš"
     ],
     [
       "David Probst"
@@ -175,6 +178,9 @@
       "Michael Weiß"
     ],
     [
+      "Michal Brousil"
+    ],
+    [
       "Michel Menten"
     ],
     [
@@ -221,6 +227,9 @@
     ],
     [
       "Patrick Beer"
+    ],
+    [
+      "Pavel Kouřík"
     ],
     [
       "Phil Heise"
@@ -283,6 +292,9 @@
       "Tobias Fischer"
     ],
     [
+      "Tomáš Višňar"
+    ],
+    [
       "Ulrich Köllner"
     ],
     [
@@ -332,6 +344,10 @@
       "Philipp Gailer"
     ],
     [
+      "Chiara Schmidt",
+      "Sascha Michala"
+    ],
+    [
       "Christian Brockers",
       "Markus Brockers"
     ],
@@ -362,6 +378,10 @@
     [
       "Dario Peter",
       "Frank Peter"
+    ],
+    [
+      "David Kubiš",
+      "Tomáš Višňar"
     ],
     [
       "Dirk Fischer",
@@ -438,6 +458,10 @@
     [
       "Michael Güth",
       "Uwe Heise"
+    ],
+    [
+      "Michal Brousil",
+      "Pavel Kouřík"
     ],
     [
       "N.N. N.N.",
@@ -535,6 +559,12 @@
       "David Probst",
       "Dirk Fischer",
       "Dominik Zirbes"
+    ],
+    [
+      "David Kubiš",
+      "Michal Brousil",
+      "Pavel Kouřík",
+      "Tomáš Višňar"
     ],
     [
       "Jan Krummacker",

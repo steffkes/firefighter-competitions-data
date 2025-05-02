@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-02T08:19:20.521031",
+  "date": "2025-05-02T08:41:52.213418",
   "competition_id": "recgIRb0V7cLIbshX",
-  "count": 98,
+  "count": 100,
   "teams": [
     [
       "Agostino Marulli"
@@ -20,6 +20,9 @@
     ],
     [
       "Annu Pal"
+    ],
+    [
+      "Apostolos Tzibilis"
     ],
     [
       "Ben Brodbeck"
@@ -296,6 +299,9 @@
     ],
     [
       "Volker Schmidt"
+    ],
+    [
+      "Zora Werbke"
     ]
   ]
 }

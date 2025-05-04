@@ -1,12 +1,17 @@
 {
-  "date": "2025-05-04T17:31:01.249453",
+  "date": "2025-05-04T17:44:06.964717",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 357,
+  "count": 366,
   "teams": [
     [
       "Alex Ulm",
       "Alexander Schaper",
       "Ralph Schwäch"
+    ],
+    [
+      "Alexander Bamberger",
+      "Ivo Weihert",
+      "Maximilian Stark"
     ],
     [
       "Alexander Fischer",
@@ -404,6 +409,11 @@
       "Pascal Witzel"
     ],
     [
+      "Ina Sommer",
+      "Marc Hildebrandt",
+      "Nico Junge"
+    ],
+    [
       "Jakob Albert",
       "Johannes Schmitt",
       "Tim Heckmann"
@@ -487,6 +497,11 @@
       "Lukas Sautter",
       "Marco Helmer",
       "Sebastian Jansen"
+    ],
+    [
+      "Lukas Wiebe",
+      "Philipp Geiß",
+      "Sascha Zeißler"
     ],
     [
       "Marc Schwarz",

@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-04T18:18:23.596377",
+  "date": "2025-05-04T18:40:44.742716",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 366,
+  "count": 372,
   "teams": [
     [
       "Alex Ulm",
@@ -379,6 +379,11 @@
       "Martin Glanzner"
     ],
     [
+      "Florian Schneider",
+      "Frank Feiler",
+      "Jens Leschhorn"
+    ],
+    [
       "Frank Hug",
       "Marcel Hiesel",
       "Max Mustermann"
@@ -527,6 +532,11 @@
       "Markus Bek",
       "Thomas Schmid",
       "Tobias Metzger"
+    ],
+    [
+      "Markus Blum",
+      "Michelle Falsett",
+      "Randolph Schmidt"
     ],
     [
       "Markus Sojka",

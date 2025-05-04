@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-04T19:11:53.010288",
+  "date": "2025-05-04T19:26:27.542180",
   "competition_id": "recURkcZynP4Bd4JZ",
-  "count": 422,
+  "count": 424,
   "teams": [
     [
       "Adrian Kirchner",
@@ -254,6 +254,10 @@
     [
       "Dennis Braun",
       "Fabian Nestle"
+    ],
+    [
+      "Dennis Trojanski",
+      "Silas Ringwald"
     ],
     [
       "Domenic Hall",

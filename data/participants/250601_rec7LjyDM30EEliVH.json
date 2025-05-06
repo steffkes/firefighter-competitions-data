@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-06T19:11:02.468488",
+  "date": "2025-05-06T19:26:53.414093",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 390,
+  "count": 393,
   "teams": [
     [
       "Alex Ulm",
@@ -587,6 +587,11 @@
       "Max Fischer",
       "Stefan Schulz",
       "Tom Lettermann"
+    ],
+    [
+      "Max Korn",
+      "Maximilian Wölfel",
+      "Sebastian Fischer"
     ],
     [
       "Maximilian Genders",

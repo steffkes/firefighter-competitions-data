@@ -1,8 +1,12 @@
 {
-  "date": "2025-05-07T07:33:39.485979",
+  "date": "2025-05-07T07:45:01.469979",
   "competition_id": "reczDUPUd3QCRSGFr",
-  "count": 8,
+  "count": 10,
   "teams": [
+    [
+      "Ben Zimmermann",
+      "Konstantin Schmitt"
+    ],
     [
       "Christian Koch",
       "Petra Koch"

@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-08T09:20:32.694743",
+  "date": "2025-05-08T09:37:33.071642",
   "competition_id": "reczDUPUd3QCRSGFr",
-  "count": 10,
+  "count": 12,
   "teams": [
     [
       "Ben Zimmermann",
@@ -10,6 +10,10 @@
     [
       "Christian Koch",
       "Petra Koch"
+    ],
+    [
+      "Eric Niebergall",
+      "Florian Domis"
     ],
     [
       "Florian Bajusz",

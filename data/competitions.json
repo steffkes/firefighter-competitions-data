@@ -3476,7 +3476,7 @@
         "name": "Treppenlauf Radebeul",
         "url": "https://feuerwehrfitness-dresden.de",
         "participants": {
-            "count": 120
+            "count": null
         },
         "date": {
             "start": "2025-05-10",
@@ -4022,7 +4022,7 @@
         "name": "Towerrun Mainz",
         "url": "https://www.ff-mainz-stadt.de/towerrun-mainz",
         "participants": {
-            "count": 10
+            "count": 12
         },
         "date": {
             "start": "2025-09-14",

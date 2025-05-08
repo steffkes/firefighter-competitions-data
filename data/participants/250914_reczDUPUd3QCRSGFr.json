@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-08T13:07:53.716485",
+  "date": "2025-05-08T13:36:58.975275",
   "competition_id": "reczDUPUd3QCRSGFr",
-  "count": 12,
+  "count": 14,
   "teams": [
     [
       "Ben Zimmermann",
@@ -26,6 +26,10 @@
     [
       "Mirjam Färber",
       "Tom Lettermann"
+    ],
+    [
+      "Philipp Diegler",
+      "Tom Klauck"
     ]
   ]
 }

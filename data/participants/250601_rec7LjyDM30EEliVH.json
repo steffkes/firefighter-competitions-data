@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-09T19:45:09.035503",
+  "date": "2025-05-09T19:54:15.761890",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 423,
+  "count": 426,
   "teams": [
     [
       "Alex Ulm",
@@ -352,6 +352,11 @@
       "Fabian Beck",
       "Lukas Lang",
       "Tim Köhler"
+    ],
+    [
+      "Fabian Blum",
+      "Matthias Berndorfer",
+      "Nico Kreitmair"
     ],
     [
       "Fabian Bresnik",

@@ -3620,7 +3620,7 @@
         "name": "SkyRun MesseTurm Frankfurt",
         "url": "https://my.raceresult.com/323081",
         "participants": {
-            "count": 423
+            "count": 426
         },
         "date": {
             "start": "2025-06-01",
@@ -4149,7 +4149,7 @@
             "end": "2025-09-27",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2025-06-01T18:00:00.000Z"
         },
         "location": {
             "city": "Riva del Garda",

@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-09T11:16:42.836920",
+  "date": "2025-05-09T11:28:45.713861",
   "competition_id": "recURkcZynP4Bd4JZ",
   "count": 86,
   "teams": [
@@ -141,7 +141,7 @@
     ],
     [
       "Max Kern",
-      "Patrick Lupfer"
+      "Tobias Volk"
     ],
     [
       "Nadja Will",
@@ -154,6 +154,10 @@
     [
       "Nils Spang",
       "Volker Dickhardt"
+    ],
+    [
+      "Patrick Lupfer",
+      "Tim Disch"
     ],
     [
       "Rainer Kunz",
@@ -170,10 +174,6 @@
     [
       "Stefan Wolff",
       "Sven Honnefeller"
-    ],
-    [
-      "Tim Disch",
-      "Tobias Volk"
     ]
   ]
 }

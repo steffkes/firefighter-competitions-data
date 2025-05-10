@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-10T12:59:14.821526",
+  "date": "2025-05-10T13:27:15.070570",
   "competition_id": "recooWID949hlRemN",
-  "count": 677,
+  "count": 682,
   "teams": [
     [
       "Adam Slavicek"
@@ -133,6 +133,9 @@
       "Dominik Zirbes"
     ],
     [
+      "Dummy"
+    ],
+    [
       "Erik Hoffmeister"
     ],
     [
@@ -197,9 +200,6 @@
     ],
     [
       "Jan Volfl"
-    ],
-    [
-      "Jan Völfl"
     ],
     [
       "Jan Wisniewski"
@@ -413,6 +413,9 @@
     ],
     [
       "Mike Stöbener"
+    ],
+    [
+      "Mike Weikamm"
     ],
     [
       "Mirco Feuerhack"
@@ -790,8 +793,16 @@
       "Magnus Hirschfeld"
     ],
     [
+      "Dirk Fischer",
+      "Michel Menten"
+    ],
+    [
       "Dominic Scholz",
       "Simon Gapp"
+    ],
+    [
+      "Dominik Zirbes",
+      "Rüdiger Zeuner-Christ"
     ],
     [
       "Dummy Dummy",

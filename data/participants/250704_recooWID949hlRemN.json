@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-10T11:12:22.042839",
+  "date": "2025-05-10T11:27:40.683116",
   "competition_id": "recooWID949hlRemN",
-  "count": 660,
+  "count": 678,
   "teams": [
     [
       "Adam Slavicek"
@@ -97,6 +97,9 @@
       "Daniel Schimank"
     ],
     [
+      "Daniel Toporek"
+    ],
+    [
       "Dario Peter"
     ],
     [
@@ -109,6 +112,9 @@
       "David Probst"
     ],
     [
+      "Dawid Rabczyk"
+    ],
+    [
       "Dennis Wolz"
     ],
     [
@@ -119,6 +125,9 @@
     ],
     [
       "Dirk Fischer"
+    ],
+    [
+      "Dominik Brunejko"
     ],
     [
       "Dominik Zirbes"
@@ -137,6 +146,9 @@
     ],
     [
       "Felix Hentschel"
+    ],
+    [
+      "Ferdinand Weber"
     ],
     [
       "Florian Rosenbaum"
@@ -214,6 +226,9 @@
       "Jonas Eisenhauer"
     ],
     [
+      "Julian Weber"
+    ],
+    [
       "Jörg Dombrowski"
     ],
     [
@@ -230,6 +245,9 @@
     ],
     [
       "Kirsten Schneidereit"
+    ],
+    [
+      "Krzysztof Stencel"
     ],
     [
       "Lars Mayer"
@@ -460,6 +478,9 @@
       "Phillipp Kozin"
     ],
     [
+      "Piotr Spizewski"
+    ],
+    [
       "Rainer Klampferer"
     ],
     [
@@ -632,6 +653,10 @@
       "Thomas Schragner"
     ],
     [
+      "???",
+      "Krzysztof Stencel"
+    ],
+    [
       "Adam Slavíček",
       "David Kubiš"
     ],
@@ -740,12 +765,20 @@
       "Stefan Matheis"
     ],
     [
+      "Daniel Toporek",
+      "Dominik Brunejko"
+    ],
+    [
       "Dario Peter",
       "Frank Peter"
     ],
     [
       "David Kalicki",
       "Tobias Nöhr"
+    ],
+    [
+      "Dawid Rabczyk",
+      "Piotr Spizewski"
     ],
     [
       "Dennis Wolz",
@@ -1330,6 +1363,13 @@
       "Maurice Strauss",
       "Nicole Tuchbreiter",
       "Stefan Matheis"
+    ],
+    [
+      "Daniel Toporek",
+      "Dawid Rabczyk",
+      "Dominik Brunejko",
+      "Krzysztof Stencel",
+      "Piotr Spizewski"
     ],
     [
       "Eric Kessler",

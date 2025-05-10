@@ -1,8 +1,13 @@
 {
-  "date": "2025-05-10T20:14:43.623421",
+  "date": "2025-05-10T20:31:52.555878",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 435,
+  "count": 450,
   "teams": [
+    [
+      "Alejandro Hernandez-Bonell",
+      "Andrei Vintu",
+      "Sebastian Rohrer"
+    ],
     [
       "Alex Ulm",
       "Alexander Schaper",
@@ -74,6 +79,11 @@
       "Christoph Maier"
     ],
     [
+      "Alexander Weiß",
+      "Lea Riemann",
+      "Marc Lontke"
+    ],
+    [
       "Andre Jesserig",
       "Fabian Kluge",
       "Maimuna Krüger"
@@ -117,6 +127,11 @@
       "Anna Bermuth",
       "Christian Bertram",
       "Martin Frehmann"
+    ],
+    [
+      "Anne Weiß",
+      "Jennifer Krimm",
+      "Rebecca Kasseckert"
     ],
     [
       "Antoni Kukuczka",
@@ -197,6 +212,11 @@
       "Cedric Mayer",
       "Christoph Maurer",
       "Philipp Maurer"
+    ],
+    [
+      "Christian Düfel",
+      "Kristoffer Theiß",
+      "Noah Rudloff"
     ],
     [
       "Christian Erbes",
@@ -417,6 +437,11 @@
       "Florian Eisenberg",
       "Lukas Kretz",
       "Matthias Jung"
+    ],
+    [
+      "Florian Erbacher",
+      "Hendrik Schirra",
+      "Tobias Weinaus"
     ],
     [
       "Florian Erlenmaier",

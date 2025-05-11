@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-11T08:52:53.048970",
+  "date": "2025-05-11T09:14:14.167136",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 456,
+  "count": 459,
   "teams": [
     [
       "Alejandro Hernandez-Bonell",
@@ -287,6 +287,11 @@
       "Cornelius Pflumm",
       "Marco Nirk",
       "Simon Weißer"
+    ],
+    [
+      "Daniel Gantz",
+      "Magnus Ebert",
+      "Niklas Nolte"
     ],
     [
       "Daniel Muth",

@@ -3726,9 +3726,12 @@
             "registration_opens": null
         },
         "location": {
-            "city": null,
+            "city": "Radovljica",
             "country_code": "SI",
-            "coordinates": null
+            "coordinates": {
+                "lat": 46.3443489,
+                "lng": 14.1740351
+            }
         }
     },
     {
@@ -3809,7 +3812,7 @@
         "name": "Leinetal Firefighter Combat Challenge",
         "url": "https://www.facebook.com/TFALeinetal/",
         "participants": {
-            "count": 288
+            "count": 289
         },
         "date": {
             "start": "2025-07-19",

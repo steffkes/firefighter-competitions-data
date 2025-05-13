@@ -4209,6 +4209,30 @@
         }
     },
     {
+        "id": "recPOVIJiKia6VDmf",
+        "kind": "FSR",
+        "name": "1000er-Stägli",
+        "url": "https://www.asscs.ch/1000er-staegli",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-10-18",
+            "end": "2025-10-18",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Aarburg",
+            "country_code": "CH",
+            "coordinates": {
+                "lat": 47.31526,
+                "lng": 7.886895
+            }
+        }
+    },
+    {
         "id": "recfXe2FFz9Q5jBRZ",
         "kind": "FSR",
         "name": "Schanzenlauf Oberstdorf",
@@ -4373,6 +4397,30 @@
             "coordinates": {
                 "lat": 50.6977798,
                 "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "recQpiFds3jkOXxU2",
+        "kind": "FSR",
+        "name": "Stairways to Heaven",
+        "url": "https://stairways.ch/de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-05-10",
+            "end": "2026-05-10",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": "2026-02-01T11:00:00.000Z"
+        },
+        "location": {
+            "city": "Quinto",
+            "country_code": "CH",
+            "coordinates": {
+                "lat": 46.5176215,
+                "lng": 8.6749995
             }
         }
     }

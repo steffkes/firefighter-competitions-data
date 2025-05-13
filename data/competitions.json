@@ -4401,6 +4401,30 @@
         }
     },
     {
+        "id": "recRnyAQk9bzIczQX",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://www.anpi.be/en/news/firefit-coming-lens-2026",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-05-02",
+            "end": "2026-05-03",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Lens",
+            "country_code": "BE",
+            "coordinates": {
+                "lat": 50.5737411,
+                "lng": 3.8586497
+            }
+        }
+    },
+    {
         "id": "recQpiFds3jkOXxU2",
         "kind": "FSR",
         "name": "Stairways to Heaven",

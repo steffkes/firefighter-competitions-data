@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-14T14:50:40.733756",
+  "date": "2025-05-14T14:58:53.863249",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 489,
+  "count": 492,
   "teams": [
     [
       "Alejandro Hernandez-Bonell",
@@ -612,6 +612,11 @@
       "Julian Frai",
       "Lukas Lutz",
       "Lukas Trefflich"
+    ],
+    [
+      "Julian Knopp",
+      "Maurice Bahlinger",
+      "Sebastian Kampe"
     ],
     [
       "Julian Wehrle",

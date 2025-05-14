@@ -3881,7 +3881,7 @@
         "name": "Nordschwarzwald Trophy",
         "url": "https://www.eventservice-stahl.de/veranstaltungen/nordschwarzwald-trophy/feuerwehr-lauf-ohne-pa/",
         "participants": {
-            "count": 228
+            "count": 230
         },
         "date": {
             "start": "2025-08-01",
@@ -3968,6 +3968,30 @@
             "coordinates": {
                 "lat": 51.6911892,
                 "lng": 12.2620175
+            }
+        }
+    },
+    {
+        "id": "recIIaJGTGbA10gKS",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge @ USAG",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-08-16",
+            "end": "2025-08-16",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Böblingen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.6833889,
+                "lng": 9.05125
             }
         }
     },

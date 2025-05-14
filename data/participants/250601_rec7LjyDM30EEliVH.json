@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-14T18:54:52.752401",
+  "date": "2025-05-14T19:12:13.758819",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 504,
+  "count": 510,
   "teams": [
     [
       "Alejandro Hernandez-Bonell",
@@ -17,6 +17,11 @@
       "Alexander Bamberger",
       "Ivo Weihert",
       "Maximilian Stark"
+    ],
+    [
+      "Alexander Eitzeroth",
+      "Finn Becker",
+      "Stefan Voigt"
     ],
     [
       "Alexander Fischer",
@@ -782,6 +787,11 @@
       "Melanie Brück",
       "Robin Fischer",
       "Sebastian Büchling"
+    ],
+    [
+      "Meran Mehrabian",
+      "Oliver Gros",
+      "Stefan Schubert"
     ],
     [
       "Miguel Alberti",

@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-14T08:58:11.371853",
+  "date": "2025-05-14T09:22:01.173199",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 228,
+  "count": 230,
   "teams": [
     [
       "Aaron Begier",
@@ -150,6 +150,10 @@
     [
       "Dennis Fischer",
       "Jochen Haeger"
+    ],
+    [
+      "Dennis Russ",
+      "Pascal Russ"
     ],
     [
       "Enrico Oswald",

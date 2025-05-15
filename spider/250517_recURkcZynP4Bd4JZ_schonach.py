@@ -51,10 +51,16 @@ class Spider(scrapy.Spider):
 
     def parse_starters(self, response):
         for _team, record in response.json()["data"].items():
-            [
-                [_bib1, _number21, name1, _sex1, _category1, _year1, _competition1],
-                [_bib2, _number22, name2, _sex2, _category2, _year2, _competition2],
-            ] = record
+            [_bib1, _number21, name1, _sex1, _category1, _year1, _competition1] = (
+                record[0]
+            )
+
+            name2 = None
+            if len(record) == 2:
+                [_bib2, _number22, name2, _sex2, _category2, _year2, _competition2] = (
+                    record[1]
+                )
+
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=sorted(map(fixName, [name1, name2])),
@@ -65,6 +71,9 @@ import re
 
 
 def fixName(name):
+    if not name:
+        return ""
+
     return re.sub(
         r"(([A-ZÄÜÖß]+[-\s])?([A-ZÄÜÖß]+))\s(.+)",
         lambda match: " ".join(
@@ -92,6 +101,7 @@ import pytest
         ("MÜLLER Naomi", "Naomi Müller"),
         ("KNIE Nicola Simon", "Nicola Simon Knie"),
         ("WEIßHAAR Philipp", "Philipp Weißhaar"),
+        (None, ""),
     ],
 )
 def test_fixName(input, output):

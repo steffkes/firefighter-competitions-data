@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-15T20:36:18.308240",
+  "date": "2025-05-15T20:48:01.342739",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 528,
+  "count": 531,
   "teams": [
     [
       "Adrian Mandt",
@@ -447,6 +447,11 @@
       "Eric Mrosek",
       "Florian Leuchtweis",
       "Malte Menold"
+    ],
+    [
+      "Erwin Kukuljac",
+      "Luca Weis",
+      "Stefan Trzaska"
     ],
     [
       "Fabian Beck",

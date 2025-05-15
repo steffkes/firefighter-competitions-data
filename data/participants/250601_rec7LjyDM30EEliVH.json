@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-15T18:45:32.287232",
+  "date": "2025-05-15T18:57:10.079615",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 513,
+  "count": 516,
   "teams": [
     [
       "Alejandro Hernandez-Bonell",
@@ -662,6 +662,11 @@
       "Jörg Spangenberg",
       "Thorsten Rosenberger",
       "Uli Schleußner"
+    ],
+    [
+      "Karl Florian Albert",
+      "Pascal Wagner",
+      "Robin Riemenschneider"
     ],
     [
       "Karsten Neupert",

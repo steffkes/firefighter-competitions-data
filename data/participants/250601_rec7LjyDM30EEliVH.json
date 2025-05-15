@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-15T20:16:45.324002",
+  "date": "2025-05-15T20:36:18.308240",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 525,
+  "count": 528,
   "teams": [
     [
       "Adrian Mandt",
@@ -42,6 +42,11 @@
       "Alexander Gohlke",
       "Andreas Weißelberg",
       "Sebastian Durth"
+    ],
+    [
+      "Alexander Haslböck",
+      "Benedikt Maihöfer",
+      "Florian Krien"
     ],
     [
       "Alexander Haus",

@@ -51,15 +51,33 @@ class Spider(scrapy.Spider):
 
     def parse_starters(self, response):
         for _team, record in response.json()["data"].items():
-            [_bib1, _number21, name1, _sex1, _category1, _year1, _competition1] = (
-                record[0]
-            )
+            [
+                _bib1,
+                _number21,
+                _ln1,
+                _fn1,
+                _gender1,
+                _competition1,
+                _yob1,
+                _category1,
+                _n31,
+                name1,
+            ] = record[0]
 
             name2 = None
             if len(record) == 2:
-                [_bib2, _number22, name2, _sex2, _category2, _year2, _competition2] = (
-                    record[1]
-                )
+                [
+                    _bib2,
+                    _number22,
+                    _ln2,
+                    _fn2,
+                    _gender2,
+                    _competition2,
+                    _yob2,
+                    _category2,
+                    _n32,
+                    name2,
+                ] = record[1]
 
             yield ParticipantItem(
                 competition_id=self.competition_id,

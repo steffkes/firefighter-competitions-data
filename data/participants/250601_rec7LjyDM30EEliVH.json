@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-18T10:14:16.176797",
+  "date": "2025-05-18T10:35:48.118238",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 540,
+  "count": 543,
   "teams": [
     [
       "Adrian Mandt",
@@ -237,6 +237,11 @@
       "Benjamin Höper",
       "Klaus Dietz",
       "Ruslan Dvornitsyn"
+    ],
+    [
+      "Benjamin Kosinski",
+      "Marlon Born",
+      "N. N."
     ],
     [
       "Benjamin Ohl",

@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-18T15:44:33.296879",
+  "date": "2025-05-18T15:54:10.695389",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 552,
+  "count": 555,
   "teams": [
     [
       "Adrian Mandt",
@@ -307,6 +307,11 @@
       "Christian Schneider",
       "Kevin Schneider",
       "Michael Wuest"
+    ],
+    [
+      "Christian Sohn",
+      "Stefan Sohn",
+      "Tom Flick"
     ],
     [
       "Christian Störkel",

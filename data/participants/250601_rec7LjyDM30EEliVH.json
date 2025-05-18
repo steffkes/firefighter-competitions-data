@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-18T18:54:15.113101",
+  "date": "2025-05-18T19:11:05.653022",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 555,
+  "count": 558,
   "teams": [
     [
       "Adrian Mandt",
@@ -297,6 +297,11 @@
       "Christian Klimaschka",
       "Dennis Wieland",
       "Matthias Bülow"
+    ],
+    [
+      "Christian Koch",
+      "Max Kärcher",
+      "Philipp Burkar"
     ],
     [
       "Christian Schmidt",

@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-18T07:29:14.103232",
+  "date": "2025-05-18T07:40:12.266311",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 246,
+  "count": 260,
   "teams": [
     [
       "Aaron Begier",
@@ -94,6 +94,10 @@
     [
       "Benjamin Osswald",
       "Fabian Kiewning"
+    ],
+    [
+      "Benjamin Singer",
+      "Felix Koch"
     ],
     [
       "Benjamin Zollt",
@@ -200,6 +204,10 @@
       "Patricia Knaus"
     ],
     [
+      "Florian Sattler",
+      "Lukas Greiner"
+    ],
+    [
       "Florian Schwarzer",
       "Matthias Bräuhauser"
     ],
@@ -228,8 +236,16 @@
       "Jonas Jeikowski"
     ],
     [
+      "Hugenschmid Jannik",
+      "Lisa Hugenschmid"
+    ],
+    [
       "Ingolf Fritz",
       "Michael Hofmann"
+    ],
+    [
+      "Jan Graf",
+      "Robin Stapelfeld"
     ],
     [
       "Jan Jung",
@@ -296,12 +312,20 @@
       "Kalle Müller"
     ],
     [
+      "Kai Bräunlin",
+      "Max Fredrich"
+    ],
+    [
       "Kai Rinderknecht",
       "Raisch Marc"
     ],
     [
       "Kay Schmid",
       "Levi Laich"
+    ],
+    [
+      "Kevin Geugelin",
+      "Nikolay Schwald"
     ],
     [
       "Kevin Klein",
@@ -394,6 +418,10 @@
     [
       "Marvin Stieber",
       "Maximilian Bohn"
+    ],
+    [
+      "Max Seng",
+      "Nadine Dercho"
     ],
     [
       "Maximilian Neubauer",

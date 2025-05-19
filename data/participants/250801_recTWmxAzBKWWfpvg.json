@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-19T14:15:44.158712",
+  "date": "2025-05-19T14:39:54.155294",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 264,
+  "count": 266,
   "teams": [
     [
       "Aaron Begier",
@@ -90,6 +90,10 @@
     [
       "Benedikt Doll",
       "Heiko Oswald"
+    ],
+    [
+      "Benjamin Marz",
+      "Frederic Rühle"
     ],
     [
       "Benjamin Osswald",

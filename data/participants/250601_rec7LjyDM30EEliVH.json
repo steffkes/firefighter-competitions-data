@@ -1,8 +1,15 @@
 {
-  "date": "2025-05-19T08:59:09.098408",
+  "date": "2025-05-19T09:26:40.375055",
   "competition_id": "rec7LjyDM30EEliVH",
   "count": 555,
   "teams": [
+    [
+      "Daniel Wurm"
+    ],
+    [
+      "Antoni Kukuczka",
+      "Thore Benz"
+    ],
     [
       "Adrian Mandt",
       "David Lesch",
@@ -135,8 +142,8 @@
     ],
     [
       "Andreas Beimel",
-      "Daniel Wurm",
-      "Nico Pomerlan"
+      "Nico Pomerlan",
+      "Oliver Schecker"
     ],
     [
       "Andreas Berberich",
@@ -182,11 +189,6 @@
       "Anselm Waigand",
       "Bruno Ziegler",
       "Luis Nouri"
-    ],
-    [
-      "Antoni Kukuczka",
-      "Oliver Schecker",
-      "Thore Benz"
     ],
     [
       "Aron Horn",

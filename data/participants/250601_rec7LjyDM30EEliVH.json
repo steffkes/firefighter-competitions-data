@@ -1,5 +1,5 @@
 {
-  "date": "2025-05-20T06:49:15.512419",
+  "date": "2025-05-20T06:58:51.794016",
   "competition_id": "rec7LjyDM30EEliVH",
   "count": 552,
   "teams": [
@@ -337,6 +337,11 @@
       "Christoph Haas",
       "N. N.",
       "Sebastian Haas"
+    ],
+    [
+      "Christoph Johne",
+      "Leonhard Kreutz",
+      "Philipp Herberich"
     ],
     [
       "Christoph Stengel",
@@ -757,11 +762,6 @@
       "Leon Fleischmann",
       "Michael Strauch",
       "Ralf Zinn"
-    ],
-    [
-      "Leonhard Kreutz",
-      "N. N.",
-      "Philipp Herberich"
     ],
     [
       "Lorenz Röhrig",

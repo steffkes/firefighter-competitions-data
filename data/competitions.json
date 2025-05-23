@@ -4284,6 +4284,27 @@
         }
     },
     {
+        "id": "recgAyUrgsOOHLE0N",
+        "kind": "FSR",
+        "name": "Fire Trail Nesselwang ",
+        "url": "https://www.fire-trail-nesselwang.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-10-18",
+            "end": "2025-10-18",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Nesselwang ",
+            "country_code": "DE",
+            "coordinates": null
+        }
+    },
+    {
         "id": "recd7y5UTrv7Th7f8",
         "kind": "FSR",
         "name": "SaaleRun",

@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-23T06:48:26.204476",
+  "date": "2025-05-23T06:57:55.689594",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 266,
+  "count": 268,
   "teams": [
     [
       "Aaron Begier",
@@ -466,6 +466,10 @@
     [
       "Mike Treiber",
       "Patrick Friedrich"
+    ],
+    [
+      "Mock Annika",
+      "Tobias Zwosta"
     ],
     [
       "Moritz Sieb",

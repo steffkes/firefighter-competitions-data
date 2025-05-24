@@ -4449,6 +4449,30 @@
         }
     },
     {
+        "id": "recyjvwGvbZl5rAO3",
+        "kind": "FSR",
+        "name": "Treppenlauf Radebeul",
+        "url": "https://feuerwehrfitness-dresden.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-05-02",
+            "end": "2026-05-02",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Radebeul",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1136793,
+                "lng": 13.6637052
+            }
+        }
+    },
+    {
         "id": "recRnyAQk9bzIczQX",
         "kind": "FCC",
         "name": "Firefit Championships Europe",

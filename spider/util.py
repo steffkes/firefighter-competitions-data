@@ -367,6 +367,10 @@ class BadWildbadSpider(Spider):
             },
         )
 
+    @staticmethod
+    def fixName(name):
+        return name
+
     def parse_starters(self, response):
         fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
 
@@ -409,7 +413,7 @@ class BadWildbadSpider(Spider):
                 competition_id=self.competition_id,
                 type="OPA",
                 duration=duration,
-                names=[name],
+                names=[self.fixName(name)],
                 category=category,
                 rank=ResultRankItem(total=rank_total, category=rank_category),
                 bib=bib,

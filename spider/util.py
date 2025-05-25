@@ -145,9 +145,9 @@ class Spider(scrapy.Spider):
     @staticmethod
     def fixDuration(duration):
         return re.sub(
-            r"((\d+)[:h])?(\d+)[:'](\d+)[,\.](\d)\d*",
+            r"((\d+)[:h])?(\d+)[:'](\d+)([,\.](\d)\d*)?",
             lambda match: "{0:02d}:{1:02d}:{2:02d}.{3}".format(
-                *map(lambda input: int(input or 0), match.group(2, 3, 4, 5))
+                *map(lambda input: int(input or 0), match.group(2, 3, 4, 6))
             ),
             duration,
         )
@@ -558,6 +558,7 @@ import pytest
         ("00:04:35.2", "04:35.29"),
         ("00:02:11.9", "00:02:11.9100000"),
         ("00:02:36.5", "00:02:36.5500000"),
+        ("00:45:35.0", "45:35"),
     ],
 )
 def test_fixDuration(input, output):

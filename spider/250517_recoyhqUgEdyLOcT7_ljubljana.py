@@ -112,7 +112,6 @@ class CompetitionSpider(Spider):
                 )
 
 
-
 import pytest
 
 

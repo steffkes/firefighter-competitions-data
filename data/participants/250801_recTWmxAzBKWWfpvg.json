@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-26T16:56:47.116692",
+  "date": "2025-05-26T17:14:40.007106",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 268,
+  "count": 276,
   "teams": [
     [
       "Aaron Begier",
@@ -10,6 +10,10 @@
     [
       "Aaron Watzl",
       "Sascha Schneider"
+    ],
+    [
+      "Adrian Wilhelm",
+      "Felix Conzelmann"
     ],
     [
       "Agostino Marulli",
@@ -128,6 +132,10 @@
       "Timo Heidlauf"
     ],
     [
+      "Christian Heselmaier",
+      "Jörg Czotscher"
+    ],
+    [
       "Christian Korupp",
       "Max Mayer"
     ],
@@ -142,6 +150,10 @@
     [
       "Christof Vatter",
       "Florian Kazmaier"
+    ],
+    [
+      "Christoph Deck",
+      "Daniela Jaksic"
     ],
     [
       "Daniel Henz",
@@ -266,6 +278,10 @@
     [
       "Jannik Hugenschmidt",
       "Lisa Hugenschmidt"
+    ],
+    [
+      "Jannik Ronellenfitsch",
+      "Sebastian Müller"
     ],
     [
       "Jasmin Schwarz",

@@ -1,10 +1,17 @@
 {
-  "date": "2025-05-26T08:54:42.858820",
+  "date": "2025-05-26T09:41:55.623328",
   "competition_id": "recIIaJGTGbA10gKS",
-  "count": 1,
+  "count": 4,
   "teams": [
     [
+      "Christoph Wolfinger"
+    ],
+    [
       "Gabriel Bauer"
+    ],
+    [
+      "Christian Dahler",
+      "Christoph Wolfinger"
     ]
   ]
 }

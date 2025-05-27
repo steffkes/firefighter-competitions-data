@@ -1,8 +1,12 @@
 {
-  "date": "2025-05-27T08:43:35.524406",
+  "date": "2025-05-27T08:58:30.771276",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 552,
+  "count": 557,
   "teams": [
+    [
+      "Alexander Gröninger",
+      "Kevin Splittstößer"
+    ],
     [
       "Adrian Mandt",
       "David Lesch",
@@ -620,8 +624,8 @@
     ],
     [
       "Franziska Läßig",
-      "Konstantina Arvanitidi",
-      "Robin Küster"
+      "Marvin Reinecke",
+      "Maximilian Berg"
     ],
     [
       "Frederik Gebbeken",
@@ -759,6 +763,11 @@
       "Torben Hedderich"
     ],
     [
+      "Konstantina Arvanitidi",
+      "Nicholas Wolf",
+      "Robin Küster"
+    ],
+    [
       "Lennart Ziegler",
       "Noah Ziegler",
       "Robin Ziegler"
@@ -834,14 +843,14 @@
       "Wolfgang Mueller"
     ],
     [
+      "Martin Margraf",
+      "Niklas Koch",
+      "Simon Massholder"
+    ],
+    [
       "Marvin Mocker",
       "Moritz Pelosato",
       "Timo Bender"
-    ],
-    [
-      "Marvin Reinecke",
-      "Maximilian Berg",
-      "Nicholas Wolf"
     ],
     [
       "Marvin Rock",

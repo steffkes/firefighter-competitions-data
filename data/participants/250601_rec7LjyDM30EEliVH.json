@@ -1,12 +1,8 @@
 {
-  "date": "2025-05-27T08:58:30.771276",
+  "date": "2025-05-27T09:22:50.548454",
   "competition_id": "rec7LjyDM30EEliVH",
-  "count": 557,
+  "count": 567,
   "teams": [
-    [
-      "Alexander Gröninger",
-      "Kevin Splittstößer"
-    ],
     [
       "Adrian Mandt",
       "David Lesch",
@@ -51,6 +47,11 @@
       "Alexander Gohlke",
       "Andreas Weißelberg",
       "Sebastian Durth"
+    ],
+    [
+      "Alexander Gröninger",
+      "Kevin Splittstößer",
+      "Marcus Kipp"
     ],
     [
       "Alexander Haslböck",
@@ -151,6 +152,11 @@
       "Andreas Conrad",
       "Clara Conrad",
       "Jan Kühn"
+    ],
+    [
+      "Andreas Kramer",
+      "Jan Ballerstaedt",
+      "Jan-Erik Stern"
     ],
     [
       "André Wagner",
@@ -633,6 +639,11 @@
       "Stephan Kesisoglu"
     ],
     [
+      "Frederik Wörn",
+      "Gabriel Kupka",
+      "Klaudia Jaros"
+    ],
+    [
       "Gregor Wilhelm",
       "Kristian Nelkert",
       "Niels Lorenz"
@@ -911,6 +922,11 @@
       "N. N.",
       "N. N.",
       "Steffen Waschki"
+    ],
+    [
+      "N. N.",
+      "Sascha Kaiser",
+      "Tim Gilmer"
     ],
     [
       "Nicolas Faure",

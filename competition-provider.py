@@ -1,23 +1,6 @@
 from itertools import repeat
-from pathlib import Path
-import pandas as pd
 import requests
-import json
 import os
-
-
-def loaderFn(path):
-    try:
-        with path.open() as handle:
-            data = json.load(handle)
-            return [data["competition_id"], data["count"]]
-    except:
-        return None
-
-
-participantsCount = dict(
-    filter(None, map(loaderFn, Path("data/participants").glob("*.json")))
-)
 
 
 def mapperFn(record, kind):
@@ -32,9 +15,7 @@ def mapperFn(record, kind):
         "kind": kind,
         "name": record["fields"]["Name"],
         "url": record["fields"].get("Webseite"),
-        "participants": {
-            "count": participantsCount.get(record["id"]),
-        },
+        "participants": {"count": None},
         "date": {
             "start": record["fields"]["Datum"],
             "end": record["fields"].get("Datum bis") or record["fields"]["Datum"],

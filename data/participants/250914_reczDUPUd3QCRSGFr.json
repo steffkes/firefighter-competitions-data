@@ -1,7 +1,7 @@
 {
-  "date": "2025-05-31T20:54:20.326011",
+  "date": "2025-05-31T21:13:07.813563",
   "competition_id": "reczDUPUd3QCRSGFr",
-  "count": 38,
+  "count": 40,
   "teams": [
     [
       "Alexander Tönges",
@@ -22,6 +22,10 @@
     [
       "Daniel Zerjeski",
       "Felix Besch"
+    ],
+    [
+      "Dominic Scholz",
+      "Simon Gapp"
     ],
     [
       "Eric Niebergall",

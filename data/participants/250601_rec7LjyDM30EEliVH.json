@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-01T06:20:33.442922",
+  "date": "2025-06-01T06:45:16.322687",
   "competition_id": "rec7LjyDM30EEliVH",
   "count": 567,
   "teams": [
@@ -394,6 +394,11 @@
       "Simon Weißer"
     ],
     [
+      "Daniel Buhl",
+      "Maximilian Jöst",
+      "Micha Krimm"
+    ],
+    [
       "Daniel Dux",
       "Philipp Steichen",
       "Samuel Scherer"
@@ -602,11 +607,6 @@
       "Florian Leuchtweis",
       "Malte Menold",
       "Philipp Paschke"
-    ],
-    [
-      "Florian Rose",
-      "Nico Rütershoff",
-      "Torge Brunhorn"
     ],
     [
       "Florian Röll",
@@ -889,11 +889,6 @@
       "Sebastian Fischer"
     ],
     [
-      "Maximilian Genders",
-      "Maximilian Jöst",
-      "Micha Krimm"
-    ],
-    [
       "Melanie Brück",
       "Robin Fischer",
       "Sebastian Büchling"
@@ -927,6 +922,11 @@
       "N. N.",
       "Sascha Kaiser",
       "Tim Gilmer"
+    ],
+    [
+      "Nico Rütershoff",
+      "Robert Schneider",
+      "Torge Brunhorn"
     ],
     [
       "Nicolas Faure",

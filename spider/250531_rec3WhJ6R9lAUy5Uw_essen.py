@@ -1,4 +1,4 @@
-from util import Spider, ParticipantItem, ResultItem
+from util import Spider, ParticipantItem, ResultItem, ResultRankItem
 import scrapy
 
 
@@ -23,6 +23,16 @@ class CompetitionSpider(Spider):
             callback=self.parse_starters,
         )
 
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "Ergebnislisten|EG TN keine Staffel RANG",
+                "contest": "3",
+            },
+        )
+
     def parse_starters(self, response):
         for [
             bib,
@@ -37,6 +47,30 @@ class CompetitionSpider(Spider):
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=[self.fixName(name)],
+            )
+
+    def parse(self, response):
+        for [
+            bib,
+            _id1,
+            rank_total,
+            name,
+            _team,
+            rank_category,
+            category,
+            _rank_age_group,
+            raw_duration,
+        ] in response.json()["data"]:
+
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                type="MPA",
+                duration=self.fixDuration(raw_duration),
+                names=[name],
+                category=category,
+                rank=ResultRankItem(total=int(rank_total), category=int(rank_category)),
+                bib=bib,
             )
 
 

@@ -1,6 +1,7 @@
 from itertools import repeat
 import requests
 import os
+import json
 
 
 def mapperFn(record, kind):

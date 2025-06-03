@@ -1,7 +1,7 @@
 {
-  "date": "2025-06-03T15:19:41.359009",
+  "date": "2025-06-03T15:40:25.224494",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 288,
+  "count": 290,
   "teams": [
     [
       "Aaron Begier",
@@ -90,6 +90,10 @@
     [
       "Axel Vetter",
       "Manuel Kohlstetter"
+    ],
+    [
+      "Ben Brand",
+      "Matthias Brand"
     ],
     [
       "Benedikt Doll",

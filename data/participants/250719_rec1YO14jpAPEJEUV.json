@@ -1,8 +1,11 @@
 {
-  "date": "2025-06-09T11:41:43.980165",
+  "date": "2025-06-09T11:53:57.833097",
   "competition_id": "rec1YO14jpAPEJEUV",
-  "count": 324,
+  "count": 326,
   "teams": [
+    [
+      "Alessia Hörning"
+    ],
     [
       "Alex Fromme"
     ],
@@ -131,6 +134,9 @@
     ],
     [
       "Jan Kiepe"
+    ],
+    [
+      "Jasmin Weber"
     ],
     [
       "Jens Obermann"

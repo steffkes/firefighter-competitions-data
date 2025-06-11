@@ -1,7 +1,7 @@
 {
-  "date": "2025-06-11T12:30:55.933950",
+  "date": "2025-06-11T13:19:06.093158",
   "competition_id": "recooWID949hlRemN",
-  "count": 680,
+  "count": 689,
   "teams": [
     [
       "Adam Slavicek"
@@ -41,6 +41,9 @@
     ],
     [
       "Andreas Wilhelm"
+    ],
+    [
+      "Andrius Asmontas"
     ],
     [
       "André Dupont"
@@ -133,10 +136,16 @@
       "Dominik Zirbes"
     ],
     [
+      "Egidijus Krivickas"
+    ],
+    [
       "Erik Hoffmeister"
     ],
     [
       "Erik Langenhahn"
+    ],
+    [
+      "Evelina Litvin"
     ],
     [
       "Fabian Kluge"
@@ -167,6 +176,9 @@
     ],
     [
       "Gerrit Lindlein"
+    ],
+    [
+      "Gintautas samauskis"
     ],
     [
       "Guido Suhrmeyer"
@@ -211,6 +223,9 @@
       "Jannis Verbraeken"
     ],
     [
+      "Jaroslav Visnevski"
+    ],
+    [
       "Jeroen Govaerts"
     ],
     [
@@ -235,6 +250,9 @@
       "Jörg Sven Winkler"
     ],
     [
+      "Karolis Grazinis"
+    ],
+    [
       "Kathrin Madlen Grote Lambers"
     ],
     [
@@ -247,40 +265,13 @@
       "Krzysztof Stencel"
     ],
     [
+      "Laimonas Kivilius"
+    ],
+    [
       "Lars Mayer"
     ],
     [
       "Lena Schuster"
-    ],
-    [
-      "Litauen Litauen"
-    ],
-    [
-      "Litauen Litauen"
-    ],
-    [
-      "Litauen Litauen"
-    ],
-    [
-      "Litauen Litauen"
-    ],
-    [
-      "Litauen Litauen"
-    ],
-    [
-      "Litauen Litauen"
-    ],
-    [
-      "Litauen Litauen"
-    ],
-    [
-      "Litauen Litauen"
-    ],
-    [
-      "Litauen Litauen"
-    ],
-    [
-      "Litauen Litauen"
     ],
     [
       "Lubomír Králíček"
@@ -290,6 +281,9 @@
     ],
     [
       "Lukas Gaßner"
+    ],
+    [
+      "Lukas Leonavicius"
     ],
     [
       "Lukas Wickmann"
@@ -323,6 +317,9 @@
     ],
     [
       "Mario Poppe"
+    ],
+    [
+      "Marius Gasparenas"
     ],
     [
       "Mark Klemen"
@@ -493,7 +490,16 @@
       "Rebea Sonnenberg"
     ],
     [
+      "Regina Bartkute"
+    ],
+    [
       "Reich Stefanie"
+    ],
+    [
+      "Remigijus Balciunas"
+    ],
+    [
+      "Renatas Viskontas"
     ],
     [
       "Robert Lehmann"
@@ -505,7 +511,16 @@
       "Robin Winter"
     ],
     [
+      "Rokas Lindenis"
+    ],
+    [
       "Roman Munzar"
+    ],
+    [
+      "Romualdas Kazlauskas"
+    ],
+    [
+      "Romualdas Vilimas"
     ],
     [
       "Ronny Lantzke"
@@ -1245,6 +1260,12 @@
       "Hans-Jürgen Vogt"
     ],
     [
+      "Egidijus Krivickas",
+      "Laimonas Kivilius",
+      "Marius Gasparenas",
+      "Renatas Viskontas"
+    ],
+    [
       "Erik Langenhahn",
       "Florian Wedel",
       "Laura Dworak",
@@ -1309,6 +1330,13 @@
       "Björn Herborn",
       "Dominic Scholz",
       "Simon Gapp"
+    ],
+    [
+      "Andrius Asmontas",
+      "Evelina Litvin",
+      "Karolis Grazinis",
+      "Regina Bartkute",
+      "Remigijus Balciunas"
     ],
     [
       "André Dupont",
@@ -1388,6 +1416,13 @@
       "Tony Troppa"
     ],
     [
+      "Gintautas Samauskis",
+      "Jaroslav Visnevski",
+      "Lukas Leonavicius",
+      "Rokas Lindenis",
+      "Romualdas Vilimas"
+    ],
+    [
       "Giulia Guse",
       "Jörg Dombrowski",
       "Marvin Burger",
@@ -1421,20 +1456,6 @@
       "Sebastian Vovko",
       "Thomislav Visnar",
       "Yousef Algallaf"
-    ],
-    [
-      "Litauen Litauen",
-      "Litauen Litauen",
-      "Litauen Litauen",
-      "Litauen Litauen",
-      "Litauen Litauen"
-    ],
-    [
-      "Litauen Litauen",
-      "Litauen Litauen",
-      "Litauen Litauen",
-      "Litauen Litauen",
-      "Litauen Litauen"
     ],
     [
       "Luka Heim",

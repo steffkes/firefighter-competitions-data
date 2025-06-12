@@ -1,7 +1,7 @@
 {
-  "date": "2025-06-12T11:53:47.972964",
+  "date": "2025-06-12T12:30:00.464100",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 308,
+  "count": 304,
   "teams": [
     [
       "Aaron Begier",
@@ -136,10 +136,6 @@
       "Florian Feuerbacher"
     ],
     [
-      "Bjarne Henningsen",
-      "Salih Kahraman"
-    ],
-    [
       "Björn Hartlieb",
       "Daniel Bross"
     ],
@@ -198,10 +194,6 @@
     [
       "Demmer Maurice",
       "Raphael Heck"
-    ],
-    [
-      "Denis Müller",
-      "Steven Wolf"
     ],
     [
       "Dennis Fischer",
@@ -308,6 +300,10 @@
       "Tom Storz"
     ],
     [
+      "Jan Ottersky",
+      "Steven Wolf"
+    ],
+    [
       "Jann Gampper",
       "Marwan Schaus"
     ],
@@ -322,10 +318,6 @@
     [
       "Jannik Ronellenfitsch",
       "Sebastian Müller"
-    ],
-    [
-      "Jasmin Schwarz",
-      "Laura Schwarz"
     ],
     [
       "Jens Bader",

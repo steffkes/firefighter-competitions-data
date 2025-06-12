@@ -1,7 +1,7 @@
 {
-  "date": "2025-06-12T11:13:26.101031",
+  "date": "2025-06-12T11:29:52.503534",
   "competition_id": "recTWmxAzBKWWfpvg",
-  "count": 306,
+  "count": 308,
   "teams": [
     [
       "Aaron Begier",
@@ -126,6 +126,10 @@
     [
       "Benjamin Zollt",
       "Jonas Maag"
+    ],
+    [
+      "Bernd Helmer",
+      "Johannes Müller"
     ],
     [
       "Bisinger Robin",

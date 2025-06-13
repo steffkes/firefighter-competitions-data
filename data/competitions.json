@@ -1122,30 +1122,6 @@
         }
     },
     {
-        "id": "reczxkPRoCcR1DWTU",
-        "kind": "FSR",
-        "name": "Mt. Everest Treppenmarathon",
-        "url": "https://feuerwehrfitnessdresden.de/veranstaltung",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-05-06",
-            "end": "2023-05-07",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Radebeul",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 51.1136793,
-                "lng": 13.6637052
-            }
-        }
-    },
-    {
         "id": "rec50IHAZaTlKnHIg",
         "kind": "FCC",
         "name": "Firefit Championships Europe",
@@ -4373,7 +4349,34 @@
         "location": {
             "city": "Hannover ",
             "country_code": "DE",
-            "coordinates": null
+            "coordinates": {
+                "lat": 52.3751182,
+                "lng": 9.7709766
+            }
+        }
+    },
+    {
+        "id": "recg1mwr4PiWHXrSM",
+        "kind": "FSR",
+        "name": "Chemnitzer Treppenlauf",
+        "url": "https://www.chemnitzer-treppenlauf.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-11-01",
+            "end": "2025-11-01",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Chemnitz",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.8360605,
+                "lng": 12.9209794
+            }
         }
     },
     {

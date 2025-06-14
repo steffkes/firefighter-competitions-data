@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-14T13:34:18.555189",
+  "date": "2025-06-14T13:46:29.221719",
   "competition_id": "recooWID949hlRemN",
   "count": 698,
   "teams": [
@@ -669,6 +669,10 @@
       "Krzysztof Stencel"
     ],
     [
+      "Adam Slavicek",
+      "David Kubis"
+    ],
+    [
       "Adam Slavíček",
       "David Kubiš"
     ],
@@ -975,10 +979,6 @@
     [
       "Lena Schuster",
       "Sören Warzok"
-    ],
-    [
-      "Luboš Králíček",
-      "Ondřej Blažek"
     ],
     [
       "Luka Heim",
@@ -1311,8 +1311,8 @@
     [
       "Adam Slavíček",
       "David Kubiš",
-      "Luboš Králíček",
       "Martin Mrzena",
+      "Ondrej Janota",
       "Ondřej Blažek"
     ],
     [

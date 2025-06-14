@@ -1,7 +1,7 @@
 {
-  "date": "2025-06-14T12:27:17.745359",
+  "date": "2025-06-14T13:02:02.829147",
   "competition_id": "recooWID949hlRemN",
-  "count": 696,
+  "count": 700,
   "teams": [
     [
       "Adam Slavicek"
@@ -819,6 +819,14 @@
     [
       "Dominic Scholz",
       "Simon Gapp"
+    ],
+    [
+      "Dummy",
+      "Dummy"
+    ],
+    [
+      "Dummy Dummy",
+      "Dummy Dummy"
     ],
     [
       "Dummy Dummy",

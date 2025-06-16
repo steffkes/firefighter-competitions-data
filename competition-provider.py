@@ -51,7 +51,7 @@ dateFilterFn = lambda record: record["fields"].get("Datum")
 competitions = sorted(
     list(map(mapperFn, filter(dateFilterFn, stairruns), repeat("FSR")))
     + list(map(mapperFn, filter(dateFilterFn, challenges), repeat("FCC"))),
-    key=lambda record: record["date"]["start"],
+    key=lambda record: (record["date"]["start"], record["name"]),
 )
 
 with open("data/competitions.json", "w") as handle:

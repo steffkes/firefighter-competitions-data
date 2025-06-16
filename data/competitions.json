@@ -546,27 +546,6 @@
         }
     },
     {
-        "id": "recJtCyamnvWgYiKO",
-        "kind": "FCC",
-        "name": "World Police & Firefighter Games",
-        "url": null,
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-07-23",
-            "end": "2022-07-23",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Rotterdam",
-            "country_code": "NL",
-            "coordinates": null
-        }
-    },
-    {
         "id": "recjKwED76BQ5U2zu",
         "kind": "FCC",
         "name": "Feuerwehr Challenge Bühl",
@@ -588,6 +567,27 @@
                 "lat": 48.397733,
                 "lng": 10.196381
             }
+        }
+    },
+    {
+        "id": "recJtCyamnvWgYiKO",
+        "kind": "FCC",
+        "name": "World Police & Firefighter Games",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-07-23",
+            "end": "2022-07-23",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Rotterdam",
+            "country_code": "NL",
+            "coordinates": null
         }
     },
     {
@@ -615,6 +615,27 @@
         }
     },
     {
+        "id": "recQt82r1xyE9B2P0",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://firefit-europe.eu/pfalzen/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-08-27",
+            "end": "2022-08-28",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Pfalzen",
+            "country_code": "IT",
+            "coordinates": null
+        }
+    },
+    {
         "id": "rec8qhJ0YB06RHZjj",
         "kind": "FCC",
         "name": "Hamburger Firefighter Games",
@@ -636,27 +657,6 @@
                 "lat": 53.576158,
                 "lng": 10.007046
             }
-        }
-    },
-    {
-        "id": "recQt82r1xyE9B2P0",
-        "kind": "FCC",
-        "name": "Firefit Championships Europe",
-        "url": "https://firefit-europe.eu/pfalzen/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-08-27",
-            "end": "2022-08-28",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Pfalzen",
-            "country_code": "IT",
-            "coordinates": null
         }
     },
     {
@@ -867,30 +867,6 @@
         }
     },
     {
-        "id": "rec3Zdq38Mr3aBbNX",
-        "kind": "FSR",
-        "name": "Schanzenlauf Oberstdorf",
-        "url": null,
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-10-22",
-            "end": "2022-10-22",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Oberstdorf",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 47.3749871,
-                "lng": 10.270242
-            }
-        }
-    },
-    {
         "id": "recjBlyz3XANB35Zs",
         "kind": "FSR",
         "name": "4StairsonFire",
@@ -911,6 +887,30 @@
             "coordinates": {
                 "lat": 47.1682422,
                 "lng": 14.6613402
+            }
+        }
+    },
+    {
+        "id": "rec3Zdq38Mr3aBbNX",
+        "kind": "FSR",
+        "name": "Schanzenlauf Oberstdorf",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2022-10-22",
+            "end": "2022-10-22",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Oberstdorf",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 47.3749871,
+                "lng": 10.270242
             }
         }
     },
@@ -1362,30 +1362,6 @@
         }
     },
     {
-        "id": "recY5XiURsOGTS1U3",
-        "kind": "FSR",
-        "name": "Wildbad311 Treppenlauf",
-        "url": "https://www.racesolution.de/teilnehmer.html?event=wildbad345-treppenlauf-rothenburg-odt-2",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-06-23",
-            "end": "2023-06-23",
-            "is_draft": null,
-            "is_canceled": "Zu wenig Teilnehmer",
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Rothenburg ob der Tauber",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 49.3694901,
-                "lng": 10.1802884
-            }
-        }
-    },
-    {
         "id": "rec4BfGefRTAp9xja",
         "kind": "FCC",
         "name": "FireFit Championships Europe",
@@ -1406,6 +1382,30 @@
             "coordinates": {
                 "lat": 51.106947,
                 "lng": 17.027561
+            }
+        }
+    },
+    {
+        "id": "recY5XiURsOGTS1U3",
+        "kind": "FSR",
+        "name": "Wildbad311 Treppenlauf",
+        "url": "https://www.racesolution.de/teilnehmer.html?event=wildbad345-treppenlauf-rothenburg-odt-2",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-06-23",
+            "end": "2023-06-23",
+            "is_draft": null,
+            "is_canceled": "Zu wenig Teilnehmer",
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Rothenburg ob der Tauber",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 49.3694901,
+                "lng": 10.1802884
             }
         }
     },
@@ -1938,30 +1938,6 @@
         }
     },
     {
-        "id": "recC0hZtId4VxE7HY",
-        "kind": "FSR",
-        "name": "Schanzenlauf Oberstdorf",
-        "url": "https://schanzenlauf-oberstdorf.de",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-10-21",
-            "end": "2023-10-21",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Oberstdorf",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 47.3749871,
-                "lng": 10.270242
-            }
-        }
-    },
-    {
         "id": "recZIJTZPUVgK1u5J",
         "kind": "FSR",
         "name": "4Stairs onFire",
@@ -1982,6 +1958,30 @@
             "coordinates": {
                 "lat": 47.1682422,
                 "lng": 14.6613402
+            }
+        }
+    },
+    {
+        "id": "recC0hZtId4VxE7HY",
+        "kind": "FSR",
+        "name": "Schanzenlauf Oberstdorf",
+        "url": "https://schanzenlauf-oberstdorf.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-10-21",
+            "end": "2023-10-21",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Oberstdorf",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 47.3749871,
+                "lng": 10.270242
             }
         }
     },
@@ -2010,30 +2010,6 @@
         }
     },
     {
-        "id": "recKKmm4DSwQY4UWj",
-        "kind": "FSR",
-        "name": "Zagreb Firefighter Stair Challenge",
-        "url": "https://www.zagreb-firefighter-stair-challenge.com.hr/en/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-12-02",
-            "end": "2023-12-02",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Zagreb",
-            "country_code": "CZ",
-            "coordinates": {
-                "lat": 45.8035601,
-                "lng": 15.9892098
-            }
-        }
-    },
-    {
         "id": "recKUFtr3LrtYotOK",
         "kind": "FSR",
         "name": "X-Mas Stairrun",
@@ -2054,6 +2030,30 @@
             "coordinates": {
                 "lat": 50.6977798,
                 "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "recKKmm4DSwQY4UWj",
+        "kind": "FSR",
+        "name": "Zagreb Firefighter Stair Challenge",
+        "url": "https://www.zagreb-firefighter-stair-challenge.com.hr/en/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-12-02",
+            "end": "2023-12-02",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Zagreb",
+            "country_code": "CZ",
+            "coordinates": {
+                "lat": 45.8035601,
+                "lng": 15.9892098
             }
         }
     },
@@ -2154,30 +2154,6 @@
         }
     },
     {
-        "id": "recfmFTWYWV7rbsFI",
-        "kind": "FSR",
-        "name": "Subida Vertical Gran Hotel Bali",
-        "url": "http://subidagranhotelbali.com/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2024-04-27",
-            "end": "2024-04-27",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Benidorm",
-            "country_code": "ES",
-            "coordinates": {
-                "lat": 38.5314827,
-                "lng": -0.1637002
-            }
-        }
-    },
-    {
         "id": "rec9yCoILDPWnextT",
         "kind": "FCC",
         "name": "Höinger Firefighter Challenge",
@@ -2198,6 +2174,30 @@
             "coordinates": {
                 "lat": 51.4850239,
                 "lng": 7.9741183
+            }
+        }
+    },
+    {
+        "id": "recfmFTWYWV7rbsFI",
+        "kind": "FSR",
+        "name": "Subida Vertical Gran Hotel Bali",
+        "url": "http://subidagranhotelbali.com/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-04-27",
+            "end": "2024-04-27",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Benidorm",
+            "country_code": "ES",
+            "coordinates": {
+                "lat": 38.5314827,
+                "lng": -0.1637002
             }
         }
     },
@@ -2658,27 +2658,6 @@
         }
     },
     {
-        "id": "rec2qdwIroGsfj1HX",
-        "kind": "FCC",
-        "name": "Vogtländischen-Firefighter-Contest",
-        "url": "https://neumark-vogtland.de/feuerwehr-neumark/aktuelle-informationen",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2024-08-17",
-            "end": "2024-08-17",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Neumark ",
-            "country_code": "DE",
-            "coordinates": null
-        }
-    },
-    {
         "id": "recYjHBrXmVkygStd",
         "kind": "FCC",
         "name": "Firefighter Combat Challenge",
@@ -2700,6 +2679,27 @@
                 "lat": 52.5170365,
                 "lng": 13.3888599
             }
+        }
+    },
+    {
+        "id": "rec2qdwIroGsfj1HX",
+        "kind": "FCC",
+        "name": "Vogtländischen-Firefighter-Contest",
+        "url": "https://neumark-vogtland.de/feuerwehr-neumark/aktuelle-informationen",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-08-17",
+            "end": "2024-08-17",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Neumark ",
+            "country_code": "DE",
+            "coordinates": null
         }
     },
     {
@@ -2775,6 +2775,30 @@
         }
     },
     {
+        "id": "recuVyJLujwYovxfn",
+        "kind": "FCC",
+        "name": "Firefighter Challenge Slovenia",
+        "url": "https://firefighter-challenge-slovenia.si/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-09-07",
+            "end": "2024-09-08",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Radovljica",
+            "country_code": "SI",
+            "coordinates": {
+                "lat": 46.353623,
+                "lng": 14.163749
+            }
+        }
+    },
+    {
         "id": "reckHSB1eG9Su8fxx",
         "kind": "FSR",
         "name": "Treppenlauf Radebeul",
@@ -2819,30 +2843,6 @@
             "coordinates": {
                 "lat": 57.048444,
                 "lng": 9.931667
-            }
-        }
-    },
-    {
-        "id": "recuVyJLujwYovxfn",
-        "kind": "FCC",
-        "name": "Firefighter Challenge Slovenia",
-        "url": "https://firefighter-challenge-slovenia.si/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2024-09-07",
-            "end": "2024-09-08",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Radovljica",
-            "country_code": "SI",
-            "coordinates": {
-                "lat": 46.353623,
-                "lng": 14.163749
             }
         }
     },
@@ -3159,30 +3159,6 @@
         }
     },
     {
-        "id": "recgpWQzJ2YsIMaDt",
-        "kind": "FSR",
-        "name": "Zagreb Firefighter Stair Challenge",
-        "url": "https://www.zagreb-firefighter-stair-challenge.com.hr/en/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2024-12-07",
-            "end": "2024-12-07",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Zagreb",
-            "country_code": "CZ",
-            "coordinates": {
-                "lat": 45.8035601,
-                "lng": 15.9892098
-            }
-        }
-    },
-    {
         "id": "rectoqxiOwNaoaHRZ",
         "kind": "FSR",
         "name": "X-Mas Stairrun",
@@ -3203,6 +3179,30 @@
             "coordinates": {
                 "lat": 50.6977798,
                 "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "recgpWQzJ2YsIMaDt",
+        "kind": "FSR",
+        "name": "Zagreb Firefighter Stair Challenge",
+        "url": "https://www.zagreb-firefighter-stair-challenge.com.hr/en/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2024-12-07",
+            "end": "2024-12-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Zagreb",
+            "country_code": "CZ",
+            "coordinates": {
+                "lat": 45.8035601,
+                "lng": 15.9892098
             }
         }
     },
@@ -3495,30 +3495,6 @@
         }
     },
     {
-        "id": "recURkcZynP4Bd4JZ",
-        "kind": "FSR",
-        "name": "Schonacher Schanzenlauf",
-        "url": "http://www.schonacher-schanzenlauf.de",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2025-05-17",
-            "end": "2025-05-17",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": "2024-12-23T17:00:00.000Z"
-        },
-        "location": {
-            "city": "Schonach",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 48.1352787,
-                "lng": 8.2023015
-            }
-        }
-    },
-    {
         "id": "recmjfsbZTbvc1JM0",
         "kind": "FSR",
         "name": "Berlin Firefighter Stairrun",
@@ -3539,6 +3515,30 @@
             "coordinates": {
                 "lat": 52.523125,
                 "lng": 13.4127656
+            }
+        }
+    },
+    {
+        "id": "recURkcZynP4Bd4JZ",
+        "kind": "FSR",
+        "name": "Schonacher Schanzenlauf",
+        "url": "http://www.schonacher-schanzenlauf.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-05-17",
+            "end": "2025-05-17",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-12-23T17:00:00.000Z"
+        },
+        "location": {
+            "city": "Schonach",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.1352787,
+                "lng": 8.2023015
             }
         }
     },
@@ -3807,30 +3807,6 @@
         }
     },
     {
-        "id": "rec1YO14jpAPEJEUV",
-        "kind": "FCC",
-        "name": "Leinetal Firefighter Combat Challenge",
-        "url": "https://www.facebook.com/TFALeinetal/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2025-07-19",
-            "end": "2025-07-20",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": "2025-04-27T15:00:00.000Z"
-        },
-        "location": {
-            "city": "Göttingen",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 51.5192509,
-                "lng": 9.9266786
-            }
-        }
-    },
-    {
         "id": "recWkYxWVbZzV4EvE",
         "kind": "FCC",
         "name": "Firefit Championships Europe",
@@ -3851,6 +3827,30 @@
             "coordinates": {
                 "lat": 47.3656559,
                 "lng": 8.5460289
+            }
+        }
+    },
+    {
+        "id": "rec1YO14jpAPEJEUV",
+        "kind": "FCC",
+        "name": "Leinetal Firefighter Combat Challenge",
+        "url": "https://www.facebook.com/TFALeinetal/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-07-19",
+            "end": "2025-07-20",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2025-04-27T15:00:00.000Z"
+        },
+        "location": {
+            "city": "Göttingen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.5192509,
+                "lng": 9.9266786
             }
         }
     },
@@ -4260,30 +4260,6 @@
         }
     },
     {
-        "id": "recfXe2FFz9Q5jBRZ",
-        "kind": "FSR",
-        "name": "Schanzenlauf Oberstdorf",
-        "url": "https://feuerwehr-oberstdorf.de/aktuelles/schanzenlauf-2024",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2025-10-18",
-            "end": "2025-10-18",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": "2025-03-30T10:00:00.000Z"
-        },
-        "location": {
-            "city": "Oberstdorf",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 47.3749871,
-                "lng": 10.270242
-            }
-        }
-    },
-    {
         "id": "recgAyUrgsOOHLE0N",
         "kind": "FSR",
         "name": "Fire Trail Nesselwang",
@@ -4304,6 +4280,30 @@
             "coordinates": {
                 "lat": 47.6182629,
                 "lng": 10.4969224
+            }
+        }
+    },
+    {
+        "id": "recfXe2FFz9Q5jBRZ",
+        "kind": "FSR",
+        "name": "Schanzenlauf Oberstdorf",
+        "url": "https://feuerwehr-oberstdorf.de/aktuelles/schanzenlauf-2024",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-10-18",
+            "end": "2025-10-18",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2025-03-30T10:00:00.000Z"
+        },
+        "location": {
+            "city": "Oberstdorf",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 47.3749871,
+                "lng": 10.270242
             }
         }
     },
@@ -4380,30 +4380,6 @@
         }
     },
     {
-        "id": "recjK2NA5Tk2hvZfP",
-        "kind": "FSR",
-        "name": "Zagreb Firefighter Stair Challenge",
-        "url": "https://www.zagreb-firefighter-stair-challenge.com.hr/en/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2025-12-06",
-            "end": "2025-12-06",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Zagreb",
-            "country_code": "CZ",
-            "coordinates": {
-                "lat": 45.8035601,
-                "lng": 15.9892098
-            }
-        }
-    },
-    {
         "id": "recs6BJ08TBczNmAR",
         "kind": "FSR",
         "name": "X-Mas Stairrun",
@@ -4424,6 +4400,30 @@
             "coordinates": {
                 "lat": 50.6977798,
                 "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "recjK2NA5Tk2hvZfP",
+        "kind": "FSR",
+        "name": "Zagreb Firefighter Stair Challenge",
+        "url": "https://www.zagreb-firefighter-stair-challenge.com.hr/en/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-12-06",
+            "end": "2025-12-06",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Zagreb",
+            "country_code": "CZ",
+            "coordinates": {
+                "lat": 45.8035601,
+                "lng": 15.9892098
             }
         }
     },
@@ -4500,30 +4500,6 @@
         }
     },
     {
-        "id": "recyjvwGvbZl5rAO3",
-        "kind": "FSR",
-        "name": "Treppenlauf Radebeul",
-        "url": "https://feuerwehrfitness-dresden.de",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2026-05-02",
-            "end": "2026-05-02",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Radebeul",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 51.1136793,
-                "lng": 13.6637052
-            }
-        }
-    },
-    {
         "id": "recRnyAQk9bzIczQX",
         "kind": "FCC",
         "name": "Firefit Championships Europe",
@@ -4544,6 +4520,30 @@
             "coordinates": {
                 "lat": 50.5737411,
                 "lng": 3.8586497
+            }
+        }
+    },
+    {
+        "id": "recyjvwGvbZl5rAO3",
+        "kind": "FSR",
+        "name": "Treppenlauf Radebeul",
+        "url": "https://feuerwehrfitness-dresden.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-05-02",
+            "end": "2026-05-02",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Radebeul",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1136793,
+                "lng": 13.6637052
             }
         }
     },

@@ -1,0 +1,790 @@
+{
+  "date": "2025-06-19T05:53:53.815716",
+  "competition_id": "rec1YO14jpAPEJEUV",
+  "count": 349,
+  "teams": [
+    [
+      "Alessia Hörning"
+    ],
+    [
+      "Alex Fromme"
+    ],
+    [
+      "Alexander Junge"
+    ],
+    [
+      "Alexander Marschall"
+    ],
+    [
+      "Alexander Sader"
+    ],
+    [
+      "Amir Jazmati"
+    ],
+    [
+      "Andrè Moebes"
+    ],
+    [
+      "Anja Riehn"
+    ],
+    [
+      "Anna Janssen"
+    ],
+    [
+      "Benjamin Roth"
+    ],
+    [
+      "Benny Henne"
+    ],
+    [
+      "Björn Herborn"
+    ],
+    [
+      "Chiara Schmidt"
+    ],
+    [
+      "Christian Brockers"
+    ],
+    [
+      "Christian Dillinger"
+    ],
+    [
+      "Christian Follmann"
+    ],
+    [
+      "Christian Lutat"
+    ],
+    [
+      "Christoph Wynands"
+    ],
+    [
+      "Claudia Mäder"
+    ],
+    [
+      "Daniel Finster"
+    ],
+    [
+      "Daniel Friedrich"
+    ],
+    [
+      "Daniel Pätzolt"
+    ],
+    [
+      "Daniel Schimank"
+    ],
+    [
+      "Daniela Primus"
+    ],
+    [
+      "Dario Peter"
+    ],
+    [
+      "David Kubiš"
+    ],
+    [
+      "David Probst"
+    ],
+    [
+      "Dirk Fischer"
+    ],
+    [
+      "Dominic Arnold"
+    ],
+    [
+      "Dominik Zirbes"
+    ],
+    [
+      "Erik Langenhahn"
+    ],
+    [
+      "Erik Lorenz"
+    ],
+    [
+      "Florian Bügel"
+    ],
+    [
+      "Florian Krautwurst"
+    ],
+    [
+      "Florian Menklein"
+    ],
+    [
+      "Florian Wedel"
+    ],
+    [
+      "Frank Peter"
+    ],
+    [
+      "Gerhard Kruse"
+    ],
+    [
+      "Guido Suhrmeyer"
+    ],
+    [
+      "Hans-Jürgen Vogt"
+    ],
+    [
+      "Hendrik Kumpe"
+    ],
+    [
+      "Henning Bösch"
+    ],
+    [
+      "Henrik Schröder"
+    ],
+    [
+      "Jan Heppeler"
+    ],
+    [
+      "Jan Kiepe"
+    ],
+    [
+      "Jasmin Weber"
+    ],
+    [
+      "Jens Obermann"
+    ],
+    [
+      "Joan Olucha"
+    ],
+    [
+      "Katrin Bagdahn"
+    ],
+    [
+      "Kay Rosenkranz"
+    ],
+    [
+      "Khaled Alotaibi"
+    ],
+    [
+      "Kirsten Schneidereit"
+    ],
+    [
+      "Laura Andres"
+    ],
+    [
+      "Lena Schuster"
+    ],
+    [
+      "Lena Sophie Behne"
+    ],
+    [
+      "Lukas Wickmann"
+    ],
+    [
+      "Magnus Metje"
+    ],
+    [
+      "Marcel Specht"
+    ],
+    [
+      "Marco Illein"
+    ],
+    [
+      "Marco Juffa"
+    ],
+    [
+      "Marina Nikic"
+    ],
+    [
+      "Mario Fleerkortte"
+    ],
+    [
+      "Markus Ahrend"
+    ],
+    [
+      "Markus Brockers"
+    ],
+    [
+      "Martens Jannis"
+    ],
+    [
+      "Martens Jördis"
+    ],
+    [
+      "Martin Erbe"
+    ],
+    [
+      "Martin Ledderhose"
+    ],
+    [
+      "Marvin Hänel"
+    ],
+    [
+      "Mathias Hey"
+    ],
+    [
+      "Matthias Ascheberg"
+    ],
+    [
+      "Matthias Schmitt"
+    ],
+    [
+      "Maurice Holz"
+    ],
+    [
+      "Maximilian Wagner"
+    ],
+    [
+      "Meike Denecke"
+    ],
+    [
+      "Melanie Schönewald"
+    ],
+    [
+      "Michael Fangmann"
+    ],
+    [
+      "Michael Güth"
+    ],
+    [
+      "Michael Weiß"
+    ],
+    [
+      "Michal Brousil"
+    ],
+    [
+      "Michel Menten"
+    ],
+    [
+      "Mike Weikamm"
+    ],
+    [
+      "Moritz Millnitz"
+    ],
+    [
+      "N.N. N.N."
+    ],
+    [
+      "N.N. N.N."
+    ],
+    [
+      "N.N. N.N."
+    ],
+    [
+      "N.N. N.N."
+    ],
+    [
+      "N.N. N.N."
+    ],
+    [
+      "N.N. N.N."
+    ],
+    [
+      "N.N. N.N."
+    ],
+    [
+      "Niels Bessert"
+    ],
+    [
+      "Nils Fröhlich"
+    ],
+    [
+      "Nils Paul"
+    ],
+    [
+      "Nils Schmidt"
+    ],
+    [
+      "Oliinyk Vladyslav"
+    ],
+    [
+      "Oliver Moj"
+    ],
+    [
+      "Oliver Nopper"
+    ],
+    [
+      "Pascal Modeß"
+    ],
+    [
+      "Patrick Beer"
+    ],
+    [
+      "Pavel Kouřík"
+    ],
+    [
+      "Phil Heise"
+    ],
+    [
+      "Philipp Gailer"
+    ],
+    [
+      "Pia Bretsch"
+    ],
+    [
+      "Rene Formella"
+    ],
+    [
+      "Rene Formella"
+    ],
+    [
+      "Rensch Nico"
+    ],
+    [
+      "René Stange"
+    ],
+    [
+      "Robert Lehmann"
+    ],
+    [
+      "Robin Altbürger"
+    ],
+    [
+      "Sascha Kessler"
+    ],
+    [
+      "Sascha Michala"
+    ],
+    [
+      "Sebastian Herr"
+    ],
+    [
+      "Sebastian Wehlauer"
+    ],
+    [
+      "Simon Feuerhack"
+    ],
+    [
+      "Stefan Fetting"
+    ],
+    [
+      "Stefan Roskosch"
+    ],
+    [
+      "Steffen Endres"
+    ],
+    [
+      "Sven Holly"
+    ],
+    [
+      "Sören Warzok"
+    ],
+    [
+      "Thomas Werxhausen"
+    ],
+    [
+      "Thore Steinmetz"
+    ],
+    [
+      "Tobias Brune"
+    ],
+    [
+      "Tobias Fischer"
+    ],
+    [
+      "Tobias Fischer"
+    ],
+    [
+      "Tomáš Višňar"
+    ],
+    [
+      "Ulrich Köllner"
+    ],
+    [
+      "Uwe Heise"
+    ],
+    [
+      "Wayne Bastow"
+    ],
+    [
+      "Wiebke Boss"
+    ],
+    [
+      "Wiebke Lührs"
+    ],
+    [
+      "Yousef Alqallaf"
+    ],
+    [
+      "Zuzana Tomková"
+    ],
+    [
+      "Alessia Hörning",
+      "Jasmin Weber"
+    ],
+    [
+      "Alexander Bähre",
+      "Björn Schwerdt"
+    ],
+    [
+      "Alexander Junge",
+      "Florian Menklein"
+    ],
+    [
+      "Alexander Sader",
+      "Tobias Fischer"
+    ],
+    [
+      "Amir Jazmati",
+      "Thore Steinmetz"
+    ],
+    [
+      "Andre Dupont",
+      "Anja Riehn"
+    ],
+    [
+      "André Dupont",
+      "Matthias Ascheberg"
+    ],
+    [
+      "Anja Riehn",
+      "Melanie Schönewald"
+    ],
+    [
+      "Benjamin Roth",
+      "Marius Freimuth"
+    ],
+    [
+      "Benny Henne",
+      "Marina Nikic"
+    ],
+    [
+      "Björn Herborn",
+      "Daniel Pätzolt"
+    ],
+    [
+      "Carolina Bache",
+      "Philipp Gailer"
+    ],
+    [
+      "Chiara Schmidt",
+      "Sascha Michala"
+    ],
+    [
+      "Christian Brockers",
+      "Markus Brockers"
+    ],
+    [
+      "Christian Dillinger",
+      "Hendrik Kumpe"
+    ],
+    [
+      "Christian Follmann",
+      "David Probst"
+    ],
+    [
+      "Claudia Mäder",
+      "Nils Fröhlich"
+    ],
+    [
+      "Claudia Mäder",
+      "Sandy-Sue Stockder"
+    ],
+    [
+      "Claudia Mäder",
+      "Weiß Michael"
+    ],
+    [
+      "Daniel Finster",
+      "Nils Paul"
+    ],
+    [
+      "Daniel Schimank",
+      "Sascha Michala"
+    ],
+    [
+      "Daniela Primus",
+      "Martin Erbe"
+    ],
+    [
+      "Daniela Primus",
+      "Meghann Krüger"
+    ],
+    [
+      "Dario Peter",
+      "Frank Peter"
+    ],
+    [
+      "David Kubiš",
+      "Tomáš Višňar"
+    ],
+    [
+      "Dirk Fischer",
+      "Dominik Zirbes"
+    ],
+    [
+      "Dominic Arnold",
+      "Kay Rosenkranz"
+    ],
+    [
+      "Emilia Magliano",
+      "Florian Itter"
+    ],
+    [
+      "Emma Kurutz",
+      "Joan Olucha"
+    ],
+    [
+      "Erik Langenhahn",
+      "Florian Wedel"
+    ],
+    [
+      "Florian Itter",
+      "Philipp Gailer"
+    ],
+    [
+      "Guido Suhrmeyer",
+      "Mario Fleerkortte"
+    ],
+    [
+      "Jens Lüdecke",
+      "Stefan Roskosch"
+    ],
+    [
+      "Joan Olucha",
+      "Kirsten Schneidereit"
+    ],
+    [
+      "Khaled Alotaibi",
+      "Yousef Alqallaf"
+    ],
+    [
+      "Kommt Noch",
+      "Michel Menten"
+    ],
+    [
+      "Krummacker Jan",
+      "Weiß Michael"
+    ],
+    [
+      "Laura Andres",
+      "Marco Juffa"
+    ],
+    [
+      "Lena Schuster",
+      "Meike Denecke"
+    ],
+    [
+      "Lena Schuster",
+      "Sören Warzok"
+    ],
+    [
+      "Lena Sophie Behne",
+      "Maurice Holz"
+    ],
+    [
+      "Marion Zander",
+      "Sebastian Herr"
+    ],
+    [
+      "Martens Jannis",
+      "Martens Jördis"
+    ],
+    [
+      "Martens Jannis",
+      "Nico Rensch"
+    ],
+    [
+      "Martin Erbe",
+      "Mike Weikamm"
+    ],
+    [
+      "Mathias Hey",
+      "Thomas Werxhausen"
+    ],
+    [
+      "Maximilian Bohl",
+      "Sebastian Wehlauer"
+    ],
+    [
+      "Meghann Krüger",
+      "Robin Altbürger"
+    ],
+    [
+      "Meike Denecke",
+      "Weiß Michael"
+    ],
+    [
+      "Melanie Schönewald",
+      "Mike Weikamm"
+    ],
+    [
+      "Michael Güth",
+      "Uwe Heise"
+    ],
+    [
+      "Michal Brousil",
+      "Pavel Kouřík"
+    ],
+    [
+      "N. N.",
+      "Tobias Brune"
+    ],
+    [
+      "N.N. N.N.",
+      "N.N. N.N."
+    ],
+    [
+      "N.N. N.N.",
+      "N.N. N.N."
+    ],
+    [
+      "N.N. N.N.",
+      "N.N. N.N."
+    ],
+    [
+      "N.N. N.N.",
+      "N.N. N.N."
+    ],
+    [
+      "Niels Bessert",
+      "Nils Fröhlich"
+    ],
+    [
+      "Phil Heise",
+      "Tim Klinge"
+    ],
+    [
+      "Robin Altbürger",
+      "Sören Warzok"
+    ],
+    [
+      "Sabastian Wehlauer",
+      "Wayne Bastow"
+    ],
+    [
+      "Stefan Fetting",
+      "Wayne Bastow"
+    ],
+    [
+      "Steffen Endress",
+      "Ulrich Köllner"
+    ],
+    [
+      "Zuzana Tomková",
+      "x xx"
+    ],
+    [
+      "Alexander Ruppert",
+      "Michael Weiß",
+      "Stefan Jordan"
+    ],
+    [
+      "Dario Peter",
+      "Mathias Hay",
+      "Stefan Roskosch"
+    ],
+    [
+      "Lena Schuster",
+      "Leon Zeipel",
+      "Moritz Millnitz"
+    ],
+    [
+      "Alexander Bähre",
+      "Björn Schwerdt",
+      "Jakob Karabacak",
+      "Sebastian von Hartz"
+    ],
+    [
+      "Alexander Marschall",
+      "Carina Marschall",
+      "Hendrik Ammermann",
+      "Janina Neumann"
+    ],
+    [
+      "Anja Riehn",
+      "Lena Schuster",
+      "Meike Denecke",
+      "Melanie Schönewald"
+    ],
+    [
+      "Carolina Bache",
+      "Emilia Magliano",
+      "Florian Itter",
+      "Philipp Gailer"
+    ],
+    [
+      "Christian Dillinger",
+      "Emma Kurutz",
+      "Joan Olucha",
+      "Kirsten Schneidereit"
+    ],
+    [
+      "Christian Follmann",
+      "David Probst",
+      "Dirk Fischer",
+      "Dominik Zirbes"
+    ],
+    [
+      "David Kubiš",
+      "Michal Brousil",
+      "Pavel Kouřík",
+      "Tomáš Višňar"
+    ],
+    [
+      "Emil Schmidt",
+      "Kira Paulick",
+      "Philip Gotthardt",
+      "Thore Schmidt"
+    ],
+    [
+      "Florian Fink",
+      "Heiko Anwand-Heerwart",
+      "Manfred Hornig",
+      "Tobias Kroh"
+    ],
+    [
+      "Jan Krummacker",
+      "Michael Weiß",
+      "Niels Bessert",
+      "Nils Fröhlich"
+    ],
+    [
+      "Benny Henne",
+      "Blau Phillip",
+      "Frau FINDENWIRNOCH",
+      "Marina Nikic",
+      "Werxhausen Thomas"
+    ],
+    [
+      "Christian Ullrich",
+      "Elias Behmke",
+      "Jens Obermann",
+      "N.n. N.n.",
+      "N.n. N.n."
+    ],
+    [
+      "Daniel Finster",
+      "Magnus Metje",
+      "Nils Paul",
+      "Oliver Moj",
+      "Sören Warzok"
+    ],
+    [
+      "Daniela Primus",
+      "Mehgann Krüger",
+      "Oliver Moj",
+      "Robin Altbürger",
+      "Sören Warzok"
+    ],
+    [
+      "Dominic Arnold",
+      "Erik Lorenz",
+      "Kay Rosenkranz",
+      "Lena Behne",
+      "Maurice Holz"
+    ],
+    [
+      "Kahled Alotaibi",
+      "N.N. N.N.",
+      "N.N. N.N.",
+      "N.N. N.N.",
+      "Yousef Alqallaf"
+    ],
+    [
+      "N.N. N.N.",
+      "N.N. N.N.",
+      "N.N. N.N.",
+      "N.N. N.N.",
+      "N.N. N.N."
+    ],
+    [
+      "N.N. N.N.",
+      "N.N. N.N.",
+      "N.N. N.N.",
+      "N.N. N.N.",
+      "N.N. N.N."
+    ]
+  ]
+}

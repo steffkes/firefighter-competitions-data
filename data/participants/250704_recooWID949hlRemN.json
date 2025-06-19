@@ -1,7 +1,7 @@
 {
-  "date": "2025-06-19T09:42:58.717388",
+  "date": "2025-06-19T10:16:20.127606",
   "competition_id": "recooWID949hlRemN",
-  "count": 689,
+  "count": 690,
   "teams": [
     [
       "Adam Slavicek"
@@ -131,6 +131,9 @@
     ],
     [
       "Dominik Zirbes"
+    ],
+    [
+      "Dummy"
     ],
     [
       "Dummy"

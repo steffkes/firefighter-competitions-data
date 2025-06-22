@@ -4536,7 +4536,7 @@
             "end": "2026-05-02",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2025-08-01T10:00:00.000Z"
         },
         "location": {
             "city": "Radebeul",

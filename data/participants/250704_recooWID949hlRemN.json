@@ -1,7 +1,7 @@
 {
-  "date": "2025-06-23T07:48:38.729285",
+  "date": "2025-06-23T07:57:12.772159",
   "competition_id": "recooWID949hlRemN",
-  "count": 687,
+  "count": 691,
   "teams": [
     [
       "Adam Slavicek"
@@ -97,6 +97,9 @@
       "Christopher Trendowicz"
     ],
     [
+      "Daniel Friedrich"
+    ],
+    [
       "Daniel Schimank"
     ],
     [
@@ -131,6 +134,9 @@
     ],
     [
       "Dominik Zirbes"
+    ],
+    [
+      "Dummy"
     ],
     [
       "Egidijus Krivickas"
@@ -678,6 +684,10 @@
     [
       "Andre Grieß-Dany",
       "Holger Simonis"
+    ],
+    [
+      "Andre Kühne",
+      "Lars Nawrocki"
     ],
     [
       "Andreas Gaßner",

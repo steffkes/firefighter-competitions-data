@@ -1,7 +1,7 @@
 {
-  "date": "2025-06-23T18:21:16.505051",
+  "date": "2025-06-23T18:49:57.962195",
   "competition_id": "recIIaJGTGbA10gKS",
-  "count": 26,
+  "count": 30,
   "teams": [
     [
       "Anna Köllner"
@@ -14,6 +14,9 @@
     ],
     [
       "Christoph Wolfinger"
+    ],
+    [
+      "Dominic Scholz"
     ],
     [
       "Gabriel Bauer"
@@ -34,6 +37,9 @@
       "Rares Schuster"
     ],
     [
+      "Simon Gapp"
+    ],
+    [
       "Steffen Schwarz"
     ],
     [
@@ -45,6 +51,10 @@
     [
       "Christian Dahler",
       "Christoph Wolfinger"
+    ],
+    [
+      "Dominic Scholz",
+      "Simon Gapp"
     ],
     [
       "Eric Keßler",

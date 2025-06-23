@@ -1,7 +1,7 @@
 {
-  "date": "2025-06-23T07:57:12.772159",
+  "date": "2025-06-23T08:27:02.627187",
   "competition_id": "recooWID949hlRemN",
-  "count": 691,
+  "count": 703,
   "teams": [
     [
       "Adam Slavicek"
@@ -134,6 +134,9 @@
     ],
     [
       "Dominik Zirbes"
+    ],
+    [
+      "Dummy"
     ],
     [
       "Dummy"
@@ -810,6 +813,10 @@
       "Simon Gapp"
     ],
     [
+      "Dummy",
+      "Dummy"
+    ],
+    [
       "Dummy Dummy",
       "Khalid Alotaibi"
     ],
@@ -1224,6 +1231,12 @@
       "Tim Hoffmann"
     ],
     [
+      "Angel Flores",
+      "Dominique Kane",
+      "Nathan Bowland",
+      "Travis Leonard"
+    ],
+    [
       "Anna Jansen",
       "Janna Hoppman",
       "Marvin Stöbener",
@@ -1323,6 +1336,13 @@
       "Desirée Reitz",
       "Marcel Kader",
       "Marina Nikic"
+    ],
+    [
+      "Alexander Sader",
+      "Daniel Friedrich",
+      "David Kalicki",
+      "Sascha Michalla",
+      "Tobias Fischer"
     ],
     [
       "Andreas Friedrich",

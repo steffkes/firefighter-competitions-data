@@ -1,7 +1,7 @@
 {
-  "date": "2025-07-02T05:00:22.739715",
+  "date": "2025-07-02T05:29:16.938094",
   "competition_id": "recooWID949hlRemN",
-  "count": 708,
+  "count": 709,
   "teams": [
     [
       "Adam Slavicek"
@@ -1213,11 +1213,6 @@
       "Simon Burger"
     ],
     [
-      "Jörg Winkler",
-      "Mario Fleerkortte",
-      "Mirco Feuerhack"
-    ],
-    [
       "Markus Brockers",
       "Matthias Metzen",
       "Stefan Masson"
@@ -1310,6 +1305,12 @@
       "Maurice Clemens",
       "Stefan Fetting",
       "Timo Schulz"
+    ],
+    [
+      "Jörg Winkler",
+      "Mario Fleerkortte",
+      "Matthias Schmitt",
+      "Mirco Feuerhack"
     ],
     [
       "Nick Kuhlen",

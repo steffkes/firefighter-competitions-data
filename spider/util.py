@@ -4,6 +4,12 @@ import requests
 import re
 
 
+class SlotItem(scrapy.Item):
+    competition_id = scrapy.Field()
+    amount = scrapy.Field()
+    label = scrapy.Field()
+
+
 class ParticipantItem(scrapy.Item):
     competition_id = scrapy.Field()
     names = scrapy.Field()
@@ -42,6 +48,7 @@ class JsonItemExporter(BaseItemExporter):
 
         self.file = file
         self.items = []
+        self.slots = []
 
         self._kwargs.setdefault("indent", 2)
         self._kwargs.setdefault("ensure_ascii", not self.encoding)
@@ -51,6 +58,10 @@ class JsonItemExporter(BaseItemExporter):
         if not len(self.items):
             return
 
+        def slotMapper(slot):
+            del slot["competition_id"]
+            return slot
+
         teams = sorted(
             map(lambda item: item["names"], self.items),
             key=lambda names: (len(names), list(map(lambda name: name or "", names))),
@@ -58,6 +69,7 @@ class JsonItemExporter(BaseItemExporter):
         data = {
             "date": datetime.now().isoformat(),
             "competition_id": self.items[0]["competition_id"],
+            "slots": list(map(slotMapper, self.slots)),
             "count": len(list(itertools.chain.from_iterable(teams))),
             "teams": teams,
         }
@@ -70,7 +82,12 @@ class JsonItemExporter(BaseItemExporter):
         )
 
     def export_item(self, item):
-        self.items.append(item)
+        if isinstance(item, ParticipantItem):
+            self.items.append(item)
+        elif isinstance(item, SlotItem):
+            self.slots.append(item)
+        else:
+            raise "unknown type"
 
 
 class JsonLinesItemExporter(BaseJsonLinesItemExporter):
@@ -115,7 +132,7 @@ class Spider(scrapy.Spider):
                 "format": "starter",
                 "encoding": "utf8",
                 "overwrite": True,
-                "item_classes": [ParticipantItem],
+                "item_classes": [ParticipantItem, SlotItem],
             },
             "data/results/%(name)s.jsonl": {
                 "format": "results",

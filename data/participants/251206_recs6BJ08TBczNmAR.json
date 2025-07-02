@@ -1,6 +1,11 @@
 {
-  "date": "2025-07-02T21:17:51.495523",
+  "date": "2025-07-02T21:18:42.532332",
   "competition_id": "recs6BJ08TBczNmAR",
+  "slots": [
+    {
+      "amount": 59
+    }
+  ],
   "count": 282,
   "teams": [
     [

@@ -1,4 +1,4 @@
-from util import Spider, ParticipantItem, ResultItem, ResultRankItem
+from util import Spider, ParticipantItem, ResultItem, ResultRankItem, SlotItem
 from itertools import batched
 import scrapy
 import re
@@ -24,6 +24,21 @@ class CompetitionSpider(Spider):
             },
             callback=self.parse_starters,
         )
+
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRRegStart/data/config" % self.race_id,
+            callback=self.parse_slots,
+        )
+
+    def parse_slots(self, response):
+        contests = response.json()["RegistrationConfig"]["Registrations"][0]["Contests"]
+
+        filterFn = lambda contest: contest["Name"] == "StairRun - Feuerwehr"
+        for contest in filter(filterFn, contests):
+            yield SlotItem(
+                competition_id=self.competition_id, amount=int(contest["SlotsLeft"] / 2)
+            )
 
     def parse_starters(self, response):
         for entries in response.json()["data"]["#1_StairRun - Feuerwehr"].values():

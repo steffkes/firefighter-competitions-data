@@ -55,7 +55,13 @@ class JsonItemExporter(BaseItemExporter):
         self.encoder = ScrapyJSONEncoder(**self._kwargs)
 
     def finish_exporting(self):
-        if not len(self.items):
+        idMapper = lambda item: item["competition_id"]
+        competition_id = next(
+            iter(set(map(idMapper, self.items + self.slots))),
+            None,
+        )
+
+        if not competition_id:
             return
 
         def slotMapper(slot):
@@ -68,7 +74,7 @@ class JsonItemExporter(BaseItemExporter):
         )
         data = {
             "date": datetime.now().isoformat(),
-            "competition_id": self.items[0]["competition_id"],
+            "competition_id": competition_id,
             "slots": list(map(slotMapper, self.slots)),
             "count": len(list(itertools.chain.from_iterable(teams))),
             "teams": teams,

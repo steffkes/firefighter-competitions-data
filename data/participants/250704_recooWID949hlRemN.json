@@ -1,7 +1,7 @@
 {
-  "date": "2025-07-02T03:50:26.321683",
+  "date": "2025-07-02T04:18:56.114474",
   "competition_id": "recooWID949hlRemN",
-  "count": 707,
+  "count": 706,
   "teams": [
     [
       "Adam Slavicek"
@@ -1167,6 +1167,11 @@
       "Vera Licha"
     ],
     [
+      "Alexander Hellwig",
+      "Balint Tacasz",
+      "Michel Menten"
+    ],
+    [
       "Alexander Sader",
       "Chiara Schmidt",
       "Tobias Fischer"
@@ -1215,12 +1220,6 @@
       "Patrick Kirsch",
       "Robin Kuhnert",
       "Sascha Wermeier"
-    ],
-    [
-      "",
-      "Alexander Hellwig",
-      "Balint Tacasz",
-      "Michel Menten"
     ],
     [
       "Alan Dittrich",

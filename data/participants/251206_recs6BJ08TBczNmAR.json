@@ -1,7 +1,7 @@
 {
-  "date": "2025-07-02T08:21:28.323345",
+  "date": "2025-07-02T08:49:13.744564",
   "competition_id": "recs6BJ08TBczNmAR",
-  "count": 238,
+  "count": 240,
   "teams": [
     [
       "Adrian Jagusch",
@@ -18,6 +18,10 @@
     [
       "Alexander Faber",
       "Simon Gilbert"
+    ],
+    [
+      "Alexander Greis",
+      "Marco Juffa"
     ],
     [
       "Alexander Schulz",
@@ -380,10 +384,6 @@
       "Tommy Feige"
     ],
     [
-      "Marco Juffa",
-      "Verena Urbach"
-    ],
-    [
       "Marcus Riemer",
       "Stev Matthiesen"
     ],
@@ -442,6 +442,10 @@
     [
       "Moritz Wegerich",
       "René Stange"
+    ],
+    [
+      "Nelly Heinze",
+      "Verena Urbach"
     ],
     [
       "Nils Dembeck",

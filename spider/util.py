@@ -194,6 +194,14 @@ class FirefitSpider(Spider):
         # 'relay - elimination - women & mixed'
     }
 
+    def parse_slots(self, response, contest):
+        match = re.match(r"\d+", response.css(".stock.in-stock::text").get(default=""))
+        yield SlotItem(
+            competition_id=self.competition_id,
+            amount=int(match.group()) if match else 0,
+            label=contest,
+        )
+
     def parse(self, response):
         tables = response.css("table.ffc-table-dark")
         buttons = response.css(".ffc-button.table-selector::text").getall()

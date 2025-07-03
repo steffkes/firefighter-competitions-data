@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 33
+      "amount": 32
     }
   ],
-  "count": 334,
+  "count": 336,
   "teams": [
     [
       "Adrian Jagusch",
@@ -50,6 +50,10 @@
     [
       "Andre Tomkowiak",
       "Sascha Müller"
+    ],
+    [
+      "Andreas Engelhardt",
+      "Christian Rau"
     ],
     [
       "Andreas Schumann",

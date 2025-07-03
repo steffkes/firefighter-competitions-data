@@ -134,6 +134,9 @@ class Spider(scrapy.Spider):
     ranks = {"category": {}, "age_group": {}}
 
     custom_settings = {
+        "DEFAULT_REQUEST_HEADERS": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+        },
         "FEED_EXPORTERS": {
             "starter": JsonItemExporter,
             "results": JsonLinesItemExporter,

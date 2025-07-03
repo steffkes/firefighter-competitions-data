@@ -1,12 +1,12 @@
 {
-  "date": "2025-07-03T10:43:05.837061",
+  "date": "2025-07-03T10:56:18.112159",
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 53
+      "amount": 50
     }
   ],
-  "count": 294,
+  "count": 300,
   "teams": [
     [
       "Adrian Jagusch",
@@ -201,6 +201,10 @@
       "Sean Paul Renker"
     ],
     [
+      "Fabian Kluge",
+      "Maimuna Krüger"
+    ],
+    [
       "Felix Böhm",
       "Patrick Sauter"
     ],
@@ -359,6 +363,10 @@
     [
       "Jonas Müller",
       "Stephan Zoschke"
+    ],
+    [
+      "Jonas Poser",
+      "Pascal Krause"
     ],
     [
       "Jost Karge",
@@ -555,6 +563,10 @@
     [
       "Nelly Heinze",
       "Verena Urbach"
+    ],
+    [
+      "Niklas Peter",
+      "Silas Reichel"
     ],
     [
       "Nils Dembeck",

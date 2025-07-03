@@ -1,12 +1,12 @@
 {
-  "date": "2025-07-03T05:43:41.852923",
+  "date": "2025-07-03T05:56:27.942437",
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 57
+      "amount": 56
     }
   ],
-  "count": 286,
+  "count": 288,
   "teams": [
     [
       "Adrian Jagusch",
@@ -531,6 +531,10 @@
     [
       "Mirko Tänzer",
       "Rene Kunz"
+    ],
+    [
+      "Moritz Juffa",
+      "Philipp Juffa"
     ],
     [
       "Moritz Wegerich",

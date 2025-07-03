@@ -1,12 +1,12 @@
 {
-  "date": "2025-07-03T06:24:13.171403",
+  "date": "2025-07-03T06:52:15.893354",
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 56
+      "amount": 55
     }
   ],
-  "count": 288,
+  "count": 290,
   "teams": [
     [
       "Adrian Jagusch",
@@ -483,6 +483,10 @@
     [
       "Mareile Düffert",
       "Marvin Fuhrmann"
+    ],
+    [
+      "Marius Lindlein",
+      "Philipp Juffa"
     ],
     [
       "Markus Fladung",

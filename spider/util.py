@@ -69,7 +69,7 @@ class JsonItemExporter(BaseItemExporter):
             return slot
 
         slots = sorted(
-            map(slotMapper, self.slots), key=lambda slot: (slot["label"] or "")
+            map(slotMapper, self.slots), key=lambda slot: (slot.get("label") or "")
         )
 
         teams = sorted(

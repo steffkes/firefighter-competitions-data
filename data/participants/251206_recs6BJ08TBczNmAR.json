@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 34
+      "amount": 33
     }
   ],
-  "count": 332,
+  "count": 334,
   "teams": [
     [
       "Adrian Jagusch",
@@ -602,6 +602,10 @@
     [
       "Mike Hoppe",
       "Thorsten Steinke"
+    ],
+    [
+      "Mirko Döbert",
+      "Robin Scheuring"
     ],
     [
       "Mirko Tänzer",

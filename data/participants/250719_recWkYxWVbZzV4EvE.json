@@ -1,18 +1,10 @@
 {
-  "date": "2025-07-03T11:14:07.471716",
+  "date": "2025-07-03T11:30:53.476939",
   "competition_id": "recWkYxWVbZzV4EvE",
   "slots": [
     {
-      "amount": 28,
-      "label": "Tandem"
-    },
-    {
       "amount": 15,
       "label": "Staffel"
-    },
-    {
-      "amount": 1,
-      "label": "Einzel"
     }
   ],
   "count": 0,

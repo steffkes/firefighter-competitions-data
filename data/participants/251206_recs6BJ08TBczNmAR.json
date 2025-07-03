@@ -1,12 +1,12 @@
 {
-  "date": "2025-07-03T11:14:28.540534",
+  "date": "2025-07-03T11:31:16.275424",
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 50
+      "amount": 49
     }
   ],
-  "count": 300,
+  "count": 302,
   "teams": [
     [
       "Adrian Jagusch",
@@ -95,6 +95,10 @@
     [
       "Björn Schwerdt",
       "Kirsten Schneidereit"
+    ],
+    [
+      "Bruno Ebermann",
+      "Max Freudenberg"
     ],
     [
       "Carsten Janßen",

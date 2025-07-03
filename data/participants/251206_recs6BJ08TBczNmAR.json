@@ -1,12 +1,12 @@
 {
-  "date": "2025-07-03T07:33:46.108469",
+  "date": "2025-07-03T07:46:32.684401",
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 55
+      "amount": 54
     }
   ],
-  "count": 290,
+  "count": 292,
   "teams": [
     [
       "Adrian Jagusch",
@@ -163,6 +163,10 @@
     [
       "Daniel Ruder",
       "Mathias Lorenz"
+    ],
+    [
+      "Daniel Schneckenhaus",
+      "Michel Hellfritsch"
     ],
     [
       "Daniela Carl",

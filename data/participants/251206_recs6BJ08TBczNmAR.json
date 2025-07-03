@@ -1,12 +1,12 @@
 {
-  "date": "2025-07-03T07:54:50.647133",
+  "date": "2025-07-03T08:21:34.678720",
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 54
+      "amount": 53
     }
   ],
-  "count": 292,
+  "count": 294,
   "teams": [
     [
       "Adrian Jagusch",
@@ -391,6 +391,10 @@
     [
       "Justin Stein",
       "Lukas Schmidt"
+    ],
+    [
+      "Jürgen Alfanz",
+      "Konstantin Leitenbauer"
     ],
     [
       "Karel Zapletal",

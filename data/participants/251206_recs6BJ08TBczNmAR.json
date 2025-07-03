@@ -1,12 +1,12 @@
 {
-  "date": "2025-07-03T04:55:30.090158",
+  "date": "2025-07-03T05:20:09.679127",
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 59
+      "amount": 57
     }
   ],
-  "count": 282,
+  "count": 286,
   "teams": [
     [
       "Adrian Jagusch",
@@ -203,6 +203,10 @@
     [
       "Felix Hentschel",
       "Matthias Lemm"
+    ],
+    [
+      "Felix Kratzer",
+      "Jonas Ziegaus"
     ],
     [
       "Finn Block",
@@ -439,6 +443,10 @@
     [
       "Luis Wölkner",
       "Robert Müller"
+    ],
+    [
+      "Lukas Ferstl",
+      "Martin Fochler"
     ],
     [
       "Lukas Lorenz",

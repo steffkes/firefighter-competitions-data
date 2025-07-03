@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 35
+      "amount": 34
     }
   ],
-  "count": 330,
+  "count": 332,
   "teams": [
     [
       "Adrian Jagusch",
@@ -354,6 +354,10 @@
     [
       "Jana Bergen",
       "Silke Heider"
+    ],
+    [
+      "Jannik Bort",
+      "Johannes Kunder"
     ],
     [
       "Jannik Flügge",

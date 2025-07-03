@@ -68,14 +68,19 @@ class JsonItemExporter(BaseItemExporter):
             del slot["competition_id"]
             return slot
 
+        slots = sorted(
+            map(slotMapper, self.slots), key=lambda slot: (slot["label"] or "")
+        )
+
         teams = sorted(
             map(lambda item: item["names"], self.items),
             key=lambda names: (len(names), list(map(lambda name: name or "", names))),
         )
+
         data = {
             "date": datetime.now().isoformat(),
             "competition_id": competition_id,
-            "slots": list(map(slotMapper, self.slots)),
+            "slots": slots,
             "count": len(list(itertools.chain.from_iterable(teams))),
             "teams": teams,
         }

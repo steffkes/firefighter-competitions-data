@@ -1,5 +1,6 @@
 import scrapy
 from pathlib import Path
+from datetime import datetime
 from active_spiders import spiders
 import re
 
@@ -38,7 +39,7 @@ class Spider(scrapy.Spider):
         data = response.json()
 
         yield {
-            "date": data["date"],
+            "date": datetime.now().isoformat(),
             "competition": data.get("competition_id") or data["competition"],
             "count": data["count"],
         }

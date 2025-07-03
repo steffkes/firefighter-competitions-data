@@ -78,7 +78,6 @@ class JsonItemExporter(BaseItemExporter):
         )
 
         data = {
-            "date": datetime.now().isoformat(),
             "competition_id": competition_id,
             "slots": slots,
             "count": len(list(itertools.chain.from_iterable(teams))),

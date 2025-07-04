@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 23
+      "amount": 22
     }
   ],
-  "count": 354,
+  "count": 356,
   "teams": [
     [
       "Adrian Jagusch",
@@ -534,6 +534,10 @@
     [
       "Leonard Brost",
       "Thomas Monreal"
+    ],
+    [
+      "Linus Merkel",
+      "Tobias Schmitt"
     ],
     [
       "Luca Munz",

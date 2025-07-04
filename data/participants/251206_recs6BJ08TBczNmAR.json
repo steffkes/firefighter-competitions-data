@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 27
+      "amount": 26
     }
   ],
-  "count": 346,
+  "count": 348,
   "teams": [
     [
       "Adrian Jagusch",
@@ -614,6 +614,10 @@
     [
       "Maurice Deubel",
       "Sebastian Schäfer"
+    ],
+    [
+      "Maximilian Kiehl",
+      "Michael Scurla"
     ],
     [
       "Michael Mehler",

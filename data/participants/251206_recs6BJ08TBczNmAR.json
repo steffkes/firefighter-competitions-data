@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 21
+      "amount": 20
     }
   ],
-  "count": 358,
+  "count": 360,
   "teams": [
     [
       "Adrian Jagusch",
@@ -690,6 +690,10 @@
     [
       "Patrick Hein",
       "Sebastian Sauer"
+    ],
+    [
+      "Patrick Riedel",
+      "Tommy Voigt"
     ],
     [
       "Pierre Aster",

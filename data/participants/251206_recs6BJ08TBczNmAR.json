@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 26
+      "amount": 23
     }
   ],
-  "count": 348,
+  "count": 354,
   "teams": [
     [
       "Adrian Jagusch",
@@ -280,6 +280,10 @@
       "Julian Thormeyer"
     ],
     [
+      "Florian Maaß",
+      "Jasper Lettow"
+    ],
+    [
       "Florian Ruth",
       "Yannik Oklitschek"
     ],
@@ -496,6 +500,10 @@
       "Patrick Kordts"
     ],
     [
+      "Konrad Kröber",
+      "Nico Lehnigk"
+    ],
+    [
       "Lars Homeyer",
       "Tobias Krösch"
     ],
@@ -522,6 +530,10 @@
     [
       "Leon Wenzel",
       "Riccardo Rüster"
+    ],
+    [
+      "Leonard Brost",
+      "Thomas Monreal"
     ],
     [
       "Luca Munz",

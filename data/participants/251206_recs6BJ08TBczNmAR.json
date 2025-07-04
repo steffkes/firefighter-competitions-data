@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 19
+      "amount": 18
     }
   ],
-  "count": 362,
+  "count": 364,
   "teams": [
     [
       "Adrian Jagusch",
@@ -698,6 +698,10 @@
     [
       "Patrick Riedel",
       "Tommy Voigt"
+    ],
+    [
+      "Paul Schlonsak",
+      "Uwe Schlonsak"
     ],
     [
       "Pierre Aster",

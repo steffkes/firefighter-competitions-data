@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 20
+      "amount": 19
     }
   ],
-  "count": 360,
+  "count": 362,
   "teams": [
     [
       "Adrian Jagusch",
@@ -438,6 +438,10 @@
     [
       "Jost Karge",
       "Leon Grabs"
+    ],
+    [
+      "Joy Ann Beßler",
+      "Paul Sänger"
     ],
     [
       "Julia Wester",

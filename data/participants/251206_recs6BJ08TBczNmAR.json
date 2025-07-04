@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 30
+      "amount": 29
     }
   ],
-  "count": 340,
+  "count": 342,
   "teams": [
     [
       "Adrian Jagusch",
@@ -230,6 +230,10 @@
     [
       "Enrico Kohl",
       "Tuchbreiter Nicole"
+    ],
+    [
+      "Eric Hering",
+      "Stefan Marienthal"
     ],
     [
       "Erik Langenhahn",

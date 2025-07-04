@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 31
+      "amount": 30
     }
   ],
-  "count": 338,
+  "count": 340,
   "teams": [
     [
       "Adrian Jagusch",
@@ -458,6 +458,10 @@
     [
       "Karel Zapletal",
       "Lukas Mooz"
+    ],
+    [
+      "Karl Weinert",
+      "Milena Weiss"
     ],
     [
       "Karsten Kala Kohrs",

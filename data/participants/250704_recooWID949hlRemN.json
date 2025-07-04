@@ -1,7 +1,7 @@
 {
   "competition_id": "recooWID949hlRemN",
   "slots": [],
-  "count": 709,
+  "count": 710,
   "teams": [
     [
       "Adam Dyson"
@@ -664,7 +664,7 @@
     ],
     [
       "Adam Slavíček",
-      "David Kubiš"
+      "Roman Munzer"
     ],
     [
       "Alan Dittrich",
@@ -675,8 +675,12 @@
       "Michel Menten"
     ],
     [
+      "Alexander Marschall",
+      "Andrè Moebes"
+    ],
+    [
       "Alexander Reitz",
-      "Patrick Boos"
+      "Simon Feuerhack"
     ],
     [
       "Alexander Sader",
@@ -709,10 +713,6 @@
     [
       "Andrius Asmontas",
       "Marius Gasparenas"
-    ],
-    [
-      "Andrè Moebes",
-      "Moritz Bock"
     ],
     [
       "André Dupont",
@@ -796,7 +796,11 @@
     ],
     [
       "David Kalicki",
-      "Tobias Nöhr"
+      "Miriam Hübner"
+    ],
+    [
+      "David Kubas",
+      "Tomislav Visnar"
     ],
     [
       "Dawid Rabczyk",
@@ -1143,10 +1147,6 @@
       "Steve Rimmer"
     ],
     [
-      "Roman Munzer",
-      "Tomislav Visnar"
-    ],
-    [
       "Ruben Werbke",
       "Zora Werbke"
     ],
@@ -1311,17 +1311,18 @@
       "Mirco Feuerhack"
     ],
     [
-      "Nick Kuhlen",
-      "Olaf Krause",
-      "Phillip Blau",
-      "Yannic Linnemann"
-    ],
-    [
       "Adam Slavíček",
       "David Kubiš",
       "Martin Mrzena",
       "Ondrej Janota",
       "Ondřej Blažek"
+    ],
+    [
+      "Adrian Schmiemann",
+      "Nick Kuhlen",
+      "Olaf Krause",
+      "Phillip Blau",
+      "Yannic Linnemann"
     ],
     [
       "Alexander Kulhawy",

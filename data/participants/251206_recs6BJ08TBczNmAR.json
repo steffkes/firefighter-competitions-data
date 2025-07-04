@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 29
+      "amount": 27
     }
   ],
-  "count": 342,
+  "count": 346,
   "teams": [
     [
       "Adrian Jagusch",
@@ -208,6 +208,10 @@
       "Lorena Heider"
     ],
     [
+      "David Bakker",
+      "Rob Klaasen"
+    ],
+    [
       "David Stilper",
       "Saupe Frank"
     ],
@@ -238,6 +242,10 @@
     [
       "Erik Langenhahn",
       "Sean Paul Renker"
+    ],
+    [
+      "Fabian Blümmert",
+      "Matthias Schmitt"
     ],
     [
       "Fabian Kluge",

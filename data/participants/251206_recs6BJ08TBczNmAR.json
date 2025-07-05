@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 12
+      "amount": 11
     }
   ],
-  "count": 376,
+  "count": 378,
   "teams": [
     [
       "Adrian Jagusch",
@@ -662,6 +662,10 @@
     [
       "Maurice Deubel",
       "Sebastian Schäfer"
+    ],
+    [
+      "Max Dittmann",
+      "Sebastian Grieser"
     ],
     [
       "Maximilian Kiehl",

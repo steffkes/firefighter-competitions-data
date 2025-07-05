@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 13
+      "amount": 12
     }
   ],
-  "count": 374,
+  "count": 376,
   "teams": [
     [
       "Adrian Jagusch",
@@ -78,6 +78,10 @@
     [
       "Anke Hilpert",
       "Michael Weiprecht"
+    ],
+    [
+      "Anne Weiß",
+      "Jennifer Krimm"
     ],
     [
       "Axel Meyer",

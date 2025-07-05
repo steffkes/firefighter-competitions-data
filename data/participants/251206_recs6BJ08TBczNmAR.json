@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 18
+      "amount": 16
     }
   ],
-  "count": 364,
+  "count": 368,
   "teams": [
     [
       "Adrian Jagusch",
@@ -106,6 +106,10 @@
     [
       "Bruno Ebermann",
       "Max Freudenberg"
+    ],
+    [
+      "Bruno Höhne",
+      "Tim Schütze"
     ],
     [
       "Bryan Kandetzki",
@@ -602,6 +606,10 @@
     [
       "Marius Lindlein",
       "Philipp Juffa"
+    ],
+    [
+      "Mark Bauer",
+      "Thomas Noack"
     ],
     [
       "Markus Fladung",

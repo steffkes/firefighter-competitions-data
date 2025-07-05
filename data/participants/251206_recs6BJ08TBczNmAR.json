@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 15
+      "amount": 13
     }
   ],
-  "count": 370,
+  "count": 374,
   "teams": [
     [
       "Adrian Jagusch",
@@ -158,6 +158,10 @@
     [
       "Christian Marks",
       "Florian Oertelt-Grimm"
+    ],
+    [
+      "Christijn Pruim",
+      "Ivan Leus"
     ],
     [
       "Christoph Jennrich",
@@ -534,6 +538,10 @@
     [
       "Lee Röver",
       "Manuel Witschaß"
+    ],
+    [
+      "Lenia Jäger",
+      "Pascal Nehrdich"
     ],
     [
       "Lennard Egle",

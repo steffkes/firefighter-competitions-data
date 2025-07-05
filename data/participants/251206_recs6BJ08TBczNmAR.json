@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 16
+      "amount": 15
     }
   ],
-  "count": 368,
+  "count": 370,
   "teams": [
     [
       "Adrian Jagusch",
@@ -94,6 +94,10 @@
     [
       "Benjamin Wenderoth",
       "Lars Mayer"
+    ],
+    [
+      "Benny Polnik",
+      "Leon Wendler"
     ],
     [
       "Björn Herborn",

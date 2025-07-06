@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 2
+      "amount": 1
     }
   ],
-  "count": 396,
+  "count": 398,
   "teams": [
     [
       "Adrian Jagusch",
@@ -682,6 +682,10 @@
     [
       "Martino Jungbauer",
       "Michael Friedrich"
+    ],
+    [
+      "Marvin Gürtler",
+      "Niklas Röneke"
     ],
     [
       "Marvin Hänel",

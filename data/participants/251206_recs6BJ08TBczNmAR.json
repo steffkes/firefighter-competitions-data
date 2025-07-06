@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 49
+      "amount": 48
     }
   ],
-  "count": 402,
+  "count": 404,
   "teams": [
     [
       "Adrian Jagusch",
@@ -250,6 +250,10 @@
     [
       "David Stilper",
       "Saupe Frank"
+    ],
+    [
+      "Dominic Leon Götz",
+      "Lukas Schilling"
     ],
     [
       "Dominik Brand",

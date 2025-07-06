@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 7
+      "amount": 6
     }
   ],
-  "count": 386,
+  "count": 388,
   "teams": [
     [
       "Adrian Jagusch",
@@ -378,6 +378,10 @@
     [
       "Jakob Karabacak",
       "Sebastian von Hartz"
+    ],
+    [
+      "Jakob Seufert",
+      "Ole Schmitt"
     ],
     [
       "Jakub Kulhánek",

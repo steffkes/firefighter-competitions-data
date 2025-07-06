@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 3
+      "amount": 2
     }
   ],
-  "count": 394,
+  "count": 396,
   "teams": [
     [
       "Adrian Jagusch",
@@ -330,6 +330,10 @@
     [
       "Florian Wedel",
       "Norma Hemmann"
+    ],
+    [
+      "Frank Malcher",
+      "Joshua Horn"
     ],
     [
       "Frank Saupe",

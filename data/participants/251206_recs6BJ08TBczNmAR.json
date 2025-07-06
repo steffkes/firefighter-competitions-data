@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 9
+      "amount": 8
     }
   ],
-  "count": 382,
+  "count": 384,
   "teams": [
     [
       "Adrian Jagusch",
@@ -434,6 +434,10 @@
     [
       "Joan Olucha",
       "Vincent Hoffmann"
+    ],
+    [
+      "Johanna Kirschner",
+      "Luca Malcher"
     ],
     [
       "Johannes Göttlinger",

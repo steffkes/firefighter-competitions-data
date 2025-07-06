@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 5
+      "amount": 3
     }
   ],
-  "count": 390,
+  "count": 394,
   "teams": [
     [
       "Adrian Jagusch",
@@ -208,6 +208,10 @@
       "Ole Nedergaard"
     ],
     [
+      "Daniel Hiekel",
+      "Kevin Stolze"
+    ],
+    [
       "Daniel Hörschelmann",
       "Tamina Lorbach"
     ],
@@ -234,6 +238,10 @@
     [
       "David Bakker",
       "Rob Klaasen"
+    ],
+    [
+      "David Schwalke",
+      "Jeremy Olszewski"
     ],
     [
       "David Stilper",

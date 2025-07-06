@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 50
+      "amount": 49
     }
   ],
-  "count": 400,
+  "count": 402,
   "teams": [
     [
       "Adrian Jagusch",
@@ -666,6 +666,10 @@
     [
       "Mark Bauer",
       "Thomas Noack"
+    ],
+    [
+      "Markus Berg",
+      "Thorben Berg"
     ],
     [
       "Markus Fladung",

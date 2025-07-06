@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 6
+      "amount": 5
     }
   ],
-  "count": 388,
+  "count": 390,
   "teams": [
     [
       "Adrian Jagusch",
@@ -26,6 +26,10 @@
     [
       "Alexander Faber",
       "Simon Gilbert"
+    ],
+    [
+      "Alexander Gottfried",
+      "Marcel Schumacher"
     ],
     [
       "Alexander Greis",

@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 8
+      "amount": 7
     }
   ],
-  "count": 384,
+  "count": 386,
   "teams": [
     [
       "Adrian Jagusch",
@@ -414,6 +414,10 @@
     [
       "Jannik Futh",
       "Sebastian Brandt"
+    ],
+    [
+      "Jannis Görlinger",
+      "Noa Schmidt"
     ],
     [
       "Jannis Heider",

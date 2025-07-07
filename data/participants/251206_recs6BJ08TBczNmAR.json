@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 40
+      "amount": 39
     }
   ],
-  "count": 420,
+  "count": 422,
   "teams": [
     [
       "Adrian Jagusch",
@@ -234,6 +234,10 @@
     [
       "Daniel Müller",
       "Frank Schneider"
+    ],
+    [
+      "Daniel Richter",
+      "Philipp Lehmann"
     ],
     [
       "Daniel Ruder",

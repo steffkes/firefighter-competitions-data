@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 43
+      "amount": 42
     }
   ],
-  "count": 414,
+  "count": 416,
   "teams": [
     [
       "Adrian Jagusch",
@@ -302,6 +302,10 @@
     [
       "Felix Böhm",
       "Patrick Sauter"
+    ],
+    [
+      "Felix Hartung",
+      "Lukas Mann"
     ],
     [
       "Felix Hentschel",

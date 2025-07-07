@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 44
+      "amount": 43
     }
   ],
-  "count": 412,
+  "count": 414,
   "teams": [
     [
       "Adrian Jagusch",
@@ -734,6 +734,10 @@
     [
       "Max Dittmann",
       "Sebastian Grieser"
+    ],
+    [
+      "Max Dransfeld",
+      "Rebekka Große"
     ],
     [
       "Maximilian Kiehl",

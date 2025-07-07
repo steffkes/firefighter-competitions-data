@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 42
+      "amount": 41
     }
   ],
-  "count": 416,
+  "count": 418,
   "teams": [
     [
       "Adrian Jagusch",
@@ -206,6 +206,10 @@
     [
       "Claudio Polzin",
       "Ina Düll"
+    ],
+    [
+      "Clemens Heyder",
+      "Stefan Helwig"
     ],
     [
       "Damon Winkler",

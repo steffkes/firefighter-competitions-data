@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 46
+      "amount": 45
     }
   ],
-  "count": 408,
+  "count": 410,
   "teams": [
     [
       "Adrian Jagusch",
@@ -714,6 +714,10 @@
     [
       "Matthias Fröhlich",
       "Matthias Stumm"
+    ],
+    [
+      "Matthias Kaden",
+      "Michael Kaufmann"
     ],
     [
       "Matthias Weickmann",

@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 39
+      "amount": 38
     }
   ],
-  "count": 422,
+  "count": 424,
   "teams": [
     [
       "Adrian Jagusch",
@@ -382,6 +382,10 @@
     [
       "Hannes Schmid",
       "Jochen Stolz"
+    ],
+    [
+      "Hannes Wild",
+      "Jan Hoffmann"
     ],
     [
       "Hans Hänke",

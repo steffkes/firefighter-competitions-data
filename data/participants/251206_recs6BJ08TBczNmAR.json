@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 47
+      "amount": 46
     }
   ],
-  "count": 406,
+  "count": 408,
   "teams": [
     [
       "Adrian Jagusch",
@@ -50,6 +50,10 @@
     [
       "Alexander Weiß",
       "Stefan Matheis"
+    ],
+    [
+      "Andre Reisewitz",
+      "Burkhard Meyer"
     ],
     [
       "Andre Tomkowiak",

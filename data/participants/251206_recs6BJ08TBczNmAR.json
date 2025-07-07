@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 41
+      "amount": 40
     }
   ],
-  "count": 418,
+  "count": 420,
   "teams": [
     [
       "Adrian Jagusch",
@@ -550,6 +550,10 @@
     [
       "Jürgen Alfanz",
       "Konstantin Leitenbauer"
+    ],
+    [
+      "Jürgen Herberich",
+      "Markus Herberich"
     ],
     [
       "Kai Neugebauer",

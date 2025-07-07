@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 48
+      "amount": 47
     }
   ],
-  "count": 404,
+  "count": 406,
   "teams": [
     [
       "Adrian Jagusch",
@@ -478,6 +478,10 @@
     [
       "Johannes Pleier",
       "Tobias Rösch"
+    ],
+    [
+      "John Gutzke",
+      "Laura Andres"
     ],
     [
       "Jonas Martin",

@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 33
+      "amount": 32
     }
   ],
-  "count": 434,
+  "count": 436,
   "teams": [
     [
       "Adrian Jagusch",
@@ -386,6 +386,10 @@
     [
       "Hannes Leppig",
       "Tom Leunert"
+    ],
+    [
+      "Hannes Schloth",
+      "Vanessa Lang"
     ],
     [
       "Hannes Schmid",

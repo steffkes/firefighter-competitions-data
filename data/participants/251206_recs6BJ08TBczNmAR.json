@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 32
+      "amount": 31
     }
   ],
-  "count": 436,
+  "count": 438,
   "teams": [
     [
       "Adrian Jagusch",
@@ -682,6 +682,10 @@
     [
       "Maik Zschiesche",
       "Sven Postel"
+    ],
+    [
+      "Manfred Lehmann",
+      "Maximilian Voelzke"
     ],
     [
       "Manuel Fleischhauer",

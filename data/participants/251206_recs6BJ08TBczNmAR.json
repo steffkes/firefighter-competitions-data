@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 30
+      "amount": 29
     }
   ],
-  "count": 440,
+  "count": 442,
   "teams": [
     [
       "Adrian Jagusch",
@@ -254,6 +254,10 @@
     [
       "Daniela Carl",
       "Lorena Heider"
+    ],
+    [
+      "David Abram",
+      "Tom Schlegel"
     ],
     [
       "David Bakker",

@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 36
+      "amount": 35
     }
   ],
-  "count": 428,
+  "count": 430,
   "teams": [
     [
       "Adrian Jagusch",
@@ -854,6 +854,10 @@
     [
       "Silvio Pöhl",
       "Vincent Pauli"
+    ],
+    [
+      "Sophie Hölzner",
+      "Svenja Weiß"
     ],
     [
       "Stefan Ullrich",

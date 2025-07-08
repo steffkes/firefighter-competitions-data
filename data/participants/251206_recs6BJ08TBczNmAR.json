@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 31
+      "amount": 30
     }
   ],
-  "count": 438,
+  "count": 440,
   "teams": [
     [
       "Adrian Jagusch",
@@ -658,6 +658,10 @@
     [
       "Luca Munz",
       "Mick Sauerland"
+    ],
+    [
+      "Lucas Zeuch",
+      "Nico Langmann"
     ],
     [
       "Luis Wölkner",

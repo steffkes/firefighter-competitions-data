@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 35
+      "amount": 33
     }
   ],
-  "count": 430,
+  "count": 434,
   "teams": [
     [
       "Adrian Jagusch",
@@ -242,6 +242,10 @@
     [
       "Daniel Ruder",
       "Mathias Lorenz"
+    ],
+    [
+      "Daniel Schmidt",
+      "Lea Mara Reichelt"
     ],
     [
       "Daniel Schneckenhaus",
@@ -850,6 +854,10 @@
     [
       "Sebastian Degenhardt",
       "Sidney Noll"
+    ],
+    [
+      "Sebastian Schau",
+      "Steffen Ludwig"
     ],
     [
       "Silvio Pöhl",

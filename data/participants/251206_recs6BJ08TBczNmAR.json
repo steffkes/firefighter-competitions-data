@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 29
+      "amount": 27
     }
   ],
-  "count": 442,
+  "count": 446,
   "teams": [
     [
       "Adrian Jagusch",
@@ -284,6 +284,10 @@
       "Jakob Henning"
     ],
     [
+      "Dominik Krauß",
+      "Felix Spranger"
+    ],
+    [
       "Dominik Thiel",
       "Tobias Diedrigkeit"
     ],
@@ -422,6 +426,10 @@
     [
       "Henrik Düffert",
       "Henry Glanz"
+    ],
+    [
+      "Henry Strauß",
+      "Ronny Schenk"
     ],
     [
       "Hugo Hofmann",

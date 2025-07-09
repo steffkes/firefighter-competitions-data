@@ -2,9 +2,31 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 250
+      "amount": 243
     }
   ],
-  "count": 0,
-  "teams": []
+  "count": 7,
+  "teams": [
+    [
+      "Alexander Greis"
+    ],
+    [
+      "Andreas Butzer"
+    ],
+    [
+      "Benedikt Butzer"
+    ],
+    [
+      "Frank Strobel"
+    ],
+    [
+      "Rainer Kunz"
+    ],
+    [
+      "Rudi Wengert"
+    ],
+    [
+      "Vanessa Butzer"
+    ]
+  ]
 }

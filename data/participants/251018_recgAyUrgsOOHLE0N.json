@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 241
+      "amount": 240
     }
   ],
-  "count": 9,
+  "count": 10,
   "teams": [
     [
       "Alexander Greis"
@@ -21,6 +21,9 @@
     ],
     [
       "Frank Strobel"
+    ],
+    [
+      "Karsten Neupert"
     ],
     [
       "Matthias Hefele"

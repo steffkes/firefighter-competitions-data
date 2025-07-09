@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 242
+      "amount": 241
     }
   ],
-  "count": 8,
+  "count": 9,
   "teams": [
     [
       "Alexander Greis"
@@ -21,6 +21,9 @@
     ],
     [
       "Frank Strobel"
+    ],
+    [
+      "Matthias Hefele"
     ],
     [
       "Rainer Kunz"

@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 26
+      "amount": 25
     }
   ],
-  "count": 448,
+  "count": 450,
   "teams": [
     [
       "Adrian Jagusch",
@@ -194,6 +194,10 @@
     [
       "Christoph Minderlein",
       "Jannes Baumann"
+    ],
+    [
+      "Christoph Spranger",
+      "Kevin Germuhl"
     ],
     [
       "Christopher Reith",

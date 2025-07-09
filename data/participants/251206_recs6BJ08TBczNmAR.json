@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 27
+      "amount": 26
     }
   ],
-  "count": 446,
+  "count": 448,
   "teams": [
     [
       "Adrian Jagusch",
@@ -154,6 +154,10 @@
     [
       "Christian Dupslaff",
       "Marco Illein"
+    ],
+    [
+      "Christian Grüner",
+      "Toni Schubert"
     ],
     [
       "Christian Kaplan",

@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 25
+      "amount": 23
     }
   ],
-  "count": 450,
+  "count": 454,
   "teams": [
     [
       "Adrian Jagusch",
@@ -632,6 +632,10 @@
       "Patrick Kordts"
     ],
     [
+      "Klaus Simon",
+      "Lena Lücker"
+    ],
+    [
       "Konrad Kröber",
       "Nico Lehnigk"
     ],
@@ -806,6 +810,10 @@
     [
       "Maximilian Kiehl",
       "Michael Scurla"
+    ],
+    [
+      "Michael Bantel",
+      "Ronny Pietsch"
     ],
     [
       "Michael Mehler",

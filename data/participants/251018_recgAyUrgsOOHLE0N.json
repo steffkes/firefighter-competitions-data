@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 226
+      "amount": 225
     }
   ],
-  "count": 24,
+  "count": 25,
   "teams": [
     [
       "Alexander Greis"
@@ -45,6 +45,9 @@
     ],
     [
       "Lukas Weiler"
+    ],
+    [
+      "Marc Sobeck"
     ],
     [
       "Martin Köberle"

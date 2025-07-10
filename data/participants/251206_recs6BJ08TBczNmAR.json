@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 18
+      "amount": 17
     }
   ],
-  "count": 464,
+  "count": 466,
   "teams": [
     [
       "Adrian Jagusch",
@@ -74,6 +74,10 @@
     [
       "Andreas Schöch",
       "Markus Unkel"
+    ],
+    [
+      "Andreas Werner",
+      "Rolf Albrecht"
     ],
     [
       "Andrè Fritsch",

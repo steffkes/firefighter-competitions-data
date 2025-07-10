@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 225
+      "amount": 222
     }
   ],
-  "count": 25,
+  "count": 28,
   "teams": [
     [
       "Alexander Greis"
@@ -32,6 +32,9 @@
       "Fabian Fröhlich"
     ],
     [
+      "Fabian Gold"
+    ],
+    [
       "Frank Strobel"
     ],
     [
@@ -39,6 +42,9 @@
     ],
     [
       "Jonas Blösch"
+    ],
+    [
+      "Josef Neukamm"
     ],
     [
       "Karsten Neupert"
@@ -66,6 +72,9 @@
     ],
     [
       "Simon Schleich"
+    ],
+    [
+      "Stefan Schulz"
     ],
     [
       "Stefan Summerer"

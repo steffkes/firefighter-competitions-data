@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 23
+      "amount": 22
     }
   ],
-  "count": 454,
+  "count": 456,
   "teams": [
     [
       "Adrian Jagusch",
@@ -702,6 +702,10 @@
     [
       "Lukas Zädow",
       "Nadja Boesler"
+    ],
+    [
+      "Maik Beyer",
+      "Robert Müller"
     ],
     [
       "Maik Freigang",

@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 22
+      "amount": 21
     }
   ],
-  "count": 456,
+  "count": 458,
   "teams": [
     [
       "Adrian Jagusch",
@@ -346,6 +346,10 @@
     [
       "Felix Kratzer",
       "Jonas Ziegaus"
+    ],
+    [
+      "Felix Paul",
+      "Willy Zisler"
     ],
     [
       "Finn Block",

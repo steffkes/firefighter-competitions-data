@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 221
+      "amount": 220
     }
   ],
-  "count": 29,
+  "count": 30,
   "teams": [
     [
       "Alexander Greis"
@@ -63,6 +63,9 @@
     ],
     [
       "Matthias Hefele"
+    ],
+    [
+      "Peter Wolfram"
     ],
     [
       "Philipp Rösler"

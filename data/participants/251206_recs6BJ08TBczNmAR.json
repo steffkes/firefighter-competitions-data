@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 20
+      "amount": 18
     }
   ],
-  "count": 460,
+  "count": 464,
   "teams": [
     [
       "Adrian Jagusch",
@@ -38,6 +38,10 @@
     [
       "Alexander Lang",
       "Michael Strauch"
+    ],
+    [
+      "Alexander Paul",
+      "Sandro Blume"
     ],
     [
       "Alexander Schulz",
@@ -674,6 +678,10 @@
     [
       "Leon Auweiler",
       "Tristan Hose"
+    ],
+    [
+      "Leon Kaufung",
+      "Roberto Dornhofer"
     ],
     [
       "Leon Wenzel",

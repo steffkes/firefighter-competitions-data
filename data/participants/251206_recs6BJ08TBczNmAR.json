@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 17
+      "amount": 16
     }
   ],
-  "count": 466,
+  "count": 468,
   "teams": [
     [
       "Adrian Jagusch",
@@ -530,6 +530,10 @@
     [
       "Jeremy Brodde",
       "Steven Rau"
+    ],
+    [
+      "Jessica Heßdörfer",
+      "Peter Zeidler"
     ],
     [
       "Joan Olucha",

@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 219
+      "amount": 218
     }
   ],
-  "count": 31,
+  "count": 32,
   "teams": [
     [
       "Alexander Greis"
@@ -72,6 +72,9 @@
     ],
     [
       "Philipp Rösler"
+    ],
+    [
+      "Pius Mader"
     ],
     [
       "Rainer Kunz"

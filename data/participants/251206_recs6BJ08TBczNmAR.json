@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 16
+      "amount": 15
     }
   ],
-  "count": 468,
+  "count": 470,
   "teams": [
     [
       "Adrian Jagusch",
@@ -582,6 +582,10 @@
     [
       "Julian Hawellek",
       "Jörn Michaelis"
+    ],
+    [
+      "Julian Höher",
+      "Toni Bennewitz"
     ],
     [
       "Julian Lother",

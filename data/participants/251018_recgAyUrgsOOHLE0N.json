@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 217
+      "amount": 216
     }
   ],
-  "count": 33,
+  "count": 34,
   "teams": [
     [
       "Alexander Greis"
@@ -87,6 +87,9 @@
     ],
     [
       "Simon Schleich"
+    ],
+    [
+      "Stefan Prinz"
     ],
     [
       "Stefan Schulz"

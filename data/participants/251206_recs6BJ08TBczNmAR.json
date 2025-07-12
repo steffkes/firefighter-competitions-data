@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 14
+      "amount": 13
     }
   ],
-  "count": 472,
+  "count": 474,
   "teams": [
     [
       "Adrian Jagusch",
@@ -310,6 +310,10 @@
     [
       "Elias Behmke",
       "Jens Obermann"
+    ],
+    [
+      "Elias Köpke",
+      "Kevin Jung"
     ],
     [
       "Elly Schweigert",

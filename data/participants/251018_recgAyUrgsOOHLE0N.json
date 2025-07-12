@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 214
+      "amount": 213
     }
   ],
-  "count": 36,
+  "count": 37,
   "teams": [
     [
       "Alexander Greis"
@@ -54,6 +54,9 @@
     ],
     [
       "Karsten Neupert"
+    ],
+    [
+      "Lars Pfeiffer"
     ],
     [
       "Lukas Weiler"

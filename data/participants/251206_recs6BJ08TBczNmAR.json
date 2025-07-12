@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 13
+      "amount": 12
     }
   ],
-  "count": 474,
+  "count": 476,
   "teams": [
     [
       "Adrian Jagusch",
@@ -554,6 +554,10 @@
     [
       "Johannes Göttlinger",
       "Marin Böhm"
+    ],
+    [
+      "Johannes Marks",
+      "Vincent Puscher"
     ],
     [
       "Johannes Pleier",

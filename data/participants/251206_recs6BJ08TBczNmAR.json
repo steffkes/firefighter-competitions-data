@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 15
+      "amount": 14
     }
   ],
-  "count": 470,
+  "count": 472,
   "teams": [
     [
       "Adrian Jagusch",
@@ -318,6 +318,10 @@
     [
       "Emma Paul",
       "Mario Kaufung"
+    ],
+    [
+      "Enrico Flock",
+      "Erik Kieser"
     ],
     [
       "Enrico Kohl",

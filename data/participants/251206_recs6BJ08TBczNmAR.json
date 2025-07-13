@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 12
+      "amount": 11
     }
   ],
-  "count": 476,
+  "count": 478,
   "teams": [
     [
       "Adrian Jagusch",
@@ -110,6 +110,10 @@
     [
       "Bastian Kaiser",
       "Markus Uschold"
+    ],
+    [
+      "Benjamin Nast",
+      "Tony Fuß"
     ],
     [
       "Benjamin Wenderoth",

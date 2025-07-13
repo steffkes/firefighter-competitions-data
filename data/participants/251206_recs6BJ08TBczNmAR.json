@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 11
+      "amount": 10
     }
   ],
-  "count": 478,
+  "count": 480,
   "teams": [
     [
       "Adrian Jagusch",
@@ -766,6 +766,10 @@
     [
       "Manuel Fleischhauer",
       "Paul Neumann"
+    ],
+    [
+      "Manuel Schönian",
+      "Nils König"
     ],
     [
       "Marcel Jülich",

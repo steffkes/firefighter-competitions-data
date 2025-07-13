@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 213
+      "amount": 212
     }
   ],
-  "count": 37,
+  "count": 38,
   "teams": [
     [
       "Alexander Greis"
@@ -15,6 +15,9 @@
     ],
     [
       "Andreas Butzer"
+    ],
+    [
+      "Andreas Leibfarth"
     ],
     [
       "Benedikt Butzer"

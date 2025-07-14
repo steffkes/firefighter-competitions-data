@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 9
+      "amount": 8
     }
   ],
-  "count": 482,
+  "count": 484,
   "teams": [
     [
       "Adrian Jagusch",
@@ -414,6 +414,10 @@
     [
       "Frederik Püls",
       "Jannik Schorr"
+    ],
+    [
+      "Gabriel Pfleghaar",
+      "Lorenz Hillebrand"
     ],
     [
       "Gerrit Lindlein",

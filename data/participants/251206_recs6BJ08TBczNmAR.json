@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 6
+      "amount": 5
     }
   ],
-  "count": 488,
+  "count": 490,
   "teams": [
     [
       "Adrian Jagusch",
@@ -137,7 +137,7 @@
     ],
     [
       "Bruno Höhne",
-      "Tim Schütze"
+      "Robert Hildebrandt"
     ],
     [
       "Bryan Kandetzki",
@@ -566,6 +566,10 @@
     [
       "Johannes Marks",
       "Vincent Puscher"
+    ],
+    [
+      "Johannes Martin",
+      "Tim Schütze"
     ],
     [
       "Johannes Pleier",

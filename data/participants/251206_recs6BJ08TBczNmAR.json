@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 8
+      "amount": 7
     }
   ],
-  "count": 484,
+  "count": 486,
   "teams": [
     [
       "Adrian Jagusch",
@@ -922,6 +922,10 @@
     [
       "Oliver Salomon",
       "Tobias Stollberg"
+    ],
+    [
+      "Patrick Eichstetter",
+      "Stefan Götz"
     ],
     [
       "Patrick Hein",

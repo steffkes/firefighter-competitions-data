@@ -10,19 +10,19 @@
       "label": "Einzel"
     },
     {
-      "amount": 20,
-      "label": "Staffel"
-    },
-    {
       "amount": 14,
       "label": "Staffel"
     },
     {
-      "amount": 33,
-      "label": "Tandem"
+      "amount": 20,
+      "label": "Staffel"
     },
     {
       "amount": 17,
+      "label": "Tandem"
+    },
+    {
+      "amount": 32,
       "label": "Tandem"
     }
   ],

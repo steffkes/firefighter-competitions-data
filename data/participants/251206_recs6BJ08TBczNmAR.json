@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 7
+      "amount": 6
     }
   ],
-  "count": 486,
+  "count": 488,
   "teams": [
     [
       "Adrian Jagusch",
@@ -822,6 +822,10 @@
     [
       "Markus Maier",
       "Ralf Schneider"
+    ],
+    [
+      "Martin Gersten",
+      "Maximilian Hausmann"
     ],
     [
       "Martin Hesse",

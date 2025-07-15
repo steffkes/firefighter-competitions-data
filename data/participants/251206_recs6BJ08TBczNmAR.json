@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 5
+      "amount": 4
     }
   ],
-  "count": 490,
+  "count": 492,
   "teams": [
     [
       "Adrian Jagusch",
@@ -270,6 +270,10 @@
     [
       "Daniel Schneckenhaus",
       "Michel Hellfritsch"
+    ],
+    [
+      "Daniel Schröter",
+      "Lukas Knakowski"
     ],
     [
       "Daniela Carl",

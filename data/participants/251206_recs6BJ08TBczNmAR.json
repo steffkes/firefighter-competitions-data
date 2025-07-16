@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 1
+      "amount": 0
     }
   ],
-  "count": 498,
+  "count": 500,
   "teams": [
     [
       "Adrian Jagusch",
@@ -430,6 +430,10 @@
     [
       "Gerrit Lindlein",
       "Maurice Clemens"
+    ],
+    [
+      "Gewinner 1 1",
+      "Gewinner 2 2"
     ],
     [
       "Hagen Scherer",

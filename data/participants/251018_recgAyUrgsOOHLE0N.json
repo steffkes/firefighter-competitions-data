@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 210
+      "amount": 209
     }
   ],
-  "count": 40,
+  "count": 42,
   "teams": [
     [
       "Alexander Greis"
@@ -126,6 +126,10 @@
     ],
     [
       "Vanessa Butzer"
+    ],
+    [
+      "Arturo Balduino",
+      "Franz Martin"
     ]
   ]
 }

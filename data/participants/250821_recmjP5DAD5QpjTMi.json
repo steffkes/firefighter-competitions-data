@@ -2,19 +2,19 @@
   "competition_id": "recmjP5DAD5QpjTMi",
   "slots": [
     {
-      "amount": 1,
-      "label": "Einzel"
-    },
-    {
       "amount": 0,
       "label": "Einzel"
     },
     {
-      "amount": 14,
-      "label": "Staffel"
+      "amount": 1,
+      "label": "Einzel"
     },
     {
       "amount": 20,
+      "label": "Staffel"
+    },
+    {
+      "amount": 14,
       "label": "Staffel"
     },
     {

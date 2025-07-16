@@ -2,11 +2,11 @@
   "competition_id": "recmjP5DAD5QpjTMi",
   "slots": [
     {
-      "amount": 1,
+      "amount": 0,
       "label": "Einzel"
     },
     {
-      "amount": 0,
+      "amount": 1,
       "label": "Einzel"
     },
     {

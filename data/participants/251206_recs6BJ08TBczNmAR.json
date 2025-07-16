@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 3
+      "amount": 2
     }
   ],
-  "count": 494,
+  "count": 496,
   "teams": [
     [
       "Adrian Jagusch",
@@ -458,6 +458,10 @@
     [
       "Harry Blume",
       "Stefan Heider"
+    ],
+    [
+      "Heiko Baier",
+      "Marcel Winkler"
     ],
     [
       "Heiko Pandza",

@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 208
+      "amount": 207
     }
   ],
-  "count": 43,
+  "count": 44,
   "teams": [
     [
       "Alexander Greis"
@@ -75,6 +75,9 @@
     ],
     [
       "Marion Gayer"
+    ],
+    [
+      "Markus Deuer"
     ],
     [
       "Martin Köberle"

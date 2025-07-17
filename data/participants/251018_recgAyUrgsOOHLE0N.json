@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 207
+      "amount": 206
     }
   ],
-  "count": 44,
+  "count": 45,
   "teams": [
     [
       "Alexander Greis"
@@ -21,6 +21,9 @@
     ],
     [
       "Benedikt Butzer"
+    ],
+    [
+      "Bernd Schamberger"
     ],
     [
       "Christian Rehle"

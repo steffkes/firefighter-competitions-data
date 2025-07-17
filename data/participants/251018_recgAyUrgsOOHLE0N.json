@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 205
+      "amount": 204
     }
   ],
-  "count": 46,
+  "count": 47,
   "teams": [
     [
       "Alexander Greis"
@@ -48,6 +48,9 @@
     ],
     [
       "Frank Strobel"
+    ],
+    [
+      "Herbert Pschierer"
     ],
     [
       "Jan Lang"

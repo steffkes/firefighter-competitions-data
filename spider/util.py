@@ -2,6 +2,7 @@ import scrapy
 from datetime import datetime
 import requests
 import re
+from functools import reduce
 
 
 class SlotItem(scrapy.Item):
@@ -64,12 +65,21 @@ class JsonItemExporter(BaseItemExporter):
         if not competition_id:
             return
 
-        def slotMapper(slot):
-            del slot["competition_id"]
-            return slot
+        def slotReducer(state, slot):
+            label = slot.get("label")
+
+            if label not in state:
+                state[label] = {"amount": 0}
+                if label:
+                    state[label]["label"] = label
+
+            state[label]["amount"] += slot["amount"]
+
+            return state
 
         slots = sorted(
-            map(slotMapper, self.slots), key=lambda slot: (slot.get("label") or "")
+            reduce(slotReducer, self.slots, {}).values(),
+            key=lambda slot: slot.get("label"),
         )
 
         teams = sorted(

@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 197
+      "amount": 196
     }
   ],
-  "count": 54,
+  "count": 56,
   "teams": [
     [
       "Alexander Greis"
@@ -166,6 +166,10 @@
     [
       "Arturo Balduino",
       "Franz Martin"
+    ],
+    [
+      "Marcus Schulze",
+      "Michael Blattenberger"
     ]
   ]
 }

@@ -1,8 +1,11 @@
 {
   "competition_id": "recIIaJGTGbA10gKS",
   "slots": [],
-  "count": 97,
+  "count": 121,
   "teams": [
+    [
+      "Alexander Hellwig"
+    ],
     [
       "Alexander Reitz"
     ],
@@ -22,16 +25,28 @@
       "Christian Breuer"
     ],
     [
+      "Christian Follmann"
+    ],
+    [
       "Christoph Wolfinger"
     ],
     [
+      "David Probst"
+    ],
+    [
       "Dominic Scholz"
+    ],
+    [
+      "Dominik Zirbes"
     ],
     [
       "Gabriel Bauer"
     ],
     [
       "Gerd Müller"
+    ],
+    [
+      "Helge Sonnenberg"
     ],
     [
       "Julian Wehrle"
@@ -43,6 +58,12 @@
       "Marc Ernst"
     ],
     [
+      "Martin Erbe"
+    ],
+    [
+      "Mathias Ascheberger"
+    ],
+    [
       "Mathias Hey"
     ],
     [
@@ -50,6 +71,9 @@
     ],
     [
       "Matthias Schmitt"
+    ],
+    [
+      "Michel Menten"
     ],
     [
       "Peter Joba"
@@ -62,6 +86,9 @@
     ],
     [
       "Rares Schuster"
+    ],
+    [
+      "Rebea Sonnenberg"
     ],
     [
       "Robin Gölz"
@@ -122,12 +149,24 @@
       "Christoph Wolfinger"
     ],
     [
+      "Christian Follmann",
+      "David Probst"
+    ],
+    [
       "Dominic Scholz",
       "Simon Gapp"
     ],
     [
+      "Dominik Zirbes",
+      "Michel Menten"
+    ],
+    [
       "Eric Keßler",
       "Karsten Schug"
+    ],
+    [
+      "Helge Sonnenberg",
+      "Rebea Sonnenberg"
     ],
     [
       "Jens Köwilein",
@@ -176,6 +215,12 @@
       "Sven Metzger"
     ],
     [
+      "Christian Follmann",
+      "David Probst",
+      "Dominik Zirbes",
+      "Michel Menten"
+    ],
+    [
       "Christian Lehmann",
       "David Schadow",
       "Philipp Coens",
@@ -186,6 +231,13 @@
       "Marcel Wurmbauer",
       "Tobias Heumann",
       "Tobias Schimanski"
+    ],
+    [
+      "Alexander Hellwig",
+      "Helge Sonnenberg",
+      "Martin Erbe",
+      "Mathias Ascheberger",
+      "Rebea Sonnenberg"
     ],
     [
       "Anna Köllner",

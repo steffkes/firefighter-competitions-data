@@ -4020,6 +4020,30 @@
         }
     },
     {
+        "id": "recraB8uW1JOiOfeg",
+        "kind": "FCC",
+        "name": "EurOPAS Challenge Delligsen",
+        "url": "https://www.instagram.com/p/DMPtip0NoL5/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-08-29",
+            "end": "2025-08-30",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Delligsen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.9411657,
+                "lng": 9.8073972
+            }
+        }
+    },
+    {
         "id": "rec64vaEInytsYgmf",
         "kind": "FCC",
         "name": "Firefit Championships Europe",

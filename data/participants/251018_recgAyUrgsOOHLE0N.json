@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 196
+      "amount": 195
     }
   ],
-  "count": 56,
+  "count": 57,
   "teams": [
     [
       "Alexander Greis"
@@ -21,6 +21,9 @@
     ],
     [
       "Benedikt Butzer"
+    ],
+    [
+      "Benedikt Sommer"
     ],
     [
       "Bernd Schamberger"

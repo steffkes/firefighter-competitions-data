@@ -1,11 +1,19 @@
 {
   "competition_id": "recfXe2FFz9Q5jBRZ",
   "slots": [],
-  "count": 502,
+  "count": 556,
   "teams": [
+    [
+      "Adrian Huber",
+      "Dominik Buhl"
+    ],
     [
       "Adrian Kirchner",
       "Armin Kirchner"
+    ],
+    [
+      "Adrian Trapp",
+      "Fabian Berger"
     ],
     [
       "Alexander Borst",
@@ -34,6 +42,10 @@
     [
       "Alexander Trautmann",
       "Marcel Klein"
+    ],
+    [
+      "Alwin Moosbrugger",
+      "Boaz Bego"
     ],
     [
       "Andras Mermi",
@@ -96,6 +108,10 @@
       "Valentin Strehle"
     ],
     [
+      "André-Joachim Hempfling",
+      "Christian Schrödel"
+    ],
+    [
       "Angelo Tomaschewski",
       "Till Schneider"
     ],
@@ -108,12 +124,24 @@
       "Marco Birner"
     ],
     [
+      "Anton Stößer",
+      "Simon Gerstner"
+    ],
+    [
       "Arne Dersein",
       "Florian Mayr"
     ],
     [
+      "Benedikt Bleck",
+      "Dominik Mayr"
+    ],
+    [
       "Benedikt Hoffmann",
       "Silas Brecht"
+    ],
+    [
+      "Benedikt Leitner",
+      "Simon Angler"
     ],
     [
       "Benedikt Zeberle",
@@ -166,6 +194,10 @@
     [
       "Björn Schwerdt",
       "Kirsten Schneidereit"
+    ],
+    [
+      "Boris Cech-Medak",
+      "Silvest Heindl"
     ],
     [
       "Boris Hildebrand",
@@ -244,6 +276,10 @@
       "Michael Ronde"
     ],
     [
+      "Christof Schwarz",
+      "Daniel Oswald"
+    ],
+    [
       "Christoph Esslinger",
       "David Schweizer"
     ],
@@ -274,6 +310,10 @@
     [
       "Claudio Polzin",
       "Ina Düll"
+    ],
+    [
+      "Clemens Schenk",
+      "Leonhard Schenk"
     ],
     [
       "Clemens Spinner",
@@ -328,6 +368,10 @@
       "Florian König"
     ],
     [
+      "David Kögler",
+      "Maniel Guggenberger"
+    ],
+    [
       "Denis Heß",
       "Julian Lüdke"
     ],
@@ -364,6 +408,10 @@
       "Jens Bogenschütz"
     ],
     [
+      "Emre Alkan",
+      "Marcel Kornbausch"
+    ],
+    [
       "Enrico Kohl",
       "Nicole Tuchbreiter"
     ],
@@ -392,6 +440,10 @@
       "Johannes Pleier"
     ],
     [
+      "Fabian Stummer",
+      "Fabio Minosa"
+    ],
+    [
       "Fabian Winklbauer",
       "Maximilian Feyrer"
     ],
@@ -406,6 +458,10 @@
     [
       "Felix Beckermann",
       "Maximilian Rittel"
+    ],
+    [
+      "Felix Buchmann",
+      "Markus Bittner"
     ],
     [
       "Felix Grieshammer",
@@ -446,6 +502,10 @@
     [
       "Florian Harder",
       "Tobias Staiger"
+    ],
+    [
+      "Florian Hartmann",
+      "Simpert Griesmann"
     ],
     [
       "Florian Huppmann",
@@ -508,12 +568,24 @@
       "Niklas John"
     ],
     [
+      "Gunther Fuchs",
+      "Manfred Freimut"
+    ],
+    [
       "Hanna Schinagl",
       "Lea Weis"
     ],
     [
+      "Hannes Kruhm",
+      "Marcellus Fritz"
+    ],
+    [
       "Hannes Widmann",
       "Lukas Diebold"
+    ],
+    [
+      "Harald Sachs",
+      "Stefan Perau"
     ],
     [
       "Hartmut Eiselt",
@@ -584,6 +656,14 @@
       "Lukas Bernard"
     ],
     [
+      "Johannes Epple",
+      "Stefan Heckelmiller"
+    ],
+    [
+      "Johannes Lingenheil",
+      "Roman Zischka"
+    ],
+    [
       "Johannes Röckel",
       "Lukas Röckel"
     ],
@@ -624,6 +704,10 @@
       "Mirko Böhm"
     ],
     [
+      "Julian Schuster",
+      "Marco Hilbrand"
+    ],
+    [
       "Julius Römpp",
       "Vanessa Kopp"
     ],
@@ -660,8 +744,16 @@
       "Rene Jost"
     ],
     [
+      "Kevin Winkler",
+      "Simon Gaisbauer"
+    ],
+    [
       "Kilian Bucher",
       "Patrick Bisinger"
+    ],
+    [
+      "Kilian Fritz",
+      "Markus Fritz"
     ],
     [
       "Kim Baier",
@@ -702,6 +794,10 @@
     [
       "Lukas Dörr",
       "Nick Zeh"
+    ],
+    [
+      "Lukas Grözinger",
+      "Sarah Imminger"
     ],
     [
       "Lukas Mundle",
@@ -796,6 +892,10 @@
       "Simon Mezger"
     ],
     [
+      "Markus Meyers",
+      "Stefan Hilgers"
+    ],
+    [
       "Markus Rebstock",
       "Simon Weiß"
     ],
@@ -814,6 +914,10 @@
     [
       "Martin Rothmayr",
       "Martin Zinkl"
+    ],
+    [
+      "Martin Schuster",
+      "Thomas Oesterle"
     ],
     [
       "Martina Wendel",
@@ -914,6 +1018,10 @@
     [
       "Niklas Seibt",
       "Stefan Heinzelmann"
+    ],
+    [
+      "Niklas Timo Frieß",
+      "Vinzent Wagner"
     ],
     [
       "Nils Rick",

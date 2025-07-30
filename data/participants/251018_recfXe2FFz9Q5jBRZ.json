@@ -1,7 +1,7 @@
 {
   "competition_id": "recfXe2FFz9Q5jBRZ",
   "slots": [],
-  "count": 556,
+  "count": 554,
   "teams": [
     [
       "Adrian Huber",
@@ -29,7 +29,7 @@
     ],
     [
       "Alexander Lieber",
-      "Etienne Brödel"
+      "Dirk Fahrner"
     ],
     [
       "Alexander Schmid",
@@ -224,10 +224,6 @@
       "Robin Keck"
     ],
     [
-      "Christian Krieg",
-      "Lukas Henninger"
-    ],
-    [
       "Christian Locher",
       "Markus Meyer"
     ],
@@ -302,6 +298,10 @@
     [
       "Christoph Schuster",
       "Sebastian Hahn"
+    ],
+    [
+      "Christoph Weber",
+      "Steven Haas"
     ],
     [
       "Christopher Lang",
@@ -696,6 +696,10 @@
       "Nico Knuth"
     ],
     [
+      "Julian Klein",
+      "Jörg Elsenbruch"
+    ],
+    [
       "Julian Krieg",
       "Ralf Merkel"
     ],
@@ -718,10 +722,6 @@
     [
       "Jörg Bauer",
       "Jürgen Hutzler"
-    ],
-    [
-      "Jörg Elsenbruch",
-      "Tim Schalla"
     ],
     [
       "Jörg Hartmann",
@@ -1090,10 +1090,6 @@
     [
       "Stephan Steiner",
       "Sven Daniel"
-    ],
-    [
-      "Steven Haas",
-      "Tobias Kuntz"
     ],
     [
       "Thomas Imhof",

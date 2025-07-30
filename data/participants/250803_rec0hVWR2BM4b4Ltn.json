@@ -5,7 +5,7 @@
       "amount": 0
     }
   ],
-  "count": 938,
+  "count": 936,
   "teams": [
     [
       "Aaron Saad Albrecht",
@@ -144,10 +144,6 @@
       "Christian Derks"
     ],
     [
-      "Andre Ulbrich",
-      "Jannik Vollmerhaus"
-    ],
-    [
       "Andreas Endres",
       "Niklas Lomberg"
     ],
@@ -190,6 +186,10 @@
     [
       "André Pfälzer",
       "Arne Wäschenbach"
+    ],
+    [
+      "André Ulbrich",
+      "Nicole Schumacher"
     ],
     [
       "Angelo Tomaschewski",
@@ -773,7 +773,7 @@
     ],
     [
       "Fabio Silva",
-      "Thomas Gakenziok"
+      "Thomas Galenziok"
     ],
     [
       "Fabio Zimmer",
@@ -1292,10 +1292,6 @@
       "Marie-Sophie Heiß"
     ],
     [
-      "Katja Schygulla",
-      "Nicole Schumacher"
-    ],
-    [
       "Kees de Graauw",
       "Mark Karis"
     ],
@@ -1380,10 +1376,6 @@
       "Lukas Oschek"
     ],
     [
-      "Leonard Stein",
-      "Philipp Koch"
-    ],
-    [
       "Liam Tiede",
       "Pascal Heppner"
     ],
@@ -1422,6 +1414,10 @@
     [
       "Lucas Gertz",
       "Maximilian Köhler"
+    ],
+    [
+      "Lucas Pielsch",
+      "Philipp Koch"
     ],
     [
       "Lucie Gramm",

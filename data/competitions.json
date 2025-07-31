@@ -4092,30 +4092,6 @@
         }
     },
     {
-        "id": "reczDUPUd3QCRSGFr",
-        "kind": "FSR",
-        "name": "Towerrun Mainz",
-        "url": "https://www.ff-mainz-stadt.de/towerrun-mainz",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2025-09-14",
-            "end": "2025-09-14",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Mainz",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 50.0032405,
-                "lng": 8.2598047
-            }
-        }
-    },
-    {
         "id": "reckTGmSliDzTIz6w",
         "kind": "FCC",
         "name": "Firefit Championships Europe",
@@ -4592,6 +4568,30 @@
             "coordinates": {
                 "lat": 46.5176215,
                 "lng": 8.6749995
+            }
+        }
+    },
+    {
+        "id": "recanVcyBiGQJIMUI",
+        "kind": "FSR",
+        "name": "Münsterlauf Ulm",
+        "url": "https://muensterturmlauf-ulm.gelungen.es/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-06-12",
+            "end": "2026-06-12",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ulm",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.39854,
+                "lng": 9.99153
             }
         }
     }

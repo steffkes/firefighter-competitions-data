@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 195
+      "amount": 194
     }
   ],
-  "count": 57,
+  "count": 58,
   "teams": [
     [
       "Alexander Greis"
@@ -36,6 +36,9 @@
     ],
     [
       "Damion Werner"
+    ],
+    [
+      "Daniel Penzl"
     ],
     [
       "David Riedinger"

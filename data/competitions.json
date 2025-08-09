@@ -4140,6 +4140,30 @@
         }
     },
     {
+        "id": "recCL9SM1OrTCEYpQ",
+        "kind": "FSR",
+        "name": "Feuerwehrlauf am Schönbuchturm",
+        "url": "https://www.eventservice-stahl.de/veranstaltungen/feuerwehrlauf-am-sch%C3%B6nbuch-turm/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-25",
+            "end": "2025-09-25",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Herrenberg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.6039014,
+                "lng": 8.9093569
+            }
+        }
+    },
+    {
         "id": "recs13RcnPPQGTOr9",
         "kind": "FSR",
         "name": "Escadórios da Humanidade",
@@ -4520,30 +4544,6 @@
             "coordinates": {
                 "lat": 50.5737411,
                 "lng": 3.8586497
-            }
-        }
-    },
-    {
-        "id": "recyjvwGvbZl5rAO3",
-        "kind": "FSR",
-        "name": "Treppenlauf Radebeul",
-        "url": "https://feuerwehrfitness-dresden.de",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2026-05-02",
-            "end": "2026-05-02",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": "2025-08-01T10:00:00.000Z"
-        },
-        "location": {
-            "city": "Radebeul",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 51.1136793,
-                "lng": 13.6637052
             }
         }
     },

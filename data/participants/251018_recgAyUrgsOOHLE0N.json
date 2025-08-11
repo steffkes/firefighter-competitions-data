@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 188
+      "amount": 187
     }
   ],
-  "count": 64,
+  "count": 65,
   "teams": [
     [
       "Alexander Greis"
@@ -147,6 +147,9 @@
     ],
     [
       "Rudi Wengert"
+    ],
+    [
+      "Sabrina-Verena Schmid"
     ],
     [
       "Simon Schleich"

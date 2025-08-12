@@ -4140,30 +4140,6 @@
         }
     },
     {
-        "id": "recCL9SM1OrTCEYpQ",
-        "kind": "FSR",
-        "name": "Feuerwehrlauf am Schönbuchturm",
-        "url": "https://www.eventservice-stahl.de/veranstaltungen/feuerwehrlauf-am-sch%C3%B6nbuch-turm/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2025-09-25",
-            "end": "2025-09-25",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Herrenberg",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 48.6039014,
-                "lng": 8.9093569
-            }
-        }
-    },
-    {
         "id": "recs13RcnPPQGTOr9",
         "kind": "FSR",
         "name": "Escadórios da Humanidade",
@@ -4184,6 +4160,30 @@
             "coordinates": {
                 "lat": 41.5545295,
                 "lng": -8.3787141
+            }
+        }
+    },
+    {
+        "id": "recCL9SM1OrTCEYpQ",
+        "kind": "FSR",
+        "name": "Feuerwehrlauf am Schönbuchturm",
+        "url": "https://www.eventservice-stahl.de/veranstaltungen/feuerwehrlauf-am-sch%C3%B6nbuch-turm/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-27",
+            "end": "2025-09-27",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Herrenberg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.6039014,
+                "lng": 8.9093569
             }
         }
     },

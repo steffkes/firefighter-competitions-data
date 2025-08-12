@@ -37,6 +37,7 @@ stairruns = requests.get(
     headers={
         "Authorization": "Bearer " + os.environ["AIRTABLE_API_KEY"],
     },
+    params=[("sort[0][field]", "Datum"), ("sort[0][direction]", "desc")],
 ).json()["records"]
 
 challenges = requests.get(
@@ -44,6 +45,7 @@ challenges = requests.get(
     headers={
         "Authorization": "Bearer " + os.environ["AIRTABLE_API_KEY"],
     },
+    params=[("sort[0][field]", "Datum"), ("sort[0][direction]", "desc")],
 ).json()["records"]
 
 dateFilterFn = lambda record: record["fields"].get("Datum")

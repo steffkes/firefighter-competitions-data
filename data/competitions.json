@@ -72,30 +72,6 @@
         }
     },
     {
-        "id": "recK4hI4ZqfrUYBy2",
-        "kind": "FSR",
-        "name": "SkyRun MesseTurm Frankfurt",
-        "url": "https://my.raceresult.com/96824/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2018-06-10",
-            "end": "2018-06-10",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Frankfurt",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 50.1125015,
-                "lng": 8.6528873
-            }
-        }
-    },
-    {
         "id": "rec76TUx69b8J3QkD",
         "kind": "FCC",
         "name": "Firefighter Combat Challenge Mosel",
@@ -116,30 +92,6 @@
             "coordinates": {
                 "lat": 50.0974912,
                 "lng": 7.1520895
-            }
-        }
-    },
-    {
-        "id": "rec0Mc2EHkLxf3zT2",
-        "kind": "FSR",
-        "name": "Münster Turmlauf",
-        "url": "https://ulmer-muensterturmlauf.de/anmeldung-2/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2019-06-08",
-            "end": "2019-06-08",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Ulm",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 48.3985233,
-                "lng": 9.992555
             }
         }
     },
@@ -1032,6 +984,27 @@
         }
     },
     {
+        "id": "rec31B39JJfz4YZnP",
+        "kind": "FSR",
+        "name": "Subida Vertical Gran Hotel Bali",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-04-22",
+            "end": "2023-04-22",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Bali",
+            "country_code": "IN",
+            "coordinates": null
+        }
+    },
+    {
         "id": "rec1L3ebPq3SZYySy",
         "kind": "FSR",
         "name": "Subida Vertical Gran Hotel Bali",
@@ -1053,27 +1026,6 @@
                 "lat": 38.5314827,
                 "lng": -0.1637002
             }
-        }
-    },
-    {
-        "id": "rec31B39JJfz4YZnP",
-        "kind": "FSR",
-        "name": "Subida Vertical Gran Hotel Bali",
-        "url": null,
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-04-22",
-            "end": "2023-04-22",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Bali",
-            "country_code": "IN",
-            "coordinates": null
         }
     },
     {
@@ -1142,6 +1094,30 @@
             "coordinates": {
                 "lat": 48.640589,
                 "lng": 11.7820705
+            }
+        }
+    },
+    {
+        "id": "reczxkPRoCcR1DWTU",
+        "kind": "FSR",
+        "name": "Mt. Everest Treppenmarathon",
+        "url": "https://feuerwehrfitnessdresden.de/veranstaltung",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2023-05-06",
+            "end": "2023-05-07",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Radebeul",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1136793,
+                "lng": 13.6637052
             }
         }
     },
@@ -4092,6 +4068,30 @@
         }
     },
     {
+        "id": "reczDUPUd3QCRSGFr",
+        "kind": "FSR",
+        "name": "Towerrun Mainz",
+        "url": "https://www.ff-mainz-stadt.de/towerrun-mainz",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-14",
+            "end": "2025-09-14",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mainz",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.0032405,
+                "lng": 8.2598047
+            }
+        }
+    },
+    {
         "id": "reckTGmSliDzTIz6w",
         "kind": "FCC",
         "name": "Firefit Championships Europe",
@@ -4544,6 +4544,30 @@
             "coordinates": {
                 "lat": 50.5737411,
                 "lng": 3.8586497
+            }
+        }
+    },
+    {
+        "id": "recyjvwGvbZl5rAO3",
+        "kind": "FSR",
+        "name": "Treppenlauf Radebeul",
+        "url": "https://feuerwehrfitness-dresden.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-05-02",
+            "end": "2026-05-02",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2025-08-01T10:00:00.000Z"
+        },
+        "location": {
+            "city": "Radebeul",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1136793,
+                "lng": 13.6637052
             }
         }
     },

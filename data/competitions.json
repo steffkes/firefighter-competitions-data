@@ -138,30 +138,6 @@
         }
     },
     {
-        "id": "recGa9n6fE9kc37FY",
-        "kind": "FSR",
-        "name": "Treppenlauf Oberhof",
-        "url": null,
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-04-09",
-            "end": "2022-04-09",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Oberhof",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 50.6977798,
-                "lng": 10.6802269
-            }
-        }
-    },
-    {
         "id": "recOjBMfLdGi3kAM8",
         "kind": "FSR",
         "name": "Blue Light Stair Run",
@@ -4592,6 +4568,30 @@
             "coordinates": {
                 "lat": 46.5176215,
                 "lng": 8.6749995
+            }
+        }
+    },
+    {
+        "id": "recjKxxHCpNQkNC4e",
+        "kind": "FSR",
+        "name": "11. Tower Run Basel",
+        "url": "https://www.firefighter-challenge.ch/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-05-30",
+            "end": "2026-05-30",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Basel",
+            "country_code": "CH",
+            "coordinates": {
+                "lat": 47.564497,
+                "lng": 7.602052
             }
         }
     },

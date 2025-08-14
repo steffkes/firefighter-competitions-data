@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 186
+      "amount": 185
     }
   ],
-  "count": 67,
+  "count": 68,
   "teams": [
     [
       "Alexander Greis"
@@ -102,6 +102,9 @@
     ],
     [
       "Markus Deuer"
+    ],
+    [
+      "Markus Weber"
     ],
     [
       "Martin Brieden"

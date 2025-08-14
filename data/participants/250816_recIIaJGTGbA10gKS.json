@@ -1,7 +1,7 @@
 {
   "competition_id": "recIIaJGTGbA10gKS",
   "slots": [],
-  "count": 184,
+  "count": 191,
   "teams": [
     [
       "Alexander Greis"
@@ -311,6 +311,11 @@
       "Kevin Waizenegger"
     ],
     [
+      "Dummy Dummy",
+      "Dummy Dummy",
+      "Dummy Dummy"
+    ],
+    [
       "Andreas Friedrich",
       "Björn Herborn",
       "Dominic Scholz",
@@ -321,6 +326,12 @@
       "Jens Köwilein",
       "Ruben Werbke",
       "Sven Metzger"
+    ],
+    [
+      "Brandon Sigala",
+      "Ezikiel Alinea",
+      "Jules Burke",
+      "Sam Firman"
     ],
     [
       "Christian Follmann",

@@ -1,7 +1,7 @@
 {
   "competition_id": "recIIaJGTGbA10gKS",
   "slots": [],
-  "count": 183,
+  "count": 185,
   "teams": [
     [
       "Alexander Greis"
@@ -67,6 +67,9 @@
       "Helge Sonnenberg"
     ],
     [
+      "Jens Köwelein"
+    ],
+    [
       "Julian Reinelt"
     ],
     [
@@ -91,7 +94,7 @@
       "Martin Erbe"
     ],
     [
-      "Mathias Ascheberger"
+      "Mathias Ascheberg"
     ],
     [
       "Mathias Hey"
@@ -122,9 +125,6 @@
     ],
     [
       "Pia Wachsmann"
-    ],
-    [
-      "Rainer Möbius"
     ],
     [
       "Ralf Herp"
@@ -222,6 +222,10 @@
       "Markus Brockers"
     ],
     [
+      "Christian Brockers",
+      "Mathias Hey"
+    ],
+    [
       "Christian Dahler",
       "Christoph Wolfinger"
     ],
@@ -254,6 +258,10 @@
       "Matthias Buttig"
     ],
     [
+      "Gerd Müller",
+      "Julian Werle"
+    ],
+    [
       "Helge Sonnenberg",
       "Rebea Sonnenberg"
     ],
@@ -263,11 +271,7 @@
     ],
     [
       "Martin Erbe",
-      "Mathias Ascheberger"
-    ],
-    [
-      "Mathias Hey",
-      "Wer Möchte?"
+      "Mathias Ascheberg"
     ],
     [
       "Peter Joba",
@@ -345,7 +349,7 @@
       "Alexander Hellwig",
       "Helge Sonnenberg",
       "Martin Erbe",
-      "Mathias Ascheberger",
+      "Mathias Ascheberg",
       "Rebea Sonnenberg"
     ],
     [

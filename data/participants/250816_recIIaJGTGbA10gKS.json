@@ -1,7 +1,7 @@
 {
   "competition_id": "recIIaJGTGbA10gKS",
   "slots": [],
-  "count": 185,
+  "count": 193,
   "teams": [
     [
       "Alexander Greis"
@@ -304,10 +304,9 @@
       "Kevin Waizenegger"
     ],
     [
-      "Andreas Friedrich",
-      "Björn Herborn",
-      "Dominic Scholz",
-      "Simon Gapp"
+      "Dummy",
+      "Dummy",
+      "Dummy"
     ],
     [
       "Annalena Vogt",
@@ -340,6 +339,12 @@
       "Rico Bronner"
     ],
     [
+      "Gerd Müller",
+      "Julian Werlinger",
+      "Peter Joba",
+      "Pia Wachsman"
+    ],
+    [
       "Kevin Schmidt",
       "Marcel Wurmbauer",
       "Tobias Heumann",
@@ -358,6 +363,13 @@
       "Bruce Lovett",
       "Carmen Brave Thunder",
       "Ken Helgerson"
+    ],
+    [
+      "Andreas Friedrich",
+      "Björn Herborn",
+      "Dominic Scholz",
+      "Nicole Morsek",
+      "Simon Gapp"
     ],
     [
       "Anna Köllner",

@@ -1,7 +1,7 @@
 {
   "competition_id": "recIIaJGTGbA10gKS",
   "slots": [],
-  "count": 189,
+  "count": 177,
   "teams": [
     [
       "Alexander Greis"
@@ -276,14 +276,6 @@
       "Rares Schuster"
     ],
     [
-      "Raphael Flickinger",
-      "Tony Troppa"
-    ],
-    [
-      "Soraya Troppa",
-      "Tony Troppa"
-    ],
-    [
       "Amanda Mackey",
       "Carmen Bravethunder",
       "Graci Little Axe"
@@ -292,11 +284,6 @@
       "Christoph Maier",
       "David Melsheimer",
       "Kevin Waizenegger"
-    ],
-    [
-      "Dummy",
-      "Dummy",
-      "Dummy"
     ],
     [
       "Annalena Vogt",
@@ -388,13 +375,6 @@
       "Christoph Wolfinger",
       "Marc Ernst",
       "Maximilian Schweizer"
-    ],
-    [
-      "Eric Keßler",
-      "Karsten Schug",
-      "Lea Schug",
-      "Soraya Troppa",
-      "Tony Troppa"
     ]
   ]
 }

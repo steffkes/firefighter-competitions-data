@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 185
+      "amount": 184
     }
   ],
-  "count": 68,
+  "count": 70,
   "teams": [
     [
       "Alexander Greis"
@@ -200,6 +200,10 @@
     [
       "Barbara Brodkorb",
       "Kim Wiedemann"
+    ],
+    [
+      "Christian Kornmayer",
+      "Jonas Kirstein"
     ],
     [
       "Marcus Schulze",

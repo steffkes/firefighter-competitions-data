@@ -138,27 +138,6 @@
         }
     },
     {
-        "id": "recOjBMfLdGi3kAM8",
-        "kind": "FSR",
-        "name": "Blue Light Stair Run",
-        "url": "https://www.britishfirefighterchallenge.co.uk/stair-run/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-04-16",
-            "end": "2022-04-16",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "London Broadgate Tower",
-            "country_code": "GB",
-            "coordinates": null
-        }
-    },
-    {
         "id": "recY68VwoobFgiXbb",
         "kind": "FCC",
         "name": "Firefit Championships Europe",
@@ -4020,6 +3999,30 @@
         }
     },
     {
+        "id": "rec2diWEn5Ns2BNAz",
+        "kind": "FSR",
+        "name": "Melbourne Firefighter Stair Climb",
+        "url": "https://www.firefighterclimb.org.au",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-06",
+            "end": "2025-09-06",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Melbourne",
+            "country_code": "AU",
+            "coordinates": {
+                "lat": -37.8257525,
+                "lng": 144.9576725
+            }
+        }
+    },
+    {
         "id": "recS4yDdoJGLbydjq",
         "kind": "FCC",
         "name": "Austria Firefighter Combat Challenge",
@@ -4616,6 +4619,30 @@
             "coordinates": {
                 "lat": 48.39854,
                 "lng": 9.99153
+            }
+        }
+    },
+    {
+        "id": "recdVe8hJPvfOoeYb",
+        "kind": "FCC",
+        "name": "Leinetal Firefighter Combat Challenge",
+        "url": "https://www.facebook.com/TFALeinetal/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-07-17",
+            "end": "2026-07-19",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Göttingen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.5192509,
+                "lng": 9.9266786
             }
         }
     }

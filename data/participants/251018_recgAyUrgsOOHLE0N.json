@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 183
+      "amount": 182
     }
   ],
-  "count": 71,
+  "count": 72,
   "teams": [
     [
       "Alexander Greis"
@@ -72,6 +72,9 @@
     ],
     [
       "Jannis Pfeiffer"
+    ],
+    [
+      "Johannes Blum"
     ],
     [
       "Johannes Kreuzer"

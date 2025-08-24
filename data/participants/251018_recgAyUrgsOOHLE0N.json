@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 182
+      "amount": 181
     }
   ],
-  "count": 72,
+  "count": 73,
   "teams": [
     [
       "Alexander Greis"
@@ -54,6 +54,9 @@
     ],
     [
       "Felix Wägele"
+    ],
+    [
+      "Frank Rebholz"
     ],
     [
       "Frank Strobel"

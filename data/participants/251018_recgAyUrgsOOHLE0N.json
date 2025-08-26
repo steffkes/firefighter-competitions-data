@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 181
+      "amount": 180
     }
   ],
-  "count": 73,
+  "count": 74,
   "teams": [
     [
       "Alexander Greis"
@@ -72,6 +72,9 @@
     ],
     [
       "Jan Lang"
+    ],
+    [
+      "Jannik Schellhammer"
     ],
     [
       "Jannis Pfeiffer"

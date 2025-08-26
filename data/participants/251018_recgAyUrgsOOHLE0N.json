@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 180
+      "amount": 179
     }
   ],
-  "count": 74,
+  "count": 75,
   "teams": [
     [
       "Alexander Greis"
@@ -66,6 +66,9 @@
     ],
     [
       "Guido Abele"
+    ],
+    [
+      "Hagen Scherer"
     ],
     [
       "Herbert Pschierer"

@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 179
+      "amount": 178
     }
   ],
-  "count": 75,
+  "count": 76,
   "teams": [
     [
       "Alexander Greis"
@@ -162,6 +162,9 @@
     ],
     [
       "Robin Scheuring"
+    ],
+    [
+      "Ronny Becker"
     ],
     [
       "Rudi Wengert"

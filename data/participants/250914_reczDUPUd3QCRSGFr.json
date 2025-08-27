@@ -1,7 +1,7 @@
 {
   "competition_id": "reczDUPUd3QCRSGFr",
   "slots": [],
-  "count": 256,
+  "count": 258,
   "teams": [
     [
       "Alexander Kratz",
@@ -514,6 +514,10 @@
     [
       "Tim Nauth",
       "Valentin Hook"
+    ],
+    [
+      "Tobias Diedrigkeit",
+      "Tobias Weinaus"
     ]
   ]
 }

@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 177
+      "amount": 176
     }
   ],
-  "count": 77,
+  "count": 79,
   "teams": [
     [
       "Alexander Greis"
@@ -213,6 +213,10 @@
     ],
     [
       "Vera Maier"
+    ],
+    [
+      "Andreas Denz",
+      "Oliver Vrabel"
     ],
     [
       "Arturo Balduino",

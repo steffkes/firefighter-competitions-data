@@ -1,11 +1,15 @@
 {
   "competition_id": "reczDUPUd3QCRSGFr",
   "slots": [],
-  "count": 322,
+  "count": 326,
   "teams": [
     [
       "Achim Marx",
       "Kevin Barzen"
+    ],
+    [
+      "Alexander Gohlke",
+      "Andreas Weißelberg"
     ],
     [
       "Alexander Kratz",
@@ -118,6 +122,10 @@
     [
       "Christian Brill",
       "Johannes Merkel"
+    ],
+    [
+      "Christian Klimaschka",
+      "Stephan Kesisoglu"
     ],
     [
       "Christian Koch",

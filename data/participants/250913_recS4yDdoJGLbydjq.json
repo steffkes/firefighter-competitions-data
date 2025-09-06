@@ -1,7 +1,7 @@
 {
   "competition_id": "recS4yDdoJGLbydjq",
   "slots": [],
-  "count": 238,
+  "count": 248,
   "teams": [
     [
       "Adam Slavíček"
@@ -549,6 +549,13 @@
       "Zuzana Tomková"
     ],
     [
+      "Andreas Gassner",
+      "Anja Münzer",
+      "Markus Fellner",
+      "Petra Buresch",
+      "Thomas Schragner"
+    ],
+    [
       "Andreas Leeb",
       "Ferdinand Kaiblinger",
       "Karl Gravogl",
@@ -568,6 +575,13 @@
       "Patrick Lang",
       "Samuel Pitzl",
       "Thomas Preiner"
+    ],
+    [
+      "Jürgen Pfistermüller",
+      "Lukas Gassner",
+      "Peter Schmidmair",
+      "Sebastian Lengauer",
+      "Thomas Bogovits"
     ]
   ]
 }

@@ -1,7 +1,7 @@
 {
   "competition_id": "recfXe2FFz9Q5jBRZ",
   "slots": [],
-  "count": 548,
+  "count": 582,
   "teams": [
     [
       "Adrian Huber",
@@ -12,8 +12,16 @@
       "Armin Kirchner"
     ],
     [
+      "Adrian Schreiner",
+      "Patrick Jörg"
+    ],
+    [
       "Adrian Trapp",
       "Fabian Berger"
+    ],
+    [
+      "Alex Sheshka",
+      "Florian Schlutt"
     ],
     [
       "Alexander Borst",
@@ -80,6 +88,10 @@
       "Robert Schratt"
     ],
     [
+      "Andreas Maurus",
+      "Max Schönfeld"
+    ],
+    [
       "Andreas Reiner",
       "Simon Nicola Knie"
     ],
@@ -130,6 +142,10 @@
     [
       "Arne Dersein",
       "Florian Mayr"
+    ],
+    [
+      "Aurel Berktold",
+      "Josef Schraudolph"
     ],
     [
       "Benedikt Bleck",
@@ -316,6 +332,10 @@
       "Stephan Birk"
     ],
     [
+      "Cornelius Stempfle",
+      "Oliver Grosse"
+    ],
+    [
       "Csaba Herke",
       "Tibor Varga"
     ],
@@ -370,6 +390,14 @@
     [
       "Denis Heß",
       "Julian Lüdke"
+    ],
+    [
+      "Dennis Gotzler",
+      "Phillip Jäger"
+    ],
+    [
+      "Dennis Hetfeld",
+      "Lukas Bader"
     ],
     [
       "Dennis Kaul",
@@ -572,6 +600,10 @@
       "Lukas Diebold"
     ],
     [
+      "Hans-Georg Linstow von",
+      "Pius Huber"
+    ],
+    [
       "Harald Sachs",
       "Stefan Perau"
     ],
@@ -640,6 +672,14 @@
       "Jona Nagler"
     ],
     [
+      "Joachim Hormuth",
+      "Markus Hormuth"
+    ],
+    [
+      "Jochen Kunz",
+      "Oliver Senger"
+    ],
+    [
       "Johannes Elbert",
       "Lukas Bernard"
     ],
@@ -658,6 +698,10 @@
     [
       "Johannes Schächinger",
       "Lukas Weber"
+    ],
+    [
+      "Jonas Hormuth",
+      "Julius Kiefer"
     ],
     [
       "Jonas Kreher",
@@ -708,6 +752,10 @@
       "Marco Hilbrand"
     ],
     [
+      "Juliana Seitz",
+      "Lucia Huber"
+    ],
+    [
       "Julius Römpp",
       "Vanessa Kopp"
     ],
@@ -756,8 +804,16 @@
       "Mike Erdenberger"
     ],
     [
+      "Lars Kottler",
+      "Sascha Unsöld"
+    ],
+    [
       "Lasse Weinz",
       "Lea Vochtel"
+    ],
+    [
+      "Lennart Kunze",
+      "Peter Dorn"
     ],
     [
       "Leonhard Riedl",
@@ -790,6 +846,10 @@
     [
       "Lukas Mundle",
       "Pascal Endres"
+    ],
+    [
+      "Magnus Berktold",
+      "Mathias Bader"
     ],
     [
       "Maik Bischof",
@@ -842,6 +902,10 @@
     [
       "Marco Walz",
       "Robin Lünser"
+    ],
+    [
+      "Marcus Fritz",
+      "Thomas Gurschler"
     ],
     [
       "Marcus Haas",
@@ -922,6 +986,10 @@
     [
       "Matthias Englram",
       "Maximilian Meindl"
+    ],
+    [
+      "Matthias Hormuth",
+      "Tobias Schmidt"
     ],
     [
       "Matthias Roth",

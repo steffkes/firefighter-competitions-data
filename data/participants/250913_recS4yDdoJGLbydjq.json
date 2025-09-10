@@ -1,7 +1,7 @@
 {
   "competition_id": "recS4yDdoJGLbydjq",
   "slots": [],
-  "count": 260,
+  "count": 272,
   "teams": [
     [
       "Adam Slavíček"
@@ -367,6 +367,14 @@
       "Carmen Bravethunder"
     ],
     [
+      "Amanda Mackey",
+      "Ken Helgerson"
+    ],
+    [
+      "Andreas Gassner",
+      "Thomas Schragner"
+    ],
+    [
       "Andreas Leeb",
       "Andreas Raab"
     ],
@@ -435,10 +443,6 @@
       "János Kiss"
     ],
     [
-      "Folgt noch Folgt noch",
-      "Rüdiger Zeuner-Christ"
-    ],
-    [
       "Jaka Kopitar",
       "Kata Lédeczi"
     ],
@@ -465,6 +469,10 @@
     [
       "Lucia Bartfay",
       "Zuzana Tomkova"
+    ],
+    [
+      "Lukas Gassner",
+      "Thomas Bogovits"
     ],
     [
       "Marek Ludvík",
@@ -511,6 +519,10 @@
       "Rares Schuster"
     ],
     [
+      "Rüdiger Zeuner-Christ",
+      "Uwe Schlonsak"
+    ],
+    [
       "Samuel Pitzl",
       "Waldemar Krol"
     ],
@@ -518,6 +530,11 @@
       "Anja Ludwig",
       "David Probst",
       "Hans-Christian Marwedel"
+    ],
+    [
+      "Domen Pavlič",
+      "Jaka Kopitar",
+      "Mark Klemen"
     ],
     [
       "Jakub Šifra",
@@ -543,6 +560,12 @@
       "Tobias Fischer"
     ],
     [
+      "Amanda Mackey",
+      "Brandon Sigala",
+      "Carmen Brave Thunder",
+      "Ken Helgerson"
+    ],
+    [
       "Anna Köllner",
       "Benjamin Fleischer",
       "Ralf Herp",
@@ -553,6 +576,12 @@
       "Christoph Königsberger",
       "Raphael Gramm",
       "Richard Rabl"
+    ],
+    [
+      "Jürgen Pfistermüller",
+      "Lukas Gassner",
+      "Peter Schmidmair",
+      "Sebastian Lengauer"
     ],
     [
       "Adam Slavíček",
@@ -595,13 +624,6 @@
       "Patrick Lang",
       "Samuel Pitzl",
       "Thomas Preiner"
-    ],
-    [
-      "Jürgen Pfistermüller",
-      "Lukas Gassner",
-      "Peter Schmidmair",
-      "Sebastian Lengauer",
-      "Thomas Bogovits"
     ]
   ]
 }

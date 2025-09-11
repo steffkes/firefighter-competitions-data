@@ -180,30 +180,6 @@
         }
     },
     {
-        "id": "recqvFOGi2jyWOnmu",
-        "kind": "FSR",
-        "name": "Sächsischer Mt. Everest Treppenmarathon",
-        "url": "https://feuerwehrfitnessdresden.de/veranstaltung",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-05-07",
-            "end": "2022-05-07",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Radebeul",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 51.1136793,
-                "lng": 13.6637052
-            }
-        }
-    },
-    {
         "id": "rec3ZAb3HcJsgIhqs",
         "kind": "FCC",
         "name": "Firefit Championships Europe",
@@ -4067,6 +4043,30 @@
             "coordinates": {
                 "lat": 50.0032405,
                 "lng": 8.2598047
+            }
+        }
+    },
+    {
+        "id": "reccl9NOjoJ58k6sT",
+        "kind": "FSR",
+        "name": "Esslinger Burgstäffeleslauf",
+        "url": "https://esslingen-postmichel.lions.de/staeffeleslauf-2025",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-20",
+            "end": "2025-09-20",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Esslingen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.744972,
+                "lng": 9.309312
             }
         }
     },

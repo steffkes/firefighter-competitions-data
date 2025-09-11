@@ -1,7 +1,7 @@
 {
   "competition_id": "recfXe2FFz9Q5jBRZ",
   "slots": [],
-  "count": 582,
+  "count": 580,
   "teams": [
     [
       "Adrian Huber",
@@ -428,10 +428,6 @@
       "Manuel Schäfer"
     ],
     [
-      "Dorothea Walter",
-      "Jens Bogenschütz"
-    ],
-    [
       "Emre Alkan",
       "Marcel Kornbausch"
     ],
@@ -558,10 +554,6 @@
     [
       "Florian Witt",
       "Stefan Münch"
-    ],
-    [
-      "Frank Strobel",
-      "Steffen Haag"
     ],
     [
       "Franz Stumm",
@@ -708,6 +700,10 @@
       "Korbinian Gast"
     ],
     [
+      "Jonathan Gurschler",
+      "Thomas Gurschler"
+    ],
+    [
       "Josef Hans Meisenberg",
       "Tobias Schmittroth"
     ],
@@ -762,6 +758,10 @@
     [
       "Jörg Bauer",
       "Jürgen Hutzler"
+    ],
+    [
+      "Jörg Bogenschütz",
+      "Volker Müller"
     ],
     [
       "Jörg Hartmann",
@@ -902,10 +902,6 @@
     [
       "Marco Walz",
       "Robin Lünser"
-    ],
-    [
-      "Marcus Fritz",
-      "Thomas Gurschler"
     ],
     [
       "Marcus Haas",

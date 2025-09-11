@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 173
+      "amount": 172
     }
   ],
-  "count": 82,
+  "count": 83,
   "teams": [
     [
       "Alexander Greis"
@@ -144,6 +144,9 @@
     ],
     [
       "Michael Kern"
+    ],
+    [
+      "Nicolas Faure"
     ],
     [
       "Patrick Mayr"

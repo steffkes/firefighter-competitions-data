@@ -1,8 +1,12 @@
 {
   "competition_id": "recDiZFHFd14tlLUS",
   "slots": [],
-  "count": 602,
+  "count": 604,
   "teams": [
+    [
+      "",
+      ""
+    ],
     [
       "",
       ""
@@ -250,6 +254,10 @@
     [
       "Boris Hildebrand",
       "Rainer Hage"
+    ],
+    [
+      "Calvin Stoll",
+      "Gunther Fuchs"
     ],
     [
       "Chris Koppenhöfer",
@@ -662,10 +670,6 @@
     [
       "Gitta Sigle",
       "Simon Dörrer"
-    ],
-    [
-      "Gunther Fuchs",
-      "Pascal Schlecht"
     ],
     [
       "Günther Hindelang",

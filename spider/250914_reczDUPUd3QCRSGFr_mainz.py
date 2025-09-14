@@ -98,7 +98,7 @@ class Spider(scrapy.Spider):
                 cb_kwargs={
                     "competition_type": competition_type,
                     "data_key": data_key,
-                    "details": dict(map(lambda row: (row[1], row), r.json()["data"])),
+                    "details": dict(map(lambda row: (row[2], row), r.json()["data"])),
                 },
             )
 
@@ -116,27 +116,25 @@ class Spider(scrapy.Spider):
     def parse(self, response, data_key, competition_type, details):
         data = response.json()["data"]
         for entry in (data or {}).get(data_key, []):
-            [_, status, bib, _, names, age_group, raw_duration] = entry
-
-            if status == "DNF" or not raw_duration:  # disqualified
-                continue
+            [_id1, _id2, _rank, bib, _team, names, age_group, raw_duration] = entry
 
             [category, _] = age_group.split(" ")
             names = sorted(map(str.strip, names.split("/")))
             duration = "00:" + ("0" + raw_duration + ".0")[-7:]
 
             [
-                _id,
-                _bib,
+                _id1x,
+                _id2x,
+                bib,
                 _person1,
                 _person2,
                 _team,
                 _org,
                 _unknown,
-                _label1,
-                _label2,
-                _label3,
-                _label4,
+                _label_placement,
+                _label_total,
+                _label_category,
+                _label_age_group,
                 _contest,
                 _time,
                 _speed,

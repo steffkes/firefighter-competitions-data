@@ -1,50 +1,12 @@
+from util import Spider, ParticipantItem, ResultItem, ResultRankItem
 import scrapy
 import requests
-from datetime import datetime
-import re
-import itertools
-import string
-from util import (
-    JsonItemExporter,
-    JsonLinesItemExporter,
-    ParticipantItem,
-    ResultItem,
-    ResultRankItem,
-)
 
 
-class Spider(scrapy.Spider):
+class CompetitionSpider(Spider):
     name = __name__
-    race_date = datetime.strptime(__name__.split("_")[0], "%y%m%d").strftime("%Y-%m-%d")
-    competition_id = __name__.split("_")[1]
-    ident = __name__[0:24]
-
     race_id = "332077"
     race_key = "2d3194e7534c122dfed9a1267726461c"
-
-    custom_settings = {
-        "FEED_EXPORTERS": {
-            "starter": JsonItemExporter,
-            "results": JsonLinesItemExporter,
-        },
-        "FEEDS": {
-            "data/participants/%(ident)s.json": {
-                "format": "starter",
-                "encoding": "utf8",
-                "overwrite": True,
-                "item_classes": [ParticipantItem],
-            },
-            "data/results/%(name)s.jsonl": {
-                "format": "results",
-                "encoding": "utf8",
-                "overwrite": True,
-                "item_classes": [ResultItem],
-            },
-        },
-        "EXTENSIONS": {
-            "scrapy.extensions.telnet.TelnetConsole": None,
-        },
-    }
 
     def start_requests(self):
         contests = [
@@ -71,14 +33,7 @@ class Spider(scrapy.Spider):
                 },
             )
 
-        for contest, competition_type, data_key in [
-            (5, "MPA", "#1_Feuerwehr-Lauf mit PA"),
-            (
-                6,
-                "OPA",
-                "#1_Feuerwehr-Lauf ohne PA",
-            ),
-        ]:
+        for contest, competition_type, data_key in contests:
             r = requests.get(
                 "https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
                 params={

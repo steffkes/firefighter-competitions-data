@@ -201,30 +201,6 @@
         }
     },
     {
-        "id": "rec06O4xN1c7aklwI",
-        "kind": "FSR",
-        "name": "Berlin Firefighter Stairrun",
-        "url": "https://www.berlin-firefighter-stairrun.de/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-05-14",
-            "end": "2022-05-14",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Berlin",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 52.523125,
-                "lng": 13.4127656
-            }
-        }
-    },
-    {
         "id": "recGF1jAEyQsaNPg8",
         "kind": "FSR",
         "name": "Bad Wildbader Stäffeleslauf",
@@ -4019,6 +3995,30 @@
             "coordinates": {
                 "lat": 48.0453537,
                 "lng": 15.6144483
+            }
+        }
+    },
+    {
+        "id": "recloHjA7XxWa1hpC",
+        "kind": "FSR",
+        "name": "Montafoner Treppencup",
+        "url": "https://www.scspartenen.at/treppencup/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-13",
+            "end": "2025-09-13",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Partenen",
+            "country_code": "AT",
+            "coordinates": {
+                "lat": 46.967921,
+                "lng": 10.056521
             }
         }
     },

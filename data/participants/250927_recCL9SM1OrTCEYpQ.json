@@ -1,8 +1,12 @@
 {
   "competition_id": "recCL9SM1OrTCEYpQ",
   "slots": [],
-  "count": 236,
+  "count": 240,
   "teams": [
+    [
+      "Aaron Frantz",
+      "Markus Pfeifer"
+    ],
     [
       "Adrian Till",
       "Supper Oliver"
@@ -46,6 +50,10 @@
     [
       "Astrid Schimmer",
       "Lea Schimmer"
+    ],
+    [
+      "Bastian Böhrer",
+      "Markus Pfeifer"
     ],
     [
       "Bastian Hübner",
@@ -106,6 +114,10 @@
     [
       "Daniel Kienle",
       "Joel Kauderer"
+    ],
+    [
+      "Daniel Neimayer",
+      "Melina Malthaner"
     ],
     [
       "Daniel Wandel",
@@ -274,10 +286,6 @@
     [
       "Josua Fischer",
       "Julian Pföhler"
-    ],
-    [
-      "Jule Metzger",
-      "Melina Malthaner"
     ],
     [
       "Julia Größl",

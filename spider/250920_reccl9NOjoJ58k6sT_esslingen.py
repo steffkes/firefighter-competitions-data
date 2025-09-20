@@ -23,6 +23,16 @@ class CompetitionSpider(Spider):
             callback=self.parse_starters,
         )
 
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "Ergebnislisten|Ergebnisliste MW",
+                "contest": "0",
+            },
+        )
+
     def parse_starters(self, response):
         for [
             _id1,
@@ -39,6 +49,47 @@ class CompetitionSpider(Spider):
                 competition_id=self.competition_id,
                 names=[self.fixName(name)],
             )
+
+    def parse(self, response):
+        ranks = {"category": {}, "age_group": {}}
+        data = response.json()["data"]["#2_Burgstäffeleslauf Esslingen (Feuerwehr)"]
+
+        for [
+            bib,
+            _something,
+            rank_category,
+            name,
+            _country,
+            _yob,
+            age_group,
+            _team,
+            raw_duration,
+        ] in (
+            data["#3_Männlich"] + data["#4_Weiblich"]
+        ):
+            category = {"Frauen": "W"}.get(age_group, "M")
+
+            rank_total = ranks.get("total", 0) + 1
+            rank_category = ranks["category"].get(category, 0) + 1
+            rank_age_group = ranks["age_group"].get(age_group, 0) + 1
+
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                type="OPA",
+                duration=self.fixDuration(raw_duration),
+                names=[self.fixName(name)],
+                category=category,
+                age_group=age_group,
+                rank=ResultRankItem(
+                    total=rank_total, category=rank_category, age_group=rank_age_group
+                ),
+                bib=None,
+            )
+
+            ranks["total"] = rank_total
+            ranks["category"][category] = rank_category
+            ranks["age_group"][age_group] = rank_age_group
 
 
 import pytest

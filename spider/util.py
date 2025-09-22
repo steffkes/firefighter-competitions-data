@@ -498,27 +498,16 @@ class RottweilSpider(Spider):
                 "#1_{DE:Feuerwehr-Team ohne PA|EN:Firefighters team without SCBA}",
             ),
         ]:
-            r = requests.get(
-                "https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
-                params={
-                    "key": self.race_key,
-                    "listname": "01 - Detail|Details Team",
-                    "contest": str(contest),
-                },
-            )
-
             yield scrapy.FormRequest(
                 method="GET",
                 url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
                 formdata={
                     "key": self.race_key,
-                    "listname": "02 - Ergebnislisten|Ergebnisliste MW - Team",
+                    "listname": "01 - Detail|Details Team",
                     "contest": str(contest),
                 },
                 cb_kwargs={
                     "competition_type": competition_type,
-                    "data_key": data_key,
-                    "details": dict(map(lambda row: (row[0], row), r.json()["data"])),
                 },
             )
 
@@ -534,51 +523,43 @@ class RottweilSpider(Spider):
                 names=sorted(names.split(" / ")),
             )
 
-    def parse(self, response, data_key, competition_type, details):
-        data = (response.json()["data"] or {}).get(data_key, {})
-        for entry in (
-            data.get("#1_Männer", [])
-            + data.get("#2_Frauen", [])
-            + data.get("#3_Mixed", [])
-        ):
-            [id, _id2, status, bib, names, age_group, _, raw_duration] = entry
+    def parse(self, response, competition_type):
+        def fixName(name):
+            return name.split("(")[0].strip()
 
-            if status in ["DNF", "a.k."] or not raw_duration:  # disqualified
+        for [
+            _id,
+            _id2,
+            bib,
+            person1,
+            person2,
+            _team,
+            _org,
+            _reason_dsq,
+            _label_placement,
+            _label_total,
+            category,
+            age_group,
+            _contest,
+            raw_duration,
+            _speed,
+            rank_total,
+            rank_category,
+            rank_age_group,
+        ] in response.json()["data"]:
+            if not rank_total:
                 continue
-
-            [category, _] = age_group.split(" ")
-            names = sorted(map(str.strip, names.split("/")))
-            duration = ("0" + ("0:" + raw_duration + ".0")[-9:])[-11:]
-
-            [
-                _id,
-                _id2,
-                _bib,
-                _person1,
-                _person2,
-                _team,
-                _org,
-                _unknown,
-                _label1,
-                _label2,
-                _label3,
-                _label4,
-                _contest,
-                _time,
-                _speed,
-                rank_total,
-                rank_category,
-                rank_age_group,
-            ] = details[id]
 
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
                 type=competition_type,
-                duration=duration,
-                names=names,
-                category={"MIX": "X"}.get(category, category),
-                age_group=age_group,
+                duration=self.fixDuration(raw_duration.split(" ")[0]),
+                names=sorted(map(fixName, [person1, person2])),
+                category={"Männer": "M", "Frauen": "W", "Mixed": "X"}.get(
+                    category[:-1]
+                ),
+                age_group=age_group[:-1],
                 rank=ResultRankItem(
                     total=int(rank_total[:-1]),
                     category=int(rank_category[:-1]),

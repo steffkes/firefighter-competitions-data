@@ -4479,6 +4479,30 @@
         }
     },
     {
+        "id": "recA7GgxMXYVYKK6v",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://www.instagram.com/p/DOJuTWODbEJ/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-04-11",
+            "end": "2026-04-12",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Lübeck",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 53.858322,
+                "lng": 10.629114
+            }
+        }
+    },
+    {
         "id": "recDJzP5qN1nddeWE",
         "kind": "FSR",
         "name": "LOTTO Thüringen Treppenlauf",

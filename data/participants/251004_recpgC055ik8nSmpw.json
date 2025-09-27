@@ -6,11 +6,11 @@
       "label": "Einzel"
     },
     {
-      "amount": 1,
+      "amount": 0,
       "label": "Staffel"
     },
     {
-      "amount": 4,
+      "amount": 2,
       "label": "Tandem"
     }
   ],

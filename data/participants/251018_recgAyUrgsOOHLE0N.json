@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 168
+      "amount": 167
     }
   ],
-  "count": 87,
+  "count": 88,
   "teams": [
     [
       "Alexander Greis"
@@ -237,6 +237,9 @@
     ],
     [
       "Vera Maier"
+    ],
+    [
+      "Wolfgang Stark"
     ],
     [
       "Andreas Denz",

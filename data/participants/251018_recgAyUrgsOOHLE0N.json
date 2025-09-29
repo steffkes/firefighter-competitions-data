@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 166
+      "amount": 165
     }
   ],
-  "count": 89,
+  "count": 90,
   "teams": [
     [
       "Alexander Greis"
@@ -216,6 +216,9 @@
     ],
     [
       "Steve Roidl"
+    ],
+    [
+      "Thorsten Speer"
     ],
     [
       "Tim Martin Speier"

@@ -1,7 +1,7 @@
 {
   "competition_id": "recfXe2FFz9Q5jBRZ",
   "slots": [],
-  "count": 576,
+  "count": 598,
   "teams": [
     [
       "Adrian Huber",
@@ -136,8 +136,16 @@
       "Marco Birner"
     ],
     [
+      "Annika Bschorr",
+      "Noah Crosby"
+    ],
+    [
       "Anton Stößer",
       "Simon Gerstner"
+    ],
+    [
+      "Antonia Grathwohl",
+      "Emanuel Johannes Wersin"
     ],
     [
       "Arne Dersein",
@@ -222,6 +230,10 @@
     [
       "Boris Hildebrand",
       "Rainer Hage"
+    ],
+    [
+      "Can-Pierre Richter",
+      "Jasmin Weber"
     ],
     [
       "Carsten-Matthias Westerhoff",
@@ -368,6 +380,10 @@
       "Michael Kronmüller"
     ],
     [
+      "Daniel Wandel",
+      "Pascal Hoppe"
+    ],
+    [
       "Daniel Widmann",
       "Florian Schmid"
     ],
@@ -386,6 +402,10 @@
     [
       "David Kögler",
       "Maniel Guggenberger"
+    ],
+    [
+      "David Stilper",
+      "Matthias Weickmann"
     ],
     [
       "Denis Heß",
@@ -716,6 +736,10 @@
       "Michael Raith"
     ],
     [
+      "Julia Dawid",
+      "Michael Dawid"
+    ],
+    [
       "Julia Steppacher",
       "Lena Anna Steurer"
     ],
@@ -770,6 +794,10 @@
     [
       "Jörg Weimer",
       "Kalle Müller"
+    ],
+    [
+      "Jürgen Sobisch",
+      "Louis Sobisch"
     ],
     [
       "Kevin Kruk",
@@ -1112,6 +1140,10 @@
       "Tobias Käser"
     ],
     [
+      "Quirin Bacher",
+      "Veronika Berndl"
+    ],
+    [
       "Rainer Schredl",
       "Stefan Weber"
     ],
@@ -1120,8 +1152,16 @@
       "Wolfgang Buck"
     ],
     [
+      "René Stange",
+      "Ricardo Sieber"
+    ],
+    [
       "Sebastian Göppel",
       "Valentin Denz"
+    ],
+    [
+      "Sebastian Killer",
+      "Tobias Staiger"
     ],
     [
       "Sebastian Schneider",
@@ -1134,6 +1174,10 @@
     [
       "Simon Aschwege von",
       "Stefan Böck"
+    ],
+    [
+      "Stefan Kraus",
+      "Stefan Rauscher"
     ],
     [
       "Thomas Imhof",

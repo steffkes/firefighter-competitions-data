@@ -201,30 +201,6 @@
         }
     },
     {
-        "id": "recGF1jAEyQsaNPg8",
-        "kind": "FSR",
-        "name": "Bad Wildbader Stäffeleslauf",
-        "url": "https://my.raceresult.com/190046/info",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-05-20",
-            "end": "2022-05-20",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Bad Wildbad",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 48.7503279,
-                "lng": 8.5489542
-            }
-        }
-    },
-    {
         "id": "reccpIRVnvLalxdx2",
         "kind": "FCC",
         "name": "Firefighter Combat Challenge Lahntal",
@@ -330,30 +306,6 @@
             "city": "Hannover",
             "country_code": "DE",
             "coordinates": null
-        }
-    },
-    {
-        "id": "recDqFCB45lrZJl9G",
-        "kind": "FSR",
-        "name": "Wildbad345 Treppenlauf",
-        "url": "https://www.racesolution.de/teilnehmer.html?event=wildbad345-treppenlauf-rothenburg-odt-2",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-06-24",
-            "end": "2022-06-24",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Rothenburg ob der Tauber",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 49.3694901,
-                "lng": 10.1802884
-            }
         }
     },
     {
@@ -4647,6 +4599,30 @@
         }
     },
     {
+        "id": "recFv1fiTjY16XynK",
+        "kind": "FCC",
+        "name": "Mosel Firefighter Challenge",
+        "url": "https://www.firefighter-challenge-mosel.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-07-03",
+            "end": "2026-07-05",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2026-04-12T09:00:00.000Z"
+        },
+        "location": {
+            "city": "Ediger-Eller",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.0974912,
+                "lng": 7.1520895
+            }
+        }
+    },
+    {
         "id": "recdVe8hJPvfOoeYb",
         "kind": "FCC",
         "name": "Leinetal Firefighter Combat Challenge",
@@ -4667,6 +4643,54 @@
             "coordinates": {
                 "lat": 51.5192509,
                 "lng": 9.9266786
+            }
+        }
+    },
+    {
+        "id": "recffCZ5LZhK7Pf8z",
+        "kind": "FSR",
+        "name": "Esslinger Burgstäffeleslauf",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-09-19",
+            "end": "2026-09-19",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Esslingen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.744972,
+                "lng": 9.309312
+            }
+        }
+    },
+    {
+        "id": "rec3z2ATiCsVRk3et",
+        "kind": "FSR",
+        "name": "TK Elevator Towerrun",
+        "url": "https://towerrun.tkelevator.com/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-09-20",
+            "end": "2026-09-20",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Rottweil",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.1792097,
+                "lng": 8.6251129
             }
         }
     }

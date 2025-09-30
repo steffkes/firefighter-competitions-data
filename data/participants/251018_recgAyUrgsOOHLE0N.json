@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 165
+      "amount": 163
     }
   ],
-  "count": 90,
+  "count": 92,
   "teams": [
     [
       "Alexander Greis"
@@ -114,6 +114,9 @@
     ],
     [
       "Lukas Weiler"
+    ],
+    [
+      "Manuel Weixler"
     ],
     [
       "Marc Sobeck"
@@ -243,6 +246,9 @@
     ],
     [
       "Vera Maier"
+    ],
+    [
+      "Vinzent Schnitzer"
     ],
     [
       "Wolfgang Stark"

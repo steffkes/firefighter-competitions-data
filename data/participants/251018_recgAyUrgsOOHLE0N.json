@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 163
+      "amount": 162
     }
   ],
-  "count": 92,
+  "count": 93,
   "teams": [
     [
       "Alexander Greis"
@@ -114,6 +114,9 @@
     ],
     [
       "Lukas Weiler"
+    ],
+    [
+      "Lukas Willer"
     ],
     [
       "Manuel Weixler"

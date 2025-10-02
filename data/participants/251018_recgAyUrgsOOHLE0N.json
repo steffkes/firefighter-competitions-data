@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 160
+      "amount": 159
     }
   ],
-  "count": 95,
+  "count": 96,
   "teams": [
     [
       "Alexander Greis"
@@ -165,6 +165,9 @@
     ],
     [
       "Moritz Kraus"
+    ],
+    [
+      "Naim Ertunc"
     ],
     [
       "Nicolas Faure"

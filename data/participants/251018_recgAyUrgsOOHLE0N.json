@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 156
+      "amount": 155
     }
   ],
-  "count": 100,
+  "count": 101,
   "teams": [
     [
       "Alexander Greis"
@@ -246,6 +246,9 @@
     ],
     [
       "Timo Schneider"
+    ],
+    [
+      "Tobias Diedrigkeit"
     ],
     [
       "Tobias Dopfer"

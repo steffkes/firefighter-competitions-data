@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 155
+      "amount": 154
     }
   ],
-  "count": 101,
+  "count": 102,
   "teams": [
     [
       "Alexander Greis"
@@ -255,6 +255,9 @@
     ],
     [
       "Tobias Maurus"
+    ],
+    [
+      "Tobias Schembs"
     ],
     [
       "Tom Rebhan"

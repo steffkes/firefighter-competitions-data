@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 154
+      "amount": 153
     }
   ],
-  "count": 102,
+  "count": 103,
   "teams": [
     [
       "Alexander Greis"
@@ -108,6 +108,9 @@
     ],
     [
       "Lars Pfeiffer"
+    ],
+    [
+      "Lennard Kuna"
     ],
     [
       "Luca Gurel"

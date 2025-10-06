@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 151
+      "amount": 150
     }
   ],
-  "count": 105,
+  "count": 106,
   "teams": [
     [
       "Alexander Greis"
@@ -48,6 +48,9 @@
     ],
     [
       "David Riedinger"
+    ],
+    [
+      "Dominik Frühm"
     ],
     [
       "Elias Vogt"

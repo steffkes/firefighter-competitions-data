@@ -2,16 +2,19 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 153
+      "amount": 152
     }
   ],
-  "count": 103,
+  "count": 104,
   "teams": [
     [
       "Alexander Greis"
     ],
     [
       "Alexander Kraft"
+    ],
+    [
+      "Alexander Wilhelm"
     ],
     [
       "Andreas Butzer"

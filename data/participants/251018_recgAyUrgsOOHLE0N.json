@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 152
+      "amount": 151
     }
   ],
-  "count": 104,
+  "count": 105,
   "teams": [
     [
       "Alexander Greis"
@@ -93,6 +93,9 @@
     ],
     [
       "Jasmin Bohun"
+    ],
+    [
+      "Jochen Bürk"
     ],
     [
       "Johannes Blum"

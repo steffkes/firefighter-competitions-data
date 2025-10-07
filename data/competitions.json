@@ -1,101 +1,5 @@
 [
     {
-        "id": "reckgeFZUEsEBSCWJ",
-        "kind": "FCC",
-        "name": "Mengener Feuerwehrwettkampf",
-        "url": "https://www.mengen.de/fw/die-feuerwehr/02_wettkampf.php",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2015-09-15",
-            "end": "2015-09-15",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Mengen",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 48.049796,
-                "lng": 9.3316096
-            }
-        }
-    },
-    {
-        "id": "recuwV6433Dl9bZfh",
-        "kind": "FCC",
-        "name": "Mengener Feuerwehrwettkampf",
-        "url": "https://www.mengen.de/fw/die-feuerwehr/02_wettkampf.php",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2016-06-11",
-            "end": "2016-06-11",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Mengen",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 48.049796,
-                "lng": 9.3316096
-            }
-        }
-    },
-    {
-        "id": "recJxpKSiYA8o9cVA",
-        "kind": "FCC",
-        "name": "Mengener Feuerwehrwettkampf",
-        "url": "https://www.mengen.de/fw/die-feuerwehr/02_wettkampf.php",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2018-06-09",
-            "end": "2018-06-09",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Mengen",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 48.049796,
-                "lng": 9.3316096
-            }
-        }
-    },
-    {
-        "id": "rec76TUx69b8J3QkD",
-        "kind": "FCC",
-        "name": "Firefighter Combat Challenge Mosel",
-        "url": null,
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2018-06-29",
-            "end": "2018-07-01",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Ediger-Eller",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 50.0974912,
-                "lng": 7.1520895
-            }
-        }
-    },
-    {
         "id": "recABxHrIfDa0EIsx",
         "kind": "FCC",
         "name": "Firefighter Combat Challenge Austria",
@@ -467,30 +371,6 @@
             "coordinates": {
                 "lat": 53.576158,
                 "lng": 10.007046
-            }
-        }
-    },
-    {
-        "id": "recNLCQDvjCigPUdV",
-        "kind": "FSR",
-        "name": "Kölnturm Treppenlauf",
-        "url": "https://www.koelner-treppenlauf.de/anmeldung/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-08-28",
-            "end": "2022-08-28",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Köln",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 50.9480362,
-                "lng": 6.9431545
             }
         }
     },
@@ -4551,6 +4431,30 @@
         }
     },
     {
+        "id": "recywW6EaYoYbxvLm",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://www.instagram.com/p/DPD1XJojQRW/?img_index=2",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-05-16",
+            "end": "2026-05-17",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hallbergmoos",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.324628,
+                "lng": 11.738525
+            }
+        }
+    },
+    {
         "id": "recjKxxHCpNQkNC4e",
         "kind": "FSR",
         "name": "11. Tower Run Basel",
@@ -4575,6 +4479,30 @@
         }
     },
     {
+        "id": "recct5rD2V6JBdS6A",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://www.instagram.com/p/DPD1XJojQRW/?img_index=2",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-06-01",
+            "end": "2026-06-06",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hannover",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.327353,
+                "lng": 9.807701
+            }
+        }
+    },
+    {
         "id": "recanVcyBiGQJIMUI",
         "kind": "FSR",
         "name": "Münsterturmlauf Ulm",
@@ -4595,6 +4523,54 @@
             "coordinates": {
                 "lat": 48.39854,
                 "lng": 9.99153
+            }
+        }
+    },
+    {
+        "id": "recwUsj6ovQuuhGoD",
+        "kind": "FSR",
+        "name": "Bad Wildbader Stäffeleslauf",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-06-19",
+            "end": "2026-06-19",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Bad Wildbad",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.7503279,
+                "lng": 8.5489542
+            }
+        }
+    },
+    {
+        "id": "recSuOwl0VnkRhGZ9",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://www.instagram.com/p/DPD1XJojQRW/?img_index=2",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-06-26",
+            "end": "2026-06-27",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": null,
+            "country_code": "PL",
+            "coordinates": {
+                "lat": 50.0615991,
+                "lng": 19.9373312
             }
         }
     },
@@ -4647,6 +4623,30 @@
         }
     },
     {
+        "id": "recl5Etc30B2OAFZW",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://www.instagram.com/p/DPD1XJojQRW/?img_index=2",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-08-15",
+            "end": "2026-08-16",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Kassel",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.2987046,
+                "lng": 9.4832572
+            }
+        }
+    },
+    {
         "id": "recffCZ5LZhK7Pf8z",
         "kind": "FSR",
         "name": "Esslinger Burgstäffeleslauf",
@@ -4691,6 +4691,54 @@
             "coordinates": {
                 "lat": 48.1792097,
                 "lng": 8.6251129
+            }
+        }
+    },
+    {
+        "id": "rec0RWptHMILEOg2a",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://www.instagram.com/p/DPD1XJojQRW/?img_index=2",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-09-26",
+            "end": "2026-09-27",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Cham",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 49.2307,
+                "lng": 12.670727
+            }
+        }
+    },
+    {
+        "id": "recN3dFzPNbbuMPie",
+        "kind": "FCC",
+        "name": "Firefit Championships Europe",
+        "url": "https://www.instagram.com/p/DPD1XJojQRW/?img_index=2",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-10-10",
+            "end": "2026-10-11",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": null,
+            "country_code": "HU",
+            "coordinates": {
+                "lat": 47.507121,
+                "lng": 19.045669
             }
         }
     }

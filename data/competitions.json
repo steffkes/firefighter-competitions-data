@@ -423,30 +423,6 @@
         }
     },
     {
-        "id": "rec6Yv7sohkme5nQe",
-        "kind": "FSR",
-        "name": "TK Elevator Towerrun",
-        "url": "https://towerrun.tkelevator.com/anmeldung/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-09-18",
-            "end": "2022-09-18",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Rottweil",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 48.1792097,
-                "lng": 8.6251129
-            }
-        }
-    },
-    {
         "id": "recukzFkzT28JMIzF",
         "kind": "FCC",
         "name": "Firefighter Combat Challenge Austria",
@@ -4283,6 +4259,30 @@
             "coordinates": {
                 "lat": 52.4255992,
                 "lng": 13.4697113
+            }
+        }
+    },
+    {
+        "id": "recR50qAT2B0tRl4N",
+        "kind": "FSR",
+        "name": "Schachmatt Ulm",
+        "url": "https://www.schachmatt-ulm.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-02-08",
+            "end": "2026-02-08",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ulm",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.4001358,
+                "lng": 10.0048274
             }
         }
     },

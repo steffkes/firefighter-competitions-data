@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 142
+      "amount": 141
     }
   ],
-  "count": 120,
+  "count": 122,
   "teams": [
     [
       "Alexander Greis"
@@ -342,6 +342,10 @@
     [
       "Marcus Schulze",
       "Michael Blattenberger"
+    ],
+    [
+      "Matthias Dechert",
+      "Sune Vetter"
     ]
   ]
 }

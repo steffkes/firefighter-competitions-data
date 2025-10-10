@@ -1,7 +1,7 @@
 {
   "competition_id": "recWftiqj9uXljQY9",
   "slots": [],
-  "count": 594,
+  "count": 598,
   "teams": [
     [
       "Adam Justyński"
@@ -724,8 +724,8 @@
       "JUSTYNA CICHOCKA"
     ],
     [
-      "DIETMAR KIRSCH",
-      "MAGNUS HIRSCHFELD"
+      "Daniel Finster",
+      "David Kalicki"
     ],
     [
       "Daniel Friedrich",
@@ -778,6 +778,10 @@
     [
       "Dawid Rąbczyk",
       "Mateusz Wesołowski"
+    ],
+    [
+      "Dietmar Kirsch",
+      "Tobias Brune"
     ],
     [
       "Dustin Knobloch",
@@ -837,7 +841,7 @@
     ],
     [
       "Jan Rohde",
-      "N N"
+      "Marvin Burger"
     ],
     [
       "Janick Mamerow",
@@ -940,20 +944,12 @@
       "Mateusz Brembor"
     ],
     [
-      "Mario Pfeiffer",
-      "Thomas Preiner"
-    ],
-    [
       "Markus Hohmann",
       "Valentin Hornschuh"
     ],
     [
       "Martyna Świerczyk",
       "Mateusz Delinger"
-    ],
-    [
-      "Marvin Burger",
-      "Tobias Brune"
     ],
     [
       "Mateusz Brembor",
@@ -978,6 +974,10 @@
     [
       "Matthias Ascheberg",
       "Rostislav Budař"
+    ],
+    [
+      "Matthias Drobar",
+      "Thomas Preiner"
     ],
     [
       "Matus Bali-Hudak",
@@ -1061,6 +1061,12 @@
       "Łukasz Gołąbek"
     ],
     [
+      "Adam Slavíček",
+      "David Kubiš",
+      "Lukas Navratil",
+      "Zdenek Podzimek"
+    ],
+    [
       "Adrian Schratt",
       "Andreas Jüsche",
       "Ralph Kinhacl",
@@ -1113,13 +1119,6 @@
       "Noah Lindwedel",
       "Thore Steinmetz",
       "Tristan Schulze-Windlof"
-    ],
-    [
-      "Adam Slavíček",
-      "David Kubiš",
-      "Jan Völfl",
-      "Martin Mrzena",
-      "Michal Brousil"
     ],
     [
       "Adrian Józefiak",
@@ -1288,6 +1287,13 @@
       "Miroslav Michlovský",
       "Pavel Novak",
       "Tomáš Sirotek"
+    ],
+    [
+      "Jürgen Pfistermüller",
+      "Matthias Drobar",
+      "Peter Schmidmair",
+      "Thomas Bogovits",
+      "Thomas Preiner"
     ]
   ]
 }

@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 141
+      "amount": 140
     }
   ],
-  "count": 122,
+  "count": 123,
   "teams": [
     [
       "Alexander Greis"
@@ -75,6 +75,9 @@
     ],
     [
       "Franziska Hennig"
+    ],
+    [
+      "Frederik Sappert"
     ],
     [
       "Guido Abele"

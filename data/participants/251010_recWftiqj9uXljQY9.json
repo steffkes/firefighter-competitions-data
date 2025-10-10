@@ -1,7 +1,7 @@
 {
   "competition_id": "recWftiqj9uXljQY9",
   "slots": [],
-  "count": 594,
+  "count": 595,
   "teams": [
     [
       "Adam Justyński"
@@ -953,7 +953,7 @@
     ],
     [
       "Mateusz Brembor",
-      "Paweł Ochniak"
+      "Paczkowski Jakub"
     ],
     [
       "Mateusz Delinger",
@@ -974,6 +974,10 @@
     [
       "Matthias Ascheberg",
       "Rostislav Budař"
+    ],
+    [
+      "Matus Bali-Hudak",
+      "Pavel Novák"
     ],
     [
       "Melanie Schönwald",
@@ -1002,10 +1006,6 @@
     [
       "Olaf Krause",
       "Severin Körschgen"
-    ],
-    [
-      "Pavel Novák",
-      "Tomáš Sirotek"
     ],
     [
       "Peter Joba",
@@ -1040,11 +1040,6 @@
       "Wayne Bastrow"
     ],
     [
-      "Adrian Schratt",
-      "Andrea Jüsche",
-      "Ralph Kinhacl"
-    ],
-    [
       "Andreas Ille",
       "Georg Pabst",
       "Gerd Müller"
@@ -1059,6 +1054,12 @@
       "Dawid Geiger",
       "Michał Kałuża",
       "Łukasz Gołąbek"
+    ],
+    [
+      "Adrian Schratt",
+      "Andreas Jüsche",
+      "Ralph Kinhacl",
+      "Sebastian Schindlbeck"
     ],
     [
       "Amir Jazmati",
@@ -1263,10 +1264,10 @@
     ],
     [
       "Hans Jürgen Vogt",
+      "Jan Fleerkortte",
       "Jörg Bohun",
       "Jörg Sven Winkler",
-      "Mario Fleerkortte",
-      "Mirco Feuerhack"
+      "Mario Fleerkortte"
     ],
     [
       "Jan Kapek",

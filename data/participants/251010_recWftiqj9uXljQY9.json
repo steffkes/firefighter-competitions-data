@@ -1,7 +1,7 @@
 {
   "competition_id": "recWftiqj9uXljQY9",
   "slots": [],
-  "count": 595,
+  "count": 594,
   "teams": [
     [
       "Adam Justyński"
@@ -262,7 +262,7 @@
       "Lucas Beyer"
     ],
     [
-      "Lukas Marrátil"
+      "Lukas Navrátil"
     ],
     [
       "Lukas Stäbler"
@@ -820,10 +820,6 @@
       "Uwe Schlonsak"
     ],
     [
-      "Hendrik Kumpe",
-      "Noah Lindwedel"
-    ],
-    [
       "Jakob Kopek",
       "Miroslaw Nevesely"
     ],
@@ -926,6 +922,10 @@
     [
       "Laura Wiench",
       "Nicole Tuchbreiter"
+    ],
+    [
+      "Lennart Backhaus",
+      "Noah Lindwedel"
     ],
     [
       "Lucas Beyer",
@@ -1045,6 +1045,11 @@
       "Gerd Müller"
     ],
     [
+      "DIETMAR KIRSCH",
+      "Mike Hoppe",
+      "WOLFGANG STARK"
+    ],
+    [
       "Jan Rohde",
       "Marvin Burger",
       "Tobias Brune"
@@ -1060,12 +1065,6 @@
       "Andreas Jüsche",
       "Ralph Kinhacl",
       "Sebastian Schindlbeck"
-    ],
-    [
-      "Amir Jazmati",
-      "Hendrik Kumpe",
-      "Noah Lindwedel",
-      "Thore Steinmetz"
     ],
     [
       "Andreas Hillerich",
@@ -1092,12 +1091,6 @@
       "Nicole Mrosek"
     ],
     [
-      "DIETMAR KIRSCH",
-      "MAGNUS HIRSCHFELD",
-      "Mike Hoppe",
-      "WOLFGANG STARK"
-    ],
-    [
       "David Kalicki",
       "Justin Kleinert",
       "Richard Heineke",
@@ -1114,6 +1107,12 @@
       "Mathias Gahl",
       "Michael Bartmann",
       "Simon Schoog-Döhring"
+    ],
+    [
+      "Lennart Backhaus",
+      "Noah Lindwedel",
+      "Thore Steinmetz",
+      "Tristan Schulze-Windlof"
     ],
     [
       "Adam Slavíček",

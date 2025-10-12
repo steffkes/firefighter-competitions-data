@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 133
+      "amount": 132
     }
   ],
-  "count": 117,
+  "count": 118,
   "teams": [
     [
       "Alexander Greis"
@@ -57,6 +57,9 @@
     ],
     [
       "Elias Vogt"
+    ],
+    [
+      "Erik Langenhahn"
     ],
     [
       "Fabian Blösch"

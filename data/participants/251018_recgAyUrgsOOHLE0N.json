@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 131
+      "amount": 130
     }
   ],
-  "count": 118,
+  "count": 120,
   "teams": [
     [
       "Alexander Greis"
@@ -346,6 +346,10 @@
     [
       "Matthias Dechert",
       "Sune Vetter"
+    ],
+    [
+      "Robin Wurster",
+      "Stefan Kabuth"
     ]
   ]
 }

@@ -5,7 +5,7 @@
       "amount": 129
     }
   ],
-  "count": 104,
+  "count": 120,
   "teams": [
     [
       "Alexander Greis"
@@ -318,6 +318,38 @@
     ],
     [
       "Wolfgang Stark"
+    ],
+    [
+      "Andreas Denz",
+      "Oliver Vrabel"
+    ],
+    [
+      "Arturo Balduino",
+      "Franz Martin"
+    ],
+    [
+      "Barbara Brodkorb",
+      "Kim Wiedemann"
+    ],
+    [
+      "Christian Kornmayer",
+      "Jonas Kirstein"
+    ],
+    [
+      "Jaka Stare",
+      "Matjaž Rozman"
+    ],
+    [
+      "Johannes Kreuzer",
+      "Timo Schneider"
+    ],
+    [
+      "Matthias Dechert",
+      "Sune Vetter"
+    ],
+    [
+      "Robin Wurster",
+      "Stefan Kabuth"
     ]
   ]
 }

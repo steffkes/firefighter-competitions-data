@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 128
+      "amount": 127
     }
   ],
-  "count": 121,
+  "count": 122,
   "teams": [
     [
       "Alexander Greis"
@@ -273,6 +273,9 @@
     ],
     [
       "Stefan Prinz"
+    ],
+    [
+      "Stefan Rauscher"
     ],
     [
       "Stefan Schulz"

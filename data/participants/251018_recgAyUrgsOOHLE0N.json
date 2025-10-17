@@ -2,10 +2,10 @@
   "competition_id": "recgAyUrgsOOHLE0N",
   "slots": [
     {
-      "amount": 127
+      "amount": 126
     }
   ],
-  "count": 123,
+  "count": 124,
   "teams": [
     [
       "Alexander Greis"
@@ -129,6 +129,9 @@
     ],
     [
       "Karsten Neupert"
+    ],
+    [
+      "Korbinian Gast"
     ],
     [
       "Lennard Kuna"

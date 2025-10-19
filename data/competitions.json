@@ -4287,30 +4287,6 @@
         }
     },
     {
-        "id": "recaosEDE2lCHJbiY",
-        "kind": "FSR",
-        "name": "Turmlauf Hersbruck",
-        "url": "https://www.instagram.com/turmlauf.hersbruck/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2026-03-14",
-            "end": "2026-03-14",
-            "is_draft": true,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Hersbruck",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 49.5041,
-                "lng": 11.43634
-            }
-        }
-    },
-    {
         "id": "recA7GgxMXYVYKK6v",
         "kind": "FCC",
         "name": "Firefit Championships Europe",
@@ -4331,6 +4307,30 @@
             "coordinates": {
                 "lat": 53.858322,
                 "lng": 10.629114
+            }
+        }
+    },
+    {
+        "id": "recaosEDE2lCHJbiY",
+        "kind": "FSR",
+        "name": "Turmlauf Hersbruck",
+        "url": "https://www.instagram.com/turmlauf.hersbruck/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-04-11",
+            "end": "2026-04-11",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Hersbruck",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 49.5041,
+                "lng": 11.43634
             }
         }
     },

@@ -468,30 +468,6 @@
         }
     },
     {
-        "id": "rec765T0R74lx39Rz",
-        "kind": "FSR",
-        "name": "Escadórios da Humanidade",
-        "url": "https://escadorioshumanidade.pt/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-09-24",
-            "end": "2022-09-24",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": "2022-06-22T22:00:00.000Z"
-        },
-        "location": {
-            "city": "Braga",
-            "country_code": "PT",
-            "coordinates": {
-                "lat": 41.5545295,
-                "lng": -8.3787141
-            }
-        }
-    },
-    {
         "id": "recB3C2Agy9CtuAIg",
         "kind": "FCC",
         "name": "Firefit Championships Europe",
@@ -531,30 +507,6 @@
             "city": "Salt Lake City",
             "country_code": "US",
             "coordinates": null
-        }
-    },
-    {
-        "id": "recjBlyz3XANB35Zs",
-        "kind": "FSR",
-        "name": "4StairsonFire",
-        "url": "https://www.evendz.at/events/4-stairs/anmeldung/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-10-22",
-            "end": "2022-10-22",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Judenburg",
-            "country_code": "AT",
-            "coordinates": {
-                "lat": 47.1682422,
-                "lng": 14.6613402
-            }
         }
     },
     {
@@ -4323,7 +4275,7 @@
             "end": "2026-04-11",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2025-11-02T09:00:00.000Z"
         },
         "location": {
             "city": "Hersbruck",
@@ -4503,6 +4455,30 @@
         }
     },
     {
+        "id": "recj7HIkRvhtDJZ08",
+        "kind": "FSR",
+        "name": "SkyRun MesseTurm Frankfurt",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-06-07",
+            "end": "2026-06-07",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Frankfurt",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.1125015,
+                "lng": 8.6528873
+            }
+        }
+    },
+    {
         "id": "recanVcyBiGQJIMUI",
         "kind": "FSR",
         "name": "Münsterturmlauf Ulm",
@@ -4643,6 +4619,30 @@
             "coordinates": {
                 "lat": 51.2987046,
                 "lng": 9.4832572
+            }
+        }
+    },
+    {
+        "id": "rectnXJo8SQ5z4B5N",
+        "kind": "FSR",
+        "name": "1000er-Stägli",
+        "url": "https://www.asscs.ch/1000er-staegli",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-09-19",
+            "end": "2026-09-19",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Aarburg",
+            "country_code": "CH",
+            "coordinates": {
+                "lat": 47.31526,
+                "lng": 7.886895
             }
         }
     },

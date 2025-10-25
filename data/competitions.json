@@ -510,54 +510,6 @@
         }
     },
     {
-        "id": "rec3Zdq38Mr3aBbNX",
-        "kind": "FSR",
-        "name": "Schanzenlauf Oberstdorf",
-        "url": null,
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-10-22",
-            "end": "2022-10-22",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Oberstdorf",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 47.3749871,
-                "lng": 10.270242
-            }
-        }
-    },
-    {
-        "id": "recE6GSdh2TVHhPY6",
-        "kind": "FSR",
-        "name": "SkyRun MesseTurm Frankfurt",
-        "url": "https://my.raceresult.com/210595/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-11-27",
-            "end": "2022-11-27",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": "2022-10-20T22:00:00.000Z"
-        },
-        "location": {
-            "city": "Frankfurt",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 50.1125015,
-                "lng": 8.6528873
-            }
-        }
-    },
-    {
         "id": "recYOMyZIuI5e0ohO",
         "kind": "FSR",
         "name": "TuS Tower-Run",
@@ -4287,6 +4239,30 @@
         }
     },
     {
+        "id": "recvZXXaLymS7CiHi",
+        "kind": "FSR",
+        "name": "Berlin Firefighter Stairrun",
+        "url": "https://www.berlin-firefighter-stairrun.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-04-18",
+            "end": "2026-04-18",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": "2025-03-17T17:00:00.000Z"
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.523125,
+                "lng": 13.4127656
+            }
+        }
+    },
+    {
         "id": "recDJzP5qN1nddeWE",
         "kind": "FSR",
         "name": "LOTTO Thüringen Treppenlauf",
@@ -4307,6 +4283,30 @@
             "coordinates": {
                 "lat": 50.6977798,
                 "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "recDXLopJ2XfD81vC",
+        "kind": "FSR",
+        "name": "Berlin Firefighter Stairrun",
+        "url": "https://www.berlin-firefighter-stairrun.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-04-25",
+            "end": "2026-04-25",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": "2025-03-17T17:00:00.000Z"
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.523125,
+                "lng": 13.4127656
             }
         }
     },
@@ -4489,7 +4489,7 @@
         "date": {
             "start": "2026-06-12",
             "end": "2026-06-12",
-            "is_draft": null,
+            "is_draft": true,
             "is_canceled": null,
             "registration_opens": null
         },

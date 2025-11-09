@@ -1,26 +1,5 @@
 [
     {
-        "id": "recABxHrIfDa0EIsx",
-        "kind": "FCC",
-        "name": "Firefighter Combat Challenge Austria",
-        "url": "http://www.fcc-austria.com/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2020-10-03",
-            "end": "2020-10-04",
-            "is_draft": null,
-            "is_canceled": true,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Tulln",
-            "country_code": "AT",
-            "coordinates": null
-        }
-    },
-    {
         "id": "recrqAwmbjNaiRQYm",
         "kind": "FCC",
         "name": "Firefighter Combat Challenge Austria",
@@ -510,30 +489,6 @@
         }
     },
     {
-        "id": "recYOMyZIuI5e0ohO",
-        "kind": "FSR",
-        "name": "TuS Tower-Run",
-        "url": "https://anmeldung.laufauswertung.com/Anmeldung/index.php?VID=4BE137AB0D",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-01-08",
-            "end": "2023-01-08",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Berlin",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 52.425506,
-                "lng": 13.4697197
-            }
-        }
-    },
-    {
         "id": "rec0orku3z29R93Q6",
         "kind": "FCC",
         "name": "Europas Indoor Challenge Gronau",
@@ -555,27 +510,6 @@
                 "lat": 51.649734,
                 "lng": 9.829393
             }
-        }
-    },
-    {
-        "id": "rec0veAeopdt4HltL",
-        "kind": "FSR",
-        "name": "LLS Firefighter Stairclimb",
-        "url": "https://www.llswa.org/site/TR?fr_id=1730&pg=entry",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-03-12",
-            "end": "2023-03-12",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Seattle",
-            "country_code": "US",
-            "coordinates": null
         }
     },
     {
@@ -4167,6 +4101,30 @@
         }
     },
     {
+        "id": "rec1OUKsWVGI3yTT4",
+        "kind": "FSR",
+        "name": "BFW Indoor-Treppenlauf Kirchseeon",
+        "url": "https://www.bfw-muenchen.de/ueber-uns/news-medien/news/save-the-date-indoor-treppenlauf-im-bfw-muenchen/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-01-25",
+            "end": "2026-01-25",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Kirchseeon",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.0649123,
+                "lng": 11.8941151
+            }
+        }
+    },
+    {
         "id": "recR50qAT2B0tRl4N",
         "kind": "FSR",
         "name": "Schachmatt Ulm",
@@ -4187,6 +4145,30 @@
             "coordinates": {
                 "lat": 48.4001358,
                 "lng": 10.0048274
+            }
+        }
+    },
+    {
+        "id": "recs5vhI4DXNNjIHR",
+        "kind": "FSR",
+        "name": "Subida Vertical Gran Hotel Bali copy",
+        "url": "http://subidagranhotelbali.com/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-03-28",
+            "end": "2026-03-28",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Benidorm",
+            "country_code": "ES",
+            "coordinates": {
+                "lat": 38.5314827,
+                "lng": -0.1637002
             }
         }
     },
@@ -4499,6 +4481,30 @@
             "coordinates": {
                 "lat": 48.39854,
                 "lng": 9.99153
+            }
+        }
+    },
+    {
+        "id": "rechBgjeDNbJHv015",
+        "kind": "FCC",
+        "name": "Toughest Firefighter Alive",
+        "url": "https://www.tfa-germany.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-06-12",
+            "end": "2026-06-14",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mönchengladbach",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 51.1947131,
+                "lng": 6.4353792
             }
         }
     },

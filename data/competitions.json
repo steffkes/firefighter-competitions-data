@@ -4389,6 +4389,30 @@
         }
     },
     {
+        "id": "recanVcyBiGQJIMUI",
+        "kind": "FSR",
+        "name": "Münsterturmlauf Ulm",
+        "url": "https://muensterturmlauf-ulm.gelungen.es/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-05-22",
+            "end": "2026-05-22",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": "2026-01-10T09:00:00.000Z"
+        },
+        "location": {
+            "city": "Ulm",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.39854,
+                "lng": 9.99153
+            }
+        }
+    },
+    {
         "id": "recjKxxHCpNQkNC4e",
         "kind": "FSR",
         "name": "11. Tower Run Basel",
@@ -4447,7 +4471,7 @@
         "date": {
             "start": "2026-06-07",
             "end": "2026-06-07",
-            "is_draft": true,
+            "is_draft": null,
             "is_canceled": null,
             "registration_opens": null
         },
@@ -4457,30 +4481,6 @@
             "coordinates": {
                 "lat": 50.1125015,
                 "lng": 8.6528873
-            }
-        }
-    },
-    {
-        "id": "recanVcyBiGQJIMUI",
-        "kind": "FSR",
-        "name": "Münsterturmlauf Ulm",
-        "url": "https://muensterturmlauf-ulm.gelungen.es/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2026-06-12",
-            "end": "2026-06-12",
-            "is_draft": true,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Ulm",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 48.39854,
-                "lng": 9.99153
             }
         }
     },

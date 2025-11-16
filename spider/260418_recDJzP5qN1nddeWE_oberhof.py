@@ -57,11 +57,26 @@ class Spider(scrapy.Spider):
 
         yield scrapy.FormRequest(
             method="GET",
+            url="https://my.raceresult.com/%s/RRRegStart/data/config" % self.race_id,
+            callback=self.parse_slots,
+        )
+
+        yield scrapy.FormRequest(
+            method="GET",
             url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
             formdata={
                 "key": self.race_key,
                 "listname": "Online Ergebnisse und Listen|05 Ergebnisse Team ALLE WK",
             },
+        )
+
+    def parse_slots(self, response):
+        yield SlotItem(
+            competition_id=self.competition_id,
+            amount=int(
+                response.json()["RegistrationConfig"]["Registrations"][1]["SlotsLeft"]
+                / 2
+            ),
         )
 
     def parse_starters(self, response):

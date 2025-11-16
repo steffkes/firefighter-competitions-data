@@ -108,23 +108,33 @@ class CompetitionSpider(Spider):
         if key:
             data = data[key]
 
+        items = []
+
         for team, results in data.items():
             [rank_category, raw_duration] = re.match(
                 r"\#\d+_(\d+)\.///.*?///(.+)", team
             ).group(1, 2)
 
-            yield ResultItem(
-                date=self.race_date,
-                competition_id=self.competition_id,
-                type="OPA",
-                duration=self.fixDuration(raw_duration),
-                # results = [ [_, _, name, _, _], [_, _, name, _, _] ]
-                names=sorted(map(lambda result: self.fixName(result[2]), results)),
-                category=category,
-                rank=ResultRankItem(
-                    category=int(rank_category),
-                ),
+            items.append(
+                ResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    type="OPA",
+                    duration=self.fixDuration(raw_duration),
+                    # results = [ [_, _, name, _, _], [_, _, name, _, _] ]
+                    names=sorted(map(lambda result: self.fixName(result[2]), results)),
+                    category=category,
+                    rank=ResultRankItem(),
+                )
             )
+
+        sortedDuration = sorted(map(lambda item: item["duration"], items))
+
+        def mapFn(item):
+            item["rank"]["category"] = sortedDuration.index(item["duration"]) + 1
+            return item
+
+        yield from list(map(mapFn, items))
 
 
 import pytest

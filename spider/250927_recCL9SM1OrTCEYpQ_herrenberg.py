@@ -1,11 +1,16 @@
-from util import Spider, ParticipantItem
+from util import Spider, ParticipantItem, ResultItem, ResultRankItem
 import scrapy
+import re
 
 
 class CompetitionSpider(Spider):
     name = __name__
     race_id = "315247"
     race_key = "7e4105dee620c764485e85a405c3988f"
+
+    @staticmethod
+    def fixName(name):
+        return " ".join(reversed(name.split(", ")))
 
     def start_requests(self):
         yield scrapy.FormRequest(
@@ -17,6 +22,44 @@ class CompetitionSpider(Spider):
                 "contest": "0",
             },
             callback=self.parse_starters,
+        )
+
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "01_Ergebnisse|Ergebnisliste_Feuerwehr_Mixed",
+                "contest": "1",
+                "f": "Wertung: Fireheroes Leonberg",
+            },
+            cb_kwargs={
+                "category": "X",
+            },
+        )
+
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "01_Ergebnisse|Ergebnisliste_Feuerwehr_MW",
+                "contest": "1",
+                "f": "Wertung: Fireheroes LeonbergMännlich",
+            },
+            cb_kwargs={"category": "M", "key": "#1_Männlich"},
+        )
+
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "01_Ergebnisse|Ergebnisliste_Feuerwehr_MW",
+                "contest": "1",
+                "f": "Wertung: Fireheroes LeonbergWeiblich",
+            },
+            cb_kwargs={"category": "W", "key": "#2_Weiblich"},
         )
 
     def parse_starters(self, response):
@@ -34,3 +77,41 @@ class CompetitionSpider(Spider):
                 competition_id=self.competition_id,
                 names=sorted([name1, name2]),
             )
+
+    def parse(self, response, category, key=None):
+        data = response.json()["data"]["#1_Wertung: Fireheroes Leonberg"]
+
+        if key:
+            data = data[key]
+
+        for team, results in data.items():
+            [rank_category, raw_duration] = re.match(
+                r"\#\d+_(\d+)\.///.*?///(.+)", team
+            ).group(1, 2)
+
+            yield ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                type="OPA",
+                duration=self.fixDuration(raw_duration),
+                # results = [ [_, _, name, _, _], [_, _, name, _, _] ]
+                names=sorted(map(lambda result: self.fixName(result[2]), results)),
+                category=category,
+                rank=ResultRankItem(
+                    category=int(rank_category),
+                ),
+            )
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("Schimmer, Astrid", "Astrid Schimmer"),
+        ("Bartholomä, Meike", "Meike Bartholomä"),
+    ],
+)
+def test_fixName(input, output):
+    assert CompetitionSpider.fixName(input) == output

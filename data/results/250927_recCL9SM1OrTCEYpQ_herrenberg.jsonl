@@ -1,91 +1,91 @@
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:05:14.0", "names": ["Christoph Groß", "Philipp Großmann"], "category": "M", "rank": {"category": 1}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:05:28.0", "names": ["Robin Wurster", "Stefan Kabuth"], "category": "M", "rank": {"category": 2}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:05:43.0", "names": ["Andreas Bühler", "Dominik Gauß"], "category": "M", "rank": {"category": 3}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:05:46.0", "names": ["Karsten Schöneck", "Stefan Notter"], "category": "M", "rank": {"category": 4}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:05:50.0", "names": ["Aaron Frantz", "Markus Pfeifer"], "category": "M", "rank": {"category": 5}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:02.0", "names": ["Bastian Hübner", "Florian Rieder"], "category": "M", "rank": {"category": 6}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:04.0", "names": ["Christoph Neumann", "Tobias Olbrich"], "category": "M", "rank": {"category": 7}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:08.0", "names": ["Florian Kiefer", "Simon Mast"], "category": "M", "rank": {"category": 8}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:10.0", "names": ["Matthias Hertter", "Vincent Kapp"], "category": "M", "rank": {"category": 9}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:13.0", "names": ["Felix Böckh", "Ralph Beyer"], "category": "M", "rank": {"category": 10}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:14.0", "names": ["Alexander Simonis", "Bastian Böhrer"], "category": "M", "rank": {"category": 11}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:17.0", "names": ["Josua Fischer", "Julian Pföhler"], "category": "M", "rank": {"category": 12}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:18.0", "names": ["Jens Hartmann", "Samuel Kemmler"], "category": "M", "rank": {"category": 13}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:33.0", "names": ["Jan Schade", "Thomas Jäger"], "category": "M", "rank": {"category": 14}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:35.0", "names": ["Marco Schäberle", "Nico Gauß"], "category": "M", "rank": {"category": 15}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:36.0", "names": ["Martin Wickenhäuser", "Moritz Weber"], "category": "M", "rank": {"category": 16}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:36.0", "names": ["Schwarz Silas", "Weihing Holger"], "category": "M", "rank": {"category": 17}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:36.0", "names": ["Jens Bader", "Paul Löffler"], "category": "M", "rank": {"category": 18}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:39.0", "names": ["Ben Brand", "Matthias Brand"], "category": "M", "rank": {"category": 19}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:39.0", "names": ["Dominik Kirgis", "Philipp Löffler"], "category": "M", "rank": {"category": 20}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:39.0", "names": ["Maurice Kretzschmar", "Max Blankenhorn"], "category": "M", "rank": {"category": 21}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:46.0", "names": ["Jonas Buser", "Thomas Ley"], "category": "M", "rank": {"category": 22}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:50.0", "names": ["Jonathan Kramer", "Niklas Dobler"], "category": "M", "rank": {"category": 23}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:51.0", "names": ["Martin Gotthard", "Ruben Heß"], "category": "M", "rank": {"category": 24}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:53.0", "names": ["Dominik Früh", "Marius Rothfelder"], "category": "M", "rank": {"category": 25}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:54.0", "names": ["Gabriel Bauer", "Steven Müller"], "category": "M", "rank": {"category": 26}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:55.0", "names": ["Arne Hamm", "Lennart Kraft"], "category": "M", "rank": {"category": 27}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:56.0", "names": ["Daniel Wandel", "Sebastian Pape"], "category": "M", "rank": {"category": 28}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:58.0", "names": ["Benjamin Breitling", "Finn-Marvin Engel"], "category": "M", "rank": {"category": 29}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:58.0", "names": ["Julia Klein", "Klaus Rinderknecht"], "category": "X", "rank": {"category": 1}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:02.0", "names": ["Jens Roob", "Marc Roob"], "category": "M", "rank": {"category": 30}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:03.0", "names": ["Justin Felleisen", "Nils Müller"], "category": "M", "rank": {"category": 31}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:04.0", "names": ["Alfredo Arteaga", "Ralf Hägele"], "category": "M", "rank": {"category": 32}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:09.0", "names": ["Falk Lammers", "Linus Pauschert"], "category": "M", "rank": {"category": 33}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:14.0", "names": ["Nicolas Mohr", "Willy Jäger"], "category": "M", "rank": {"category": 34}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:17.0", "names": ["Lars Hartmann", "Marc Sauermann"], "category": "M", "rank": {"category": 35}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:18.0", "names": ["Jeremias Volk", "Nils Häußer"], "category": "M", "rank": {"category": 36}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:21.0", "names": ["Marco Schurer", "Martin Guhs"], "category": "M", "rank": {"category": 37}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:21.0", "names": ["Dominik Schurdak", "Jonathan Philipp"], "category": "M", "rank": {"category": 38}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:24.0", "names": ["Andreas Fechner", "Marcos Oliveira"], "category": "M", "rank": {"category": 39}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:24.0", "names": ["Lukas Jäger", "Tamara Homburg"], "category": "X", "rank": {"category": 2}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:29.0", "names": ["Julian Bösler", "Julian Spitzer"], "category": "M", "rank": {"category": 40}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:30.0", "names": ["David Krohn", "Matthias Schneider"], "category": "M", "rank": {"category": 41}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:33.0", "names": ["Laurenz Gohlke", "Sascha Michel"], "category": "M", "rank": {"category": 42}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:36.0", "names": ["Klemens Hartmann", "Raffael Schimpf"], "category": "M", "rank": {"category": 43}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:37.0", "names": ["Adrian Till", "Supper Oliver"], "category": "M", "rank": {"category": 44}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:37.0", "names": ["Ben Brodbeck", "Robin Gölz"], "category": "M", "rank": {"category": 45}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:40.0", "names": ["Dominik Bast", "Fabian Pfann"], "category": "M", "rank": {"category": 46}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:47.0", "names": ["Philipp Schmidt", "Wolfgang Sorge"], "category": "M", "rank": {"category": 47}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:50.0", "names": ["Etienne Seidel", "Michael Benedikt"], "category": "M", "rank": {"category": 48}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:50.0", "names": ["David Melsheimer", "Hannah Lohrer"], "category": "X", "rank": {"category": 3}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:53.0", "names": ["Julian Weichert", "Micha Binder"], "category": "M", "rank": {"category": 49}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:53.0", "names": ["Juliane Schmidt", "Markus Braun"], "category": "X", "rank": {"category": 4}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:54.0", "names": ["Michael Metzler", "Michael Rentschler"], "category": "M", "rank": {"category": 50}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:00.0", "names": ["Heß Dominik", "Monika Blank"], "category": "X", "rank": {"category": 5}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:02.0", "names": ["Mika Wolfer", "Murat-Kaan Tuncel"], "category": "M", "rank": {"category": 51}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:04.0", "names": ["Finn Runge", "Jan Dieterle"], "category": "M", "rank": {"category": 52}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:05.0", "names": ["Ole Matthes Schanz", "Patroklus Witte"], "category": "M", "rank": {"category": 53}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:06.0", "names": ["Alexander Wacker", "Hannes Bea"], "category": "M", "rank": {"category": 54}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:06.0", "names": ["Paul Meßner", "Selina Hanakam"], "category": "X", "rank": {"category": 6}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:06.0", "names": ["Andreas Geiger", "Anna Köllner"], "category": "X", "rank": {"category": 7}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:11.0", "names": ["Oliver Weimer", "Tim Sonnet"], "category": "M", "rank": {"category": 55}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:15.0", "names": ["Katzmann Thorsten", "Leo Bönisch"], "category": "M", "rank": {"category": 56}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:16.0", "names": ["Björn Leon", "Heiko Leon"], "category": "M", "rank": {"category": 57}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:20.0", "names": ["Fabian Michel", "Meike Bartholomä"], "category": "X", "rank": {"category": 8}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:23.0", "names": ["David Müller", "Elia Huber"], "category": "M", "rank": {"category": 58}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:34.0", "names": ["Marco Walz", "Robin Lünser"], "category": "M", "rank": {"category": 59}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:37.0", "names": ["David Schadow", "Florian Münch"], "category": "M", "rank": {"category": 60}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:40.0", "names": ["Dominik Stark", "Philipp Schmid"], "category": "M", "rank": {"category": 61}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:42.0", "names": ["Falk Buhlmann", "Miriam Höftmann"], "category": "X", "rank": {"category": 9}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:46.0", "names": ["Chris Hauser", "Timo Heidlauf"], "category": "M", "rank": {"category": 62}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:54.0", "names": ["Felix Brückner", "Florian Bausch"], "category": "M", "rank": {"category": 63}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:55.0", "names": ["Katharina Hörz", "Sandro Rollberg"], "category": "X", "rank": {"category": 10}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:00.0", "names": ["Pascal Hoppe", "Volodymyr Kalach"], "category": "M", "rank": {"category": 64}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:04.0", "names": ["Andreas Zinser", "Fridolin Schäberle"], "category": "M", "rank": {"category": 65}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:07.0", "names": ["Kevin Waizenegger", "Ronja Hamm"], "category": "X", "rank": {"category": 11}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:15.0", "names": ["Friederike Hauschild", "Paula Kiesewetter"], "category": "W", "rank": {"category": 1}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:21.0", "names": ["Astrid Schimmer", "Lea Schimmer"], "category": "W", "rank": {"category": 2}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:21.0", "names": ["Daniel Neimayer", "Melina Malthaner"], "category": "X", "rank": {"category": 12}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:29.0", "names": ["Fabian Persinger", "Jens Adamaszek"], "category": "M", "rank": {"category": 66}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:54.0", "names": ["Dominik Ziegenhardt", "Michelle Eisenhardt"], "category": "X", "rank": {"category": 13}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:58.0", "names": ["Dominik Rohloff", "Tammo Brosch"], "category": "M", "rank": {"category": 67}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:02.0", "names": ["Lisa Berlinger", "Timo Hollerbach"], "category": "X", "rank": {"category": 14}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:06.0", "names": ["Jochen Lebsanft", "Jürgen Breitling"], "category": "M", "rank": {"category": 68}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:11.0", "names": ["Moritz Weiß", "Reinhard Hasler"], "category": "M", "rank": {"category": 69}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:14.0", "names": ["Kalle Müller", "Manfred Freimut"], "category": "M", "rank": {"category": 70}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:22.0", "names": ["Martin Lahr", "Thomas Maier"], "category": "M", "rank": {"category": 71}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:27.0", "names": ["Heike Herbrik", "Thomas Hödel"], "category": "X", "rank": {"category": 15}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:54.0", "names": ["Emma Stephan", "Leonie Felleisen"], "category": "W", "rank": {"category": 3}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:11:40.0", "names": ["Felix Brennenstuhl", "Sophia Stein"], "category": "X", "rank": {"category": 16}}
-{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:11:52.0", "names": ["Laura Stieb", "Patricia Kleß"], "category": "W", "rank": {"category": 4}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:05:14.0", "names": ["Christoph Groß", "Philipp Großmann"], "category": "M", "rank": {"category": 1, "total": 1}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:05:28.0", "names": ["Robin Wurster", "Stefan Kabuth"], "category": "M", "rank": {"category": 2, "total": 2}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:05:43.0", "names": ["Andreas Bühler", "Dominik Gauß"], "category": "M", "rank": {"category": 3, "total": 3}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:05:46.0", "names": ["Karsten Schöneck", "Stefan Notter"], "category": "M", "rank": {"category": 4, "total": 4}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:05:50.0", "names": ["Aaron Frantz", "Markus Pfeifer"], "category": "M", "rank": {"category": 5, "total": 5}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:02.0", "names": ["Bastian Hübner", "Florian Rieder"], "category": "M", "rank": {"category": 6, "total": 6}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:04.0", "names": ["Christoph Neumann", "Tobias Olbrich"], "category": "M", "rank": {"category": 7, "total": 7}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:08.0", "names": ["Florian Kiefer", "Simon Mast"], "category": "M", "rank": {"category": 8, "total": 8}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:10.0", "names": ["Matthias Hertter", "Vincent Kapp"], "category": "M", "rank": {"category": 9, "total": 9}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:13.0", "names": ["Felix Böckh", "Ralph Beyer"], "category": "M", "rank": {"category": 10, "total": 10}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:14.0", "names": ["Alexander Simonis", "Bastian Böhrer"], "category": "M", "rank": {"category": 11, "total": 11}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:17.0", "names": ["Josua Fischer", "Julian Pföhler"], "category": "M", "rank": {"category": 12, "total": 12}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:18.0", "names": ["Jens Hartmann", "Samuel Kemmler"], "category": "M", "rank": {"category": 13, "total": 13}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:33.0", "names": ["Jan Schade", "Thomas Jäger"], "category": "M", "rank": {"category": 14, "total": 14}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:35.0", "names": ["Marco Schäberle", "Nico Gauß"], "category": "M", "rank": {"category": 15, "total": 15}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:36.0", "names": ["Martin Wickenhäuser", "Moritz Weber"], "category": "M", "rank": {"category": 16, "total": 16}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:36.0", "names": ["Schwarz Silas", "Weihing Holger"], "category": "M", "rank": {"category": 17, "total": 16}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:36.0", "names": ["Jens Bader", "Paul Löffler"], "category": "M", "rank": {"category": 18, "total": 16}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:39.0", "names": ["Ben Brand", "Matthias Brand"], "category": "M", "rank": {"category": 19, "total": 19}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:39.0", "names": ["Dominik Kirgis", "Philipp Löffler"], "category": "M", "rank": {"category": 20, "total": 19}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:39.0", "names": ["Maurice Kretzschmar", "Max Blankenhorn"], "category": "M", "rank": {"category": 21, "total": 19}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:46.0", "names": ["Jonas Buser", "Thomas Ley"], "category": "M", "rank": {"category": 22, "total": 22}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:50.0", "names": ["Jonathan Kramer", "Niklas Dobler"], "category": "M", "rank": {"category": 23, "total": 23}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:51.0", "names": ["Martin Gotthard", "Ruben Heß"], "category": "M", "rank": {"category": 24, "total": 24}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:53.0", "names": ["Dominik Früh", "Marius Rothfelder"], "category": "M", "rank": {"category": 25, "total": 25}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:54.0", "names": ["Gabriel Bauer", "Steven Müller"], "category": "M", "rank": {"category": 26, "total": 26}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:55.0", "names": ["Arne Hamm", "Lennart Kraft"], "category": "M", "rank": {"category": 27, "total": 27}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:56.0", "names": ["Daniel Wandel", "Sebastian Pape"], "category": "M", "rank": {"category": 28, "total": 28}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:58.0", "names": ["Benjamin Breitling", "Finn-Marvin Engel"], "category": "M", "rank": {"category": 29, "total": 29}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:06:58.0", "names": ["Julia Klein", "Klaus Rinderknecht"], "category": "X", "rank": {"category": 1, "total": 29}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:02.0", "names": ["Jens Roob", "Marc Roob"], "category": "M", "rank": {"category": 30, "total": 31}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:03.0", "names": ["Justin Felleisen", "Nils Müller"], "category": "M", "rank": {"category": 31, "total": 32}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:04.0", "names": ["Alfredo Arteaga", "Ralf Hägele"], "category": "M", "rank": {"category": 32, "total": 33}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:09.0", "names": ["Falk Lammers", "Linus Pauschert"], "category": "M", "rank": {"category": 33, "total": 34}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:14.0", "names": ["Nicolas Mohr", "Willy Jäger"], "category": "M", "rank": {"category": 34, "total": 35}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:17.0", "names": ["Lars Hartmann", "Marc Sauermann"], "category": "M", "rank": {"category": 35, "total": 36}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:18.0", "names": ["Jeremias Volk", "Nils Häußer"], "category": "M", "rank": {"category": 36, "total": 37}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:21.0", "names": ["Marco Schurer", "Martin Guhs"], "category": "M", "rank": {"category": 37, "total": 38}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:21.0", "names": ["Dominik Schurdak", "Jonathan Philipp"], "category": "M", "rank": {"category": 38, "total": 38}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:24.0", "names": ["Andreas Fechner", "Marcos Oliveira"], "category": "M", "rank": {"category": 39, "total": 40}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:24.0", "names": ["Lukas Jäger", "Tamara Homburg"], "category": "X", "rank": {"category": 2, "total": 40}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:29.0", "names": ["Julian Bösler", "Julian Spitzer"], "category": "M", "rank": {"category": 40, "total": 42}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:30.0", "names": ["David Krohn", "Matthias Schneider"], "category": "M", "rank": {"category": 41, "total": 43}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:33.0", "names": ["Laurenz Gohlke", "Sascha Michel"], "category": "M", "rank": {"category": 42, "total": 44}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:36.0", "names": ["Klemens Hartmann", "Raffael Schimpf"], "category": "M", "rank": {"category": 43, "total": 45}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:37.0", "names": ["Adrian Till", "Supper Oliver"], "category": "M", "rank": {"category": 44, "total": 46}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:37.0", "names": ["Ben Brodbeck", "Robin Gölz"], "category": "M", "rank": {"category": 45, "total": 46}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:40.0", "names": ["Dominik Bast", "Fabian Pfann"], "category": "M", "rank": {"category": 46, "total": 48}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:47.0", "names": ["Philipp Schmidt", "Wolfgang Sorge"], "category": "M", "rank": {"category": 47, "total": 49}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:50.0", "names": ["Etienne Seidel", "Michael Benedikt"], "category": "M", "rank": {"category": 48, "total": 50}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:50.0", "names": ["David Melsheimer", "Hannah Lohrer"], "category": "X", "rank": {"category": 3, "total": 50}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:53.0", "names": ["Julian Weichert", "Micha Binder"], "category": "M", "rank": {"category": 49, "total": 52}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:53.0", "names": ["Juliane Schmidt", "Markus Braun"], "category": "X", "rank": {"category": 4, "total": 52}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:07:54.0", "names": ["Michael Metzler", "Michael Rentschler"], "category": "M", "rank": {"category": 50, "total": 54}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:00.0", "names": ["Heß Dominik", "Monika Blank"], "category": "X", "rank": {"category": 5, "total": 55}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:02.0", "names": ["Mika Wolfer", "Murat-Kaan Tuncel"], "category": "M", "rank": {"category": 51, "total": 56}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:04.0", "names": ["Finn Runge", "Jan Dieterle"], "category": "M", "rank": {"category": 52, "total": 57}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:05.0", "names": ["Ole Matthes Schanz", "Patroklus Witte"], "category": "M", "rank": {"category": 53, "total": 58}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:06.0", "names": ["Alexander Wacker", "Hannes Bea"], "category": "M", "rank": {"category": 54, "total": 59}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:06.0", "names": ["Paul Meßner", "Selina Hanakam"], "category": "X", "rank": {"category": 6, "total": 59}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:06.0", "names": ["Andreas Geiger", "Anna Köllner"], "category": "X", "rank": {"category": 7, "total": 59}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:11.0", "names": ["Oliver Weimer", "Tim Sonnet"], "category": "M", "rank": {"category": 55, "total": 62}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:15.0", "names": ["Katzmann Thorsten", "Leo Bönisch"], "category": "M", "rank": {"category": 56, "total": 63}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:16.0", "names": ["Björn Leon", "Heiko Leon"], "category": "M", "rank": {"category": 57, "total": 64}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:20.0", "names": ["Fabian Michel", "Meike Bartholomä"], "category": "X", "rank": {"category": 8, "total": 65}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:23.0", "names": ["David Müller", "Elia Huber"], "category": "M", "rank": {"category": 58, "total": 66}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:34.0", "names": ["Marco Walz", "Robin Lünser"], "category": "M", "rank": {"category": 59, "total": 67}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:37.0", "names": ["David Schadow", "Florian Münch"], "category": "M", "rank": {"category": 60, "total": 68}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:40.0", "names": ["Dominik Stark", "Philipp Schmid"], "category": "M", "rank": {"category": 61, "total": 69}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:42.0", "names": ["Falk Buhlmann", "Miriam Höftmann"], "category": "X", "rank": {"category": 9, "total": 70}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:46.0", "names": ["Chris Hauser", "Timo Heidlauf"], "category": "M", "rank": {"category": 62, "total": 71}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:54.0", "names": ["Felix Brückner", "Florian Bausch"], "category": "M", "rank": {"category": 63, "total": 72}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:08:55.0", "names": ["Katharina Hörz", "Sandro Rollberg"], "category": "X", "rank": {"category": 10, "total": 73}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:00.0", "names": ["Pascal Hoppe", "Volodymyr Kalach"], "category": "M", "rank": {"category": 64, "total": 74}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:04.0", "names": ["Andreas Zinser", "Fridolin Schäberle"], "category": "M", "rank": {"category": 65, "total": 75}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:07.0", "names": ["Kevin Waizenegger", "Ronja Hamm"], "category": "X", "rank": {"category": 11, "total": 76}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:15.0", "names": ["Friederike Hauschild", "Paula Kiesewetter"], "category": "W", "rank": {"category": 1, "total": 77}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:21.0", "names": ["Astrid Schimmer", "Lea Schimmer"], "category": "W", "rank": {"category": 2, "total": 78}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:21.0", "names": ["Daniel Neimayer", "Melina Malthaner"], "category": "X", "rank": {"category": 12, "total": 78}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:29.0", "names": ["Fabian Persinger", "Jens Adamaszek"], "category": "M", "rank": {"category": 66, "total": 80}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:54.0", "names": ["Dominik Ziegenhardt", "Michelle Eisenhardt"], "category": "X", "rank": {"category": 13, "total": 81}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:09:58.0", "names": ["Dominik Rohloff", "Tammo Brosch"], "category": "M", "rank": {"category": 67, "total": 82}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:02.0", "names": ["Lisa Berlinger", "Timo Hollerbach"], "category": "X", "rank": {"category": 14, "total": 83}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:06.0", "names": ["Jochen Lebsanft", "Jürgen Breitling"], "category": "M", "rank": {"category": 68, "total": 84}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:11.0", "names": ["Moritz Weiß", "Reinhard Hasler"], "category": "M", "rank": {"category": 69, "total": 85}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:14.0", "names": ["Kalle Müller", "Manfred Freimut"], "category": "M", "rank": {"category": 70, "total": 86}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:22.0", "names": ["Martin Lahr", "Thomas Maier"], "category": "M", "rank": {"category": 71, "total": 87}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:27.0", "names": ["Heike Herbrik", "Thomas Hödel"], "category": "X", "rank": {"category": 15, "total": 88}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:10:54.0", "names": ["Emma Stephan", "Leonie Felleisen"], "category": "W", "rank": {"category": 3, "total": 89}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:11:40.0", "names": ["Felix Brennenstuhl", "Sophia Stein"], "category": "X", "rank": {"category": 16, "total": 90}}
+{"date": "2025-09-27", "competition_id": "recCL9SM1OrTCEYpQ", "type": "OPA", "duration": "00:11:52.0", "names": ["Laura Stieb", "Patricia Kleß"], "category": "W", "rank": {"category": 4, "total": 91}}

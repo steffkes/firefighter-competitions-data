@@ -1,12 +1,36 @@
-from util import Spider, ParticipantItem, ResultItem, ResultRankItem
+from util import (
+    Spider,
+    ParticipantItem,
+    ResultItem,
+    ResultRankItem,
+    JsonLinesItemExporter,
+)
 import scrapy
 import re
+
+
+# we need aggregated results to determine the total rank
+class CustomExporter(JsonLinesItemExporter):
+    def finish_exporting(self):
+        sortedDuration = sorted(map(lambda item: item["duration"], self.items))
+
+        def mapFn(item):
+            item["rank"]["total"] = sortedDuration.index(item["duration"]) + 1
+            return item
+
+        self.items = list(map(mapFn, self.items))
+
+        super().finish_exporting()
 
 
 class CompetitionSpider(Spider):
     name = __name__
     race_id = "315247"
     race_key = "7e4105dee620c764485e85a405c3988f"
+
+    # extend global spider config
+    custom_settings = Spider.custom_settings
+    custom_settings["FEED_EXPORTERS"]["results"] = CustomExporter
 
     @staticmethod
     def fixName(name):

@@ -4248,7 +4248,7 @@
         "id": "recDJzP5qN1nddeWE",
         "kind": "FSR",
         "name": "LOTTO Thüringen Treppenlauf",
-        "url": null,
+        "url": "https://my.raceresult.com/362068/info",
         "participants": {
             "count": null
         },
@@ -4399,7 +4399,7 @@
         "date": {
             "start": "2026-05-22",
             "end": "2026-05-22",
-            "is_draft": true,
+            "is_draft": null,
             "is_canceled": null,
             "registration_opens": "2026-01-10T09:00:00.000Z"
         },

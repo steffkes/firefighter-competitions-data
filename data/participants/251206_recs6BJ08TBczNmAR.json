@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 19
+      "amount": 18
     }
   ],
-  "count": 520,
+  "count": 522,
   "teams": [
     [
       "1 Gewinner 1",
@@ -494,6 +494,10 @@
     [
       "HEIN Patrick",
       "SAUER Sebastian"
+    ],
+    [
+      "HELLER Bastian",
+      "KUHLMANN Peter"
     ],
     [
       "HELLFRITSCH Michel",

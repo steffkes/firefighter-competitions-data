@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 24
+      "amount": 22
     }
   ],
-  "count": 510,
+  "count": 514,
   "teams": [
     [
       "1 Gewinner 1",
@@ -452,6 +452,10 @@
       "RÖNEKE Niklas"
     ],
     [
+      "HAAS Alexander",
+      "REBHAN Tom"
+    ],
+    [
       "HAMMER Jens",
       "LANGWASSER Ulf"
     ],
@@ -670,6 +674,10 @@
     [
       "KOCH Claudia",
       "ZÜHLSDORFF Sebastian"
+    ],
+    [
+      "KOHL Eni",
+      "STILPE David"
     ],
     [
       "KOHL Enrico",

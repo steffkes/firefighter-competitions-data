@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 25
+      "amount": 24
     }
   ],
-  "count": 508,
+  "count": 510,
   "teams": [
     [
       "1 Gewinner 1",
@@ -786,6 +786,10 @@
     [
       "LEUS Ivan",
       "PRUIM Christijn"
+    ],
+    [
+      "LINSER Alexander",
+      "LINSER Oliver"
     ],
     [
       "LORENZ Lukas",

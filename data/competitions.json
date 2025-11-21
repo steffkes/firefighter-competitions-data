@@ -4080,14 +4080,14 @@
         "id": "recaZfWXTDzidPgls",
         "kind": "FSR",
         "name": "TuS Tower-Run",
-        "url": "http://tus-neukoelln.de/?p=2039",
+        "url": "http://tus-neukoelln.de/?p=2162",
         "participants": {
             "count": null
         },
         "date": {
             "start": "2026-01-11",
             "end": "2026-01-11",
-            "is_draft": true,
+            "is_draft": null,
             "is_canceled": null,
             "registration_opens": null
         },

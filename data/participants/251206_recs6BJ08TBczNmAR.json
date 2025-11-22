@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 18
+      "amount": 17
     }
   ],
-  "count": 522,
+  "count": 524,
   "teams": [
     [
       "1 Gewinner 1",
@@ -962,6 +962,10 @@
     [
       "RIEDEL Patrick",
       "VOIGT Tommy"
+    ],
+    [
+      "RÄDER Sandro",
+      "WOLFF Tom"
     ],
     [
       "RÖVER Lee",

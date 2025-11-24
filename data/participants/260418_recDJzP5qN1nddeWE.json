@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 97
+      "amount": 96
     }
   ],
-  "count": 104,
+  "count": 106,
   "teams": [
     [
       "Alexander Kook",
@@ -22,6 +22,10 @@
     [
       "Brian Schink",
       "Marcel Groth"
+    ],
+    [
+      "Carsten Held",
+      "Christian Buhl"
     ],
     [
       "Christian Mogalla",

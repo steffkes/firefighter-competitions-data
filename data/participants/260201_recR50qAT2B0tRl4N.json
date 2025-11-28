@@ -1,7 +1,7 @@
 {
   "competition_id": "recR50qAT2B0tRl4N",
   "slots": [],
-  "count": 76,
+  "count": 80,
   "teams": [
     [
       "Alan Dittrich",
@@ -140,6 +140,10 @@
       "Nick Hespeler"
     ],
     [
+      "Marvin Mocker",
+      "Steven Müller"
+    ],
+    [
       "Michael Bahmann",
       "Niko Tursky"
     ],
@@ -154,6 +158,10 @@
     [
       "Moritz Wegerich",
       "René Stange"
+    ],
+    [
+      "Robin Scherle",
+      "Timo Bender"
     ]
   ]
 }

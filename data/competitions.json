@@ -513,30 +513,6 @@
         }
     },
     {
-        "id": "recxKmZJUC6euLvWh",
-        "kind": "FSR",
-        "name": "Treppenlauf Oberhof",
-        "url": "http://runtix.com/sts/10021/2413",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-04-01",
-            "end": "2023-04-01",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Oberhof",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 50.6977798,
-                "lng": 10.6802269
-            }
-        }
-    },
-    {
         "id": "rec31B39JJfz4YZnP",
         "kind": "FSR",
         "name": "Subida Vertical Gran Hotel Bali",
@@ -4337,6 +4313,30 @@
             "coordinates": {
                 "lat": 51.1136793,
                 "lng": 13.6637052
+            }
+        }
+    },
+    {
+        "id": "recJYNtKcfXEUnP9x",
+        "kind": "FSR",
+        "name": "Schonacher Schanzenlauf",
+        "url": "http://www.schonacher-schanzenlauf.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-05-09",
+            "end": "2026-05-09",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Schonach",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.1352787,
+                "lng": 8.2023015
             }
         }
     },

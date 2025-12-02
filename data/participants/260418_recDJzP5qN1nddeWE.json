@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 90
+      "amount": 89
     }
   ],
-  "count": 110,
+  "count": 112,
   "teams": [
     [
       "Alexander Kook",
@@ -90,6 +90,10 @@
     [
       "Felix Poser",
       "Jeremy Heier"
+    ],
+    [
+      "Florian Eichhorn",
+      "Mathias Nüchterlein"
     ],
     [
       "Franziska Nowka",

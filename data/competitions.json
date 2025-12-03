@@ -1,68 +1,5 @@
 [
     {
-        "id": "recrqAwmbjNaiRQYm",
-        "kind": "FCC",
-        "name": "Firefighter Combat Challenge Austria",
-        "url": "http://www.fcc-austria.com/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2021-10-02",
-            "end": "2021-10-03",
-            "is_draft": null,
-            "is_canceled": true,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Tulln",
-            "country_code": "AT",
-            "coordinates": null
-        }
-    },
-    {
-        "id": "recY68VwoobFgiXbb",
-        "kind": "FCC",
-        "name": "Firefit Championships Europe",
-        "url": "https://firefit-europe.eu/gardelegen/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-04-29",
-            "end": "2022-05-01",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Gardelegen",
-            "country_code": "DE",
-            "coordinates": null
-        }
-    },
-    {
-        "id": "recrdmc7igYPWJuy1",
-        "kind": "FCC",
-        "name": "World Firefighters Games",
-        "url": null,
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-04-30",
-            "end": "2022-05-07",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Lissabon",
-            "country_code": "PT",
-            "coordinates": null
-        }
-    },
-    {
         "id": "rec3ZAb3HcJsgIhqs",
         "kind": "FCC",
         "name": "Firefit Championships Europe",
@@ -4279,7 +4216,7 @@
         "date": {
             "start": "2026-05-02",
             "end": "2026-05-03",
-            "is_draft": true,
+            "is_draft": null,
             "is_canceled": null,
             "registration_opens": null
         },
@@ -4581,6 +4518,30 @@
         }
     },
     {
+        "id": "recLEs3Wruz9VQIy1",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge Jihlava",
+        "url": "https://fcc-czech.cz",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-07-11",
+            "end": "2026-07-11",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Jihlava",
+            "country_code": "CZ",
+            "coordinates": {
+                "lat": 49.3963563,
+                "lng": 15.5892913
+            }
+        }
+    },
+    {
         "id": "recdVe8hJPvfOoeYb",
         "kind": "FCC",
         "name": "Leinetal Firefighter Combat Challenge",
@@ -4625,6 +4586,51 @@
             "coordinates": {
                 "lat": 51.2987046,
                 "lng": 9.4832572
+            }
+        }
+    },
+    {
+        "id": "recxzFrxF2TWZ8d2c",
+        "kind": "FCC",
+        "name": "Austria Firefighter Combat Challenge",
+        "url": "https://fcc-team-austria.at/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-09-12",
+            "end": "2026-09-13",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": null,
+            "country_code": "AT",
+            "coordinates": null
+        }
+    },
+    {
+        "id": "recPCpu8YS31OVRpR",
+        "kind": "FCC",
+        "name": "Firefighter Combat Challenge",
+        "url": "https://www.firefighter-challenge-germany.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-09-18",
+            "end": "2026-09-20",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2025-05-11T14:00:00.000Z"
+        },
+        "location": {
+            "city": "Berlin",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.5170365,
+                "lng": 13.3888599
             }
         }
     },

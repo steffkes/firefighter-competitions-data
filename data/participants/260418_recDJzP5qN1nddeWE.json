@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 89
+      "amount": 86
     }
   ],
-  "count": 114,
+  "count": 126,
   "teams": [
     [
       "Alexander Kook",
@@ -40,6 +40,14 @@
       "Schmidt Tobias"
     ],
     [
+      "Christian Stenzel",
+      "Kevin Schmidt"
+    ],
+    [
+      "Christin Röthel",
+      "Tanja Finger"
+    ],
+    [
       "Christoph Kreutzer",
       "Jörg Hartmann"
     ],
@@ -62,6 +70,14 @@
     [
       "Daniel Hecht",
       "Domenik Weitzmann"
+    ],
+    [
+      "Daniel Matthey",
+      "Oliver Ellinger"
+    ],
+    [
+      "Daniel Prinz",
+      "Silvio Wick"
     ],
     [
       "Dennis Ruhl",
@@ -128,6 +144,10 @@
       "Simon Schmidt"
     ],
     [
+      "Johannes Weise",
+      "Stefan Schulze"
+    ],
+    [
       "Justin Maaser",
       "Tommy Büttner"
     ],
@@ -174,6 +194,10 @@
     [
       "Markus Bechler",
       "Nico Krause"
+    ],
+    [
+      "Markus Fischer",
+      "Tom Röthel"
     ],
     [
       "Markus Krüger",

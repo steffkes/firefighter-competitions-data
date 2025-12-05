@@ -471,30 +471,6 @@
         }
     },
     {
-        "id": "rec1L3ebPq3SZYySy",
-        "kind": "FSR",
-        "name": "Subida Vertical Gran Hotel Bali",
-        "url": "http://subidagranhotelbali.com/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-04-22",
-            "end": "2023-04-22",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Benidorm",
-            "country_code": "ES",
-            "coordinates": {
-                "lat": 38.5314827,
-                "lng": -0.1637002
-            }
-        }
-    },
-    {
         "id": "recNxdIu7QKkFq4gT",
         "kind": "FSR",
         "name": "Zwickauer Hochhaus Treppenlauf",
@@ -4466,6 +4442,30 @@
             "coordinates": {
                 "lat": 48.7503279,
                 "lng": 8.5489542
+            }
+        }
+    },
+    {
+        "id": "recQxGvHMB5Pk3N1w",
+        "kind": "FSR",
+        "name": "Kölnturm Treppenlauf",
+        "url": "https://www.koelner-treppenlauf.de/anmeldung/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-06-21",
+            "end": "2026-06-21",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Köln",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.9480362,
+                "lng": 6.9431545
             }
         }
     },

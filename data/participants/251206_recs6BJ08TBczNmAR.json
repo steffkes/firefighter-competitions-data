@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 19
+      "amount": 18
     }
   ],
-  "count": 520,
+  "count": 434,
   "teams": [
     [
       "1 Gewinner 1",
@@ -44,16 +44,8 @@
       "HOSE Tristan"
     ],
     [
-      "BAIER Heiko",
-      "WINKLER Marcel"
-    ],
-    [
       "BAKKER David",
       "KLAASEN Rob"
-    ],
-    [
-      "BALBIERER Pauline",
-      "REIMANN Bente Marta"
     ],
     [
       "BANTEL Michael",
@@ -62,10 +54,6 @@
     [
       "BARTAUNE Lea",
       "ROMMER Tim"
-    ],
-    [
-      "BARTELT Alex",
-      "VOIGT Philip"
     ],
     [
       "BARTSCH Tobias",
@@ -88,16 +76,8 @@
       "REICHELT Paul Michael"
     ],
     [
-      "BECK Henri",
-      "JUFFA Moritz"
-    ],
-    [
       "BECKER Ronny",
       "SCHERER Hagen"
-    ],
-    [
-      "BEHMKE Elias",
-      "OBERMANN Jens"
     ],
     [
       "BERG Markus",
@@ -120,16 +100,8 @@
       "JÜLICH Marcel"
     ],
     [
-      "BLOCK Finn",
-      "MATTIES Lucas"
-    ],
-    [
       "BLUME Harry",
       "HEIDER Stefan"
-    ],
-    [
-      "BLUME Sandro",
-      "PAUL Alexander"
     ],
     [
       "BLUMENSTEIN Alexander",
@@ -138,10 +110,6 @@
     [
       "BLUT Ingo",
       "ROTH Rosario"
-    ],
-    [
-      "BLÜMMERT Fabian",
-      "SCHMITT Matthias"
     ],
     [
       "BODE René",
@@ -172,20 +140,12 @@
       "RAU Steven"
     ],
     [
-      "BROST Leonard",
-      "MONREAL Thomas"
-    ],
-    [
       "BUBNER Chiara",
       "KRÜGER Julia"
     ],
     [
       "BUROW Jascha",
       "JANßEN Carsten"
-    ],
-    [
-      "BÄHRE Alexander",
-      "MENZEL Justus"
     ],
     [
       "BÖHM Marin",
@@ -208,14 +168,6 @@
       "LINDLEIN Gerrit"
     ],
     [
-      "COLBERG Svenja",
-      "RISCHE Jan-Nick"
-    ],
-    [
-      "DEGENHARDT Sebastian",
-      "NOLL Sidney"
-    ],
-    [
       "DEMBECK Nils",
       "SCHMIED Torsten"
     ],
@@ -236,20 +188,16 @@
       "KUBIS Georg"
     ],
     [
-      "DILLINGER Christian",
-      "HOFFMANN Vincent"
-    ],
-    [
       "DITTMANN Max",
       "GRIESER Sebastian"
     ],
     [
-      "DORNHOFER Roberto",
-      "KAUFUNG Leon"
+      "DORNHOFER Joel",
+      "HASSE Alexander"
     ],
     [
       "DRANSFELD Max",
-      "GROßE Rebekka"
+      "KAUFUNG Leon"
     ],
     [
       "DREYER Florian",
@@ -262,10 +210,6 @@
     [
       "DÖBERT Mirko",
       "SCHEURING Robin"
-    ],
-    [
-      "DÖLL Rocky",
-      "FLÄHMIH Elias"
     ],
     [
       "DÜFFERT Henrik",
@@ -290,10 +234,6 @@
     [
       "EGLE Lennard",
       "WILHELM Martin"
-    ],
-    [
-      "EHRICHT Matthias",
-      "HENZE Jörg"
     ],
     [
       "EICHSTETTER Patrick",
@@ -336,10 +276,6 @@
       "SIEBERT Steffen"
     ],
     [
-      "FLEISCHHAUER Manuel",
-      "NEUMANN Paul"
-    ],
-    [
       "FLOCK Enrico",
       "KIESER Erik"
     ],
@@ -366,10 +302,6 @@
     [
       "FREIMUTH Marius",
       "VON CHAMIER Kay"
-    ],
-    [
-      "FRIEDRICH Andreas",
-      "TÖNGES Alexander"
     ],
     [
       "FRIEDRICH Michael",
@@ -408,10 +340,6 @@
       "SPRANGER Christoph"
     ],
     [
-      "GERSTEN Martin",
-      "HAUSMANN Maximilian"
-    ],
-    [
       "GIERING Jonas",
       "JENNRICH Christoph"
     ],
@@ -437,15 +365,11 @@
     ],
     [
       "GREIS Alexander",
-      "HEINZE Nelly"
-    ],
-    [
-      "GREIS Alexander",
       "SCHLONSAK Uwe"
     ],
     [
-      "GRIEßMANN Hendrik",
-      "ROßDEUTSCH Manuel"
+      "GROßE Rebekka",
+      "KAUFUNG Tobias"
     ],
     [
       "GRÜNER Christian",
@@ -462,10 +386,6 @@
     [
       "GÖTZ Dominic Leon",
       "SCHILLING Lukas"
-    ],
-    [
-      "GÜNZEL Markus",
-      "ROST Wendel"
     ],
     [
       "GÜRTLER Marvin",
@@ -536,10 +456,6 @@
       "JOHNE Christoph"
     ],
     [
-      "HERBORN Björn",
-      "PÄTZOLT Daniel"
-    ],
-    [
       "HERING Eric",
       "MARIENTHAL Stefan"
     ],
@@ -564,10 +480,6 @@
       "WEIPRECHT Michael"
     ],
     [
-      "HOCKAUF Florian",
-      "THORMEYER Julian"
-    ],
-    [
       "HOFFMANN Jan",
       "WILD Hannes"
     ],
@@ -578,10 +490,6 @@
     [
       "HOMEYER Lars",
       "KRÖSCH Tobias"
-    ],
-    [
-      "HOPPE Mike",
-      "STEINKE Thorsten"
     ],
     [
       "HORN Joshua",
@@ -620,10 +528,6 @@
       "SCHULZ Alexander"
     ],
     [
-      "JUFFA Marco",
-      "URBACH Verena"
-    ],
-    [
       "JUFFA Philipp",
       "LINDLEIN Gerrit"
     ],
@@ -634,10 +538,6 @@
     [
       "JÄGER Lenia",
       "NEHRDICH Pascal"
-    ],
-    [
-      "JÄGER Robert",
-      "KARG Martin"
     ],
     [
       "JÄGER Rune",
@@ -665,7 +565,7 @@
     ],
     [
       "KAUFUNG Mario",
-      "PAUL Emma"
+      "PAUL Felix"
     ],
     [
       "KAUFUNG Tobias",
@@ -712,10 +612,6 @@
       "MEIRITZ Maik"
     ],
     [
-      "KORDTS Patrick",
-      "MEGERT Kevin"
-    ],
-    [
       "KRATZER Felix",
       "ZIEGAUS Jonas"
     ],
@@ -726,10 +622,6 @@
     [
       "KRAUSE Pascal",
       "POSER Jonas"
-    ],
-    [
-      "KRAUTWURST Florian",
-      "LUTAT Christian"
     ],
     [
       "KRAUß Dominik",
@@ -744,20 +636,8 @@
       "ROCHOLL Marco"
     ],
     [
-      "KRÖBER Konrad",
-      "LEHNIGK Nico"
-    ],
-    [
-      "KULHÁNEK Jakub",
-      "URBAN Petr"
-    ],
-    [
       "KUNTER Daniel",
       "SCHRÖTER Fabian"
-    ],
-    [
-      "KUNZ Rene",
-      "TÄNZER Mirko"
     ],
     [
       "KÖNIG Nils",
@@ -766,10 +646,6 @@
     [
       "KÜNZEL Sebastian",
       "NEUGEBAUER Kai"
-    ],
-    [
-      "LANG Alexander",
-      "STRAUCH Michael"
     ],
     [
       "LANG Vanessa",
@@ -794,10 +670,6 @@
     [
       "LEPPIG Hannes",
       "LEUNERT Tom"
-    ],
-    [
-      "LETTOW Jasper",
-      "MAAß Florian"
     ],
     [
       "LEUS Ivan",
@@ -828,16 +700,8 @@
       "SIMON Klaus"
     ],
     [
-      "MAAS Christopher",
-      "MILOBARA Maximilian"
-    ],
-    [
       "MAIER Markus",
       "SCHNEIDER Ralf"
-    ],
-    [
-      "MARKS Christian",
-      "OERTELT-GRIMM Florian"
     ],
     [
       "MARKS Johannes",
@@ -876,20 +740,8 @@
       "ZAPLETAL Karel"
     ],
     [
-      "MUNZ Luca",
-      "SAUERLAND Mick"
-    ],
-    [
-      "MÜLLER Christopher",
-      "ROSE Lukas"
-    ],
-    [
       "MÜLLER Robert",
       "WÖLKNER Luis"
-    ],
-    [
-      "MÜLLER Sascha",
-      "TOMKOWIAK Andre"
     ],
     [
       "OKLITSCHEK Yannik",
@@ -900,10 +752,6 @@
       "SCHWALKE David"
     ],
     [
-      "OLUCHA Joan",
-      "STEIN Fabian"
-    ],
-    [
       "OSSE Hendrik",
       "SCHÄDEL Paul"
     ],
@@ -912,12 +760,8 @@
       "TIETZ Leon"
     ],
     [
-      "PAPE Vanessa",
-      "ULLRICH Stefan"
-    ],
-    [
-      "PAUL Felix",
-      "ZISLER Willy"
+      "PAUL Alexander",
+      "PAUL Karina"
     ],
     [
       "PAULI Vincent",
@@ -946,10 +790,6 @@
     [
       "REICHELT Lea Mara",
       "SCHMIDT Daniel"
-    ],
-    [
-      "REITH Christopher",
-      "SCHACK Torsten"
     ],
     [
       "RIEDEL Patrick",
@@ -1006,18 +846,6 @@
     [
       "SCHNEIDER Frank",
       "WICHT Michael"
-    ],
-    [
-      "SCHNEIDER Peer",
-      "TEUCHERT Martin"
-    ],
-    [
-      "SCHNEIDEREIT Kirsten",
-      "SCHWERDT Björn"
-    ],
-    [
-      "SCHUMANN Andreas",
-      "SCHUMANN Marius"
     ],
     [
       "SCHWEIGERT Elly",

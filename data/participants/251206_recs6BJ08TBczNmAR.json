@@ -80,10 +80,6 @@
       "NOACK Thomas"
     ],
     [
-      "BAUMANN Jannes",
-      "MINDERLEIN Christoph"
-    ],
-    [
       "BEBENSEE Malte",
       "REICHELT Paul Michael"
     ],
@@ -140,12 +136,16 @@
       "SCHMITT Matthias"
     ],
     [
+      "BLÜMMERT Fabian",
+      "SCHUBERT Justin"
+    ],
+    [
       "BODE René",
       "KULHAWY Alexander"
     ],
     [
       "BOESLER Nadja",
-      "ZÄDOW Lukas"
+      "WENDEROTH Benjamin"
     ],
     [
       "BORN Ian",
@@ -182,10 +182,6 @@
     [
       "BÄHRE Alexander",
       "MENZEL Justus"
-    ],
-    [
-      "BÖHM Marin",
-      "GÖTTLINGER Johannes"
     ],
     [
       "BÖHM Robert",
@@ -392,10 +388,6 @@
       "SAUTER Patrick"
     ],
     [
-      "GERBETH Lukas",
-      "SCHUBERT Justin"
-    ],
-    [
       "GERMUHL Kevin",
       "SPRANGER Christoph"
     ],
@@ -456,6 +448,10 @@
       "SCHMIDT Noa"
     ],
     [
+      "GÖTTLINGER Johannes",
+      "PANDZA Heiko"
+    ],
+    [
       "GÖTZ Dominic Leon",
       "SCHILLING Lukas"
     ],
@@ -508,10 +504,6 @@
       "SCHNECKENHAUS Daniel"
     ],
     [
-      "HELWIG Stefan",
-      "HEYDER Clemens"
-    ],
-    [
       "HEMMANN Norma",
       "WEDEL Florian"
     ],
@@ -536,8 +528,8 @@
       "PÄTZOLT Daniel"
     ],
     [
-      "HERING Eric",
-      "MARIENTHAL Stefan"
+      "HEYDER Clemens",
+      "WAGNER John"
     ],
     [
       "HEßDÖRFER Jessica",
@@ -736,6 +728,10 @@
       "ROCHOLL Marco"
     ],
     [
+      "KRUK Kevin",
+      "ROCHOLL Marco"
+    ],
+    [
       "KRÖBER Konrad",
       "LEHNIGK Nico"
     ],
@@ -782,6 +778,10 @@
     [
       "LEHMANN Philipp",
       "RICHTER Daniel"
+    ],
+    [
+      "LEIHNDORF Leon",
+      "ZÄDOW Lukas"
     ],
     [
       "LEPPIG Hannes",
@@ -852,16 +852,16 @@
       "RIEMER Marcus"
     ],
     [
-      "MAYER Lars",
-      "WENDEROTH Benjamin"
-    ],
-    [
       "MEYER Axel",
       "PETERS Florian"
     ],
     [
       "MEYER Burkhard",
       "REISEWITZ Andre"
+    ],
+    [
+      "MINDERLEIN Christoph",
+      "SOWINSKI Thorben"
     ],
     [
       "MOOZ Lukas",

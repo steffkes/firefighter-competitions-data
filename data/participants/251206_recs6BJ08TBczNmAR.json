@@ -5,19 +5,11 @@
       "amount": 21
     }
   ],
-  "count": 516,
+  "count": 176,
   "teams": [
     [
       "ABRAM David",
       "SCHLEGEL Tom"
-    ],
-    [
-      "ACHILLES Julian",
-      "TIETGE Jan-Philipp"
-    ],
-    [
-      "ALBRECHT Rolf",
-      "WERNER Andreas"
     ],
     [
       "ALFANZ Jürgen",
@@ -36,24 +28,8 @@
       "RUPP Sascha"
     ],
     [
-      "ASTER Pierre",
-      "PÖTZSCH Stephan"
-    ],
-    [
-      "AUWEILER Leon",
-      "HOSE Tristan"
-    ],
-    [
-      "BAIER Heiko",
-      "LANGGUT Max"
-    ],
-    [
       "BAKKER David",
       "KLAASEN Rob"
-    ],
-    [
-      "BALBIERER Pauline",
-      "REIMANN Bente Marta"
     ],
     [
       "BANTEL Michael",
@@ -62,10 +38,6 @@
     [
       "BARTAUNE Lea",
       "ROMMER Tim"
-    ],
-    [
-      "BARTELT Alex",
-      "VOIGT Philip"
     ],
     [
       "BARTSCH Tobias",
@@ -84,136 +56,28 @@
       "REICHELT Paul Michael"
     ],
     [
-      "BECK Henri",
-      "JUFFA Moritz"
-    ],
-    [
-      "BECKER Ronny",
-      "SCHERER Hagen"
-    ],
-    [
-      "BEHMKE Elias",
-      "OBERMANN Jens"
-    ],
-    [
-      "BERG Markus",
-      "BERG Thorben"
-    ],
-    [
-      "BERGEN Jana",
-      "HEIDER Silke"
-    ],
-    [
       "BEYER Maik",
       "MÜLLER Robert"
-    ],
-    [
-      "BEßLER Joy Ann",
-      "SÄNGER Paul"
     ],
     [
       "BLAU Phillip",
       "JÜLICH Marcel"
     ],
     [
-      "BLOCK Finn",
-      "MATHIES Lucas"
-    ],
-    [
       "BLUME Harry",
       "HEIDER Stefan"
-    ],
-    [
-      "BLUMENSTEIN Alexander",
-      "MERKEL Linus"
-    ],
-    [
-      "BLUT Ingo",
-      "ROTH Rosario"
-    ],
-    [
-      "BLÜMMERT Fabian",
-      "SCHMITT Matthias"
-    ],
-    [
-      "BLÜMMERT Fabian",
-      "SCHUBERT Justin"
     ],
     [
       "BODE René",
       "KULHAWY Alexander"
     ],
     [
-      "BOESLER Nadja",
-      "WENDEROTH Benjamin"
-    ],
-    [
-      "BORN Ian",
-      "PETZOLD Jamie"
-    ],
-    [
-      "BORT Jannik",
-      "KUNDER Johannes"
-    ],
-    [
-      "BRAND Dominik",
-      "MEYENSCHEIN Niclas"
-    ],
-    [
       "BRANDT Sebastian",
       "FUTH Jannik"
     ],
     [
-      "BRODDE Jeremy",
-      "RAU Steven"
-    ],
-    [
-      "BUBNER Chiara",
-      "KRÜGER Julia"
-    ],
-    [
-      "BUROW Jascha",
-      "JANßEN Carsten"
-    ],
-    [
-      "BÄHRE Alexander",
-      "MENZEL Justus"
-    ],
-    [
-      "BÖHM Robert",
-      "MEHLER Michael"
-    ],
-    [
-      "BÜRGE Fabian",
-      "LEINHOS Steve"
-    ],
-    [
-      "CARL Daniela",
-      "HEIDER Lorena"
-    ],
-    [
-      "CLEMENS Maurice",
-      "LINDLEIN Gerrit"
-    ],
-    [
-      "COLBERG Svenja",
-      "RISCHE Jan-Nick"
-    ],
-    [
-      "DAHINTEN Marcel Otto",
-      "HENNING Jakob"
-    ],
-    [
       "DEMBECK Nils",
       "SCHMIED Torsten"
-    ],
-    [
-      "DEUBEL Maurice",
-      "SCHÄFER Sebastian"
-    ],
-    [
-      "DIEDRIGKEIT Tobias",
-      "THIEL Dominik"
     ],
     [
       "DIERCKS Kevin",
@@ -224,64 +88,16 @@
       "KUBIS Georg"
     ],
     [
-      "DILLINGER Christian",
-      "STEIN Fabian"
-    ],
-    [
-      "DITTMANN Max",
-      "GRIESER Sebastian"
-    ],
-    [
       "DORNHOFER Joel",
       "HASSE Alexander"
-    ],
-    [
-      "DRANSFELD Max",
-      "KAUFUNG Leon"
     ],
     [
       "DUPSLAFF Christian",
       "ILLEIN Marco"
     ],
     [
-      "DÖBERT Mirko",
-      "SCHEURING Robin"
-    ],
-    [
-      "DÖLL Rocky",
-      "FLÄHMIH Elias"
-    ],
-    [
-      "DÜFFERT Mareile",
-      "FUHRMANN Marvin"
-    ],
-    [
       "DÜLL Ina",
       "POLZIN Claudio"
-    ],
-    [
-      "EBERMANN Bruno",
-      "FREUDENBERG Max"
-    ],
-    [
-      "ECKELT Yannick",
-      "MATTHÄUS Cedric"
-    ],
-    [
-      "EGLE Lennard",
-      "WILHELM Martin"
-    ],
-    [
-      "EHRICHT Matthias",
-      "HENZE Jörg"
-    ],
-    [
-      "EICHSTETTER Patrick",
-      "GÖTZ Stefan"
-    ],
-    [
-      "ENGELHARDT Andreas",
-      "LEIPOLD Torsten"
     ],
     [
       "ESCHENBACHER Tim",
@@ -290,18 +106,6 @@
     [
       "EUCHLER Moritz Rudi",
       "WINKLER Damon"
-    ],
-    [
-      "FAUPEL Marco",
-      "FEIGE Tommy"
-    ],
-    [
-      "FEIGE Simeon",
-      "KANDETZKI Bryan"
-    ],
-    [
-      "FERSTL Lukas",
-      "FOCHLER Martin"
     ],
     [
       "FLADE Rick",
@@ -324,104 +128,16 @@
       "REINHARDT Jana"
     ],
     [
-      "FREIGANG Jasmin",
-      "FREIGANG Maik"
-    ],
-    [
-      "FREIGANG Maik",
-      "GREIS Alexander"
-    ],
-    [
-      "FREIGANG Maik",
-      "SAUER Sabine"
-    ],
-    [
-      "FREIMUTH Marius",
-      "PITRUSKA Laura"
-    ],
-    [
-      "FRIEDRICH Andreas",
-      "TÖNGES Alexander"
-    ],
-    [
-      "FRIEDRICH Michael",
-      "JUNGBAUER Martino"
-    ],
-    [
-      "FRITSCH Andrè",
-      "LIEBERMANN Nico"
-    ],
-    [
-      "FROMME Alex",
-      "VOIGT Torben"
-    ],
-    [
       "FRÖHLICH Matthias",
       "STUMM Matthias"
-    ],
-    [
-      "FRÖHLICH Tobias",
-      "WILSKI Immo"
-    ],
-    [
-      "FUß Tony",
-      "NAST Benjamin"
-    ],
-    [
-      "GERBER Janine",
-      "SAUTER Patrick"
-    ],
-    [
-      "GERMUHL Kevin",
-      "SPRANGER Christoph"
-    ],
-    [
-      "GERSTEN Martin",
-      "HAUSMANN Maximilian"
-    ],
-    [
-      "GIERING Jonas",
-      "JENNRICH Christoph"
     ],
     [
       "GILBERT Simon",
       "LIFZIK Lorenz"
     ],
     [
-      "GLOTZBACH Matthias",
-      "KÖRBER Steven"
-    ],
-    [
-      "GOTTFRIED Alexander",
-      "SCHUMACHER Marcel"
-    ],
-    [
-      "GOTTSCHALK Sarah",
-      "KEIL Christian"
-    ],
-    [
-      "GRABARSE Mario",
-      "THOMANN Marcel"
-    ],
-    [
       "GRABS Leon",
       "KARGE Jost"
-    ],
-    [
-      "GRAMBS Oliver",
-      "HESSE Martin"
-    ],
-    [
-      "GREIS Alexander",
-      "SCHLONSAK Uwe"
-    ],
-    [
-      "GRIEßMANN Hendrik",
-      "ROßDEUTSCH Manuel"
-    ],
-    [
-      "GROßE Rebekka",
-      "KAUFUNG Tobias"
     ],
     [
       "GRÜNER Christian",
@@ -444,40 +160,16 @@
       "SCHILLING Lukas"
     ],
     [
-      "GÜNZEL Markus",
-      "ROST Wendel"
-    ],
-    [
       "GÜRTLER Marvin",
       "RÖNEKE Niklas"
-    ],
-    [
-      "HAAS Alexander",
-      "REBHAN Tom"
-    ],
-    [
-      "HAMMER Jens",
-      "LANGWASSER Ulf"
     ],
     [
       "HARTUNG Felix",
       "MANN Lukas"
     ],
     [
-      "HAUSCHILD Richard",
-      "SICKERT Florian"
-    ],
-    [
-      "HAVMAND Daniel",
-      "NEDERGAARD Ole"
-    ],
-    [
       "HAWELLEK Julian",
       "MICHAELIS Jörn"
-    ],
-    [
-      "HAßBACH Artur",
-      "HEISE Clemens"
     ],
     [
       "HEIDER Jannis",
@@ -496,88 +188,24 @@
       "SCHNECKENHAUS Daniel"
     ],
     [
-      "HEMMANN Norma",
-      "WEDEL Florian"
-    ],
-    [
-      "HENTSCHEL Felix",
-      "LEMM Matthias"
-    ],
-    [
-      "HERBERICH Jürgen",
-      "HERBERICH Markus"
-    ],
-    [
-      "HERBERICH Philipp",
-      "JOHNE Christoph"
-    ],
-    [
-      "HERBORN Björn",
-      "PÄTZOLT Daniel"
-    ],
-    [
-      "HEYDER Clemens",
-      "WAGNER John"
-    ],
-    [
-      "HEßDÖRFER Jessica",
-      "ZEIDLER Peter"
-    ],
-    [
-      "HIEKEL Daniel",
-      "STOLZE Kevin"
-    ],
-    [
       "HILDEBRANDT Robert",
       "HÖHNE Bruno"
-    ],
-    [
-      "HILLEBRAND Lorenz",
-      "PFLEGHAAR Gabriel"
-    ],
-    [
-      "HILPERT Anke",
-      "WEIPRECHT Michael"
     ],
     [
       "HILPERT Paul",
       "NEHRDICH Pascal"
     ],
     [
-      "HOCKAUF Florian",
-      "THORMEYER Julian"
-    ],
-    [
       "HOFFMANN Jan",
       "WILD Hannes"
-    ],
-    [
-      "HOFMANN Hugo",
-      "OBERENDER Sascha"
-    ],
-    [
-      "HOMEYER Lars",
-      "KRÖSCH Tobias"
-    ],
-    [
-      "HOPPE Mike",
-      "STEINKE Thorsten"
     ],
     [
       "HORN Joshua",
       "MALCHER Frank"
     ],
     [
-      "HÄNEL Marvin",
-      "WAGNER Maximilian"
-    ],
-    [
       "HÄNKE Hans",
       "JONASCH Paul"
-    ],
-    [
-      "HÄUSLER Peter",
-      "SIMON Lara"
     ],
     [
       "HÖHER Julian",
@@ -588,36 +216,16 @@
       "WEIß Svenja"
     ],
     [
-      "HÖRSCHELMANN Daniel",
-      "LORBACH Tamina"
-    ],
-    [
-      "JAGUSCH Adrian",
-      "REICHELT Kai"
-    ],
-    [
       "JENKNER Richard",
       "KERSTEN Christin"
-    ],
-    [
-      "JENNRICH Isabell",
-      "SCHULZ Alexander"
-    ],
-    [
-      "JUFFA Marco",
-      "URBACH Verena"
     ],
     [
       "JUFFA Philipp",
       "LINDLEIN Gerrit"
     ],
     [
-      "JUNG Kevin",
-      "KÖPKE Elias"
-    ],
-    [
-      "JÄGER Robert",
-      "KARG Martin"
+      "JUNGBAUER Martino",
+      "KEIL Christian"
     ],
     [
       "JÄGER Rune",
@@ -628,28 +236,8 @@
       "LUCIUS Monique"
     ],
     [
-      "KADEN Matthias",
-      "KAUFMANN Michael"
-    ],
-    [
-      "KAISER Anja",
-      "SCHÄFER Yvonne"
-    ],
-    [
       "KAISER Bastian",
       "USCHOLD Markus"
-    ],
-    [
-      "KAPLAN Christian",
-      "MACHALKE Martin"
-    ],
-    [
-      "KAUFUNG Mario",
-      "PAUL Felix"
-    ],
-    [
-      "KAUFUNG Tobias",
-      "PAUL Karina"
     ],
     [
       "KIESSBAUER Kevin",
@@ -668,100 +256,12 @@
       "KRÜGER Maimuna"
     ],
     [
-      "KNAKOWSKI Lukas",
-      "SCHRÖTER Daniel"
-    ],
-    [
-      "KOCH Claudia",
-      "ZÜHLSDORFF Sebastian"
-    ],
-    [
-      "KOHL Eni",
-      "STILPE David"
-    ],
-    [
-      "KOHL Enrico",
-      "TUCHBREITER Nicole"
-    ],
-    [
-      "KOHLMANN Dominik",
-      "PFETZING Sarah"
-    ],
-    [
-      "KOHRS Karsten Kala",
-      "MEIRITZ Maik"
-    ],
-    [
-      "KORDTS Patrick",
-      "MEGERT Kevin"
-    ],
-    [
-      "KRATZER Felix",
-      "ZIEGAUS Jonas"
-    ],
-    [
-      "KRAUSE Oliver",
-      "KRAUSE Thomas"
-    ],
-    [
-      "KRAUSE Pascal",
-      "POSER Jonas"
-    ],
-    [
-      "KRAUTWURST Florian",
-      "LUTAT Christian"
-    ],
-    [
-      "KRAUß Dominik",
-      "SPRANGER Felix"
-    ],
-    [
-      "KRIMM Jennifer",
-      "WEIß Anne"
-    ],
-    [
-      "KRUK Kevin",
-      "ROCHOLL Marco"
-    ],
-    [
-      "KRUK Kevin",
-      "ROCHOLL Marco"
-    ],
-    [
-      "KRÖBER Konrad",
-      "MONREAL Thomas"
-    ],
-    [
-      "KRÖBER Stefan",
-      "LEHNIGK Nico"
-    ],
-    [
-      "KULHÁNEK Jakub",
-      "URBAN Petr"
-    ],
-    [
       "KUNTER Daniel",
       "SCHRÖTER Fabian"
     ],
     [
-      "KUNZ Rene",
-      "TÄNZER Mirko"
-    ],
-    [
-      "KÖNIG Nils",
-      "SCHÖNIAN Manuel"
-    ],
-    [
       "KÜNZEL Sebastian",
       "PALAS Marcel"
-    ],
-    [
-      "LANG Alexander",
-      "STRAUCH Michael"
-    ],
-    [
-      "LANG Vanessa",
-      "SCHLOTH Hannes"
     ],
     [
       "LANGENHAHN Erik",
@@ -776,120 +276,32 @@
       "VOELZKE Maximilian"
     ],
     [
-      "LEHMANN Philipp",
-      "RICHTER Daniel"
-    ],
-    [
-      "LEIHNDORF Leon",
-      "ZÄDOW Lukas"
-    ],
-    [
       "LEPPIG Hannes",
       "LEUNERT Tom"
-    ],
-    [
-      "LETTOW Jasper",
-      "MAAß Florian"
     ],
     [
       "LEUS Ivan",
       "PRUIM Christijn"
     ],
     [
-      "LINSER Alexander",
-      "LINSER Oliver"
-    ],
-    [
-      "LORENZ Lukas",
-      "MENZEL Toni"
-    ],
-    [
-      "LORENZ Mathias",
-      "RUDER Daniel"
-    ],
-    [
-      "LOTHER Julian",
-      "WAGNER Lena"
-    ],
-    [
-      "LUDWIG Steffen",
-      "SCHAU Sebastian"
-    ],
-    [
       "LÜCKER Lena",
       "SIMON Klaus"
-    ],
-    [
-      "MAAS Christopher",
-      "MILOBARA Maximilian"
-    ],
-    [
-      "MARKS Christian",
-      "OERTELT-GRIMM Florian"
-    ],
-    [
-      "MARKS Johannes",
-      "PUSCHER Vincent"
-    ],
-    [
-      "MARTIN Jonas",
-      "SAHNER Leah"
     ],
     [
       "MATHEIS Stefan",
       "WEIß Alexander"
     ],
     [
-      "MATTHESSEN Mats",
-      "STEIN Fabian"
-    ],
-    [
-      "MATTHIESEN Stev",
-      "RIEMER Marcus"
-    ],
-    [
-      "MEYER Axel",
-      "PETERS Florian"
-    ],
-    [
-      "MEYER Burkhard",
-      "REISEWITZ Andre"
-    ],
-    [
-      "MILOBARA Maximilian",
-      "NEUMANN Paul"
-    ],
-    [
       "MINDERLEIN Christoph",
       "SOWINSKI Thorben"
     ],
     [
-      "MOOZ Lukas",
-      "ZAPLETAL Karel"
-    ],
-    [
-      "MUNZ Luca",
-      "SAUERLAND Mick"
-    ],
-    [
-      "MÜLLER Christopher",
-      "ROSE Lukas"
-    ],
-    [
-      "MÜLLER Robert",
-      "WÖLKNER Luis"
-    ],
-    [
-      "MÜLLER Sascha",
-      "TOMKOWIAK Andre"
+      "MÜLLER Isabelle",
+      "VOGEL Jan"
     ],
     [
       "NOACK Johannes",
       "SCHÜTZE Tim"
-    ],
-    [
-      "NOLL Sidney",
-      "PAUL Felix"
     ],
     [
       "OKLITSCHEK Yannik",
@@ -900,32 +312,16 @@
       "SCHWALKE David"
     ],
     [
-      "OSSE Hendrik",
-      "SCHÄDEL Paul"
-    ],
-    [
       "PANDZA Heiko",
       "TIETZ Leon"
-    ],
-    [
-      "PAPE Vanessa",
-      "ULLRICH Stefan"
     ],
     [
       "PAUL Alexander",
       "PAUL Karina"
     ],
     [
-      "PAULI Vincent",
-      "PÖHL Silvio"
-    ],
-    [
       "PLEIER Johannes",
       "RÖSCH Tobias"
-    ],
-    [
-      "POLNIK Benny",
-      "WENDLER Leon"
     ],
     [
       "POSTEL Sven",
@@ -936,20 +332,12 @@
       "THIERBACH Marcel"
     ],
     [
-      "REICHELT Lea Mara",
-      "SCHMIDT Daniel"
+      "ROHKOHL Julian",
+      "STOLZE Kevin"
     ],
     [
-      "REITH Christopher",
-      "SCHACK Torsten"
-    ],
-    [
-      "RIEDEL Patrick",
-      "VOIGT Tommy"
-    ],
-    [
-      "RÄDER Sandro",
-      "WOLFF Tom"
+      "RUDER Daniel",
+      "RUDER Thomas"
     ],
     [
       "RÖSCH Florian",
@@ -960,84 +348,16 @@
       "WITSCHAß Manuel"
     ],
     [
-      "RÜSTER Riccardo",
-      "WENZEL Leon"
-    ],
-    [
-      "SALOMON Oliver",
-      "STOLLBERG Tobias"
-    ],
-    [
-      "SAUPE Frank",
-      "STILPER David"
-    ],
-    [
-      "SAUPE Frank",
-      "WEICKMANN Matthias"
-    ],
-    [
-      "SCHAAR Jan",
-      "SCHAAR Niclas"
-    ],
-    [
-      "SCHENK Ronny",
-      "STRAUß Henry"
-    ],
-    [
-      "SCHMID Hannes",
-      "STOLZ Jochen"
-    ],
-    [
-      "SCHMIDT Lukas",
-      "STEIN Justin"
-    ],
-    [
-      "SCHMITT Julian",
-      "SCHÖNEK Martina"
-    ],
-    [
       "SCHMITT Ole",
       "SEUFERT Jakob"
-    ],
-    [
-      "SCHNEIDER Frank",
-      "WICHT Michael"
-    ],
-    [
-      "SCHNEIDER Peer",
-      "TEUCHERT Martin"
-    ],
-    [
-      "SCHNEIDEREIT Kirsten",
-      "SCHWERDT Björn"
-    ],
-    [
-      "SCHUMANN Andreas",
-      "SCHUMANN Marius"
-    ],
-    [
-      "SCHWEIGERT Elly",
-      "ZEINER Yvonne"
     ],
     [
       "SCHÄFER Adrian",
       "SCURLA Michael"
     ],
     [
-      "SCHÖCH Andreas",
-      "UNKEL Markus"
-    ],
-    [
-      "SPALECK Tim",
-      "SPALECK Tom"
-    ],
-    [
       "STANGE René",
       "WEGERICH Moritz"
-    ],
-    [
-      "TUCHBREITER Nicole",
-      "WEICKMANN Matthias"
     ]
   ]
 }

@@ -2,10 +2,10 @@
   "competition_id": "recs6BJ08TBczNmAR",
   "slots": [
     {
-      "amount": 19
+      "amount": 21
     }
   ],
-  "count": 520,
+  "count": 516,
   "teams": [
     [
       "ABRAM David",
@@ -200,6 +200,10 @@
       "RISCHE Jan-Nick"
     ],
     [
+      "DAHINTEN Marcel Otto",
+      "HENNING Jakob"
+    ],
+    [
       "DEMBECK Nils",
       "SCHMIED Torsten"
     ],
@@ -236,10 +240,6 @@
       "KAUFUNG Leon"
     ],
     [
-      "DREYER Florian",
-      "RÖSCH Florian"
-    ],
-    [
       "DUPSLAFF Christian",
       "ILLEIN Marco"
     ],
@@ -250,10 +250,6 @@
     [
       "DÖLL Rocky",
       "FLÄHMIH Elias"
-    ],
-    [
-      "DÜFFERT Henrik",
-      "GLANZ Henry"
     ],
     [
       "DÜFFERT Mareile",
@@ -504,10 +500,6 @@
       "WEDEL Florian"
     ],
     [
-      "HENNING Jakob",
-      "KOHLMANN Dominik"
-    ],
-    [
       "HENTSCHEL Felix",
       "LEMM Matthias"
     ],
@@ -692,6 +684,10 @@
       "TUCHBREITER Nicole"
     ],
     [
+      "KOHLMANN Dominik",
+      "PFETZING Sarah"
+    ],
+    [
       "KOHRS Karsten Kala",
       "MEIRITZ Maik"
     ],
@@ -828,10 +824,6 @@
       "MILOBARA Maximilian"
     ],
     [
-      "MAIER Markus",
-      "SCHNEIDER Ralf"
-    ],
-    [
       "MARKS Christian",
       "OERTELT-GRIMM Florian"
     ],
@@ -928,10 +920,6 @@
       "PÖHL Silvio"
     ],
     [
-      "PFETZING Sarah",
-      "SCHÄBS Huldreich"
-    ],
-    [
       "PLEIER Johannes",
       "RÖSCH Tobias"
     ],
@@ -962,6 +950,10 @@
     [
       "RÄDER Sandro",
       "WOLFF Tom"
+    ],
+    [
+      "RÖSCH Florian",
+      "WITTMANN Kilian"
     ],
     [
       "RÖVER Lee",

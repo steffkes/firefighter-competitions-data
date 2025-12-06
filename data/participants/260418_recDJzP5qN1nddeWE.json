@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 86
+      "amount": 85
     }
   ],
-  "count": 126,
+  "count": 128,
   "teams": [
     [
       "Alexander Kook",
@@ -218,6 +218,10 @@
     [
       "Mirko Döbert",
       "Robin Scheuring"
+    ],
+    [
+      "Moritz Wegerich",
+      "René Stange"
     ],
     [
       "Nadine Weidhaus",

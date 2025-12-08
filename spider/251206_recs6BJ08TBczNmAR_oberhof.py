@@ -118,11 +118,17 @@ class CompetitionSpider(Spider):
                 )
                 results.append(result)
 
-        ranks = {}
+        ranks = {
+            "category": {},
+        }
 
         for result in sorted(results, key=lambda result: result["duration"]):
             result["rank"]["total"] = ranks.get("total", 1)
             ranks["total"] = result["rank"]["total"] + 1
+
+            result["rank"]["category"] = ranks["category"].get(result["category"], 1)
+            ranks["category"][result["category"]] = result["rank"]["category"] + 1
+
 
         yield from results
 

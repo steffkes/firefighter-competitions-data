@@ -120,6 +120,7 @@ class CompetitionSpider(Spider):
 
         ranks = {
             "category": {},
+            "age_group": {},
         }
 
         for result in sorted(results, key=lambda result: result["duration"]):
@@ -129,6 +130,9 @@ class CompetitionSpider(Spider):
             result["rank"]["category"] = ranks["category"].get(result["category"], 1)
             ranks["category"][result["category"]] = result["rank"]["category"] + 1
 
+            if result["age_group"]:
+                result["rank"]["age_group"] = ranks["age_group"].get(result["age_group"], 1)
+                ranks["age_group"][result["age_group"]] = result["rank"]["age_group"] + 1
 
         yield from results
 

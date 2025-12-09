@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 81
+      "amount": 80
     }
   ],
-  "count": 132,
+  "count": 134,
   "teams": [
     [
       "Alexander Kook",
@@ -106,6 +106,10 @@
     [
       "Eric Poller",
       "Johannes Stiller"
+    ],
+    [
+      "Fabian Bürge",
+      "Steve Leinhos"
     ],
     [
       "Fabian Schröter",

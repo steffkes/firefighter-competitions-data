@@ -1,11 +1,7 @@
 {
   "competition_id": "recDJzP5qN1nddeWE",
-  "slots": [
-    {
-      "amount": 81
-    }
-  ],
-  "count": 130,
+  "slots": [],
+  "count": 132,
   "teams": [
     [
       "Alexander Kook",
@@ -14,6 +10,10 @@
     [
       "Alexander Oehler",
       "Soraya Bartlitz"
+    ],
+    [
+      "Alexander Weiß",
+      "Anne-Kathrin Weiß"
     ],
     [
       "Andreas Dunkelberg",

@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 80
+      "amount": 78
     }
   ],
-  "count": 136,
+  "count": 142,
   "teams": [
     [
       "Alexander Kook",
@@ -28,6 +28,10 @@
       "Oliver Diete"
     ],
     [
+      "Andreas Scherer",
+      "Daniel Schnitter"
+    ],
+    [
       "André Pappert",
       "Nicolas Eitner"
     ],
@@ -42,6 +46,10 @@
     [
       "Chris Nippold",
       "Markus Diete"
+    ],
+    [
+      "Christian Krause",
+      "Sebastian Löffler"
     ],
     [
       "Christian Mogalla",
@@ -126,6 +134,10 @@
     [
       "Florian Eichhorn",
       "Mathias Nüchterlein"
+    ],
+    [
+      "Frank Hergenröther",
+      "Oliver Adelhardt"
     ],
     [
       "Franziska Nowka",

@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 82
+      "amount": 81
     }
   ],
-  "count": 128,
+  "count": 130,
   "teams": [
     [
       "Alexander Kook",
@@ -126,6 +126,10 @@
     [
       "Jan Barcsik",
       "Maik Rosenbauer"
+    ],
+    [
+      "Jan Wandrei",
+      "Jannik Bauch"
     ],
     [
       "Jannis Demuth",

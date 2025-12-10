@@ -1,26 +1,5 @@
 [
     {
-        "id": "rec3ZAb3HcJsgIhqs",
-        "kind": "FCC",
-        "name": "Firefit Championships Europe",
-        "url": "https://firefit-europe.eu/seesen/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2022-05-13",
-            "end": "2022-05-15",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Seesen",
-            "country_code": "DE",
-            "coordinates": null
-        }
-    },
-    {
         "id": "reccpIRVnvLalxdx2",
         "kind": "FCC",
         "name": "Firefighter Combat Challenge Lahntal",
@@ -4586,6 +4565,30 @@
             "coordinates": {
                 "lat": 51.2987046,
                 "lng": 9.4832572
+            }
+        }
+    },
+    {
+        "id": "recHsQdkoyDwurljY",
+        "kind": "FCC",
+        "name": "Toughest Firefighter Racibórz",
+        "url": "https://www.facebook.com/ToughestFirefighterRaciborz/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-08-22",
+            "end": "2026-08-22",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ratibor",
+            "country_code": "PL",
+            "coordinates": {
+                "lat": 50.09203,
+                "lng": 18.219835
             }
         }
     },

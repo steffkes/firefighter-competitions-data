@@ -429,27 +429,6 @@
         }
     },
     {
-        "id": "rec31B39JJfz4YZnP",
-        "kind": "FSR",
-        "name": "Subida Vertical Gran Hotel Bali",
-        "url": null,
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-04-22",
-            "end": "2023-04-22",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Bali",
-            "country_code": "IN",
-            "coordinates": null
-        }
-    },
-    {
         "id": "recNxdIu7QKkFq4gT",
         "kind": "FSR",
         "name": "Zwickauer Hochhaus Treppenlauf",
@@ -4754,6 +4733,30 @@
             "coordinates": {
                 "lat": 47.507121,
                 "lng": 19.045669
+            }
+        }
+    },
+    {
+        "id": "rec3CZhk0vSiVwpkM",
+        "kind": "FSR",
+        "name": "X-Mas Stairrun",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-12-05",
+            "end": "2026-12-05",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Oberhof",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.6977798,
+                "lng": 10.6802269
             }
         }
     }

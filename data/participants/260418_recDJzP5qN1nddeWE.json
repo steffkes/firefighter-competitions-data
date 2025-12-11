@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 71
+      "amount": 69
     }
   ],
-  "count": 162,
+  "count": 164,
   "teams": [
     [
       "Alexander Kook",
@@ -218,6 +218,10 @@
     [
       "Kolja Brosch",
       "Tatjana Kaufmann"
+    ],
+    [
+      "Lasse Timmerhues",
+      "Tobias Klinger"
     ],
     [
       "Leon Hädrich",

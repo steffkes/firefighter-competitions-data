@@ -2,11 +2,15 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 69
+      "amount": 68
     }
   ],
-  "count": 166,
+  "count": 168,
   "teams": [
+    [
+      "Adrian Kirchner",
+      "Armin Kirchner"
+    ],
     [
       "Alexander Kook",
       "Thomas Hügle"

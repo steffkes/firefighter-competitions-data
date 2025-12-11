@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 77
+      "amount": 76
     }
   ],
-  "count": 148,
+  "count": 150,
   "teams": [
     [
       "Alexander Kook",
@@ -246,6 +246,10 @@
     [
       "Markus Pahn",
       "Tobias Hannusch"
+    ],
+    [
+      "Marvin Hänel",
+      "Maximilian Wagner"
     ],
     [
       "Matthias Kaden",

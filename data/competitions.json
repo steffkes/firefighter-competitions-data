@@ -429,27 +429,6 @@
         }
     },
     {
-        "id": "recNxdIu7QKkFq4gT",
-        "kind": "FSR",
-        "name": "Zwickauer Hochhaus Treppenlauf",
-        "url": "https://my.raceresult.com/231849/info",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-04-23",
-            "end": "2023-04-23",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Zwickau",
-            "country_code": "DE",
-            "coordinates": null
-        }
-    },
-    {
         "id": "recRXPyeM9LRjUdU0",
         "kind": "FSR",
         "name": "Berlin Firefighter Stairrun",
@@ -4733,6 +4712,30 @@
             "coordinates": {
                 "lat": 47.507121,
                 "lng": 19.045669
+            }
+        }
+    },
+    {
+        "id": "recHKheP69DBqr4an",
+        "kind": "FSR",
+        "name": "Schanzenlauf Oberstdorf",
+        "url": "https://feuerwehr-oberstdorf.de/aktuelles/schanzenlauf-2024",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-10-17",
+            "end": "2026-10-17",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": "2025-03-30T10:00:00.000Z"
+        },
+        "location": {
+            "city": "Oberstdorf",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 47.3749871,
+                "lng": 10.270242
             }
         }
     },

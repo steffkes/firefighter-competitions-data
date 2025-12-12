@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 68
+      "amount": 67
     }
   ],
-  "count": 170,
+  "count": 172,
   "teams": [
     [
       "Adrian Kirchner",
@@ -122,6 +122,10 @@
     [
       "Dennis Ruhl",
       "René Sonke"
+    ],
+    [
+      "Dominik Strba",
+      "Mario Blaschke"
     ],
     [
       "Dominik Wukasch",

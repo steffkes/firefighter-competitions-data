@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 66
+      "amount": 65
     }
   ],
-  "count": 178,
+  "count": 180,
   "teams": [
     [
       "Adrian Kirchner",
@@ -354,6 +354,10 @@
     [
       "Ronny Näther",
       "Steffen Haas"
+    ],
+    [
+      "Thorsten Blenk",
+      "Weißbrodt Leander"
     ],
     [
       "Timm Kramer",

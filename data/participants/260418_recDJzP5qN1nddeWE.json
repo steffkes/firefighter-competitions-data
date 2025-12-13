@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 65
+      "amount": 64
     }
   ],
-  "count": 182,
+  "count": 184,
   "teams": [
     [
       "Adrian Kirchner",
@@ -314,6 +314,10 @@
     [
       "Max Raudßus",
       "Stephan Trog"
+    ],
+    [
+      "Michael Wicht",
+      "Torsten Leipold"
     ],
     [
       "Mirko Döbert",

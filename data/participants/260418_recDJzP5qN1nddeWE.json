@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 64
+      "amount": 63
     }
   ],
-  "count": 186,
+  "count": 190,
   "teams": [
     [
       "Adrian Kirchner",
@@ -42,6 +42,10 @@
     [
       "André Pappert",
       "Nicolas Eitner"
+    ],
+    [
+      "Bernd Range",
+      "Lucas Harbich"
     ],
     [
       "Birk Scheler",
@@ -258,6 +262,10 @@
     [
       "Leon Hädrich",
       "Marcel Gießhöfer"
+    ],
+    [
+      "Lucas Harbich",
+      "Markus Brill"
     ],
     [
       "Manfred Sommerauer",

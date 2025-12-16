@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 63
+      "amount": 62
     }
   ],
-  "count": 190,
+  "count": 192,
   "teams": [
     [
       "Adrian Kirchner",
@@ -58,6 +58,10 @@
     [
       "Carsten Held",
       "Christian Buhl"
+    ],
+    [
+      "Chiara Bubner",
+      "Immo Wilski"
     ],
     [
       "Chris Nippold",

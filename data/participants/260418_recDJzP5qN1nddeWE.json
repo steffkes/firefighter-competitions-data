@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 58
+      "amount": 57
     }
   ],
-  "count": 200,
+  "count": 202,
   "teams": [
     [
       "Adrian Kirchner",
@@ -342,6 +342,10 @@
     [
       "Max Raudßus",
       "Stephan Trog"
+    ],
+    [
+      "Maximilian Jiménez Lopez",
+      "Milos Sretic"
     ],
     [
       "Michael Wicht",

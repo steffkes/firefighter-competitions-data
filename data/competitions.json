@@ -4347,7 +4347,7 @@
             "end": "2026-06-14",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2026-02-08T17:00:00.000Z"
         },
         "location": {
             "city": "Mönchengladbach",

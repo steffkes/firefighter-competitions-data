@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 57
+      "amount": 56
     }
   ],
-  "count": 204,
+  "count": 206,
   "teams": [
     [
       "Adrian Kirchner",
@@ -34,6 +34,10 @@
     [
       "Andreas Bezikofer",
       "Markus Moser"
+    ],
+    [
+      "Andreas Drachsler",
+      "Steffen Bruhnke"
     ],
     [
       "Andreas Dunkelberg",

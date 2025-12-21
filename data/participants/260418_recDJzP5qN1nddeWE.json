@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 56
+      "amount": 55
     }
   ],
-  "count": 206,
+  "count": 208,
   "teams": [
     [
       "Adrian Kirchner",
@@ -242,6 +242,10 @@
     [
       "Jason Schmidt",
       "Simon Schmidt"
+    ],
+    [
+      "Jennifer Fehrle",
+      "Joachim Kamprad"
     ],
     [
       "Johanna Kirschner",

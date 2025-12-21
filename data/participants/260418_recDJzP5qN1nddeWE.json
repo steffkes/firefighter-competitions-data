@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 55
+      "amount": 54
     }
   ],
-  "count": 208,
+  "count": 210,
   "teams": [
     [
       "Adrian Kirchner",
@@ -54,6 +54,10 @@
     [
       "André Pappert",
       "Nicolas Eitner"
+    ],
+    [
+      "Ann-Christin Siegel",
+      "Lasse Heinemann"
     ],
     [
       "Bernd Range",

@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 53
+      "amount": 52
     }
   ],
-  "count": 212,
+  "count": 216,
   "teams": [
     [
       "Adrian Kirchner",
@@ -132,12 +132,20 @@
       "Tamina Lorbach"
     ],
     [
+      "Daniel Kraus",
+      "Tobias Junge"
+    ],
+    [
       "Daniel Matthey",
       "Oliver Ellinger"
     ],
     [
       "Daniel Prinz",
       "Silvio Wick"
+    ],
+    [
+      "Daniel Tischer",
+      "Leon Mittelsdorf"
     ],
     [
       "Darlene Schramm",

@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 50
+      "amount": 49
     }
   ],
-  "count": 216,
+  "count": 220,
   "teams": [
     [
       "Adrian Kirchner",
@@ -160,6 +160,10 @@
       "René Sonke"
     ],
     [
+      "Domenik Stoß",
+      "Kevin Poltermann"
+    ],
+    [
       "Dominik Strba",
       "Mario Blaschke"
     ],
@@ -262,6 +266,10 @@
     [
       "Johanna Kirschner",
       "Luca Malcher"
+    ],
+    [
+      "Johannes Vogl",
+      "Michael Nortmann"
     ],
     [
       "Johannes Weise",

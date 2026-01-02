@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 48
+      "amount": 46
     }
   ],
-  "count": 222,
+  "count": 232,
   "teams": [
     [
       "Adrian Kirchner",
@@ -208,6 +208,10 @@
       "Jeremy Heier"
     ],
     [
+      "Florian Banse",
+      "Marcel Peter"
+    ],
+    [
       "Florian Eichhorn",
       "Mathias Nüchterlein"
     ],
@@ -224,8 +228,16 @@
       "Oliver Adelhardt"
     ],
     [
+      "Franz Weihs",
+      "Matthias Schröter"
+    ],
+    [
       "Franziska Nowka",
       "Markus Apel"
+    ],
+    [
+      "Hannes Nitsche",
+      "Tim Wellner"
     ],
     [
       "Hugo Hartmann",
@@ -278,6 +290,10 @@
     [
       "Johannes Weise",
       "Stefan Schulze"
+    ],
+    [
+      "Jonas Elias Müller",
+      "Matthias Sowa"
     ],
     [
       "Julia Krüger",
@@ -350,6 +366,10 @@
     [
       "Mario Schmidt",
       "René Lepke"
+    ],
+    [
+      "Marko Gusowski",
+      "Michael Strach"
     ],
     [
       "Marko Thieg",

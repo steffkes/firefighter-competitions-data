@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 46
+      "amount": 45
     }
   ],
-  "count": 232,
+  "count": 234,
   "teams": [
     [
       "Adrian Kirchner",
@@ -50,6 +50,10 @@
     [
       "Andreas Scherer",
       "Daniel Schnitter"
+    ],
+    [
+      "Andreas Wittmann",
+      "Lasse Wolfring"
     ],
     [
       "André Möckl",

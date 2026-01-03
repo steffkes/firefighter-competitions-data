@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 45
+      "amount": 44
     }
   ],
-  "count": 236,
+  "count": 238,
   "teams": [
     [
       "Adrian Kirchner",
@@ -242,6 +242,10 @@
     [
       "Hannes Nitsche",
       "Tim Wellner"
+    ],
+    [
+      "Heimbürge Phillip",
+      "Victoria Kein"
     ],
     [
       "Hugo Hartmann",

@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 42
+      "amount": 41
     }
   ],
-  "count": 238,
+  "count": 240,
   "teams": [
     [
       "Adrian Kirchner",
@@ -66,6 +66,10 @@
     [
       "Ann-Christin Siegel",
       "Lasse Heinemann"
+    ],
+    [
+      "Axel Habenstein",
+      "Steffen Kröger"
     ],
     [
       "Bernd Range",

@@ -13,7 +13,7 @@ class CompetitionSpider(Spider):
                 "pages": {"pageSize": 51, "page": page},
                 "filter": {"eventId": 2841, "raceId": raceId},
             },
-                cb_kwargs={"raceId": raceId, "page": page},
+            cb_kwargs={"raceId": raceId, "page": page},
             callback=self.parse_starters,
         )
 

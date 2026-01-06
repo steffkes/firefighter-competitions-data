@@ -131,8 +131,12 @@ class CompetitionSpider(Spider):
             ranks["category"][result["category"]] = result["rank"]["category"] + 1
 
             if result["age_group"]:
-                result["rank"]["age_group"] = ranks["age_group"].get(result["age_group"], 1)
-                ranks["age_group"][result["age_group"]] = result["rank"]["age_group"] + 1
+                result["rank"]["age_group"] = ranks["age_group"].get(
+                    result["age_group"], 1
+                )
+                ranks["age_group"][result["age_group"]] = (
+                    result["rank"]["age_group"] + 1
+                )
 
         yield from results
 

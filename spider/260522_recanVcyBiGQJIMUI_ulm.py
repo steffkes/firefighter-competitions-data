@@ -11,7 +11,8 @@ class CompetitionSpider(Spider):
     def start_requests(self):
         yield scrapy.FormRequest(
             method="GET",
-            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            # url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            url="https://my.raceresult.com/%s/RRRegStart/data/config" % self.race_id,
             formdata={
                 "key": self.race_key,
                 "listname": "01_Teilnehmerlisten_RaceResult|Online-Teilnehmerliste",
@@ -35,7 +36,12 @@ class CompetitionSpider(Spider):
         )
 
     def parse_starters(self, response):
-        for record in response.json()["data"]:
+        for record in range(
+            161
+            - response.json()["RegistrationConfig"]["Registrations"][0]["Contests"][1][
+                "SlotsLeft"
+            ]
+        ):
             yield ParticipantItem(
                 competition_id=self.competition_id,
                 names=[self.fixName(None)],

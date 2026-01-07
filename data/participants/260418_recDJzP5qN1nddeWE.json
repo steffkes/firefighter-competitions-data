@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 35
+      "amount": 32
     }
   ],
-  "count": 248,
+  "count": 262,
   "teams": [
     [
       "Adrian Kirchner",
@@ -14,6 +14,10 @@
     [
       "Alexander Haas",
       "Tom Rebhan"
+    ],
+    [
+      "Alexander Hartleb",
+      "Julius Döring"
     ],
     [
       "Alexander Kook",
@@ -42,6 +46,10 @@
     [
       "Andreas Dunkelberg",
       "Oliver Diete"
+    ],
+    [
+      "Andreas Henkel",
+      "Jürgen Marx"
     ],
     [
       "Andreas Reinhardt",
@@ -292,6 +300,10 @@
       "Stefan Bauer"
     ],
     [
+      "Jason Pradler",
+      "Markus Benedix"
+    ],
+    [
       "Jason Schmidt",
       "Simon Schmidt"
     ],
@@ -392,6 +404,10 @@
       "Michael Ulrich"
     ],
     [
+      "Mario Koch",
+      "Sarah Montag"
+    ],
+    [
       "Mario Schmidt",
       "René Lepke"
     ],
@@ -436,6 +452,10 @@
       "Milos Sretic"
     ],
     [
+      "Michael Montag",
+      "Simon Montag"
+    ],
+    [
       "Michael Wicht",
       "Torsten Leipold"
     ],
@@ -452,8 +472,16 @@
       "Sören Stier"
     ],
     [
+      "Niklas Hensel",
+      "Robert Gothe"
+    ],
+    [
       "Nils Dembeck",
       "Torsten Schmied"
+    ],
+    [
+      "Norbert Ohnesorge",
+      "Semjon Fick"
     ],
     [
       "Patrick Meister",

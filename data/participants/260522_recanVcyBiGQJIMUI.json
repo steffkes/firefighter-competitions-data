@@ -2,13 +2,16 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 129
+      "amount": 126
     }
   ],
-  "count": 32,
+  "count": 35,
   "teams": [
     [
       "Alfonso Barcena"
+    ],
+    [
+      "Andreas Butzer"
     ],
     [
       "Benjamin Nägelein"
@@ -18,6 +21,9 @@
     ],
     [
       "Christian Lampart"
+    ],
+    [
+      "Dominik Steidle"
     ],
     [
       "Elias Vogt"
@@ -81,6 +87,9 @@
     ],
     [
       "Robin Kirchmaier"
+    ],
+    [
+      "Rudi Wengert"
     ],
     [
       "Sascha Unsöld"

@@ -1,5 +1,6 @@
 from util import Spider, ParticipantItem, ResultItem, ResultRankItem, SlotItem
 import scrapy
+import re
 
 
 class CompetitionSpider(Spider):
@@ -7,6 +8,27 @@ class CompetitionSpider(Spider):
 
     race_id = "368654"
     race_key = "196b45c8a53bf1640e5b1e4250844ea4"
+
+    @staticmethod
+    def fixName(name):
+        if not name:
+            return ""
+
+        return re.sub(
+            r"(([A-ZÄÜÖß]+[-\s])?([A-ZÄÜÖß]+))\s(.+)",
+            lambda match: " ".join(
+                [
+                    match.group(4),
+                    "".join(
+                        map(
+                            lambda str: str[0] + str[1:].lower(),
+                            filter(None, match.group(2, 3)),
+                        )
+                    ),
+                ]
+            ),
+            name,
+        )
 
     def start_requests(self):
         yield scrapy.FormRequest(
@@ -40,3 +62,20 @@ class CompetitionSpider(Spider):
                 competition_id=self.competition_id,
                 names=[self.fixName(raw_name)],
             )
+
+
+import pytest
+
+
+@pytest.mark.parametrize(
+    "input,output",
+    [
+        ("HARTMANN Jörg", "Jörg Hartmann"),
+        ("MÜLLER Naomi", "Naomi Müller"),
+        ("KNIE Nicola Simon", "Nicola Simon Knie"),
+        ("WEIßHAAR Philipp", "Philipp Weißhaar"),
+        (None, ""),
+    ],
+)
+def test_fixName(input, output):
+    assert CompetitionSpider.fixName(input) == output

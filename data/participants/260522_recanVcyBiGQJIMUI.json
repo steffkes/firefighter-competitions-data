@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 125
+      "amount": 123
     }
   ],
-  "count": 36,
+  "count": 38,
   "teams": [
     [
       "Alfonso Barcena"
@@ -21,6 +21,9 @@
     ],
     [
       "Christian Lampart"
+    ],
+    [
+      "Claude Kaufmann"
     ],
     [
       "Dominik Steidle"
@@ -75,6 +78,9 @@
     ],
     [
       "Martin Köberle"
+    ],
+    [
+      "Martin Loos"
     ],
     [
       "Michael Arnegger"

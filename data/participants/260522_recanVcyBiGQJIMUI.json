@@ -2,11 +2,17 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 152
+      "amount": 150
     }
   ],
-  "count": 9,
+  "count": 11,
   "teams": [
+    [
+      null
+    ],
+    [
+      null
+    ],
     [
       null
     ],

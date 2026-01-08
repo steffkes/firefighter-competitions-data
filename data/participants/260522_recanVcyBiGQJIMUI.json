@@ -2,13 +2,16 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 123
+      "amount": 120
     }
   ],
-  "count": 38,
+  "count": 41,
   "teams": [
     [
       "Alfonso Barcena"
+    ],
+    [
+      "Andre Thieringer"
     ],
     [
       "Andreas Butzer"
@@ -53,6 +56,9 @@
       "Jonas Kirstein"
     ],
     [
+      "Julian Röscheise"
+    ],
+    [
       "Jörg Bauer"
     ],
     [
@@ -90,6 +96,9 @@
     ],
     [
       "Philipp Dongus"
+    ],
+    [
+      "Rainer Kunz"
     ],
     [
       "Robin Kirchmaier"

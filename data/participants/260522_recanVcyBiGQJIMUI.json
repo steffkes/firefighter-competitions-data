@@ -2,64 +2,70 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 143
+      "amount": 141
     }
   ],
-  "count": 18,
+  "count": 20,
   "teams": [
     [
-      null
+      "BARCENA Alfonso"
     ],
     [
-      null
+      "DONGUS Philipp"
     ],
     [
-      null
+      "ERLENMAIER Florian"
     ],
     [
-      null
+      "FINGERLE Felix"
     ],
     [
-      null
+      "FRANKE Martin"
     ],
     [
-      null
+      "FREIMUT Manfred"
     ],
     [
-      null
+      "FRIEß Markus"
     ],
     [
-      null
+      "FUCHS Gunther"
     ],
     [
-      null
+      "GLOGER Jürgen"
     ],
     [
-      null
+      "HUBER Felix"
     ],
     [
-      null
+      "KLEIN Tim"
     ],
     [
-      null
+      "KURFÜRST Felix"
     ],
     [
-      null
+      "NÄGELEIN Benjamin"
     ],
     [
-      null
+      "RICHTER Florian"
     ],
     [
-      null
+      "SCHINDELE Thomas"
     ],
     [
-      null
+      "SCHLECHT Pascal"
     ],
     [
-      null
+      "SCHOLL Calvin"
     ],
     [
-      null
+      "STAMER Sebastian"
+    ],
+    [
+      "UNSÖLD Sascha"
+    ],
+    [
+      "WIEDMANN Sascha"
     ]
   ]
 }

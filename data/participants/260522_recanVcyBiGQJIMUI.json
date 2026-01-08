@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 133
+      "amount": 131
     }
   ],
-  "count": 28,
+  "count": 30,
   "teams": [
     [
       "Alfonso Barcena"
@@ -68,6 +68,9 @@
       "Martin Köberle"
     ],
     [
+      "Michael Arnegger"
+    ],
+    [
       "Pascal Schlecht"
     ],
     [
@@ -90,6 +93,9 @@
     ],
     [
       "Tim Klein"
+    ],
+    [
+      "Tino Leidel"
     ]
   ]
 }

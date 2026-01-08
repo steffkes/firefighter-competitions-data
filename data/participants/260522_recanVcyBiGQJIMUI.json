@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 136
+      "amount": 133
     }
   ],
-  "count": 25,
+  "count": 28,
   "teams": [
     [
       "Alfonso Barcena"
@@ -15,6 +15,12 @@
     ],
     [
       "Calvin Scholl"
+    ],
+    [
+      "Christian Lampart"
+    ],
+    [
+      "Elias Vogt"
     ],
     [
       "Felix Fingerle"
@@ -51,6 +57,9 @@
     ],
     [
       "Markus Frieß"
+    ],
+    [
+      "Markus Klink"
     ],
     [
       "Martin Franke"

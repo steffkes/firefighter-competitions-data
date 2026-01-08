@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 120
+      "amount": 119
     }
   ],
-  "count": 41,
+  "count": 42,
   "teams": [
     [
       "Alfonso Barcena"
@@ -15,6 +15,9 @@
     ],
     [
       "Andreas Butzer"
+    ],
+    [
+      "Andreas Wirth"
     ],
     [
       "Benjamin Nägelein"

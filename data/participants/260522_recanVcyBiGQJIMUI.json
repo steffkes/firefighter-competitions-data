@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 117
+      "amount": 116
     }
   ],
-  "count": 44,
+  "count": 45,
   "teams": [
     [
       "Alfonso Barcena"
@@ -99,6 +99,9 @@
     ],
     [
       "Michael Arnegger"
+    ],
+    [
+      "Nick Hespeler"
     ],
     [
       "Pascal Schlecht"

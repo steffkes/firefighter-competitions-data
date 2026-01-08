@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 116
+      "amount": 115
     }
   ],
-  "count": 45,
+  "count": 46,
   "teams": [
     [
       "Alfonso Barcena"
@@ -114,6 +114,9 @@
     ],
     [
       "Robin Kirchmaier"
+    ],
+    [
+      "Roland Erhardt"
     ],
     [
       "Rudi Wengert"

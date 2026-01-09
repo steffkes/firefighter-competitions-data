@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 28
+      "amount": 27
     }
   ],
-  "count": 268,
+  "count": 270,
   "teams": [
     [
       "Adrian Kirchner",
@@ -62,6 +62,10 @@
     [
       "Andreas Wittmann",
       "Lasse Wolfring"
+    ],
+    [
+      "André Girschick",
+      "Peter Bock"
     ],
     [
       "André Möckl",

@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 29
+      "amount": 28
     }
   ],
-  "count": 266,
+  "count": 268,
   "teams": [
     [
       "Adrian Kirchner",
@@ -442,6 +442,10 @@
     [
       "Markus Pahn",
       "Tobias Hannusch"
+    ],
+    [
+      "Martin Balcar",
+      "Rebecca Schubert"
     ],
     [
       "Marvin Hänel",

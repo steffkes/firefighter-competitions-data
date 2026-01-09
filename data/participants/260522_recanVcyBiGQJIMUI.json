@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 112
+      "amount": 111
     }
   ],
-  "count": 49,
+  "count": 50,
   "teams": [
     [
       "Alfonso Barcena"
@@ -30,6 +30,9 @@
     ],
     [
       "Claude Kaufmann"
+    ],
+    [
+      "Damion Werner"
     ],
     [
       "Dominik Steidle"

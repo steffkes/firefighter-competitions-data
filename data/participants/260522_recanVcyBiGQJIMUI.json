@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 115
+      "amount": 114
     }
   ],
-  "count": 46,
+  "count": 47,
   "teams": [
     [
       "Alfonso Barcena"
@@ -57,6 +57,9 @@
     ],
     [
       "Gunther Fuchs"
+    ],
+    [
+      "Hagen Scherer"
     ],
     [
       "Jonas Kirstein"

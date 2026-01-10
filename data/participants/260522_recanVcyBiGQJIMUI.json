@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 100
+      "amount": 99
     }
   ],
-  "count": 61,
+  "count": 62,
   "teams": [
     [
       "Alfonso Barcena"
@@ -30,6 +30,9 @@
     ],
     [
       "Christian Fleschhut"
+    ],
+    [
+      "Christian Kreit"
     ],
     [
       "Christian Lampart"

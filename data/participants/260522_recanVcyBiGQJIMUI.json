@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 101
+      "amount": 100
     }
   ],
-  "count": 60,
+  "count": 61,
   "teams": [
     [
       "Alfonso Barcena"
@@ -15,6 +15,9 @@
     ],
     [
       "Andreas Butzer"
+    ],
+    [
+      "Andreas Schäch"
     ],
     [
       "Andreas Wirth"

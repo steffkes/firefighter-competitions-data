@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 102
+      "amount": 101
     }
   ],
-  "count": 59,
+  "count": 60,
   "teams": [
     [
       "Alfonso Barcena"
@@ -162,6 +162,9 @@
     ],
     [
       "Steve Roidl"
+    ],
+    [
+      "Thomas Junginger"
     ],
     [
       "Thomas Kern"

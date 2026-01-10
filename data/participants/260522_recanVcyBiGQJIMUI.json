@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 105
+      "amount": 104
     }
   ],
-  "count": 56,
+  "count": 57,
   "teams": [
     [
       "Alfonso Barcena"
@@ -96,6 +96,9 @@
     ],
     [
       "Markus Klink"
+    ],
+    [
+      "Markus Unkel"
     ],
     [
       "Martin Franke"

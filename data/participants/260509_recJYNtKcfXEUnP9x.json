@@ -1,7 +1,7 @@
 {
   "competition_id": "recJYNtKcfXEUnP9x",
   "slots": [],
-  "count": 132,
+  "count": 146,
   "teams": [
     [
       "Adreas Reiner",
@@ -48,6 +48,10 @@
       "Manuela Hermann"
     ],
     [
+      "Arnegger Michael",
+      "Robin Kirchmaier"
+    ],
+    [
       "Ben Theisen",
       "Bennet Schneider"
     ],
@@ -58,6 +62,10 @@
     [
       "Benedikt Demond",
       "Christoph Merk"
+    ],
+    [
+      "Benedikt Schlegel",
+      "Florian Grafmüller"
     ],
     [
       "Benjamin Zöllmer",
@@ -120,6 +128,10 @@
       "Lois Holm"
     ],
     [
+      "Fabian Bürg",
+      "Jochen Mink"
+    ],
+    [
       "Fabian Löffelhardt",
       "Tim Klein"
     ],
@@ -148,6 +160,10 @@
       "Mark Winter"
     ],
     [
+      "Georg Schröppel",
+      "Jannis Mast"
+    ],
+    [
       "Gerrit Heiden",
       "Gerrit Heiden"
     ],
@@ -158,6 +174,10 @@
     [
       "Henrik Nitsche",
       "Niclas Nern"
+    ],
+    [
+      "Ingo Fimpel",
+      "Thomas Kern"
     ],
     [
       "Ingo Katzenmeyer",
@@ -224,6 +244,10 @@
       "Sina Gehring"
     ],
     [
+      "Manuel Schuler",
+      "Steffen Schaefer"
+    ],
+    [
       "Marc Menzl",
       "Marcus Haas"
     ],
@@ -266,6 +290,10 @@
     [
       "Sascha Unsöld",
       "Wolfgang Buck"
+    ],
+    [
+      "Stefan Broß",
+      "Tobias Holl"
     ]
   ]
 }

@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 97
+      "amount": 96
     }
   ],
-  "count": 64,
+  "count": 65,
   "teams": [
     [
       "Alfonso Barcena"
@@ -96,6 +96,9 @@
     ],
     [
       "Manfred Freimut"
+    ],
+    [
+      "Manfred Wäscher"
     ],
     [
       "Marius-Can Kern"

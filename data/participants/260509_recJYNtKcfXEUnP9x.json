@@ -1,7 +1,7 @@
 {
   "competition_id": "recJYNtKcfXEUnP9x",
   "slots": [],
-  "count": 146,
+  "count": 160,
   "teams": [
     [
       "Adreas Reiner",
@@ -10,6 +10,10 @@
     [
       "Alan Dittrich",
       "Fabienne Sailer"
+    ],
+    [
+      "Alexander Bender",
+      "Timo Keller"
     ],
     [
       "Alexander Borst",
@@ -22,6 +26,10 @@
     [
       "Alexander Neininger",
       "Markus Kromer"
+    ],
+    [
+      "Alexander Schneider",
+      "Johannes Blum"
     ],
     [
       "Alexander Stadler",
@@ -38,6 +46,10 @@
     [
       "Andreas Schäch",
       "Markus Unkel"
+    ],
+    [
+      "Andreas Wilhelm",
+      "Christian Bradler"
     ],
     [
       "Andreas Wirth",
@@ -118,6 +130,10 @@
     [
       "Dominic Evers",
       "Lukas Zimmermann"
+    ],
+    [
+      "Dominik Friedlin",
+      "Florian Bujok"
     ],
     [
       "Dorothea Walter",
@@ -236,12 +252,20 @@
       "Ronja Hellstern"
     ],
     [
+      "Lukas Semle",
+      "Manuel Eisale"
+    ],
+    [
       "Madeline Kaiser",
       "Patrick Leber"
     ],
     [
       "Manfred Freimut",
       "Sina Gehring"
+    ],
+    [
+      "Manfred Wäscher",
+      "Markus Klink"
     ],
     [
       "Manuel Schuler",
@@ -282,6 +306,10 @@
     [
       "Patrick Niester",
       "Sascha Körner"
+    ],
+    [
+      "Peter Weber",
+      "Tobias Wolf-Kemp"
     ],
     [
       "Robin Holschuh",

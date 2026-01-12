@@ -1,7 +1,7 @@
 {
   "competition_id": "recj7HIkRvhtDJZ08",
   "slots": [],
-  "count": 21,
+  "count": 24,
   "teams": [
     [
       "Cedric Göring",
@@ -37,6 +37,11 @@
       "Marvin Stork",
       "Niklas Huthmann",
       "Renée Bäcker"
+    ],
+    [
+      "Michael Wicht",
+      "Mirko Döbert",
+      "Robin Scheuring"
     ]
   ]
 }

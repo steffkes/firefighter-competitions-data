@@ -1,7 +1,7 @@
 {
   "competition_id": "recJYNtKcfXEUnP9x",
   "slots": [],
-  "count": 230,
+  "count": 234,
   "teams": [
     [
       "Adreas Reiner",
@@ -292,6 +292,10 @@
       "Tim Leberfinger"
     ],
     [
+      "Jens Kleinert",
+      "Tobias Haag"
+    ],
+    [
       "Joachim Wollstädt",
       "Martin Raible"
     ],
@@ -374,6 +378,10 @@
     [
       "Manuel Schuler",
       "Steffen Schaefer"
+    ],
+    [
+      "Marc Bopp",
+      "Michael Bott"
     ],
     [
       "Marc Menzl",

@@ -429,30 +429,6 @@
         }
     },
     {
-        "id": "recRXPyeM9LRjUdU0",
-        "kind": "FSR",
-        "name": "Berlin Firefighter Stairrun",
-        "url": "https://www.berlin-firefighter-stairrun.de/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-05-06",
-            "end": "2023-05-06",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Berlin",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 52.523125,
-                "lng": 13.4127656
-            }
-        }
-    },
-    {
         "id": "rec50IHAZaTlKnHIg",
         "kind": "FCC",
         "name": "Firefit Championships Europe",
@@ -4179,7 +4155,7 @@
             "end": "2026-05-09",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2026-01-11T11:30:00.000Z"
         },
         "location": {
             "city": "Schonach",
@@ -4362,7 +4338,7 @@
         "id": "recwUsj6ovQuuhGoD",
         "kind": "FSR",
         "name": "Bad Wildbader Stäffeleslauf",
-        "url": null,
+        "url": "https://my.raceresult.com/342979",
         "participants": {
             "count": null
         },
@@ -4371,7 +4347,7 @@
             "end": "2026-06-19",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2026-03-01T09:00:00.000Z"
         },
         "location": {
             "city": "Bad Wildbad",
@@ -4547,6 +4523,30 @@
             "coordinates": {
                 "lat": 50.09203,
                 "lng": 18.219835
+            }
+        }
+    },
+    {
+        "id": "recGR6VUGAdR8XtGb",
+        "kind": "FSR",
+        "name": "Elstertal Stadion-Treppenlauf",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-08-29",
+            "end": "2026-08-29",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Gera",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.8797838,
+                "lng": 12.0672734
             }
         }
     },

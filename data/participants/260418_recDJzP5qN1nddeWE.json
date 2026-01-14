@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 18
+      "amount": 15
     }
   ],
-  "count": 282,
+  "count": 294,
   "teams": [
     [
       "Adrian Kirchner",
@@ -22,6 +22,10 @@
     [
       "Alexander Kook",
       "Thomas Hügle"
+    ],
+    [
+      "Alexander Lang",
+      "Michael Strauch"
     ],
     [
       "Alexander Oehler",
@@ -160,6 +164,10 @@
       "Jan Ral"
     ],
     [
+      "Clemens Gutmann",
+      "Jonathan Nüdling"
+    ],
+    [
       "Colin Grahmann",
       "Johannes Ludwig"
     ],
@@ -296,6 +304,10 @@
       "Victoria Kein"
     ],
     [
+      "Hendrik Grießmann",
+      "Torsten Schack"
+    ],
+    [
       "Hugo Hartmann",
       "Jörg Hartmann"
     ],
@@ -384,6 +396,10 @@
       "Lukas Wielgorz"
     ],
     [
+      "Jürgen Herberich",
+      "Markus Herberich"
+    ],
+    [
       "Karolin Barcsik",
       "Tanja Raupach"
     ],
@@ -394,6 +410,10 @@
     [
       "Kevin Bauer",
       "Patrick Kreß"
+    ],
+    [
+      "Kilian Kreutz",
+      "Manuel Roßdeutsch"
     ],
     [
       "Kolja Brosch",
@@ -410,6 +430,10 @@
     [
       "Leon Hädrich",
       "Marcel Gießhöfer"
+    ],
+    [
+      "Leonhard Kreutz",
+      "Philipp Herberich"
     ],
     [
       "Lucas Harbich",

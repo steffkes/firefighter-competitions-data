@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 19
+      "amount": 18
     }
   ],
-  "count": 280,
+  "count": 282,
   "teams": [
     [
       "Adrian Kirchner",
@@ -90,6 +90,10 @@
     [
       "Axel Habenstein",
       "Steffen Kröger"
+    ],
+    [
+      "Benjamin Nast",
+      "Julian Eisenschmidt"
     ],
     [
       "Bernd Range",

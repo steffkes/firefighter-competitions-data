@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 9
+      "amount": 8
     }
   ],
-  "count": 314,
+  "count": 316,
   "teams": [
     [
       "Adrian Kirchner",
@@ -246,6 +246,10 @@
     [
       "Elias Steube",
       "Manuel Schlothauer"
+    ],
+    [
+      "Enrico Kohl",
+      "Nicole Tuchbreiter"
     ],
     [
       "Eric Koch",

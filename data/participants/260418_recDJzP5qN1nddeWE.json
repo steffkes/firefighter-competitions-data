@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 10
+      "amount": 9
     }
   ],
-  "count": 310,
+  "count": 314,
   "teams": [
     [
       "Adrian Kirchner",
@@ -138,6 +138,10 @@
     [
       "Christian Krause",
       "Sebastian Löffler"
+    ],
+    [
+      "Christian Mitsch",
+      "Matthias Weickmann"
     ],
     [
       "Christian Mogalla",
@@ -538,6 +542,10 @@
     [
       "Matthias Kaden",
       "Michael Kaufmann"
+    ],
+    [
+      "Matthias Weickmann",
+      "Nicole Tuchbreiter"
     ],
     [
       "Max Raudßus",

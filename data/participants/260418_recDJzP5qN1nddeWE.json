@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 7
+      "amount": 5
     }
   ],
-  "count": 322,
+  "count": 328,
   "teams": [
     [
       "Adrian Kirchner",
@@ -220,6 +220,14 @@
       "Jannik Stephan"
     ],
     [
+      "David Stilper",
+      "Enrico Kohl"
+    ],
+    [
+      "David Stilper",
+      "Laura Wiench"
+    ],
+    [
       "Denis Weinreich",
       "Jörn Köllmer"
     ],
@@ -310,6 +318,10 @@
     [
       "Frank Hergenröther",
       "Oliver Adelhardt"
+    ],
+    [
+      "Frank Saupe",
+      "Matthias Weickmann"
     ],
     [
       "Franz Weihs",

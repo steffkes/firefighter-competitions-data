@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 5
+      "amount": 4
     }
   ],
-  "count": 330,
+  "count": 332,
   "teams": [
     [
       "Adrian Kirchner",
@@ -530,6 +530,10 @@
     [
       "Mario Koch",
       "Sarah Montag"
+    ],
+    [
+      "Mario Lange",
+      "Maxim Powöls"
     ],
     [
       "Mario Schmidt",

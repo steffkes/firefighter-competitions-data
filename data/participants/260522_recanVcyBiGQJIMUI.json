@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 90
+      "amount": 89
     }
   ],
-  "count": 71,
+  "count": 72,
   "teams": [
     [
       "Alfonso Barcena"
@@ -21,6 +21,9 @@
     ],
     [
       "Andreas Wirth"
+    ],
+    [
+      "André Wendel"
     ],
     [
       "Anna-Lena Wieland"

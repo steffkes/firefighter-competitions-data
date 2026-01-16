@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 4
+      "amount": 3
     }
   ],
-  "count": 334,
+  "count": 336,
   "teams": [
     [
       "Adrian Kirchner",
@@ -426,6 +426,10 @@
     [
       "Jonas Elias Müller",
       "Matthias Sowa"
+    ],
+    [
+      "Jonas Ihme",
+      "Steven Becker"
     ],
     [
       "Jonas Wittmann",

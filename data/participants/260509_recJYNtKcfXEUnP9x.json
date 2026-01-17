@@ -1,7 +1,7 @@
 {
   "competition_id": "recJYNtKcfXEUnP9x",
   "slots": [],
-  "count": 342,
+  "count": 344,
   "teams": [
     [
       "Adreas Reiner",
@@ -410,6 +410,10 @@
     [
       "Jakob Thaler",
       "Tim Leberfinger"
+    ],
+    [
+      "Jannik Merling",
+      "Lena Wörner"
     ],
     [
       "Jasmin Bohun",

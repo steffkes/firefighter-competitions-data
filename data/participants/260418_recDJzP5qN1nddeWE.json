@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 1
+      "amount": 0
     }
   ],
-  "count": 346,
+  "count": 348,
   "teams": [
     [
       "Adrian Kirchner",
@@ -634,6 +634,10 @@
     [
       "Nadine Weidhaus",
       "Sören Stier"
+    ],
+    [
+      "Nico Helfensteller",
+      "Sascha Falley"
     ],
     [
       "Niklas Hensel",

@@ -2,10 +2,10 @@
   "competition_id": "recDJzP5qN1nddeWE",
   "slots": [
     {
-      "amount": 2
+      "amount": 1
     }
   ],
-  "count": 342,
+  "count": 346,
   "teams": [
     [
       "Adrian Kirchner",
@@ -248,6 +248,10 @@
       "René Sonke"
     ],
     [
+      "Domenik Fechler",
+      "Marvin Hänel"
+    ],
+    [
       "Domenik Stoß",
       "Kevin Poltermann"
     ],
@@ -466,6 +470,10 @@
     [
       "Jörg Elsenbruch",
       "Lukas Wielgorz"
+    ],
+    [
+      "Jürgen Gehring",
+      "Tobias Urban"
     ],
     [
       "Jürgen Herberich",

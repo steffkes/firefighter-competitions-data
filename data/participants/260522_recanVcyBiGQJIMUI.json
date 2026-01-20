@@ -2,13 +2,16 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 86
+      "amount": 85
     }
   ],
-  "count": 75,
+  "count": 76,
   "teams": [
     [
       "Alfonso Barcena"
+    ],
+    [
+      "Andre Seifert"
     ],
     [
       "Andre Thieringer"

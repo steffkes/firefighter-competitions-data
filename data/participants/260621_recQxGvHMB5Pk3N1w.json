@@ -1,7 +1,7 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 60,
+  "count": 62,
   "teams": [
     [
       "Aaron Nees",
@@ -22,6 +22,10 @@
     [
       "Anna-Lena Wieland",
       "Robin Gölz"
+    ],
+    [
+      "Christian Dröbs",
+      "Steve Grünwald"
     ],
     [
       "Damian Pyka",

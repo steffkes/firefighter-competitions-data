@@ -1,7 +1,7 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 62,
+  "count": 74,
   "teams": [
     [
       "Aaron Nees",
@@ -24,6 +24,10 @@
       "Robin Gölz"
     ],
     [
+      "Björn Herborn",
+      "Nicole Mrosek"
+    ],
+    [
       "Christian Dröbs",
       "Steve Grünwald"
     ],
@@ -40,6 +44,10 @@
       "Steve Roidl"
     ],
     [
+      "Daniel Hinske",
+      "Markus Dönnebrink"
+    ],
+    [
       "Dominik Fäth",
       "Marcel Fäth"
     ],
@@ -54,6 +62,10 @@
     [
       "Florian Koch",
       "Martin Gehrig"
+    ],
+    [
+      "Florian Lukas",
+      "Janina Lukas"
     ],
     [
       "Florian Spengler",
@@ -120,12 +132,24 @@
       "Norbert Kurt"
     ],
     [
+      "Max Heise",
+      "Simon Wolter"
+    ],
+    [
       "Oliver Thelen",
       "Tim Breickmann"
     ],
     [
       "Rafael Baldes",
       "Sam Bora Oguz"
+    ],
+    [
+      "Robert Braun",
+      "Stephan Lewerenz"
+    ],
+    [
+      "Robert Braun",
+      "Stephan Lewerenz"
     ]
   ]
 }

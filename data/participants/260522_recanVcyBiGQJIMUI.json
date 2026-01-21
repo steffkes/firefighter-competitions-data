@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 84
+      "amount": 83
     }
   ],
-  "count": 77,
+  "count": 78,
   "teams": [
     [
       "Alfonso Barcena"
@@ -219,6 +219,9 @@
     ],
     [
       "Thomas Kern"
+    ],
+    [
+      "Thomas Reinhardt"
     ],
     [
       "Thomas Schindele"

@@ -7,6 +7,7 @@ from util import (
     SlotItem,
 )
 import requests
+import itertools
 
 
 class CompetitionSpider(Spider):
@@ -73,9 +74,12 @@ class CompetitionSpider(Spider):
 
         data = list(response.json()["data"].values())[0]
 
-        for [_id1, _id2, _bib, name, _yob, _age_group, _team] in data:
+        teamGetter = lambda row: row[6]
+        teams = itertools.groupby(sorted(data, key=teamGetter), key=teamGetter)
+        for _key, team in teams:
             yield ParticipantItem(
-                competition_id=self.competition_id, names=[fixName(name)]
+                competition_id=self.competition_id,
+                names=sorted(map(lambda row: fixName(row[3]), team)),
             )
 
     def parse_slots(self, response):

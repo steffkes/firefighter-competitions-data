@@ -1,7 +1,7 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 108,
+  "count": 110,
   "teams": [
     [
       "Aaron Nees",
@@ -46,6 +46,10 @@
     [
       "Christian Dröbs",
       "Steve Grünwald"
+    ],
+    [
+      "Christian Seipel",
+      "Sebastian Seipel"
     ],
     [
       "Damian Pyka",

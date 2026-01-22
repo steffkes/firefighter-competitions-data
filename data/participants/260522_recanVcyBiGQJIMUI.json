@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 82
+      "amount": 81
     }
   ],
-  "count": 79,
+  "count": 80,
   "teams": [
     [
       "Alfonso Barcena"
@@ -33,6 +33,9 @@
     ],
     [
       "Benjamin Nägelein"
+    ],
+    [
+      "Boris Hildebrand"
     ],
     [
       "Calvin Scholl"

@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 81
+      "amount": 80
     }
   ],
-  "count": 80,
+  "count": 81,
   "teams": [
     [
       "Alfonso Barcena"
@@ -171,6 +171,9 @@
     ],
     [
       "Nick Hespeler"
+    ],
+    [
+      "Niklas Denzer"
     ],
     [
       "Oliver Kaspar"

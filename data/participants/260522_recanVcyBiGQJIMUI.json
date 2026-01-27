@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 80
+      "amount": 79
     }
   ],
-  "count": 81,
+  "count": 82,
   "teams": [
     [
       "Alfonso Barcena"
@@ -30,6 +30,9 @@
     ],
     [
       "Anna-Lena Wieland"
+    ],
+    [
+      "Armin Kirchner"
     ],
     [
       "Benjamin Nägelein"

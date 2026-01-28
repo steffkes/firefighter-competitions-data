@@ -1,7 +1,7 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 200,
+  "count": 204,
   "teams": [
     [
       "Aaron Nees",
@@ -402,6 +402,12 @@
     [
       "Thomas Weege",
       "Tomke Weege"
+    ],
+    [
+      "Jonas Ahlemeier",
+      "Leon Dullweber",
+      "Paul Schwier",
+      "Torsten Brandhorst"
     ]
   ]
 }

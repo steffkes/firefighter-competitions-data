@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 78
+      "amount": 77
     }
   ],
-  "count": 83,
+  "count": 84,
   "teams": [
     [
       "Alfonso Barcena"
@@ -246,6 +246,9 @@
     ],
     [
       "Tim Schaaf"
+    ],
+    [
+      "Timo Püschner"
     ],
     [
       "Tino Leidel"

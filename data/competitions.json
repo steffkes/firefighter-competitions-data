@@ -453,30 +453,6 @@
         }
     },
     {
-        "id": "reczxkPRoCcR1DWTU",
-        "kind": "FSR",
-        "name": "Mt. Everest Treppenmarathon",
-        "url": "https://feuerwehrfitnessdresden.de/veranstaltung",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-05-06",
-            "end": "2023-05-07",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Radebeul",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 51.1136793,
-                "lng": 13.6637052
-            }
-        }
-    },
-    {
         "id": "recfbLmSUmkXDLptv",
         "kind": "FCC",
         "name": "Firefighter Combat Challenge",
@@ -545,30 +521,6 @@
             "coordinates": {
                 "lat": 46.811545,
                 "lng": 11.8832272
-            }
-        }
-    },
-    {
-        "id": "recMChQ1aRPCV6wjI",
-        "kind": "FSR",
-        "name": "Treppenlauf Halle",
-        "url": null,
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-06-03",
-            "end": "2023-06-03",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Halle (Saale)",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 51.4825041,
-                "lng": 11.9705452
             }
         }
     },
@@ -4170,7 +4122,7 @@
         "id": "recQpiFds3jkOXxU2",
         "kind": "FSR",
         "name": "Stairways to Heaven",
-        "url": "https://stairways.ch/de/",
+        "url": "https://www.firefighters-challenge.ch/en/home",
         "participants": {
             "count": null
         },
@@ -4644,6 +4596,30 @@
         }
     },
     {
+        "id": "recVt1BiqtV1B7X58",
+        "kind": "FSR",
+        "name": "Montafoner Treppencup",
+        "url": "https://www.scspartenen.at/treppencup/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-09-20",
+            "end": "2026-09-20",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2026-03-15T09:00:00.000Z"
+        },
+        "location": {
+            "city": "Partenen",
+            "country_code": "AT",
+            "coordinates": {
+                "lat": 46.967921,
+                "lng": 10.056521
+            }
+        }
+    },
+    {
         "id": "rec3z2ATiCsVRk3et",
         "kind": "FSR",
         "name": "TK Elevator Towerrun",
@@ -4688,6 +4664,30 @@
             "coordinates": {
                 "lat": 49.2307,
                 "lng": 12.670727
+            }
+        }
+    },
+    {
+        "id": "recQ5pRDFPJhOfmS3",
+        "kind": "FSR",
+        "name": "Fire Trail Nesselwang",
+        "url": "https://www.fire-trail-nesselwang.de",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-10-10",
+            "end": "2026-10-10",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Nesselwang ",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 47.6182629,
+                "lng": 10.4969224
             }
         }
     },

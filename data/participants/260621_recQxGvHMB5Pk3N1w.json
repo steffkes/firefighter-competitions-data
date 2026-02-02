@@ -1,15 +1,75 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 30,
+  "count": 236,
   "teams": [
+    [
+      "Aaron Nees",
+      "Tim Finkbeiner"
+    ],
+    [
+      "Alexander Dresp",
+      "Till Benninghaus"
+    ],
     [
       "Alexander Greis",
       "Jacqueline Phan"
     ],
     [
+      "Alexander Greis",
+      "Jacqueline Phan"
+    ],
+    [
+      "Alexander Kühne",
+      "Florian Kohl"
+    ],
+    [
+      "Alexander Proff",
+      "Jaqueline Hofmann"
+    ],
+    [
+      "Alexander Wiertschok",
+      "René Zeckert"
+    ],
+    [
+      "Alina Kuhn",
+      "Lukas Freimark"
+    ],
+    [
+      "Andre Herborn",
+      "Björn Herborn"
+    ],
+    [
+      "Andreas Stückmann",
+      "Matthias Barkling"
+    ],
+    [
+      "Anna-Lena Wieland",
+      "Robin Gölz"
+    ],
+    [
+      "Anne Weiß",
+      "Petra Koch"
+    ],
+    [
+      "Ben Brodbeck",
+      "Jens Moldt"
+    ],
+    [
       "Ben Zimmermann",
       "Konstantin Schmitt"
+    ],
+    [
+      "Benedikt Schacht",
+      "Leon Röder"
+    ],
+    [
+      "Benedikt Wempe",
+      "Rene Künnen"
+    ],
+    [
+      "Björn Bianga",
+      "Sven Hemmeter"
     ],
     [
       "Björn Bianga",
@@ -20,8 +80,52 @@
       "Nicole Mrosek"
     ],
     [
+      "Christian Brockers",
+      "Gerrit Lindlein"
+    ],
+    [
+      "Christian Damm",
+      "Maxime Buchbach"
+    ],
+    [
+      "Christian Dröbs",
+      "Steve Grünwald"
+    ],
+    [
+      "Christian Reiland",
+      "Frank Scholten"
+    ],
+    [
+      "Christian Seipel",
+      "Sebastian Seipel"
+    ],
+    [
+      "Christine Kaiser",
+      "Steffen Waschki"
+    ],
+    [
+      "Christoph Burbank",
+      "Jannik Lienkamp"
+    ],
+    [
+      "Christophe Hoffmann",
+      "Claude Kaufmann"
+    ],
+    [
+      "Christophe Theiβ",
+      "Remy Harpes"
+    ],
+    [
+      "Claas Wittkopf",
+      "Leon Lenz"
+    ],
+    [
       "Claude Rieff",
       "Nico Kleer"
+    ],
+    [
+      "Damian Pyka",
+      "Ingo Kolhoff"
     ],
     [
       "Damian Pyka",
@@ -36,32 +140,334 @@
       "Markus Most"
     ],
     [
+      "Daniel Dengler",
+      "Markus Most"
+    ],
+    [
+      "Daniel Hinske",
+      "Markus Dönnebrink"
+    ],
+    [
+      "Daniela Jurischka",
+      "Paul Aßmann"
+    ],
+    [
+      "Dennis Mikanovic",
+      "Fabian Faust"
+    ],
+    [
+      "Dirk Hirtz",
+      "Leif Daniels"
+    ],
+    [
+      "Dominic Niehus",
+      "René Buhrau"
+    ],
+    [
+      "Dominik Fäth",
+      "Marcel Fäth"
+    ],
+    [
+      "Eike Will",
+      "Sabine Sauer"
+    ],
+    [
+      "Elias Vogt",
+      "Markus Weber"
+    ],
+    [
+      "Enrico Werner",
+      "Meiko Bockheim"
+    ],
+    [
+      "Fabian Daniels",
+      "Markus Laukmann"
+    ],
+    [
+      "Felix Hartung",
+      "Lukas Mann"
+    ],
+    [
+      "Felix Manke",
+      "Florian Lukas"
+    ],
+    [
+      "Florian Koch",
+      "Martin Gehrig"
+    ],
+    [
+      "Florian Lohmer",
+      "Luis Rückert"
+    ],
+    [
       "Florian Lukas",
       "Janina Lukas"
+    ],
+    [
+      "Florian Spengler",
+      "Philipp Burger"
+    ],
+    [
+      "Gorginio Schwarze",
+      "Niclas Guske"
+    ],
+    [
+      "Hannes Brand",
+      "Tobias Mehrings"
     ],
     [
       "Hannes Großhauser",
       "Mario Paldino"
     ],
     [
+      "Hendrik Müller",
+      "Marco Müller"
+    ],
+    [
+      "Jan-Ole Krause",
+      "Tino Kreter"
+    ],
+    [
+      "Jannik Stiller",
+      "Jolina Cecile Hense"
+    ],
+    [
+      "Jaqueline Phan",
+      "Jasmin Bohun"
+    ],
+    [
+      "Jasmin Bohun",
+      "Steve Roidl"
+    ],
+    [
+      "Joachim Thelen",
+      "Patrick Hermes"
+    ],
+    [
+      "Johannes Widmann",
+      "Steffen Hary"
+    ],
+    [
+      "Johannes Wirtz",
+      "Kai Rolshofen"
+    ],
+    [
       "Julia Dawid",
       "Michael Dawid"
+    ],
+    [
+      "Julia Indytska",
+      "Tim Lohmann"
+    ],
+    [
+      "Julian Schorpp",
+      "Nagel Fabio"
+    ],
+    [
+      "Juliane Schmidt",
+      "Markus Braun"
+    ],
+    [
+      "Jörg Bohun",
+      "Nicolas Faure"
+    ],
+    [
+      "Jörg Buhrau",
+      "Markus Brockers"
+    ],
+    [
+      "Jörg Burghard",
+      "Stefanie Hauser"
+    ],
+    [
+      "Jürgen Gehring",
+      "Tobias Urban"
+    ],
+    [
+      "Kai Kopperberg",
+      "Kilian Brinkmann"
+    ],
+    [
+      "Karsten Ehrhardt",
+      "Peter Zölller"
+    ],
+    [
+      "Kevin Kurk",
+      "Marco Rocholl"
+    ],
+    [
+      "Lena Wollweber",
+      "Mattia Baecker"
+    ],
+    [
+      "Leon Bartusch",
+      "Leon Kreutzer"
+    ],
+    [
+      "Lina Heinecke",
+      "Tim Lembcke"
+    ],
+    [
+      "Luca Hülser",
+      "Neslihan Alioglu"
+    ],
+    [
+      "Lucas Beyer",
+      "Yola Schwarz"
+    ],
+    [
+      "Lucas Gertz",
+      "Maximilian Köhler"
+    ],
+    [
+      "Lucas Trauer",
+      "Nico Brosda"
+    ],
+    [
+      "Lukas Braunewell",
+      "Marco Krenkers"
+    ],
+    [
+      "Lukas Daube",
+      "Tim Pionk"
+    ],
+    [
+      "Lukas Fritz",
+      "Philipp Vehrke"
+    ],
+    [
+      "Lukas Kittler",
+      "Nathaly Dahms"
+    ],
+    [
+      "Lukas Scholten",
+      "Sebastian Deckers"
+    ],
+    [
+      "Malte Spielberger",
+      "Tim Reineberg"
+    ],
+    [
+      "Manuel Zarges",
+      "Michel Verdoodt"
     ],
     [
       "Marcel Winter",
       "Marcos Oliveira"
     ],
     [
+      "Marco Becker",
+      "René Fäth"
+    ],
+    [
+      "Marcus Hildebrand",
+      "Markus Kurzhals"
+    ],
+    [
+      "Mareile Düffert",
+      "Marvin Fuhrmann"
+    ],
+    [
+      "Mark Brummund",
+      "Michael Kuper"
+    ],
+    [
       "Markus Günther",
       "Michael Wolf"
+    ],
+    [
+      "Markus Klein",
+      "Sabina Schembera"
+    ],
+    [
+      "Markus Reuter",
+      "Paul Weigner"
+    ],
+    [
+      "Martin Käufer",
+      "Robert Stocker"
+    ],
+    [
+      "Marvin Maaß",
+      "Norbert Kurt"
+    ],
+    [
+      "Maurice Löbach",
+      "Thomas Schmidt"
+    ],
+    [
+      "Max Heise",
+      "Simon Wolter"
+    ],
+    [
+      "Merlin Plümpe",
+      "Phil Kefenbaum"
+    ],
+    [
+      "Michael Rombach",
+      "Moritz Maubach"
+    ],
+    [
+      "Nico Kleer",
+      "Remy Harpes"
+    ],
+    [
+      "Nils Dembeck",
+      "Torsten Schmied"
+    ],
+    [
+      "Oliver Thelen",
+      "Tim Breickmann"
+    ],
+    [
+      "Philip Etten",
+      "Simon Etten"
+    ],
+    [
+      "Philipp Ehniß",
+      "Tim Rothfuß"
     ],
     [
       "Rafael Baldes",
       "Sam Bora Oguz"
     ],
     [
+      "Rafael Manz",
+      "Siggi Manz"
+    ],
+    [
       "Robert Braun",
       "Stephan Lewerenz"
+    ],
+    [
+      "Robert Braun",
+      "Stephan Lewerenz"
+    ],
+    [
+      "Thomas Weege",
+      "Tomke Weege"
+    ],
+    [
+      "Tobias Mader",
+      "Torben Mader"
+    ],
+    [
+      "Tobias Schulte",
+      "Torsten Malina"
+    ],
+    [
+      "Hendrik Görgens",
+      "Luca Schulten",
+      "Michael Backus",
+      "Ole Schröder"
+    ],
+    [
+      "Eike Tiemann",
+      "Jonas Ahlemeier",
+      "Leon Dullweber",
+      "Nils Humbke",
+      "Paul Schwier",
+      "Torsten Brandhorst"
     ]
   ]
 }

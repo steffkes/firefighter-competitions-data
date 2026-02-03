@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 76
+      "amount": 75
     }
   ],
-  "count": 85,
+  "count": 86,
   "teams": [
     [
       "Alfonso Barcena"
@@ -105,6 +105,9 @@
     ],
     [
       "Heiko Wenzel"
+    ],
+    [
+      "Hendrik Heuger"
     ],
     [
       "Jannik Pongratz"

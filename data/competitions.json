@@ -573,30 +573,6 @@
         }
     },
     {
-        "id": "recFvh7xPFfq094kF",
-        "kind": "FSR",
-        "name": "Bad Wildbader Stäffeleslauf",
-        "url": "https://my.raceresult.com/230471/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-06-16",
-            "end": "2023-06-16",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": "2023-02-28T23:00:00.000Z"
-        },
-        "location": {
-            "city": "Bad Wildbad",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 48.7503279,
-                "lng": 8.5489542
-            }
-        }
-    },
-    {
         "id": "rec5N3iDX27EQsEF4",
         "kind": "FCC",
         "name": "Firefit Championships Europe",
@@ -665,30 +641,6 @@
             "coordinates": {
                 "lat": 51.106947,
                 "lng": 17.027561
-            }
-        }
-    },
-    {
-        "id": "recY5XiURsOGTS1U3",
-        "kind": "FSR",
-        "name": "Wildbad311 Treppenlauf",
-        "url": "https://www.racesolution.de/teilnehmer.html?event=wildbad345-treppenlauf-rothenburg-odt-2",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-06-23",
-            "end": "2023-06-23",
-            "is_draft": null,
-            "is_canceled": "Zu wenig Teilnehmer",
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Rothenburg ob der Tauber",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 49.3694901,
-                "lng": 10.1802884
             }
         }
     },
@@ -2877,7 +2829,7 @@
         "id": "rec3WhJ6R9lAUy5Uw",
         "kind": "FSR",
         "name": "Wohnbau Towerrunning Essen",
-        "url": "https://my.raceresult.com/335507/info",
+        "url": "https://www.essener-treppenhauslauf.de/",
         "participants": {
             "count": null
         },
@@ -4167,6 +4119,30 @@
         }
     },
     {
+        "id": "rec58coVSjVqKxQg0",
+        "kind": "FSR",
+        "name": "alive step up",
+        "url": "https://alive.si/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-05-16",
+            "end": "2026-05-16",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Ljubljana",
+            "country_code": "SI",
+            "coordinates": {
+                "lat": 46.066912,
+                "lng": 14.541362
+            }
+        }
+    },
+    {
         "id": "recanVcyBiGQJIMUI",
         "kind": "FSR",
         "name": "Münsterturmlauf Ulm",
@@ -4427,6 +4403,30 @@
             "coordinates": {
                 "lat": 51.5192509,
                 "lng": 9.9266786
+            }
+        }
+    },
+    {
+        "id": "recMkYGZF99YDJ3Fg",
+        "kind": "FSR",
+        "name": "Nordschwarzwald Trophy",
+        "url": "https://www.eventservice-stahl.de/veranstaltungen/nordschwarzwald-trophy/feuerwehr-lauf-ohne-pa/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-07-31",
+            "end": "2026-07-31",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Schömberg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.7849506,
+                "lng": 8.6496677
             }
         }
     },

@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 75
+      "amount": 74
     }
   ],
-  "count": 86,
+  "count": 87,
   "teams": [
     [
       "Alfonso Barcena"
@@ -192,6 +192,9 @@
     ],
     [
       "Pascal Schlecht"
+    ],
+    [
+      "Patrick Maier"
     ],
     [
       "Philipp Dongus"

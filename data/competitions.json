@@ -765,30 +765,6 @@
         }
     },
     {
-        "id": "recv0wpvpba0jNvlE",
-        "kind": "FSR",
-        "name": "SkyRun MesseTurm Frankfurt",
-        "url": "https://my.raceresult.com/237482/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-07-16",
-            "end": "2023-07-16",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Frankfurt",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 50.1125015,
-                "lng": 8.6528873
-            }
-        }
-    },
-    {
         "id": "recLfpQn2AW8uQdni",
         "kind": "FSR",
         "name": "Feuerwehrlauf Nordschwarzwaldtrophy",
@@ -4521,6 +4497,30 @@
             "city": null,
             "country_code": "AT",
             "coordinates": null
+        }
+    },
+    {
+        "id": "recTUsUPMllM30vNv",
+        "kind": "FSR",
+        "name": "Towerrun Mainz",
+        "url": "https://www.ff-mainz-stadt.de/towerrun-mainz",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-09-13",
+            "end": "2026-09-13",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Mainz",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.0032405,
+                "lng": 8.2598047
+            }
         }
     },
     {

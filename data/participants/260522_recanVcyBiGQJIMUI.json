@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 71
+      "amount": 69
     }
   ],
-  "count": 90,
+  "count": 92,
   "teams": [
     [
       "Alfonso Barcena"
@@ -96,6 +96,9 @@
     ],
     [
       "Florian Wirth"
+    ],
+    [
+      "Frederik Faul"
     ],
     [
       "Gunther Fuchs"
@@ -237,6 +240,9 @@
     ],
     [
       "Sebastian Stamer"
+    ],
+    [
+      "Stephan Radeke"
     ],
     [
       "Steve Roidl"

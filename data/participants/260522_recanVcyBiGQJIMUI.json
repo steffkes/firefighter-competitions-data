@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 66
+      "amount": 65
     }
   ],
-  "count": 95,
+  "count": 96,
   "teams": [
     [
       "Alfonso Barcena"
@@ -69,6 +69,9 @@
     ],
     [
       "Dennis Holstein"
+    ],
+    [
+      "Dominik Peters"
     ],
     [
       "Dominik Steidle"

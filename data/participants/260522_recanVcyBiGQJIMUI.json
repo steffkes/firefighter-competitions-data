@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 72
+      "amount": 71
     }
   ],
-  "count": 89,
+  "count": 90,
   "teams": [
     [
       "Alfonso Barcena"
@@ -72,6 +72,9 @@
     ],
     [
       "Emil Schwell"
+    ],
+    [
+      "Fabian Gerbl"
     ],
     [
       "Felix Fingerle"

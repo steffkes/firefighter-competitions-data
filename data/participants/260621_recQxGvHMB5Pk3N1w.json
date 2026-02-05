@@ -1,7 +1,7 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 255,
+  "count": 257,
   "teams": [
     [
       "Sam Bora Oguz"
@@ -487,20 +487,22 @@
       "Ole Schröder"
     ],
     [
-      "Alexander Kuhlhawy",
-      "Benjamin Unruh",
-      "Denis Erbe",
-      "Fabio Wellegehausen",
-      "Jonas Pabel",
-      "Rene Bode"
-    ],
-    [
       "Eike Tiemann",
       "Jonas Ahlemeier",
       "Leon Dullweber",
       "Nils Humbke",
       "Paul Schwier",
       "Torsten Brandhorst"
+    ],
+    [
+      "Alexander Kuhlhawy",
+      "Benjamin Unruh",
+      "Denis Erbe",
+      "Fabio Wellegehausen",
+      "Florian Kröhl",
+      "Henning Bröcker",
+      "Jonas Pabel",
+      "Rene Bode"
     ]
   ]
 }

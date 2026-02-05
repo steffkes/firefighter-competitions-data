@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 62
+      "amount": 60
     }
   ],
-  "count": 99,
+  "count": 101,
   "teams": [
     [
       "Alfonso Barcena"
@@ -167,6 +167,9 @@
       "Laurin Holzapfel"
     ],
     [
+      "Lukas Bayer"
+    ],
+    [
       "Manfred Freimut"
     ],
     [
@@ -225,6 +228,9 @@
     ],
     [
       "Patrick Maier"
+    ],
+    [
+      "Patrick Schröder"
     ],
     [
       "Philipp Dongus"

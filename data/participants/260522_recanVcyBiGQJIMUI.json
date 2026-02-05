@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 60
+      "amount": 59
     }
   ],
-  "count": 101,
+  "count": 102,
   "teams": [
     [
       "Alfonso Barcena"
@@ -78,6 +78,9 @@
     ],
     [
       "Dominik Steidle"
+    ],
+    [
+      "Elias Schwarz"
     ],
     [
       "Elias Vogt"

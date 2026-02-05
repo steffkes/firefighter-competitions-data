@@ -3913,7 +3913,7 @@
         "date": {
             "start": "2026-04-18",
             "end": "2026-04-18",
-            "is_draft": true,
+            "is_draft": null,
             "is_canceled": null,
             "registration_opens": "2025-03-17T17:00:00.000Z"
         },
@@ -3947,30 +3947,6 @@
             "coordinates": {
                 "lat": 50.6977798,
                 "lng": 10.6802269
-            }
-        }
-    },
-    {
-        "id": "recDXLopJ2XfD81vC",
-        "kind": "FSR",
-        "name": "Berlin Firefighter Stairrun",
-        "url": "https://www.berlin-firefighter-stairrun.de/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2026-04-25",
-            "end": "2026-04-25",
-            "is_draft": true,
-            "is_canceled": null,
-            "registration_opens": "2025-03-17T17:00:00.000Z"
-        },
-        "location": {
-            "city": "Berlin",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 52.523125,
-                "lng": 13.4127656
             }
         }
     },
@@ -4582,7 +4558,7 @@
         "date": {
             "start": "2026-09-19",
             "end": "2026-09-19",
-            "is_draft": true,
+            "is_draft": null,
             "is_canceled": null,
             "registration_opens": null
         },
@@ -4760,6 +4736,30 @@
             "coordinates": {
                 "lat": 50.6977798,
                 "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "rec4NGfkT88olZhlQ",
+        "kind": "FSR",
+        "name": "Esslinger Burgstäffeleslauf",
+        "url": null,
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2027-09-18",
+            "end": "2027-09-18",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Esslingen",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.744972,
+                "lng": 9.309312
             }
         }
     }

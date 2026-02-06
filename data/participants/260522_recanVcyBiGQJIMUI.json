@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 49
+      "amount": 47
     }
   ],
-  "count": 112,
+  "count": 114,
   "teams": [
     [
       "Alfonso Barcena"
@@ -141,6 +141,9 @@
     ],
     [
       "Hannes Schmid"
+    ],
+    [
+      "Heiko Kröner"
     ],
     [
       "Heiko Wenzel"
@@ -327,6 +330,9 @@
     ],
     [
       "Tim Schaaf"
+    ],
+    [
+      "Timo Bäuml"
     ],
     [
       "Timo Püschner"

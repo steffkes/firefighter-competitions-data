@@ -4,6 +4,12 @@
   "count": 261,
   "teams": [
     [
+      "Florian Kröhl"
+    ],
+    [
+      "Henning Bröcker"
+    ],
+    [
       "Sam Bora Oguz"
     ],
     [
@@ -21,6 +27,10 @@
     [
       "Alexander Greis",
       "Jacqueline Phan"
+    ],
+    [
+      "Alexander Kuhlhawy",
+      "Fabio Wellegehausen"
     ],
     [
       "Alexander Kühne",
@@ -73,6 +83,10 @@
     [
       "Benedikt Wempe",
       "Rene Künnen"
+    ],
+    [
+      "Benjamin Unruh",
+      "Rene Bode"
     ],
     [
       "Björn Bianga",
@@ -161,6 +175,10 @@
     [
       "Daniela Jurischka",
       "Paul Aßmann"
+    ],
+    [
+      "Denis Erbe",
+      "Jonas Pabel"
     ],
     [
       "Dennis Mikanovic",
@@ -501,16 +519,6 @@
       "Nils Humbke",
       "Paul Schwier",
       "Torsten Brandhorst"
-    ],
-    [
-      "Alexander Kuhlhawy",
-      "Benjamin Unruh",
-      "Denis Erbe",
-      "Fabio Wellegehausen",
-      "Florian Kröhl",
-      "Henning Bröcker",
-      "Jonas Pabel",
-      "Rene Bode"
     ]
   ]
 }

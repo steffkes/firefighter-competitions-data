@@ -1,8 +1,13 @@
 {
   "competition_id": "recj7HIkRvhtDJZ08",
   "slots": [],
-  "count": 90,
+  "count": 96,
   "teams": [
+    [
+      "Alex Wagner",
+      "Pamela Klein",
+      "Phil Jakob"
+    ],
     [
       "Alexander Fischer",
       "Carsten Jäger",
@@ -42,6 +47,11 @@
       "Christian Störkel",
       "Daniel Minnert",
       "Kassandra Paliga"
+    ],
+    [
+      "Christoph Filz",
+      "Julian Reichhold",
+      "Roman Reichhold"
     ],
     [
       "Daniel Heil",

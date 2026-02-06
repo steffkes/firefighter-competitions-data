@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 58
+      "amount": 56
     }
   ],
-  "count": 103,
+  "count": 105,
   "teams": [
     [
       "Alfonso Barcena"
@@ -108,6 +108,9 @@
     ],
     [
       "Florian Erlenmaier"
+    ],
+    [
+      "Florian Kalmbach"
     ],
     [
       "Florian Kögel"
@@ -273,6 +276,9 @@
     ],
     [
       "Sebastian Stamer"
+    ],
+    [
+      "Silas Häußermann"
     ],
     [
       "Stephan Radeke"

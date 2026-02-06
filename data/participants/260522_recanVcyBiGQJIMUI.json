@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 51
+      "amount": 50
     }
   ],
-  "count": 110,
+  "count": 111,
   "teams": [
     [
       "Alfonso Barcena"
@@ -111,6 +111,9 @@
     ],
     [
       "Florian Erlenmaier"
+    ],
+    [
+      "Florian Grafmüller"
     ],
     [
       "Florian Kalmbach"

@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 54
+      "amount": 52
     }
   ],
-  "count": 107,
+  "count": 109,
   "teams": [
     [
       "Alfonso Barcena"
@@ -60,6 +60,9 @@
     ],
     [
       "Claude Kaufmann"
+    ],
+    [
+      "Claudio Polzin"
     ],
     [
       "Damion Werner"
@@ -294,6 +297,9 @@
     ],
     [
       "Sören Gensler"
+    ],
+    [
+      "Thomas Galenziok"
     ],
     [
       "Thomas Junginger"

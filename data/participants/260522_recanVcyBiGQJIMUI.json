@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 55
+      "amount": 54
     }
   ],
-  "count": 106,
+  "count": 107,
   "teams": [
     [
       "Alfonso Barcena"
@@ -231,6 +231,9 @@
     ],
     [
       "Oliver Kaspar"
+    ],
+    [
+      "Oskar Allgöwer"
     ],
     [
       "Pascal Schlecht"

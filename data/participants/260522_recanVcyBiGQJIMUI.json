@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 45
+      "amount": 44
     }
   ],
-  "count": 116,
+  "count": 117,
   "teams": [
     [
       "Alfonso Barcena"
@@ -351,6 +351,9 @@
     ],
     [
       "Tom Nägelein"
+    ],
+    [
+      "Valentin Beckendorf"
     ],
     [
       "Wolfgang Fähnle"

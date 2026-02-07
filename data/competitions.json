@@ -765,30 +765,6 @@
         }
     },
     {
-        "id": "recLfpQn2AW8uQdni",
-        "kind": "FSR",
-        "name": "Feuerwehrlauf Nordschwarzwaldtrophy",
-        "url": "https://my.raceresult.com/223565/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-07-28",
-            "end": "2023-07-28",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Schömberg",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 48.7849506,
-                "lng": 8.6496677
-            }
-        }
-    },
-    {
         "id": "recs1p7T2gY6quN2R",
         "kind": "FCC",
         "name": "British Firefighter Challenge",
@@ -809,30 +785,6 @@
             "coordinates": {
                 "lat": 53.4794892,
                 "lng": -2.2451148
-            }
-        }
-    },
-    {
-        "id": "rec2xxwFWtKqaAA3a",
-        "kind": "FSR",
-        "name": "Kölnturm Treppenlauf",
-        "url": "https://www.koelner-treppenlauf.de/anmeldung/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-08-13",
-            "end": "2023-08-13",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Köln",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 50.9480362,
-                "lng": 6.9431545
             }
         }
     },
@@ -4335,6 +4287,30 @@
         }
     },
     {
+        "id": "recXsHPhmh3xgSnjn",
+        "kind": "FSR",
+        "name": "Munich Sunrise",
+        "url": "https://munich-sunrise.gelungen.es/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-07-11",
+            "end": "2026-07-11",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "München",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.1768687,
+                "lng": 11.5924497
+            }
+        }
+    },
+    {
         "id": "recdVe8hJPvfOoeYb",
         "kind": "FCC",
         "name": "Leinetal Firefighter Combat Challenge",
@@ -4355,6 +4331,30 @@
             "coordinates": {
                 "lat": 51.5192509,
                 "lng": 9.9266786
+            }
+        }
+    },
+    {
+        "id": "recG3j3PcgPo4dPP3",
+        "kind": "FSR",
+        "name": "Munich Sunrise",
+        "url": "https://munich-sunrise.gelungen.es/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-07-25",
+            "end": "2026-07-25",
+            "is_draft": true,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "München",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.1768687,
+                "lng": 11.5924497
             }
         }
     },

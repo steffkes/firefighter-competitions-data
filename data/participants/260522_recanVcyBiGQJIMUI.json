@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 41
+      "amount": 40
     }
   ],
-  "count": 120,
+  "count": 121,
   "teams": [
     [
       "Achm Keller"
@@ -156,6 +156,9 @@
     ],
     [
       "Hendrik Heuger"
+    ],
+    [
+      "Holger Keller"
     ],
     [
       "Jan Fischer"

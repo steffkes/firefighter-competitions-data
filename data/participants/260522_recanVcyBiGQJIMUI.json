@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 43
+      "amount": 41
     }
   ],
-  "count": 118,
+  "count": 120,
   "teams": [
     [
       "Achm Keller"
@@ -51,6 +51,9 @@
     ],
     [
       "Christian Fleschhut"
+    ],
+    [
+      "Christian Hauff"
     ],
     [
       "Christian Kreit"
@@ -198,6 +201,9 @@
     ],
     [
       "Lukas Zimmermann"
+    ],
+    [
+      "Malte Eckler"
     ],
     [
       "Manfred Freimut"

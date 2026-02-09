@@ -45,14 +45,13 @@ class CompetitionSpider(Spider):
         )
 
     def parse_starters(self, response):
+
         for [
             _number1,
             _number2,
-            _time,
-            _team,
             _nationality,
+            _team,
             _department,
-            _category,
             names,
             _ages,
         ] in response.json()["data"]:

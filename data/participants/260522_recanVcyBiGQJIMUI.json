@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 40
+      "amount": 39
     }
   ],
-  "count": 121,
+  "count": 122,
   "teams": [
     [
       "Achm Keller"
@@ -192,6 +192,9 @@
     ],
     [
       "Katrin Böttinger"
+    ],
+    [
+      "Korbinian Gast"
     ],
     [
       "Laurin Holzapfel"

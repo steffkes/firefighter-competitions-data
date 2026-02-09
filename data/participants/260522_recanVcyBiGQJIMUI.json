@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 35
+      "amount": 34
     }
   ],
-  "count": 126,
+  "count": 127,
   "teams": [
     [
       "Achm Keller"
@@ -264,6 +264,9 @@
     ],
     [
       "Nick Hespeler"
+    ],
+    [
+      "Nicola Knie"
     ],
     [
       "Nicolas Faure"

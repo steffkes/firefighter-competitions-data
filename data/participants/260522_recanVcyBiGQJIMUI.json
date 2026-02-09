@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 36
+      "amount": 35
     }
   ],
-  "count": 125,
+  "count": 126,
   "teams": [
     [
       "Achm Keller"
@@ -225,6 +225,9 @@
     ],
     [
       "Marco Di Maria"
+    ],
+    [
+      "Marco Graf"
     ],
     [
       "Marius-Can Kern"

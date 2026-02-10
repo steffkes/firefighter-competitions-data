@@ -789,30 +789,6 @@
         }
     },
     {
-        "id": "rec2xxwFWtKqaAA3a",
-        "kind": "FSR",
-        "name": "Kölnturm Treppenlauf",
-        "url": "https://www.koelner-treppenlauf.de/anmeldung/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-08-13",
-            "end": "2023-08-13",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Köln",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 50.9480362,
-                "lng": 6.9431545
-            }
-        }
-    },
-    {
         "id": "recCZ6Npaxk5Glzo2",
         "kind": "FCC",
         "name": "Firefighter Combat Challenge",
@@ -4640,6 +4616,30 @@
             "coordinates": {
                 "lat": 49.2307,
                 "lng": 12.670727
+            }
+        }
+    },
+    {
+        "id": "recK0WG90R0TqoaCP",
+        "kind": "FSR",
+        "name": "Feuerwehrlauf am Schönbuchturm",
+        "url": "https://www.eventservice-stahl.de/veranstaltungen/feuerwehrlauf-am-sch%C3%B6nbuch-turm/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-09-27",
+            "end": "2026-09-27",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Herrenberg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 48.6039014,
+                "lng": 8.9093569
             }
         }
     },

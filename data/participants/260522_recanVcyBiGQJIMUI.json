@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 33
+      "amount": 32
     }
   ],
-  "count": 128,
+  "count": 129,
   "teams": [
     [
       "Achm Keller"
@@ -333,6 +333,9 @@
     ],
     [
       "Silas Häußermann"
+    ],
+    [
+      "Stefan Esch"
     ],
     [
       "Stephan Radeke"

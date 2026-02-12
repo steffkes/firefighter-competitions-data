@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 34
+      "amount": 33
     }
   ],
-  "count": 127,
+  "count": 128,
   "teams": [
     [
       "Achm Keller"
@@ -219,6 +219,9 @@
     ],
     [
       "Manfred Wäscher"
+    ],
+    [
+      "Manuel Bidmon"
     ],
     [
       "Marcel Heuter"

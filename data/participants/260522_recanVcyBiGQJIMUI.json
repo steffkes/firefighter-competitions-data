@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 31
+      "amount": 30
     }
   ],
-  "count": 130,
+  "count": 131,
   "teams": [
     [
       "Achm Keller"
@@ -261,6 +261,9 @@
     ],
     [
       "Martin Loos"
+    ],
+    [
+      "Marvin Dick"
     ],
     [
       "Maximilian Harbeck"

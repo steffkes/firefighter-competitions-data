@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 32
+      "amount": 31
     }
   ],
-  "count": 129,
+  "count": 130,
   "teams": [
     [
       "Achm Keller"
@@ -150,6 +150,9 @@
     ],
     [
       "Hannes Schmid"
+    ],
+    [
+      "Harald Metzen"
     ],
     [
       "Heiko Kröner"

@@ -2,11 +2,14 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 30
+      "amount": 28
     }
   ],
-  "count": 131,
+  "count": 133,
   "teams": [
+    [
+      "Achim Gekeler"
+    ],
     [
       "Achm Keller"
     ],
@@ -141,6 +144,9 @@
     ],
     [
       "Frederik Faul"
+    ],
+    [
+      "Fynn Yesper Matthiesen"
     ],
     [
       "Gunther Fuchs"

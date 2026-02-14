@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 26
+      "amount": 24
     }
   ],
-  "count": 135,
+  "count": 137,
   "teams": [
     [
       "Achim Gekeler"
@@ -191,6 +191,9 @@
       "Jonas Kirstein"
     ],
     [
+      "Julia Steppacher"
+    ],
+    [
       "Julian Röscheise"
     ],
     [
@@ -291,6 +294,9 @@
     ],
     [
       "Niklas Denzer"
+    ],
+    [
+      "Niklas Steurer"
     ],
     [
       "Oliver Kaspar"

@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 27
+      "amount": 26
     }
   ],
-  "count": 134,
+  "count": 135,
   "teams": [
     [
       "Achim Gekeler"
@@ -183,6 +183,9 @@
     ],
     [
       "Jo Jakob Ruben"
+    ],
+    [
+      "Jonas Hammer"
     ],
     [
       "Jonas Kirstein"

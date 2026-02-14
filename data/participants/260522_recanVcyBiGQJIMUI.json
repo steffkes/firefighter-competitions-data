@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 28
+      "amount": 27
     }
   ],
-  "count": 133,
+  "count": 134,
   "teams": [
     [
       "Achim Gekeler"
@@ -393,6 +393,9 @@
     ],
     [
       "Tino Leidel"
+    ],
+    [
+      "Tom Engelmann"
     ],
     [
       "Tom Nägelein"

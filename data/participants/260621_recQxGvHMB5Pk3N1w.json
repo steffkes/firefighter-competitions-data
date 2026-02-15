@@ -1,7 +1,7 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 357,
+  "count": 383,
   "teams": [
     [
       "Florian Kröhl"
@@ -81,6 +81,10 @@
       "Niklas Lomberg"
     ],
     [
+      "Andreas Fiedler",
+      "Mathis Grumbach"
+    ],
+    [
       "Andreas Stückmann",
       "Matthias Barkling"
     ],
@@ -141,6 +145,10 @@
       "Cliff Delvaux"
     ],
     [
+      "Christian Breuer",
+      "Matthias Lohmann"
+    ],
+    [
       "Christian Brockers",
       "Gerrit Lindlein"
     ],
@@ -161,6 +169,10 @@
       "Frank Scholten"
     ],
     [
+      "Christian Schmiedl",
+      "Thomas Rüscher"
+    ],
+    [
       "Christian Seipel",
       "Sebastian Seipel"
     ],
@@ -171,6 +183,10 @@
     [
       "Christoph Burbank",
       "Jannik Lienkamp"
+    ],
+    [
+      "Christoph Hellweg",
+      "Sven Edelmeyer"
     ],
     [
       "Christoph Plum",
@@ -269,12 +285,20 @@
       "Marcel Fäth"
     ],
     [
+      "Dominik Müther",
+      "Lukas Nottebrock"
+    ],
+    [
       "Dylan Azevedo",
       "Gilles Hutmacher"
     ],
     [
       "Dávid Jörisson",
       "Marcel Graffweg"
+    ],
+    [
+      "Edwin Flaming",
+      "Maurice Kwiotek"
     ],
     [
       "Eike Will",
@@ -293,6 +317,10 @@
       "Markus Laukmann"
     ],
     [
+      "Fabian Koch",
+      "Felix Petrick"
+    ],
+    [
       "Felix Hartung",
       "Lukas Mann"
     ],
@@ -303,6 +331,10 @@
     [
       "Felix Manke",
       "Florian Lukas"
+    ],
+    [
+      "Finn Moritz Wilhelm",
+      "Lasse Kils"
     ],
     [
       "Finn Stark",
@@ -485,6 +517,10 @@
       "Marco Rocholl"
     ],
     [
+      "Lara-Marie Schimmel",
+      "Tim Cieplik"
+    ],
+    [
       "Lars Schunke",
       "Marcel Wenzel"
     ],
@@ -621,6 +657,10 @@
       "Simon Wolter"
     ],
     [
+      "Max Hellweg",
+      "Piet Starck"
+    ],
+    [
       "Max Kinn",
       "Philippe Lepage"
     ],
@@ -631,6 +671,10 @@
     [
       "Michael Rombach",
       "Moritz Maubach"
+    ],
+    [
+      "Micheal Jandritza",
+      "Torsten Henkel"
     ],
     [
       "Nico Kleer",
@@ -657,6 +701,10 @@
       "Tim Rothfuß"
     ],
     [
+      "Pia Winkler",
+      "Sven Hansmeyer"
+    ],
+    [
       "Pit Reuter",
       "Yanick Krack"
     ],
@@ -671,6 +719,10 @@
     [
       "Robert Braun",
       "Stephan Lewerenz"
+    ],
+    [
+      "Schranco Sommerkamp",
+      "Simon Sommerkamp"
     ],
     [
       "Silas Mertikat",

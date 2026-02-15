@@ -2,16 +2,19 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 24
+      "amount": 23
     }
   ],
-  "count": 137,
+  "count": 138,
   "teams": [
     [
       "Achim Gekeler"
     ],
     [
       "Achm Keller"
+    ],
+    [
+      "Alexander Lohr"
     ],
     [
       "Alfonso Barcena"

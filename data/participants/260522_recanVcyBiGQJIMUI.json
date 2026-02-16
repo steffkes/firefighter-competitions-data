@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 12
+      "amount": 11
     }
   ],
-  "count": 149,
+  "count": 150,
   "teams": [
     [
       "Achim Gekeler"
@@ -378,6 +378,9 @@
     ],
     [
       "Rudi Wengert"
+    ],
+    [
+      "Sascha Lux"
     ],
     [
       "Sascha Unsöld"

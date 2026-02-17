@@ -1,7 +1,7 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 425,
+  "count": 429,
   "teams": [
     [
       "Florian Kröhl"
@@ -163,6 +163,10 @@
     [
       "Christian Dröbs",
       "Steve Grünwald"
+    ],
+    [
+      "Christian Marquardt",
+      "David Abram"
     ],
     [
       "Christian Mertes",
@@ -451,6 +455,10 @@
     [
       "Jacy Kesseler",
       "Luca Delvaux"
+    ],
+    [
+      "Jan Horstmann",
+      "Stephanie Eisenreich"
     ],
     [
       "Jan Kolvenbach",

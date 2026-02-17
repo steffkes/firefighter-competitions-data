@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 7
+      "amount": 6
     }
   ],
-  "count": 154,
+  "count": 155,
   "teams": [
     [
       "Achim Gekeler"
@@ -405,6 +405,9 @@
     ],
     [
       "Silas Häußermann"
+    ],
+    [
+      "Simon Wahl"
     ],
     [
       "Stefan Esch"

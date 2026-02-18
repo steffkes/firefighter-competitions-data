@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 4
+      "amount": 3
     }
   ],
-  "count": 157,
+  "count": 158,
   "teams": [
     [
       "Achim Gekeler"
@@ -354,6 +354,9 @@
     ],
     [
       "Patrick Maier"
+    ],
+    [
+      "Patrick Mayr"
     ],
     [
       "Patrick Schröder"

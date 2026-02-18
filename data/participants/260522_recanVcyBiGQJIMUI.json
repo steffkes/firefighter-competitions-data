@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 3
+      "amount": 0
     }
   ],
-  "count": 158,
+  "count": 161,
   "teams": [
     [
       "Achim Gekeler"
@@ -15,6 +15,9 @@
     ],
     [
       "Adrian Haiß"
+    ],
+    [
+      "Agostino Marulli"
     ],
     [
       "Alexander Lohr"
@@ -120,6 +123,9 @@
     ],
     [
       "Fabian Hofmann"
+    ],
+    [
+      "Fabio Silva"
     ],
     [
       "Felix Fingerle"
@@ -480,6 +486,9 @@
     ],
     [
       "Wolfgang Fähnle"
+    ],
+    [
+      "Yves Pasquini"
     ]
   ]
 }

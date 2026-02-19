@@ -1,7 +1,7 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 445,
+  "count": 447,
   "teams": [
     [
       "Florian Kröhl"
@@ -171,6 +171,10 @@
     [
       "Christian Dröbs",
       "Steve Grünwald"
+    ],
+    [
+      "Christian Löbach",
+      "Hannes Lüken"
     ],
     [
       "Christian Marquardt",

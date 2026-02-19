@@ -2,7 +2,7 @@
   "competition_id": "recRnyAQk9bzIczQX",
   "slots": [
     {
-      "amount": 36,
+      "amount": 35,
       "label": "Einzel"
     },
     {
@@ -10,7 +10,7 @@
       "label": "Staffel"
     },
     {
-      "amount": 34,
+      "amount": 33,
       "label": "Tandem"
     }
   ],

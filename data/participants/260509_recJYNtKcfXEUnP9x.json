@@ -1,11 +1,15 @@
 {
   "competition_id": "recJYNtKcfXEUnP9x",
   "slots": [],
-  "count": 466,
+  "count": 472,
   "teams": [
     [
       "Alan Dittrich",
       "Fabienne Sailer"
+    ],
+    [
+      "Alexander Barth",
+      "Julian Bruskowski"
     ],
     [
       "Alexander Bender",
@@ -928,12 +932,20 @@
       "Wolfgang Buck"
     ],
     [
+      "Simon Seitz",
+      "Stefan Schieferstein"
+    ],
+    [
       "Simon Wehrle",
       "Yannick Meinzer"
     ],
     [
       "Stefan Broß",
       "Tobias Holl"
+    ],
+    [
+      "Tim Strütt",
+      "Uwe Reichler"
     ]
   ]
 }

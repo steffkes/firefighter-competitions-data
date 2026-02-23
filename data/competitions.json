@@ -885,30 +885,6 @@
         }
     },
     {
-        "id": "recuroGAOnlF2dbLL",
-        "kind": "FSR",
-        "name": "Pyramidenkogel Turmlauf",
-        "url": "https://www.pyramidenkogel-turmlauf.at",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-09-10",
-            "end": "2023-09-10",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Schiefling am See",
-            "country_code": "AT",
-            "coordinates": {
-                "lat": 46.60929012,
-                "lng": 14.14499348
-            }
-        }
-    },
-    {
         "id": "recuxTE3WPxqoyLd1",
         "kind": "FCC",
         "name": "Europas Challenge",
@@ -4248,7 +4224,7 @@
             "end": "2026-07-05",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": "2026-04-12T09:00:00.000Z"
+            "registration_opens": "2026-03-29T09:00:00.000Z"
         },
         "location": {
             "city": "Ediger-Eller",
@@ -4613,6 +4589,30 @@
             "coordinates": {
                 "lat": 49.2307,
                 "lng": 12.670727
+            }
+        }
+    },
+    {
+        "id": "recDb3RnkBqI45Et4",
+        "kind": "FSR",
+        "name": "Garda Lift on Fire",
+        "url": "https://www.instagram.com/gardaliftonfire/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-09-26",
+            "end": "2026-09-26",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Riva del Garda",
+            "country_code": "IT",
+            "coordinates": {
+                "lat": 45.8847708,
+                "lng": 10.8396942
             }
         }
     },

@@ -5,7 +5,7 @@
       "amount": 0
     }
   ],
-  "count": 364,
+  "count": 366,
   "teams": [
     [
       "Adrian Kirchner",
@@ -646,6 +646,10 @@
     [
       "Michael Montag",
       "Simon Montag"
+    ],
+    [
+      "Michael Selivanov",
+      "Sebastian Schuchardt"
     ],
     [
       "Michael Wicht",

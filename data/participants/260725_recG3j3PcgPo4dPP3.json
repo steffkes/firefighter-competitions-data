@@ -1,7 +1,7 @@
 {
   "competition_id": "recG3j3PcgPo4dPP3",
   "slots": [],
-  "count": 4,
+  "count": 8,
   "teams": [
     [
       "Christoph Misoph",
@@ -10,6 +10,14 @@
     [
       "Claude Kaufmann Claude",
       "Nico Kleer"
+    ],
+    [
+      "Damian Pyka",
+      "Jasmin Bohun"
+    ],
+    [
+      "Damian Pyka",
+      "Steve Roidl"
     ]
   ]
 }

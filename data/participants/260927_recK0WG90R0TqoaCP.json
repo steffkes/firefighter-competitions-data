@@ -1,8 +1,20 @@
 {
   "competition_id": "recK0WG90R0TqoaCP",
   "slots": [],
-  "count": 10,
+  "count": 34,
   "teams": [
+    [
+      "Alexandra Auberger",
+      "Lina-Marie Raible"
+    ],
+    [
+      "Ben Graf",
+      "Mika Röhm"
+    ],
+    [
+      "Christoph Auberger",
+      "Lukas Mahler"
+    ],
     [
       "Csaba Domokos",
       "Florian Kimmel"
@@ -12,16 +24,52 @@
       "Monika Blank"
     ],
     [
+      "Emma Schwarz",
+      "Joshua Raible"
+    ],
+    [
+      "Franziska Auberger",
+      "Marla Kullmann"
+    ],
+    [
       "Freimut Manfred",
       "Kalle Müller"
+    ],
+    [
+      "Hannes Bernhard",
+      "Simon Bernhard"
+    ],
+    [
+      "Henri Flack",
+      "Paul Flack"
+    ],
+    [
+      "Jonah Bippus",
+      "Jonas Grosse"
     ],
     [
       "Jonas Buser",
       "Thomas Ley"
     ],
     [
+      "Julia Grosse",
+      "Paula Schwarz"
+    ],
+    [
       "Jörg Mönnich",
       "Ludwig Stolle"
+    ],
+    [
+      "Kevin Martin",
+      "Samuel Weihing"
+    ],
+    [
+      "Lasse Lienau",
+      "Leonard Saile"
+    ],
+    [
+      "Mats Röhm",
+      "Mio Graf"
     ]
   ]
 }

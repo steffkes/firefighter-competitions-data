@@ -861,30 +861,6 @@
         }
     },
     {
-        "id": "recdbloT0wTchykPC",
-        "kind": "FSR",
-        "name": "Firefighter Stair Climb",
-        "url": "https://www.instagram.com/firefighter.stair.climb.9_11/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-09-10",
-            "end": "2023-09-10",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Almere",
-            "country_code": "NL",
-            "coordinates": {
-                "lat": 52.3705038,
-                "lng": 5.2185859
-            }
-        }
-    },
-    {
         "id": "recuxTE3WPxqoyLd1",
         "kind": "FCC",
         "name": "Europas Challenge",
@@ -3872,6 +3848,30 @@
             "coordinates": {
                 "lat": 50.6977798,
                 "lng": 10.6802269
+            }
+        }
+    },
+    {
+        "id": "recW57eGAEtbmwNhM",
+        "kind": "FSR",
+        "name": "Isny200",
+        "url": "https://www.isny200.de/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-04-26",
+            "end": "2026-04-26",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2026-03-14T09:00:00.000Z"
+        },
+        "location": {
+            "city": "Isny",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 47.674149,
+                "lng": 10.082497
             }
         }
     },

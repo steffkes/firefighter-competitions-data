@@ -885,30 +885,6 @@
         }
     },
     {
-        "id": "recsoVt5VLJUeWhjn",
-        "kind": "FSR",
-        "name": "TK Elevator Towerrun",
-        "url": "https://towerrun.tkelevator.com/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-09-17",
-            "end": "2023-09-17",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Rottweil",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 48.1792097,
-                "lng": 8.6251129
-            }
-        }
-    },
-    {
         "id": "recsnE2BV10WGrC4f",
         "kind": "FCC",
         "name": "Firefighter Combat Challenge Austria",
@@ -4140,6 +4116,30 @@
         }
     },
     {
+        "id": "recxb6RAgajydQev9",
+        "kind": "FSR",
+        "name": "Weinbergschneckenlauf",
+        "url": "https://weinbergschneckenlauf.de/event/5km-start-900-ffw-2026/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-06-14",
+            "end": "2026-06-14",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Homburg am Main",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 49.786379,
+                "lng": 9.619844
+            }
+        }
+    },
+    {
         "id": "recwUsj6ovQuuhGoD",
         "kind": "FSR",
         "name": "Bad Wildbader Stäffeleslauf",
@@ -4272,7 +4272,7 @@
             "end": "2026-07-19",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": null
+            "registration_opens": "2026-04-12T15:00:00.000Z"
         },
         "location": {
             "city": "Göttingen",

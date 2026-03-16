@@ -909,30 +909,6 @@
         }
     },
     {
-        "id": "recycVihguhpkyw8L",
-        "kind": "FSR",
-        "name": "Escadórios da Humanidade",
-        "url": "https://escadorioshumanidade.pt/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-09-30",
-            "end": "2023-09-30",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Braga",
-            "country_code": "PT",
-            "coordinates": {
-                "lat": 41.5545295,
-                "lng": -8.3787141
-            }
-        }
-    },
-    {
         "id": "recPMv3VbrxEYrHSQ",
         "kind": "FSR",
         "name": "Garda Lift on Fire",
@@ -4524,7 +4500,31 @@
         "id": "recVt1BiqtV1B7X58",
         "kind": "FSR",
         "name": "Montafoner Treppencup",
-        "url": "https://www.scspartenen.at/treppencup/",
+        "url": "https://www.scspartenen.at/sommer/treppencup",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-09-19",
+            "end": "2026-09-19",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2026-03-15T09:00:00.000Z"
+        },
+        "location": {
+            "city": "Partenen",
+            "country_code": "AT",
+            "coordinates": {
+                "lat": 46.967921,
+                "lng": 10.056521
+            }
+        }
+    },
+    {
+        "id": "recPVJBrEYzkWY8Mf",
+        "kind": "FSR",
+        "name": "Montafoner Berglauf",
+        "url": "https://www.scspartenen.at/sommer/berglauf",
         "participants": {
             "count": null
         },
@@ -4533,7 +4533,7 @@
             "end": "2026-09-20",
             "is_draft": null,
             "is_canceled": null,
-            "registration_opens": "2026-03-15T09:00:00.000Z"
+            "registration_opens": null
         },
         "location": {
             "city": "Partenen",

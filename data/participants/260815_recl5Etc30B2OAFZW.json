@@ -2,15 +2,15 @@
   "competition_id": "recl5Etc30B2OAFZW",
   "slots": [
     {
-      "amount": 67,
+      "amount": 59,
       "label": "Einzel"
     },
     {
-      "amount": 27,
+      "amount": 25,
       "label": "Staffel"
     },
     {
-      "amount": 46,
+      "amount": 39,
       "label": "Tandem"
     }
   ],

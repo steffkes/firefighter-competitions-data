@@ -1,7 +1,7 @@
 {
   "competition_id": "recK0WG90R0TqoaCP",
   "slots": [],
-  "count": 38,
+  "count": 40,
   "teams": [
     [
       "Alexandra Auberger",
@@ -78,6 +78,10 @@
     [
       "Mats Röhm",
       "Mio Graf"
+    ],
+    [
+      "Max Hertel",
+      "Selina Hörner"
     ]
   ]
 }

@@ -1,8 +1,12 @@
 {
   "competition_id": "recK0WG90R0TqoaCP",
   "slots": [],
-  "count": 44,
+  "count": 48,
   "teams": [
+    [
+      "Adrian Till",
+      "Oliver Supper"
+    ],
     [
       "Alexandra Auberger",
       "Lina-Marie Raible"
@@ -10,6 +14,10 @@
     [
       "Ben Graf",
       "Mika Röhm"
+    ],
+    [
+      "Benedikt Supper",
+      "Mika Haug"
     ],
     [
       "Calvin Haug",

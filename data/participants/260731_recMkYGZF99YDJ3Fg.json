@@ -1,0 +1,507 @@
+{
+  "competition_id": "recMkYGZF99YDJ3Fg",
+  "slots": [],
+  "count": 250,
+  "teams": [
+    [
+      "Aaron Begier",
+      "Florian Hampel"
+    ],
+    [
+      "Achim Kapitz",
+      "Martin Engler"
+    ],
+    [
+      "Adrian Altmeyer",
+      "Dominik Dürr"
+    ],
+    [
+      "Ailine Jeikowski",
+      "Sara-Luise Rentschler"
+    ],
+    [
+      "Alexander Eckl",
+      "Tobias Kaltenbach"
+    ],
+    [
+      "Alexander Wuhrer",
+      "Leon Sprenger"
+    ],
+    [
+      "Andre Rommel",
+      "Michael Bezner"
+    ],
+    [
+      "Andreas Kalmbach",
+      "Hannes Issler"
+    ],
+    [
+      "Andreas Kusterer",
+      "Vollmer Alexander"
+    ],
+    [
+      "Andreas Schäfer",
+      "Nick Martinho"
+    ],
+    [
+      "André Feichter",
+      "Martin Lutz"
+    ],
+    [
+      "André Nowotny",
+      "Dominik Kraft"
+    ],
+    [
+      "Annalena Rentschler",
+      "Annika Weber"
+    ],
+    [
+      "Armin Buser",
+      "Christian Schwendemann"
+    ],
+    [
+      "Arved Günthner",
+      "Johannes Kirchhoff"
+    ],
+    [
+      "Axel Stahl",
+      "Fabian Probst"
+    ],
+    [
+      "Benedikt Doll",
+      "Francis Londa Mbongo"
+    ],
+    [
+      "Benedikt Hoffmann",
+      "Silas Brecht"
+    ],
+    [
+      "Benedikt Reiner",
+      "Felix Knopf"
+    ],
+    [
+      "Benjamin Oßwald",
+      "Felix Ritter"
+    ],
+    [
+      "Benjamin Zollt",
+      "Jonas Maag"
+    ],
+    [
+      "Birgit Dittrich",
+      "Markus Kehle"
+    ],
+    [
+      "Björn Hartlieb",
+      "Daniel Bross"
+    ],
+    [
+      "Caroline Ring",
+      "Mara Heinz"
+    ],
+    [
+      "Christian Eckert",
+      "Lennart Segreff"
+    ],
+    [
+      "Christian Kröner",
+      "Frederik Layh"
+    ],
+    [
+      "Christian Lörcher",
+      "Simon Kappel"
+    ],
+    [
+      "Christian Wuhrer",
+      "Lucas Mager"
+    ],
+    [
+      "Christiane Gehring",
+      "Daniel Gehring"
+    ],
+    [
+      "Christoph Brucks",
+      "Felix Pilger"
+    ],
+    [
+      "Christoph Kreuzer",
+      "Jörg Hartmann"
+    ],
+    [
+      "Christoph Maier",
+      "Michael Bröllos"
+    ],
+    [
+      "Csaba Domokos",
+      "Florian Frey"
+    ],
+    [
+      "Daniel Buchmann",
+      "Simon Buchmann"
+    ],
+    [
+      "Daniel Schnepf",
+      "Lea Herrle"
+    ],
+    [
+      "David Bintig",
+      "Luca Erdmann"
+    ],
+    [
+      "Dean Alves",
+      "Keanu Mordos"
+    ],
+    [
+      "Dennis Konrad",
+      "Jannis Fiedelak"
+    ],
+    [
+      "Dominik Heß",
+      "Monika Blank"
+    ],
+    [
+      "Dragos Mohanu",
+      "Tschampel Benjamin"
+    ],
+    [
+      "Eliana Lenz",
+      "Elias Pfaff"
+    ],
+    [
+      "Elias Repphuhn",
+      "Silas Hallmayer"
+    ],
+    [
+      "Elisa Melone",
+      "Maximilian Laufer"
+    ],
+    [
+      "Elmar Sölch",
+      "Sebastian Schneider"
+    ],
+    [
+      "Enrico Oswald",
+      "Heiko Oswald"
+    ],
+    [
+      "Estrellano Posas",
+      "Steven Wolf"
+    ],
+    [
+      "Fabian Kurz",
+      "Knödler Mathias"
+    ],
+    [
+      "Fabian Langenbacher",
+      "Jens Amma"
+    ],
+    [
+      "Fabian Persinger",
+      "Felix Mayer"
+    ],
+    [
+      "Fabian Wulf",
+      "Simon Gräbel"
+    ],
+    [
+      "Fabio Sprenger",
+      "Samuel Weckenmann"
+    ],
+    [
+      "Falk Lamers",
+      "Lukas Kaiser"
+    ],
+    [
+      "Fatih Toprak",
+      "Josua Dürr"
+    ],
+    [
+      "Federico Wahrenburg",
+      "Wuhrer Thomas"
+    ],
+    [
+      "Felix Holzer",
+      "Jonathan Hostadt"
+    ],
+    [
+      "Felix Nehls",
+      "Silas Schäfer"
+    ],
+    [
+      "Finn-Marvin Engel",
+      "Jan Just"
+    ],
+    [
+      "Florian Egger",
+      "Lena Zimmermann"
+    ],
+    [
+      "Florian Graf",
+      "Michael Mann"
+    ],
+    [
+      "Florian Ruster",
+      "Samira Rauschen"
+    ],
+    [
+      "Gackenheimer Lin-Tess",
+      "Katharina Credé"
+    ],
+    [
+      "Georg Ognew",
+      "Joshua Leimkötter"
+    ],
+    [
+      "Georg Seiler",
+      "Laura Nesselhauf"
+    ],
+    [
+      "Gockeler Sidney",
+      "Lotta Ascherl"
+    ],
+    [
+      "Hannes Auwärter",
+      "Markus Wolff"
+    ],
+    [
+      "Hannes Steffen Henn",
+      "Tamara Rausch"
+    ],
+    [
+      "Hannes Treffz",
+      "Michael Staubitz"
+    ],
+    [
+      "Hauser Stefanie",
+      "Jörg Burghard"
+    ],
+    [
+      "Heinz Thomas Jeikowski",
+      "Michael Rentschler"
+    ],
+    [
+      "Hendrik Schneider",
+      "Marcel Huschka"
+    ],
+    [
+      "Jakob Hörmann",
+      "Moritz Hoffmann"
+    ],
+    [
+      "Jan Jung",
+      "Tim Springer"
+    ],
+    [
+      "Jan-Niklas Sturm",
+      "Philipp Fieg"
+    ],
+    [
+      "Jannic Kuhn",
+      "Simon Reutter"
+    ],
+    [
+      "Jannis Deutsch",
+      "Markus Vogelmann"
+    ],
+    [
+      "Jens Kleinert",
+      "Tobias Haag"
+    ],
+    [
+      "Jonas Adams",
+      "Sven Zader"
+    ],
+    [
+      "Jonas Buser",
+      "Ley Thomas"
+    ],
+    [
+      "Jonas Jeikowski",
+      "Paul Rentschler"
+    ],
+    [
+      "Jonas Schneider",
+      "Wolf Oliver"
+    ],
+    [
+      "Jonas Schäfer",
+      "Maya Henrich"
+    ],
+    [
+      "Jonathan Kramer",
+      "Niklas Dober"
+    ],
+    [
+      "Julian Bensch",
+      "Marius Kalmbach"
+    ],
+    [
+      "Julian Pfeiffle",
+      "Sascha Geißler"
+    ],
+    [
+      "Kai Burow",
+      "Miguel Paetz-Fleck"
+    ],
+    [
+      "Kai Klaiber",
+      "Philipp Rentschler"
+    ],
+    [
+      "Kai Seemann",
+      "Marulli Agostino"
+    ],
+    [
+      "Kevin Heinrich",
+      "Niclas Wiese"
+    ],
+    [
+      "Kevin Schmidt",
+      "Marc Bopp"
+    ],
+    [
+      "Lara Berger",
+      "Marvin Stieber"
+    ],
+    [
+      "Lars Brenner",
+      "Robert Sattelmayer"
+    ],
+    [
+      "Laurin Schlenker",
+      "Nelson Ragg"
+    ],
+    [
+      "Laurin Schmidt",
+      "Marco Schmidt"
+    ],
+    [
+      "Luis Römer",
+      "Sascha Lingg"
+    ],
+    [
+      "Manuel Oswald",
+      "Tobias Rolle"
+    ],
+    [
+      "Mara Speck",
+      "Nico Schmitt"
+    ],
+    [
+      "Marc-Oliver Schwarz",
+      "Tobias Ott"
+    ],
+    [
+      "Marcel Graf",
+      "Philipp Hartmann"
+    ],
+    [
+      "Marcel Seyfried",
+      "Sven Credé"
+    ],
+    [
+      "Marco Rehm",
+      "Silas Rehm"
+    ],
+    [
+      "Marcus Frank",
+      "Schatz Sven"
+    ],
+    [
+      "Mario Walter",
+      "Sebastian Schwald"
+    ],
+    [
+      "Markus Heger",
+      "Tobias Kirsten"
+    ],
+    [
+      "Markus Linkenheil",
+      "Tobias Aichele"
+    ],
+    [
+      "Markus Neubert",
+      "Ralf Wangler"
+    ],
+    [
+      "Max Vieres",
+      "Tobias Bott"
+    ],
+    [
+      "Michael Hofmann",
+      "Saskia Weippert"
+    ],
+    [
+      "Michael Wetzel",
+      "Sascha Engelhardt"
+    ],
+    [
+      "Moritz Bell",
+      "Sebastian Zander"
+    ],
+    [
+      "Nicola Stieler",
+      "Raphael Demezzi"
+    ],
+    [
+      "Nikolaus Beilharz",
+      "Simon Seyfried"
+    ],
+    [
+      "Pascal Popp",
+      "Tobias Meichsner"
+    ],
+    [
+      "Paul Zössmayr",
+      "Tobias Beck"
+    ],
+    [
+      "Philipp Saboynik",
+      "Tim Kuhn"
+    ],
+    [
+      "Roberto Inglisa",
+      "Tanja Weichert"
+    ],
+    [
+      "Sarah Teschner-Jeikowski",
+      "Steven Teschner"
+    ],
+    [
+      "Sascha Draheim",
+      "Tobias Spranz"
+    ],
+    [
+      "Simon Theiss",
+      "Sven Theiss"
+    ],
+    [
+      "Stefan Häcker",
+      "Tobias Lehmann"
+    ],
+    [
+      "Thomas Heinz",
+      "Tobias Wichmann"
+    ],
+    [
+      "Thorsten Schäfer",
+      "Tim Ketterl"
+    ],
+    [
+      "Tobias Rentschler",
+      "Yvonne Huber"
+    ],
+    [
+      "Tobias Wichmann",
+      "Tobias Wichmann"
+    ],
+    [
+      "Vanessa Mai",
+      "Walter Tobias"
+    ],
+    [
+      "Yvonne Huber",
+      "Yvonne Huber"
+    ]
+  ]
+}

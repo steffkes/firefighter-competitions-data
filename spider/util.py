@@ -473,6 +473,7 @@ class BadWildbadSpider(Spider):
 
 class RottweilSpider(Spider):
     custom_starter = None
+    listname = "07 - Teilnehmer - PUBLIC|Teilnehmer ABC-Team"
 
     def start_requests(self):
         for contest, data_key in self.custom_starter or [(5, None), (6, None)]:
@@ -481,7 +482,7 @@ class RottweilSpider(Spider):
                 url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
                 formdata={
                     "key": self.race_key,
-                    "listname": "07 - Teilnehmer - PUBLIC|Teilnehmer ABC-Team",
+                    "listname": self.listname,
                     "contest": str(contest),
                 },
                 cb_kwargs={

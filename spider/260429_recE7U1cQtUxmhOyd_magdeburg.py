@@ -6,6 +6,7 @@ class CompetitionSpider(Spider):
     name = __name__
 
     def start_requests(self):
+        # source: https://www.berlin-timing.de/Hochhauslauf/Startliste
         yield scrapy.FormRequest(
             method="GET",
             url="https://www.berlin-timing.de/Liste/54cf88cceb98b07469fe3fb9d505ec44.csv",

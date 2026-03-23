@@ -909,30 +909,6 @@
         }
     },
     {
-        "id": "recPMv3VbrxEYrHSQ",
-        "kind": "FSR",
-        "name": "Garda Lift on Fire",
-        "url": "http://www.vvfrivadelgarda.it/de/veranstaltung/garda-lift-on-fire-2023.html",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-10-01",
-            "end": "2023-10-01",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": "2023-05-31T22:00:00.000Z"
-        },
-        "location": {
-            "city": "Riva del Garda",
-            "country_code": "IT",
-            "coordinates": {
-                "lat": 45.8847708,
-                "lng": 10.8396942
-            }
-        }
-    },
-    {
         "id": "recwjgLSOP7hBaDxZ",
         "kind": "FCC",
         "name": "Firefighter Combat Challenge World Championship",
@@ -953,30 +929,6 @@
             "coordinates": {
                 "lat": 27.7567667,
                 "lng": -81.4639835
-            }
-        }
-    },
-    {
-        "id": "recMKK5BqA6Or6K8d",
-        "kind": "FSR",
-        "name": "Chemnitzer Treppenlauf",
-        "url": "https://www.chemnitzer-treppenlauf.de",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-10-07",
-            "end": "2023-10-07",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Chemnitz",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 50.8360605,
-                "lng": 12.9209794
             }
         }
     },
@@ -3824,6 +3776,54 @@
             "coordinates": {
                 "lat": 47.674149,
                 "lng": 10.082497
+            }
+        }
+    },
+    {
+        "id": "recaojiX6XIg11R3w",
+        "kind": "FSR",
+        "name": "Zwickauer Hochhaus Treppenlauf",
+        "url": "https://my.raceresult.com/370100/info",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-04-26",
+            "end": "2026-04-26",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Zwickau",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 50.720182,
+                "lng": 12.4641671
+            }
+        }
+    },
+    {
+        "id": "recE7U1cQtUxmhOyd",
+        "kind": "FSR",
+        "name": "Hochhauslauf der Otto-von-Guericke-Universität Magdeburg",
+        "url": "https://www.hochhauslauf.ovgu.de/Anmeldung.html",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-04-29",
+            "end": "2026-04-29",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Magdeburg",
+            "country_code": "DE",
+            "coordinates": {
+                "lat": 52.139167,
+                "lng": 11.641389
             }
         }
     },

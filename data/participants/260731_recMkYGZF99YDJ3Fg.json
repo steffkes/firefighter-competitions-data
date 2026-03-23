@@ -1,7 +1,7 @@
 {
   "competition_id": "recMkYGZF99YDJ3Fg",
   "slots": [],
-  "count": 256,
+  "count": 258,
   "teams": [
     [
       "Aaron Begier",
@@ -310,6 +310,10 @@
     [
       "Jens Kleinert",
       "Tobias Haag"
+    ],
+    [
+      "Johannes Rexer",
+      "Oliver Maisenbacher"
     ],
     [
       "Jonas Adams",

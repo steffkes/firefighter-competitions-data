@@ -933,54 +933,6 @@
         }
     },
     {
-        "id": "recZIJTZPUVgK1u5J",
-        "kind": "FSR",
-        "name": "4Stairs onFire",
-        "url": "https://www.evendz.at/events/4-stairs/anmeldung/",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-10-21",
-            "end": "2023-10-21",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Judenburg",
-            "country_code": "AT",
-            "coordinates": {
-                "lat": 47.1682422,
-                "lng": 14.6613402
-            }
-        }
-    },
-    {
-        "id": "recC0hZtId4VxE7HY",
-        "kind": "FSR",
-        "name": "Schanzenlauf Oberstdorf",
-        "url": "https://schanzenlauf-oberstdorf.de",
-        "participants": {
-            "count": null
-        },
-        "date": {
-            "start": "2023-10-21",
-            "end": "2023-10-21",
-            "is_draft": null,
-            "is_canceled": null,
-            "registration_opens": null
-        },
-        "location": {
-            "city": "Oberstdorf",
-            "country_code": "DE",
-            "coordinates": {
-                "lat": 47.3749871,
-                "lng": 10.270242
-            }
-        }
-    },
-    {
         "id": "recYTNzFkNBssH8qX",
         "kind": "FCC",
         "name": "Firefighter Combat Challenge @ USAG",
@@ -3135,6 +3087,30 @@
         }
     },
     {
+        "id": "recfS5PpKP9NInkx7",
+        "kind": "FSR",
+        "name": "Firefighter Stair Climb",
+        "url": "https://www.brandweernederland.nl/firefighter-stair-climb/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2025-09-14",
+            "end": "2025-09-14",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": null
+        },
+        "location": {
+            "city": "Almere",
+            "country_code": "NL",
+            "coordinates": {
+                "lat": 52.3705038,
+                "lng": 5.2185859
+            }
+        }
+    },
+    {
         "id": "reczDUPUd3QCRSGFr",
         "kind": "FSR",
         "name": "Towerrun Mainz",
@@ -4376,6 +4352,30 @@
             "coordinates": {
                 "lat": 50.8797838,
                 "lng": 12.0672734
+            }
+        }
+    },
+    {
+        "id": "recfhOxJao9tiEpsY",
+        "kind": "FSR",
+        "name": "Firefighter Stair Climb",
+        "url": "https://www.brandweernederland.nl/firefighter-stair-climb/",
+        "participants": {
+            "count": null
+        },
+        "date": {
+            "start": "2026-09-11",
+            "end": "2026-09-11",
+            "is_draft": null,
+            "is_canceled": null,
+            "registration_opens": "2024-03-15T23:00:00.000Z"
+        },
+        "location": {
+            "city": "Almere",
+            "country_code": "NL",
+            "coordinates": {
+                "lat": 52.3705038,
+                "lng": 5.2185859
             }
         }
     },

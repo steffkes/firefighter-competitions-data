@@ -1,7 +1,7 @@
 {
   "competition_id": "recK0WG90R0TqoaCP",
   "slots": [],
-  "count": 50,
+  "count": 58,
   "teams": [
     [
       "Adrian Till",
@@ -14,6 +14,10 @@
     [
       "Ben Graf",
       "Mika Röhm"
+    ],
+    [
+      "Benedikt Supper",
+      "Mika Haug"
     ],
     [
       "Benedikt Supper",
@@ -76,6 +80,10 @@
       "Thomas Ley"
     ],
     [
+      "Jonas Schwarz",
+      "Theo Schmid"
+    ],
+    [
       "Julia Grosse",
       "Paula Schwarz"
     ],
@@ -96,12 +104,20 @@
       "Leonard Saile"
     ],
     [
+      "Leopold Supper",
+      "Matti Haug"
+    ],
+    [
       "Mats Röhm",
       "Mio Graf"
     ],
     [
       "Max Hertel",
       "Selina Hörner"
+    ],
+    [
+      "Mika Haug",
+      "Mika Hojenski"
     ]
   ]
 }

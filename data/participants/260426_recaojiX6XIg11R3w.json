@@ -1,7 +1,7 @@
 {
   "competition_id": "recaojiX6XIg11R3w",
   "slots": [],
-  "count": 42,
+  "count": 46,
   "teams": [
     [
       "Anja Werner",
@@ -10,6 +10,10 @@
     [
       "Bartsch Tobias",
       "Blumenthal Leon"
+    ],
+    [
+      "Bendix Gasch",
+      "Paul Winter"
     ],
     [
       "Cedric Matthäus",
@@ -86,6 +90,10 @@
     [
       "Robin Feustel",
       "Ronny Schenk"
+    ],
+    [
+      "Scheibe,Erik",
+      "Siegel, Kevin"
     ]
   ]
 }

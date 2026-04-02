@@ -5,7 +5,7 @@
       "amount": 233
     }
   ],
-  "count": 14,
+  "count": 20,
   "teams": [
     [
       "Andreas Huber"
@@ -48,6 +48,18 @@
     ],
     [
       "Vanessa Kopp"
+    ],
+    [
+      "Guido Abele",
+      "KarlHeinz Winter"
+    ],
+    [
+      "Markus Mezger",
+      "Simon Mezger"
+    ],
+    [
+      "Matthias Kern",
+      "Mischa Bäurle"
     ]
   ]
 }

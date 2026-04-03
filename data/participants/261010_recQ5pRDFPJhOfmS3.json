@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 232
+      "amount": 231
     }
   ],
-  "count": 21,
+  "count": 22,
   "teams": [
     [
       "Andreas Huber"
@@ -39,6 +39,9 @@
     ],
     [
       "Lasse Gellings"
+    ],
+    [
+      "Marcus Reindl"
     ],
     [
       "Mark Winter"

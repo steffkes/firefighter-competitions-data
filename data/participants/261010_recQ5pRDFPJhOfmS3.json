@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 233
+      "amount": 232
     }
   ],
-  "count": 20,
+  "count": 21,
   "teams": [
     [
       "Andreas Huber"
@@ -27,6 +27,9 @@
     ],
     [
       "Florian Wirth"
+    ],
+    [
+      "Jakob Wiest"
     ],
     [
       "Josef Neukamm"

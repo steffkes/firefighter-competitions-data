@@ -2,16 +2,19 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 230
+      "amount": 227
     }
   ],
-  "count": 23,
+  "count": 26,
   "teams": [
     [
       "Andreas Huber"
     ],
     [
       "Benjamin Eger-Glaser"
+    ],
+    [
+      "Christian Lampart"
     ],
     [
       "Christian Regenbogen"
@@ -38,6 +41,9 @@
       "Julius Römpp"
     ],
     [
+      "Lars Mayer"
+    ],
+    [
       "Lasse Gellings"
     ],
     [
@@ -51,6 +57,9 @@
     ],
     [
       "Max Peters"
+    ],
+    [
+      "Sophie Asanger"
     ],
     [
       "Timo Elser"

@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 221
+      "amount": 218
     }
   ],
-  "count": 32,
+  "count": 35,
   "teams": [
     [
       "Andreas Huber"
@@ -74,6 +74,12 @@
       "Michael Blattenberger"
     ],
     [
+      "Philipp Döhler"
+    ],
+    [
+      "Robin Scheuring"
+    ],
+    [
       "Sophie Asanger"
     ],
     [
@@ -81,6 +87,9 @@
     ],
     [
       "Timo Elser"
+    ],
+    [
+      "Tom Rebhan"
     ],
     [
       "Vanessa Kopp"

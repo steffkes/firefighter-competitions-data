@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 231
+      "amount": 230
     }
   ],
-  "count": 22,
+  "count": 23,
   "teams": [
     [
       "Andreas Huber"
@@ -51,6 +51,9 @@
     ],
     [
       "Max Peters"
+    ],
+    [
+      "Timo Elser"
     ],
     [
       "Vanessa Kopp"

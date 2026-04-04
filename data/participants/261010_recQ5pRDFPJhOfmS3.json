@@ -2,11 +2,14 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 218
+      "amount": 217
     }
   ],
-  "count": 35,
+  "count": 36,
   "teams": [
+    [
+      "Alexander Haas"
+    ],
     [
       "Andreas Huber"
     ],

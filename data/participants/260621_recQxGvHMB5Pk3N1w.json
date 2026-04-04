@@ -1,7 +1,7 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 676,
+  "count": 678,
   "teams": [
     [
       "Florian Kröhl"
@@ -292,6 +292,10 @@
     [
       "Christoph Hellweg",
       "Sven Edelmeyer"
+    ],
+    [
+      "Christoph Leyendecker",
+      "Manfred Heng"
     ],
     [
       "Christoph Plum",

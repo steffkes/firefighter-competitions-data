@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 222
+      "amount": 221
     }
   ],
-  "count": 31,
+  "count": 32,
   "teams": [
     [
       "Andreas Huber"
@@ -42,6 +42,9 @@
     ],
     [
       "Julius Römpp"
+    ],
+    [
+      "Korbinian Gast"
     ],
     [
       "Lars Mayer"

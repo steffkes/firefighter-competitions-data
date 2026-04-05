@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 215
+      "amount": 213
     }
   ],
-  "count": 39,
+  "count": 41,
   "teams": [
     [
       "Alexander Haas"
@@ -15,6 +15,9 @@
     ],
     [
       "Benjamin Eger-Glaser"
+    ],
+    [
+      "Christian Fleschhut"
     ],
     [
       "Christian Lampart"
@@ -87,6 +90,9 @@
     ],
     [
       "Sophie Asanger"
+    ],
+    [
+      "Stefan Kraus"
     ],
     [
       "Steve Roidl"

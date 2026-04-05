@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 208
+      "amount": 207
     }
   ],
-  "count": 46,
+  "count": 47,
   "teams": [
     [
       "Alexander Haas"
@@ -93,6 +93,9 @@
     ],
     [
       "Max Peters"
+    ],
+    [
+      "Maximilian Thalhofer"
     ],
     [
       "Michael Blattenberger"

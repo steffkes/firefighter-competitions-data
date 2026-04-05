@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 216
+      "amount": 215
     }
   ],
-  "count": 38,
+  "count": 39,
   "teams": [
     [
       "Alexander Haas"
@@ -27,6 +27,9 @@
     ],
     [
       "Christoph Brossart"
+    ],
+    [
+      "Damian Pyka"
     ],
     [
       "Fabian Gold"

@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 217
+      "amount": 216
     }
   ],
-  "count": 36,
+  "count": 38,
   "teams": [
     [
       "Alexander Haas"
@@ -96,6 +96,10 @@
     ],
     [
       "Vanessa Kopp"
+    ],
+    [
+      "Alexander Wörz",
+      "Markus König"
     ],
     [
       "Guido Abele",

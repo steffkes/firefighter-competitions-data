@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 207
+      "amount": 206
     }
   ],
-  "count": 47,
+  "count": 49,
   "teams": [
     [
       "Alexander Haas"
@@ -127,6 +127,10 @@
     [
       "Alexander Wörz",
       "Markus König"
+    ],
+    [
+      "Andreas Fischer",
+      "Christian Kreit"
     ],
     [
       "Guido Abele",

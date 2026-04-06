@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 205
+      "amount": 204
     }
   ],
-  "count": 50,
+  "count": 51,
   "teams": [
     [
       "Alexander Haas"
@@ -90,6 +90,9 @@
     ],
     [
       "Markus Fischer"
+    ],
+    [
+      "Marvin Kellers"
     ],
     [
       "Matthias Maurer"

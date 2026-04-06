@@ -1,8 +1,16 @@
 {
   "competition_id": "recJYNtKcfXEUnP9x",
   "slots": [],
-  "count": 610,
+  "count": 606,
   "teams": [
+    [
+      "",
+      "Pascal Hilser"
+    ],
+    [
+      "",
+      "Silas Ringwald"
+    ],
     [
       "Aaron Baufeld",
       "Alexander Lindel"
@@ -424,10 +432,6 @@
       "Nadja Will"
     ],
     [
-      "Dennis Trojanski",
-      "Silas Ringwald"
-    ],
-    [
       "Dennis Walschburger",
       "Kevin Helmbrecht"
     ],
@@ -494,10 +498,6 @@
     [
       "Emanuel Pachur",
       "Tobias Kahlert"
-    ],
-    [
-      "Eric Pfeiffer",
-      "Felix Wägele"
     ],
     [
       "Erik Herzog",
@@ -892,10 +892,6 @@
       "Luca Rißler"
     ],
     [
-      "Luca Ludwig",
-      "Pius Mader"
-    ],
-    [
       "Luca Müller",
       "Rick Sturm"
     ],
@@ -994,10 +990,6 @@
     [
       "Marcus Wichner",
       "Niko Tursky"
-    ],
-    [
-      "Mario Steblaj",
-      "Pascal Hilser"
     ],
     [
       "Marion Gayer",

@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 206
+      "amount": 205
     }
   ],
-  "count": 49,
+  "count": 50,
   "teams": [
     [
       "Alexander Haas"
@@ -33,6 +33,9 @@
     ],
     [
       "Christoph Brossart"
+    ],
+    [
+      "Christoph Misoph"
     ],
     [
       "Claudio Polzin"

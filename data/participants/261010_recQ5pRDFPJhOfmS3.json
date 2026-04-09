@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 204
+      "amount": 203
     }
   ],
-  "count": 51,
+  "count": 52,
   "teams": [
     [
       "Alexander Haas"
@@ -66,6 +66,9 @@
     ],
     [
       "Josef Neukamm"
+    ],
+    [
+      "Julian Birk"
     ],
     [
       "Julius Römpp"

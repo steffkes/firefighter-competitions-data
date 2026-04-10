@@ -1,7 +1,7 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 702,
+  "count": 706,
   "teams": [
     [
       "Florian Kröhl"
@@ -444,6 +444,10 @@
     [
       "Dennis Eifler-Schlingmann",
       "Poitr Skrzipczyk"
+    ],
+    [
+      "Dennis Kreuzberg",
+      "Julian Göbel"
     ],
     [
       "Dennis Mecking",
@@ -1342,10 +1346,6 @@
       "Tim Seipolt"
     ],
     [
-      "Stephan Braun",
-      "Tobias Cedzich"
-    ],
-    [
       "Sven Binder",
       "Timon Luca Hilger"
     ],
@@ -1390,6 +1390,12 @@
       "Mirco Hennings",
       "Thomas Rave",
       "Tino Kreter"
+    ],
+    [
+      "Lorenz Rosacker",
+      "Sandro Finette",
+      "Stephan Braun",
+      "Tobias Cedzich"
     ],
     [
       "Eike Tiemann",

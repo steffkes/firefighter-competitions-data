@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 203
+      "amount": 202
     }
   ],
-  "count": 52,
+  "count": 53,
   "teams": [
     [
       "Alexander Haas"
@@ -114,6 +114,9 @@
     ],
     [
       "Robin Scheuring"
+    ],
+    [
+      "Selina Daser"
     ],
     [
       "Sophie Asanger"

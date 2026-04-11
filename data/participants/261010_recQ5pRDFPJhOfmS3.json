@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 202
+      "amount": 201
     }
   ],
-  "count": 53,
+  "count": 54,
   "teams": [
     [
       "Alexander Haas"
@@ -87,6 +87,9 @@
     ],
     [
       "Marcus Schulze"
+    ],
+    [
+      "Marcus Woito"
     ],
     [
       "Mark Winter"

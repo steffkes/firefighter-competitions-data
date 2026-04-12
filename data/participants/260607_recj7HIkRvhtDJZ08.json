@@ -1,12 +1,22 @@
 {
   "competition_id": "recj7HIkRvhtDJZ08",
   "slots": [],
-  "count": 264,
+  "count": 309,
   "teams": [
+    [
+      "Abdelhak Lamaallam",
+      "Alexander Endters",
+      "Leon Ginic"
+    ],
     [
       "Adrian Mandt",
       "David Lesch",
       "Frederik Weidner"
+    ],
+    [
+      "Alejandro Hernandez-Bonell",
+      "Alexander Weiß",
+      "Anne Weiß"
     ],
     [
       "Alex Wagner",
@@ -34,6 +44,11 @@
       "Thomas Rosog"
     ],
     [
+      "Andrei Vîntu",
+      "Korbinian Rudloff",
+      "Marc Lontke"
+    ],
+    [
       "André Jeserig",
       "Elias Lechner",
       "Fabian Kluge"
@@ -52,6 +67,11 @@
       "Anna Zeuge",
       "Peer Meyer",
       "Robin Arenz"
+    ],
+    [
+      "Anton Pientka",
+      "Felix Rach",
+      "Paul Bretschneider"
     ],
     [
       "Arne Ochs",
@@ -84,6 +104,11 @@
       "Sven Hemmeter"
     ],
     [
+      "Bruno Zieger",
+      "Kristoffer Theiß",
+      "Stefan Klingauf"
+    ],
+    [
       "Cedric Göring",
       "Dominik Paul",
       "Vanessa Herz"
@@ -99,6 +124,11 @@
       "Jennifer Krimm"
     ],
     [
+      "Christian Düfel",
+      "Noah Rudloff",
+      "Zelestin Ehrenheim"
+    ],
+    [
       "Christian Erbes",
       "Marcus Linker",
       "Markus Horst"
@@ -112,6 +142,11 @@
       "Christian Janzen",
       "Michael Bahmann",
       "Niko Tursky"
+    ],
+    [
+      "Christian Rausch",
+      "Hermann Birkenfeld",
+      "Maximus Roos"
     ],
     [
       "Christian Reichert",
@@ -137,6 +172,11 @@
       "Christoph Filz",
       "Julian Reichhold",
       "Roman Reichhold"
+    ],
+    [
+      "Christopher Haß",
+      "Malte Mezger",
+      "Timo Botz"
     ],
     [
       "Cilia Wörenkämper",
@@ -169,6 +209,11 @@
       "Ulf Langwasser"
     ],
     [
+      "David Dwight Robert Hudson",
+      "Luca María Alexander Oswald",
+      "Tobias Schmitz"
+    ],
+    [
       "David Pixa",
       "Magnus Wengeler",
       "Thil Kunstleger"
@@ -177,6 +222,16 @@
       "Dennis Deißenroth",
       "Karl-Ludwig Bräuer",
       "Marcel Ruoff"
+    ],
+    [
+      "Dennis Vetter",
+      "Luis Handschuh",
+      "Robin Kettnaker"
+    ],
+    [
+      "Domenik Schulz",
+      "Leon Naumann",
+      "Vincent Neubauer"
     ],
     [
       "Dominic Krämer",
@@ -254,14 +309,29 @@
       "Max Demant"
     ],
     [
+      "Hendrik Schirra",
+      "Moritz Nagel",
+      "Tobias Weinaus"
+    ],
+    [
       "Henrik Rappe",
       "Martin Ledderhose",
       "Sascha Wieseke"
     ],
     [
+      "Jakob Seufert",
+      "Katharina Weber",
+      "Lea Riemann"
+    ],
+    [
       "Jan Gaß",
       "Jan Hertzler",
       "Lukas Stricker"
+    ],
+    [
+      "Janina Beck",
+      "Jason Lehmann",
+      "Niclas Chacon-Lotto"
     ],
     [
       "Jannis Unger",
@@ -342,6 +412,11 @@
       "Katharina Kleinert",
       "Michael Hänsel",
       "Robert Richter"
+    ],
+    [
+      "Larbi Ikkache",
+      "Quentin Stiel",
+      "Till Emme"
     ],
     [
       "Lee Kröber",

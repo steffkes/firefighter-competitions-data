@@ -296,7 +296,7 @@ class FccSpider(Spider):
                 callback=self.parse_starters,
             )
 
-        if self.get("event_id"):
+        if hasattr(self, "event_id"):
             yield scrapy.FormRequest(
                 method="GET",
                 url="https://www.firefighter-challenge-germany.de/ergebnisse/",

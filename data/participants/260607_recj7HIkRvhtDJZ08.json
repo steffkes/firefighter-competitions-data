@@ -1,7 +1,7 @@
 {
   "competition_id": "recj7HIkRvhtDJZ08",
   "slots": [],
-  "count": 222,
+  "count": 264,
   "teams": [
     [
       "Adrian Mandt",
@@ -17,6 +17,11 @@
       "Alexander Fischer",
       "Carsten Jäger",
       "Marie Sorg"
+    ],
+    [
+      "Aline Krouhs",
+      "Anselm Waigand",
+      "Lilly Kaiser"
     ],
     [
       "Andreas Engelhardt",
@@ -37,6 +42,16 @@
       "Andy Bühner",
       "Claus-Stephan Zink",
       "Florian Heß"
+    ],
+    [
+      "Anika Weber",
+      "Judith Wahl",
+      "Niklas Dr. Löffler"
+    ],
+    [
+      "Anna Zeuge",
+      "Peer Meyer",
+      "Robin Arenz"
     ],
     [
       "Arne Ochs",
@@ -77,6 +92,11 @@
       "Cem Sen",
       "David Ermini",
       "Seimen Vorstandslechner"
+    ],
+    [
+      "Christian Düfel",
+      "Daniel Simon",
+      "Jennifer Krimm"
     ],
     [
       "Christian Erbes",
@@ -189,9 +209,24 @@
       "Mike Fieber"
     ],
     [
+      "Felix Zenglein",
+      "Frederik Staubach",
+      "Halil Kirman"
+    ],
+    [
+      "Filipp Fleckensteiner",
+      "Jacqueline Schmitt",
+      "Jona Schmitt"
+    ],
+    [
       "Florian Bajusz",
       "Jochen Fröhlich",
       "Svenja Mank"
+    ],
+    [
+      "Florian Erbacher",
+      "Markus Röck",
+      "Torben Krieger"
     ],
     [
       "Florian Erlenmaier",
@@ -244,6 +279,11 @@
       "Tamara Bedacht"
     ],
     [
+      "Jochen Lüdering",
+      "Stefan Kämper",
+      "Zelestin Ehrenheim"
+    ],
+    [
       "Johannes Goldbach",
       "Roger Spahr",
       "Till Heller"
@@ -257,6 +297,11 @@
       "Jonas Korbach",
       "Moritz Höhn",
       "Niclas Reusch"
+    ],
+    [
+      "Julia Aumüller",
+      "Nikola Adamovski",
+      "Timo Battenberg"
     ],
     [
       "Julia Krauß",
@@ -339,6 +384,11 @@
       "Samira Lauterbach"
     ],
     [
+      "Markus Simon",
+      "Moritz Krieger",
+      "Torben Hedderich"
+    ],
+    [
       "Martin Brieden",
       "Philipp Heinzel",
       "Stephan Smirnoff"
@@ -347,6 +397,16 @@
       "Marvin Stork",
       "Niklas Huthmann",
       "Renée Bäcker"
+    ],
+    [
+      "Mathias Piesker",
+      "Stefan Schreiner",
+      "Steffen Weicker"
+    ],
+    [
+      "Mehran Mehrabian",
+      "Silas Höbeler",
+      "Stefan Dirscherl"
     ],
     [
       "Melanie Brück",
@@ -372,6 +432,16 @@
       "N. N.",
       "N. N.",
       "N. N."
+    ],
+    [
+      "Niklas Edel",
+      "Sascha Vaneslow",
+      "Tim Grauel"
+    ],
+    [
+      "Niklas Metzner",
+      "Sebastian Rohrer",
+      "Tom Hohl"
     ]
   ]
 }

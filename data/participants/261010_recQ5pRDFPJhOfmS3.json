@@ -2,16 +2,19 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 200
+      "amount": 199
     }
   ],
-  "count": 55,
+  "count": 56,
   "teams": [
     [
       "Alexander Haas"
     ],
     [
       "Andreas Huber"
+    ],
+    [
+      "Andreas Sperber"
     ],
     [
       "Benjamin Eger-Glaser"

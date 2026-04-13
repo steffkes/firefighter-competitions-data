@@ -26,3 +26,8 @@ class CompetitionSpider(FirefitSpider):
             callback=self.parse_slots,
             cb_kwargs={"contest": "Staffel"},
         )
+
+        yield scrapy.FormRequest(
+            method="GET",
+            url="https://firefit-europe.eu/en/ranking-kassel-2025/",
+        )

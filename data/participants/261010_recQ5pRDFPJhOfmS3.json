@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 199
+      "amount": 198
     }
   ],
-  "count": 56,
+  "count": 57,
   "teams": [
     [
       "Alexander Haas"
@@ -138,6 +138,9 @@
     ],
     [
       "Timo Elser"
+    ],
+    [
+      "Timo Kämmerle"
     ],
     [
       "Tom Rebhan"

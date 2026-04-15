@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 196
+      "amount": 195
     }
   ],
-  "count": 60,
+  "count": 61,
   "teams": [
     [
       "Alexander Haas"
@@ -18,6 +18,9 @@
     ],
     [
       "Benjamin Eger-Glaser"
+    ],
+    [
+      "Carsten Breitfeld"
     ],
     [
       "Christian Fleschhut"

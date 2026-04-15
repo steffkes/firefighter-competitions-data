@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 197
+      "amount": 196
     }
   ],
-  "count": 58,
+  "count": 60,
   "teams": [
     [
       "Alexander Haas"
@@ -158,6 +158,10 @@
     [
       "Andreas Fischer",
       "Christian Kreit"
+    ],
+    [
+      "Barbara Brodkorb",
+      "Lennart Kunze"
     ],
     [
       "Guido Abele",

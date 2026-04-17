@@ -1,7 +1,7 @@
 {
   "competition_id": "recj7HIkRvhtDJZ08",
   "slots": [],
-  "count": 336,
+  "count": 342,
   "teams": [
     [
       "Abdelhak Lamaallam",
@@ -27,6 +27,11 @@
       "Alexander Fischer",
       "Carsten Jäger",
       "Marie Sorg"
+    ],
+    [
+      "Alexander Schaper",
+      "Marcus Schramm",
+      "Ralph Schwäch"
     ],
     [
       "Aline Krouhs",
@@ -562,6 +567,11 @@
       "Niklas Metzner",
       "Sebastian Rohrer",
       "Tom Hohl"
+    ],
+    [
+      "Shalina-Marie Beran",
+      "Timo Crößmann",
+      "Tom Beister"
     ]
   ]
 }

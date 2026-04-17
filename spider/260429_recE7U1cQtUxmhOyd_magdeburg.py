@@ -6,22 +6,18 @@ class CompetitionSpider(Spider):
     name = __name__
 
     def start_requests(self):
-        # source: https://www.berlin-timing.de/Hochhauslauf/Startliste
         yield scrapy.FormRequest(
-            method="GET",
-            url="https://www.berlin-timing.de/Liste/54cf88cceb98b07469fe3fb9d505ec44.csv",
+            method="POST",
+            url="https://www.berlin-timing.de/Hochhauslauf/Startliste",
+            formdata={"StartlisteStrecke": "Einsatzkräfte"},
             callback=self.parse_starters,
         )
 
     def parse_starters(self, response):
-        for row in (
-            row
-            for row in scrapy.utils.iterators.csviter(
-                "\n".join(response.text.split("\n")[3:]), delimiter=";"
-            )
-            if row["Vorname"].lower() != "cop"
-        ):
-            yield ParticipantItem(
-                competition_id=self.competition_id,
-                names=["{} {}".format(row["Vorname"], row["Nachname"])],
-            )
+        for row in response.css("table tbody tr"):
+            [_, _, _, firstname, lastname, _, _] = row.css("td::text").getall()
+            if firstname.lower() != "cop":
+                yield ParticipantItem(
+                    competition_id=self.competition_id,
+                    names=["{} {}".format(firstname.strip(), lastname.strip())],
+                )

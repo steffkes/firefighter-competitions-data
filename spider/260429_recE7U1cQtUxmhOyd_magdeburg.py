@@ -14,8 +14,12 @@ class CompetitionSpider(Spider):
         )
 
     def parse_starters(self, response):
-        for row in scrapy.utils.iterators.csviter(
-            "\n".join(response.text.split("\n")[3:]), delimiter=";"
+        for row in (
+            row
+            for row in scrapy.utils.iterators.csviter(
+                "\n".join(response.text.split("\n")[3:]), delimiter=";"
+            )
+            if row["Vorname"].lower() != "cop"
         ):
             yield ParticipantItem(
                 competition_id=self.competition_id,

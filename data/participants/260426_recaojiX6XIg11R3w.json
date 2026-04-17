@@ -1,7 +1,7 @@
 {
   "competition_id": "recaojiX6XIg11R3w",
   "slots": [],
-  "count": 61,
+  "count": 60,
   "teams": [
     [
       "Anja Werner",
@@ -14,6 +14,10 @@
     [
       "Bendix Gasch",
       "Paul Winter"
+    ],
+    [
+      "Blut, Ingo",
+      "Grüner, Christian"
     ],
     [
       "Cedric Matthäus",
@@ -65,7 +69,7 @@
     ],
     [
       "Henrik",
-      "Sebastian"
+      "Sebastian Arzt"
     ],
     [
       "Jannik Wilhelm",
@@ -118,11 +122,6 @@
     [
       "Schubert Toni",
       "Windisch Rick"
-    ],
-    [
-      "Christian. Blut",
-      "Grüner",
-      "Ingo"
     ]
   ]
 }

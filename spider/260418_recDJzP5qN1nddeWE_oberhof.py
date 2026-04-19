@@ -91,18 +91,19 @@ class CompetitionSpider(Spider):
             durations["total"].append(duration)
             durations[category].append(duration)
 
-            results.append(
-                ResultItem(
-                    date=self.race_date,
-                    competition_id=self.competition_id,
-                    type="MPA",
-                    duration=duration,
-                    names=extractNames(names),
-                    category=category,
-                    age_group=age_group,
-                    rank=ResultRankItem(age_group=int(rank_age_group[:-1])),
-                )
+            result = ResultItem(
+                date=self.race_date,
+                competition_id=self.competition_id,
+                type="MPA",
+                duration=duration,
+                names=extractNames(names),
+                category=category,
+                rank=ResultRankItem(age_group=int(rank_age_group[:-1])),
             )
+            if age_group:
+                result["age_group"] = age_group
+
+            results.append(result)
 
         durations["total"] = sorted(durations["total"])
         durations["M"] = sorted(durations["M"])

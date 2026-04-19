@@ -98,10 +98,11 @@ class CompetitionSpider(Spider):
                 duration=duration,
                 names=extractNames(names),
                 category=category,
-                rank=ResultRankItem(age_group=int(rank_age_group[:-1])),
+                rank=ResultRankItem(),
             )
             if age_group:
                 result["age_group"] = age_group
+                result["rank"]["age_group"] = int(rank_age_group[:-1])
 
             results.append(result)
 

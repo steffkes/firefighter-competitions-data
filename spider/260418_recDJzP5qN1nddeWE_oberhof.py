@@ -104,10 +104,10 @@ class CompetitionSpider(Spider):
                 )
             )
 
-        durations["total"] = sorted(set(durations["total"]))
-        durations["M"] = sorted(set(durations["M"]))
-        durations["W"] = sorted(set(durations["W"]))
-        durations["X"] = sorted(set(durations["X"]))
+        durations["total"] = sorted(durations["total"])
+        durations["M"] = sorted(durations["M"])
+        durations["W"] = sorted(durations["W"])
+        durations["X"] = sorted(durations["X"])
 
         for result in results:
             result["rank"]["total"] = durations["total"].index(result["duration"]) + 1

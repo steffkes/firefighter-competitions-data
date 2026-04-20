@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 194
+      "amount": 193
     }
   ],
-  "count": 62,
+  "count": 63,
   "teams": [
     [
       "Alexander Haas"
@@ -93,6 +93,9 @@
     ],
     [
       "Lasse Gellings"
+    ],
+    [
+      "Marc Sobeck"
     ],
     [
       "Marcus Reindl"

@@ -1,7 +1,7 @@
 {
   "competition_id": "recj7HIkRvhtDJZ08",
   "slots": [],
-  "count": 393,
+  "count": 396,
   "teams": [
     [
       "Abdelhak Lamaallam",
@@ -304,6 +304,11 @@
       "Torsten Engelbach"
     ],
     [
+      "Eric Burger",
+      "Jonathan Falk",
+      "Olivier Pruneau"
+    ],
+    [
       "Ester Martínez",
       "Henry Bierbaum",
       "Mike Löbert"
@@ -509,11 +514,6 @@
       "Tobias Diener"
     ],
     [
-      "Jörg Spangenberg",
-      "Uli Schleußner",
-      "Wolfgang Müller"
-    ],
-    [
       "Katharina Kleinert",
       "Michael Hänsel",
       "Robert Richter"
@@ -657,6 +657,11 @@
       "Shalina-Marie Beran",
       "Timo Crößmann",
       "Tom Beister"
+    ],
+    [
+      "Thorsten Rosenberger",
+      "Uli Schleußner",
+      "Wolfgang Müller"
     ]
   ]
 }

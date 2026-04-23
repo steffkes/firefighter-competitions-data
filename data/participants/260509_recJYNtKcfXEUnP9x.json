@@ -1,16 +1,8 @@
 {
   "competition_id": "recJYNtKcfXEUnP9x",
   "slots": [],
-  "count": 618,
+  "count": 616,
   "teams": [
-    [
-      "",
-      "Pascal Hilser"
-    ],
-    [
-      "",
-      "Silas Ringwald"
-    ],
     [
       "Aaron Baufeld",
       "Alexander Lindel"
@@ -824,10 +816,6 @@
       "Lukas Zimmermann"
     ],
     [
-      "Julius Jung",
-      "Leon Maassen"
-    ],
-    [
       "Julius Richter",
       "Robert Ruf"
     ],
@@ -890,6 +878,10 @@
     [
       "Lea Wimmer",
       "Thomas Schramm"
+    ],
+    [
+      "Leon Maassen",
+      "Ralf Gabelmann"
     ],
     [
       "Leon Stefke",
@@ -1126,6 +1118,10 @@
     [
       "Nils Rick",
       "Patrick Vogt"
+    ],
+    [
+      "Pascal Hilser",
+      "Silas Ringwald"
     ],
     [
       "Pascal Straub",

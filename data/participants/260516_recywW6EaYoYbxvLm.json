@@ -1,0 +1,19 @@
+{
+  "competition_id": "recywW6EaYoYbxvLm",
+  "slots": [
+    {
+      "amount": 0,
+      "label": "Einzel"
+    },
+    {
+      "amount": 5,
+      "label": "Staffel"
+    },
+    {
+      "amount": 0,
+      "label": "Tandem"
+    }
+  ],
+  "count": 0,
+  "teams": []
+}

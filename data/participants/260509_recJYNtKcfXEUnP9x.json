@@ -1,8 +1,16 @@
 {
   "competition_id": "recJYNtKcfXEUnP9x",
   "slots": [],
-  "count": 624,
+  "count": 626,
   "teams": [
+    [
+      "",
+      "Simon Schieble"
+    ],
+    [
+      "",
+      "Sven Ankermann"
+    ],
     [
       "Aaron Baufeld",
       "Alexander Lindel"
@@ -166,10 +174,6 @@
     [
       "Benedikt Schlegel",
       "Florian Grafmüller"
-    ],
-    [
-      "Benjamin Bockstahler",
-      "Simon Schieble"
     ],
     [
       "Benjamin Ernst",
@@ -337,7 +341,7 @@
     ],
     [
       "Constantin Schmitz",
-      "Thomas Müller"
+      "David Schwendenmann"
     ],
     [
       "Corinna Kern",
@@ -904,6 +908,10 @@
       "Michael Schittenhelm"
     ],
     [
+      "Lisa Schüssele",
+      "Thomas Müller"
+    ],
+    [
       "Louis Possler",
       "Luca Rißler"
     ],
@@ -1222,10 +1230,6 @@
     [
       "Sebastian Duffner",
       "Thomas Schramm"
-    ],
-    [
-      "Silvan Hausmann",
-      "Sven Ankermann"
     ],
     [
       "Simon Seitz",

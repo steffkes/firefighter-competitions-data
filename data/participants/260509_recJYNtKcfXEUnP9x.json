@@ -1,7 +1,7 @@
 {
   "competition_id": "recJYNtKcfXEUnP9x",
   "slots": [],
-  "count": 628,
+  "count": 630,
   "teams": [
     [
       "",
@@ -9,7 +9,15 @@
     ],
     [
       "",
+      "Stefan Münch"
+    ],
+    [
+      "",
       "Sven Ankermann"
+    ],
+    [
+      "",
+      "Timo Rick"
     ],
     [
       "Aaron Baufeld",
@@ -532,10 +540,6 @@
       "Sebastian Fuoß"
     ],
     [
-      "Fabienne Castillo",
-      "Timo Rick"
-    ],
-    [
       "Felix Dold",
       "Kienzler Hannes"
     ],
@@ -602,10 +606,6 @@
     [
       "Florian Wirth",
       "Mark Winter"
-    ],
-    [
-      "Florian Witt",
-      "Stefan Münch"
     ],
     [
       "Frank Grieger",
@@ -1130,6 +1130,10 @@
     [
       "Moritz Schipper",
       "Robin Winter"
+    ],
+    [
+      "Nick Schwörer",
+      "Robin Kunze"
     ],
     [
       "Nicklas Schulz",

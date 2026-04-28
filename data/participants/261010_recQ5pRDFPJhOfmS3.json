@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 186
+      "amount": 185
     }
   ],
-  "count": 70,
+  "count": 72,
   "teams": [
     [
       "Alexander Haas"
@@ -196,6 +196,10 @@
     [
       "Guido Abele",
       "KarlHeinz Winter"
+    ],
+    [
+      "Hugo Hölzle",
+      "Johannes Riederer"
     ],
     [
       "Markus Mezger",

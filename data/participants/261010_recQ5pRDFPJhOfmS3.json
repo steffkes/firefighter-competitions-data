@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 187
+      "amount": 186
     }
   ],
-  "count": 69,
+  "count": 70,
   "teams": [
     [
       "Alexander Haas"
@@ -75,6 +75,9 @@
     ],
     [
       "Jakob Wiest"
+    ],
+    [
+      "Jannik Schellhammer"
     ],
     [
       "Jannis Pfeiffer"

@@ -2,10 +2,10 @@
   "competition_id": "recanVcyBiGQJIMUI",
   "slots": [
     {
-      "amount": 0
+      "amount": 1
     }
   ],
-  "count": 161,
+  "count": 160,
   "teams": [
     [
       "Achim Gekeler"
@@ -171,9 +171,6 @@
     ],
     [
       "Hagen Scherer"
-    ],
-    [
-      "Hannes Schmid"
     ],
     [
       "Harald Metzen"

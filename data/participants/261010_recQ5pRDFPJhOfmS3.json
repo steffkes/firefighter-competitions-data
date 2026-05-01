@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 185
+      "amount": 183
     }
   ],
-  "count": 72,
+  "count": 74,
   "teams": [
     [
       "Alexander Haas"
@@ -39,6 +39,9 @@
     ],
     [
       "Christian Winter"
+    ],
+    [
+      "Christina Trexler"
     ],
     [
       "Christina Zahs"
@@ -147,6 +150,9 @@
     ],
     [
       "Oliver Drescher"
+    ],
+    [
+      "Oswald Boada"
     ],
     [
       "Philipp Döhler"

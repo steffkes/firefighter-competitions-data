@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 183
+      "amount": 182
     }
   ],
-  "count": 74,
+  "count": 75,
   "teams": [
     [
       "Alexander Haas"
@@ -60,6 +60,9 @@
     ],
     [
       "Fabian Gold"
+    ],
+    [
+      "Fabian Wendel"
     ],
     [
       "Felix Lenz"

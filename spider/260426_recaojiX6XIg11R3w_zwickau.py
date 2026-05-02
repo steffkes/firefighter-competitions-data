@@ -79,11 +79,11 @@ class Spider(scrapy.Spider):
             pass
 
         for entry in (
-            data[data_key]["#1_w"]["#1_"]
-            + data[data_key]["#2_m"]["#2_"]
-            + data[data_key]["#3_a"]["#3_"]
+            data[data_key]["#1_Mixed"]
+            + data[data_key]["#2_Männer"]
+            + data[data_key]["#3_Frauen"]
         ):
-            [bib, _, rank_category, _, _, raw_category, names, raw_duration] = entry
+            [_, _, rank_category, _, _, raw_category, names, raw_duration] = entry
 
             names = sorted(list(map(str.strip, re.split(r"[/,]", names))))
             duration = "00:" + raw_duration.replace(",", ".")
@@ -97,7 +97,6 @@ class Spider(scrapy.Spider):
                     names=names,
                     category={"Männer": "M", "Frauen": "W", "Mixed": "X"}[raw_category],
                     rank=ResultRankItem(category=int(rank_category[0:-1])),
-                    bib=bib,
                 )
             )
 

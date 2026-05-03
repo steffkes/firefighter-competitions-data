@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 182
+      "amount": 181
     }
   ],
-  "count": 75,
+  "count": 76,
   "teams": [
     [
       "Alexander Haas"
@@ -156,6 +156,9 @@
     ],
     [
       "Oswald Boada"
+    ],
+    [
+      "Philipp Burkart"
     ],
     [
       "Philipp Döhler"

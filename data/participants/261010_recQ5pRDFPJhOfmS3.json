@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 181
+      "amount": 180
     }
   ],
-  "count": 76,
+  "count": 77,
   "teams": [
     [
       "Alexander Haas"
@@ -87,6 +87,9 @@
     ],
     [
       "Jannis Pfeiffer"
+    ],
+    [
+      "Joachim Krißmer"
     ],
     [
       "Jonas Hermann"

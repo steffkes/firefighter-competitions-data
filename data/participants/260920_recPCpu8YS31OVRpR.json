@@ -1,8 +1,11 @@
 {
   "competition_id": "recPCpu8YS31OVRpR",
   "slots": [],
-  "count": 84,
+  "count": 100,
   "teams": [
+    [
+      "Alan Dittrich"
+    ],
     [
       "Alan Dittrich"
     ],
@@ -11,6 +14,9 @@
     ],
     [
       "Andreas Wilhelm"
+    ],
+    [
+      "Anja Riehn"
     ],
     [
       "Anja Sudholt"
@@ -37,10 +43,16 @@
       "Gerrit Lindlein"
     ],
     [
+      "Helge Sonnenberg"
+    ],
+    [
       "Henning Bösch"
     ],
     [
       "Jan Rohde"
+    ],
+    [
+      "Kathi Sundermeier"
     ],
     [
       "Lars Mayer"
@@ -67,10 +79,19 @@
       "Markus Heiss"
     ],
     [
+      "Marta Arrobe da Encarnacao"
+    ],
+    [
       "Marvin Burger"
     ],
     [
       "Matthias Lemm"
+    ],
+    [
+      "Matthias Schmitt"
+    ],
+    [
+      "Melanie Schönewald"
     ],
     [
       "Nils Broch"
@@ -80,6 +101,9 @@
     ],
     [
       "Oliver Nopper"
+    ],
+    [
+      "Rebea Sonnenberg"
     ],
     [
       "Robert Lehmann"
@@ -153,6 +177,18 @@
       "Nils Broch"
     ],
     [
+      "Helge Sonnenberg",
+      "Rebea Sonnenberg"
+    ],
+    [
+      "Helge Sonnenberg",
+      "Uwe Schlonsak"
+    ],
+    [
+      "Hornschuh Valentin",
+      "Markus Hohmann"
+    ],
+    [
       "Jan Rohde",
       "Tobias Brune"
     ],
@@ -167,6 +203,10 @@
     [
       "Marvin Burger",
       "Simon Burger"
+    ],
+    [
+      "Michael Güth",
+      "Uwe Heise"
     ],
     [
       "Oliver Nopper",

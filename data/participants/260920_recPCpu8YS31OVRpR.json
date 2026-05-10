@@ -1,8 +1,14 @@
 {
   "competition_id": "recPCpu8YS31OVRpR",
   "slots": [],
-  "count": 39,
+  "count": 60,
   "teams": [
+    [
+      "Alex Fromme"
+    ],
+    [
+      "Andreas Wilhelm"
+    ],
     [
       "Anja Sudholt"
     ],
@@ -17,6 +23,9 @@
     ],
     [
       "Gerrit Lindlein"
+    ],
+    [
+      "Henning Bösch"
     ],
     [
       "Jan Rohde"
@@ -52,7 +61,19 @@
       "Stefan Fetting"
     ],
     [
+      "Sven Reuter"
+    ],
+    [
+      "Sören Warzok"
+    ],
+    [
+      "Tim Schaffert"
+    ],
+    [
       "Tobias Brune"
+    ],
+    [
+      "Torben Voigt"
     ],
     [
       "Volker Hederich"
@@ -64,6 +85,10 @@
     [
       "Anja Sudholt",
       "Nils Broch"
+    ],
+    [
+      "Björn Herborn",
+      "Volker Hederich"
     ],
     [
       "Gerrit Lindlein",
@@ -86,6 +111,10 @@
       "Robert Lehmann"
     ],
     [
+      "Sven Reuter",
+      "Tim Schaffert"
+    ],
+    [
       "Anja Sudholt",
       "Gerrit Lindlein",
       "Nils Broch"
@@ -95,6 +124,20 @@
       "Felix Baßel",
       "Marcel Wriedt",
       "Sven Stepputat"
+    ],
+    [
+      "- -",
+      "Jan Rohde",
+      "Marvin Burger",
+      "Simon Burger",
+      "Tobias Brune"
+    ],
+    [
+      "Alan Dittrich",
+      "Andreas Wilhelm",
+      "Robin Winter",
+      "Sven Reuter",
+      "Tim Schaffert"
     ]
   ]
 }

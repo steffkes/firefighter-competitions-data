@@ -1,7 +1,7 @@
 {
   "competition_id": "recPCpu8YS31OVRpR",
   "slots": [],
-  "count": 100,
+  "count": 123,
   "teams": [
     [
       "Alan Dittrich"
@@ -28,6 +28,15 @@
       "Björn Herborn"
     ],
     [
+      "Carola Hildebrandt"
+    ],
+    [
+      "Christian Woelke"
+    ],
+    [
+      "Conrad Gundlach"
+    ],
+    [
       "Felix Baßel"
     ],
     [
@@ -38,6 +47,9 @@
     ],
     [
       "Felix Hentschel"
+    ],
+    [
+      "Gerhard Kruse"
     ],
     [
       "Gerrit Lindlein"
@@ -91,7 +103,13 @@
       "Matthias Schmitt"
     ],
     [
+      "May Tommervold"
+    ],
+    [
       "Melanie Schönewald"
+    ],
+    [
+      "Michael Schulz"
     ],
     [
       "Nils Broch"
@@ -142,6 +160,9 @@
       "Uwe Schlonsak"
     ],
     [
+      "Vera Licha"
+    ],
+    [
       "Volker Hederich"
     ],
     [
@@ -159,6 +180,10 @@
     [
       "Anja Sudholt",
       "Nils Broch"
+    ],
+    [
+      "Annemarie Hohmann",
+      "Jennifer Straub"
     ],
     [
       "Anton Reim",
@@ -205,8 +230,16 @@
       "Simon Burger"
     ],
     [
+      "May Tømmervold",
+      "Vera Licha"
+    ],
+    [
       "Michael Güth",
       "Uwe Heise"
+    ],
+    [
+      "Oliver Moj",
+      "Vera Licha"
     ],
     [
       "Oliver Nopper",
@@ -240,6 +273,20 @@
       "Robin Winter",
       "Sven Reuter",
       "Tim Schaffert"
+    ],
+    [
+      "Christian Woelke",
+      "Conrad Gundlach",
+      "Kirsten Mehnert",
+      "Melanie Schmidt",
+      "Michael Schulz"
+    ],
+    [
+      "May Tommervold",
+      "Meghann Krüger",
+      "Oli Moy",
+      "Sören Warzok",
+      "Tom Trost"
     ]
   ]
 }

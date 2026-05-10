@@ -1,8 +1,11 @@
 {
   "competition_id": "recPCpu8YS31OVRpR",
   "slots": [],
-  "count": 60,
+  "count": 84,
   "teams": [
+    [
+      "Alan Dittrich"
+    ],
     [
       "Alex Fromme"
     ],
@@ -13,6 +16,9 @@
       "Anja Sudholt"
     ],
     [
+      "Anton Reim"
+    ],
+    [
       "Björn Herborn"
     ],
     [
@@ -20,6 +26,12 @@
     ],
     [
       "Felix Baßel"
+    ],
+    [
+      "Felix Dörries"
+    ],
+    [
+      "Felix Hentschel"
     ],
     [
       "Gerrit Lindlein"
@@ -37,10 +49,28 @@
       "Lars Mayer"
     ],
     [
+      "Lena Sophie Behne"
+    ],
+    [
+      "Lukas Wickmann"
+    ],
+    [
+      "Marc Hübler"
+    ],
+    [
+      "Marcel Wriedt"
+    ],
+    [
       "Mario Fleerkortte"
     ],
     [
+      "Markus Heiss"
+    ],
+    [
       "Marvin Burger"
+    ],
+    [
+      "Matthias Lemm"
     ],
     [
       "Nils Broch"
@@ -53,6 +83,12 @@
     ],
     [
       "Robert Lehmann"
+    ],
+    [
+      "Robin Winter"
+    ],
+    [
+      "Robin Winter"
     ],
     [
       "Simon Burger"
@@ -76,6 +112,12 @@
       "Torben Voigt"
     ],
     [
+      "Uwe Heise"
+    ],
+    [
+      "Uwe Schlonsak"
+    ],
+    [
       "Volker Hederich"
     ],
     [
@@ -83,12 +125,28 @@
       "Oliver Moj"
     ],
     [
+      "Alan Dittrich",
+      "Andreas Wilhelm"
+    ],
+    [
+      "Alan Dittrich",
+      "Robin Winter"
+    ],
+    [
       "Anja Sudholt",
       "Nils Broch"
     ],
     [
+      "Anton Reim",
+      "Marc Hübler"
+    ],
+    [
       "Björn Herborn",
       "Volker Hederich"
+    ],
+    [
+      "Callie Starn",
+      "Felix Koeppe"
     ],
     [
       "Gerrit Lindlein",
@@ -97,6 +155,10 @@
     [
       "Jan Rohde",
       "Tobias Brune"
+    ],
+    [
+      "Lena Sophie Behne",
+      "Michele Schammer"
     ],
     [
       "Louis Possler",

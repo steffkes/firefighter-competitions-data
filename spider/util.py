@@ -611,6 +611,9 @@ class QuintoSpider(Spider):
         durations = {"total": [], "M": [], "W": []}
 
         for row in self.loads_jsonp(response.text)["rows"]:
+            if not ("tu" in row):
+                continue
+
             category = {"M": "M", "F": "W"}[row["sx"]]
             duration = self.fixDuration(row["tu"])
             durations["total"].append(duration)

@@ -56,10 +56,13 @@ class CompetitionSpider(Spider):
 
     def parse(self, response):
         results = []
+        durations = {"total": [], "M": [], "W": []}
 
         for row in self.loads_jsonp(response.text)["rows"]:
             category = {"M": "M", "F": "W"}[row["sx"]]
             duration = self.fixDuration(row["tu"])
+            durations["total"].append(duration)
+            durations[category].append(duration)
 
             results.append(
                 ResultItem(
@@ -76,5 +79,14 @@ class CompetitionSpider(Spider):
                 )
             )
 
+        durations["total"] = sorted(durations["total"])
+        durations["M"] = sorted(durations["M"])
+        durations["W"] = sorted(durations["W"])
+
         for result in results:
+            result["rank"]["total"] = durations["total"].index(result["duration"]) + 1
+            result["rank"]["category"] = (
+                durations[result["category"]].index(result["duration"]) + 1
+            )
+
             yield result

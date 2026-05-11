@@ -1,7 +1,7 @@
 {
   "competition_id": "recj7HIkRvhtDJZ08",
   "slots": [],
-  "count": 525,
+  "count": 528,
   "teams": [
     [
       "Aaron Pescoll",
@@ -337,6 +337,11 @@
       "Daniel Salbach",
       "Frederik Weber",
       "Thomas Tremmel"
+    ],
+    [
+      "Daniel Schösser",
+      "Kevin Harwardt",
+      "Lars Winter"
     ],
     [
       "David Dwight Robert Hudson",
@@ -844,11 +849,6 @@
       "N. N."
     ],
     [
-      "N.noah N.hoffmann",
-      "N.tim N.vetter",
-      "N.tobie N.reeg"
-    ],
-    [
       "Nico Junge",
       "Sascha Wannemacher",
       "Sören Frey"
@@ -862,6 +862,11 @@
       "Niklas Metzner",
       "Sebastian Rohrer",
       "Tom Hohl"
+    ],
+    [
+      "Noah Hoffmann",
+      "Tim Vetter",
+      "Tobias Reeg"
     ],
     [
       "Ralf Schmitt",

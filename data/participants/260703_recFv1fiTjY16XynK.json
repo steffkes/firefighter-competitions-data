@@ -1,7 +1,7 @@
 {
   "competition_id": "recFv1fiTjY16XynK",
   "slots": [],
-  "count": 711,
+  "count": 704,
   "teams": [
     [
       "Adam Slavíček"
@@ -149,6 +149,9 @@
     ],
     [
       "Dominik Zirbes"
+    ],
+    [
+      "Dummy Dummy"
     ],
     [
       "Dummy Dummy"
@@ -807,10 +810,6 @@
       "David Bakker"
     ],
     [
-      "Christijn Pruim",
-      "David Bakker"
-    ],
-    [
       "Christophe FRILLONNET",
       "Sully FRILLONNET"
     ],
@@ -873,6 +872,14 @@
     [
       "Dominic Scholz",
       "Simon Gapp"
+    ],
+    [
+      "Dummy Dummy",
+      "Dummy Dummy"
+    ],
+    [
+      "Dummy Dummy",
+      "Dummy Dummy"
     ],
     [
       "Erik Hoffmeister",
@@ -1111,10 +1118,6 @@
       "Uwe Heise"
     ],
     [
-      "Michael Güth",
-      "Uwe Heise"
-    ],
-    [
       "Michel Bantel",
       "Oliver Wichert"
     ],
@@ -1319,12 +1322,6 @@
       "Laura Dworak"
     ],
     [
-      "Colin Zeißner",
-      "Erik Langenhahn",
-      "Florian Wedel",
-      "Laura Dworak"
-    ],
-    [
       "Daniel Schimank",
       "David Kubiš",
       "Martin Erbe",
@@ -1335,12 +1332,6 @@
       "Jannik Werner",
       "Michel Bantel",
       "Stefan Heinemann"
-    ],
-    [
-      "Desirée Reitz",
-      "Julia Jacobi",
-      "Marina Nikic",
-      "Melina Luchs"
     ],
     [
       "Desirée Reitz",

@@ -1,7 +1,7 @@
 {
   "competition_id": "recK0WG90R0TqoaCP",
   "slots": [],
-  "count": 82,
+  "count": 92,
   "teams": [
     [
       "Adrian Till",
@@ -14,6 +14,10 @@
     [
       "Andreas Geiger",
       "Anna Köllner"
+    ],
+    [
+      "André Brogle",
+      "Jan Schade"
     ],
     [
       "Ben Graf",
@@ -66,6 +70,10 @@
     [
       "Fabian Wendel",
       "Phillip Burkart"
+    ],
+    [
+      "Felix Böckh",
+      "Ralph Beyer"
     ],
     [
       "Felix Fingerle",
@@ -124,6 +132,10 @@
       "Michael Koch"
     ],
     [
+      "Julian Weichert",
+      "Simon Berner"
+    ],
+    [
       "Juliane Schmidt",
       "Markus Braun"
     ],
@@ -142,6 +154,10 @@
     [
       "Leopold Supper",
       "Matti Haug"
+    ],
+    [
+      "Lukas Böckh",
+      "Thomas Jäger"
     ],
     [
       "Lukas Link",
@@ -166,6 +182,10 @@
     [
       "Mika Haug",
       "Mika Hojenski"
+    ],
+    [
+      "Philipp Schmid",
+      "Sven Meißnest-Hofer"
     ]
   ]
 }

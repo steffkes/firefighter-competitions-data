@@ -1,7 +1,7 @@
 {
   "competition_id": "recG3j3PcgPo4dPP3",
   "slots": [],
-  "count": 98,
+  "count": 100,
   "teams": [
     [
       "Achim Keller",
@@ -194,6 +194,10 @@
     [
       "Michael Zink",
       "Patrick Uetz"
+    ],
+    [
+      "Noah Bachmann",
+      "Thomas Eichinger"
     ],
     [
       "Robin Scheuring",

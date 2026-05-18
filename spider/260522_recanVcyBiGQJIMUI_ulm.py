@@ -33,10 +33,10 @@ class CompetitionSpider(Spider):
     def start_requests(self):
         yield scrapy.FormRequest(
             method="GET",
-            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            url="https://my.raceresult.com/%s/participants/list" % self.race_id,
             formdata={
                 "key": self.race_key,
-                "listname": "01_Teilnehmerlisten_RaceResult|Online-Teilnehmerliste",
+                "listname": "04_Teilnehmerlisten_RaceResult|Online-Teilnehmerliste",
                 "contest": "2",
             },
             callback=self.parse_starters,

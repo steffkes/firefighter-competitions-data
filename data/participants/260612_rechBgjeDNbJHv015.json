@@ -2,11 +2,11 @@
   "competition_id": "rechBgjeDNbJHv015",
   "slots": [
     {
-      "amount": -37,
+      "amount": -31,
       "label": "Einzel"
     },
     {
-      "amount": 0,
+      "amount": 1,
       "label": "Staffel"
     }
   ],

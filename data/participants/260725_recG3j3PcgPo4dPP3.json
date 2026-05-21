@@ -1,7 +1,7 @@
 {
   "competition_id": "recG3j3PcgPo4dPP3",
   "slots": [],
-  "count": 102,
+  "count": 104,
   "teams": [
     [
       "Achim Keller",
@@ -206,6 +206,10 @@
     [
       "Robin Scheuring",
       "Tom Rebhan"
+    ],
+    [
+      "Robin Wurster",
+      "Stefan Kabuth"
     ]
   ]
 }

@@ -44,6 +44,16 @@ class CompetitionSpider(Spider):
 
         yield scrapy.FormRequest(
             method="GET",
+            url="https://my.raceresult.com/%s/results/list" % self.race_id,
+            formdata={
+                "key": self.race_key,
+                "listname": "01_Ergebnisse|MW-Liste",
+                "contest": "2",
+            },
+        )
+
+        yield scrapy.FormRequest(
+            method="GET",
             url="https://my.raceresult.com/%s/RRRegStart/data/config" % self.race_id,
             callback=self.parse_slots,
         )
@@ -63,6 +73,36 @@ class CompetitionSpider(Spider):
                 names=[self.fixName(raw_name)],
             )
 
+    def parse(self, response):
+        def compute(items, category):
+            results = []
+            for [_bib, _id1, _rank_category, name, _team, _yob, raw_duration] in items:
+                results.append(
+                    ResultItem(
+                        date=self.race_date,
+                        competition_id=self.competition_id,
+                        type="MPA",
+                        duration=self.fixDuration(raw_duration),
+                        names=[self.fixName(name)],
+                        category=category,
+                    )
+                )
+            return results
+
+        ranks = {"total": 1, "category": {"M": 1, "W": 1}}
+        for result in sorted(
+            compute(response.json()["data"]["#1_Männlich"], "M")
+            + compute(response.json()["data"]["#2_Weiblich"], "W"),
+            key=lambda result: result["duration"],
+        ):
+            result["rank"] = ResultRankItem(
+                total=ranks["total"], category=ranks["category"][result["category"]]
+            )
+            yield result
+
+            ranks["total"] += 1
+            ranks["category"][result["category"]] += 1
+
 
 import pytest
 
@@ -74,6 +114,7 @@ import pytest
         ("MÜLLER Naomi", "Naomi Müller"),
         ("KNIE Nicola Simon", "Nicola Simon Knie"),
         ("WEIßHAAR Philipp", "Philipp Weißhaar"),
+        ("NACIMIENTO RODRIGUEZ Jose Bernardo", "Jose Bernardo Nacimiento Rodriguez"),
         (None, ""),
     ],
 )

@@ -1,7 +1,7 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 934,
+  "count": 940,
   "teams": [
     [
       "Aaron Nees",
@@ -264,6 +264,10 @@
       "Svenja Colberg"
     ],
     [
+      "Can Kesgin",
+      "Christian Henn"
+    ],
+    [
       "Carlo Huysmans",
       "Leonard Felder"
     ],
@@ -326,10 +330,6 @@
     [
       "Christian Göpfert",
       "Stefan Meißner"
-    ],
-    [
-      "Christian Henn",
-      "Sven Quirmbach"
     ],
     [
       "Christian Hoffmann",
@@ -660,6 +660,10 @@
       "Lukas Nottebrock"
     ],
     [
+      "Dominik Simons",
+      "Sascha Franke"
+    ],
+    [
       "Dylan Azevedo",
       "Gilles Hutmacher"
     ],
@@ -880,6 +884,10 @@
       "Lars Mayer"
     ],
     [
+      "Florian Prinz",
+      "Maximilian Rottmann"
+    ],
+    [
       "Florian Schmidt",
       "Simon Etten"
     ],
@@ -972,6 +980,10 @@
       "Marco Müller"
     ],
     [
+      "Henry Glanz",
+      "Maximilian Reckow"
+    ],
+    [
       "Henry Gottlob",
       "Jan Wilberg"
     ],
@@ -1006,6 +1018,10 @@
     [
       "Jaak Schmidt",
       "Jannik Schmidt"
+    ],
+    [
+      "Jan Fink",
+      "Marlon Meurer"
     ],
     [
       "Jan Hafner",
@@ -1770,10 +1786,6 @@
     [
       "Stefan Jöntgen",
       "Thomas Hilger"
-    ],
-    [
-      "Stefan Peters",
-      "Uwe Ingeln"
     ],
     [
       "Stefan Schmidt",

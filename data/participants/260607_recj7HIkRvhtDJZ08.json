@@ -1,12 +1,8 @@
 {
   "competition_id": "recj7HIkRvhtDJZ08",
   "slots": [],
-  "count": 608,
+  "count": 639,
   "teams": [
-    [
-      "Nico Kreitmair",
-      "Nico Kreitmair"
-    ],
     [
       "Aaron Pescoll",
       "Benedikt Seeger",
@@ -83,6 +79,11 @@
       "Tim Schröder"
     ],
     [
+      "Alexander Wieczorek",
+      "Joachim Pfeiffer",
+      "Martin Birkner"
+    ],
+    [
       "Alice Empter",
       "Eva Reith",
       "Justus Margraf"
@@ -101,6 +102,11 @@
       "Andreas Braun",
       "Marc Schwarz",
       "Patrick Bergner"
+    ],
+    [
+      "Andreas Bünning",
+      "Patrick Schöffling",
+      "Tobias Kreis"
     ],
     [
       "Andreas Engelhardt",
@@ -198,6 +204,11 @@
       "Julian Post"
     ],
     [
+      "Benjamin Höper",
+      "Robin Mack",
+      "Vincent Oeinck"
+    ],
+    [
       "Benjamin Kosinski",
       "Jaimy Hart",
       "Lukas Jörg"
@@ -223,14 +234,14 @@
       "Sven Hemmeter"
     ],
     [
+      "Björn Horn",
+      "Martin Franke",
+      "Tim Speier"
+    ],
+    [
       "Bruno Zieger",
       "Kristoffer Theiß",
       "Stefan Klingauf"
-    ],
-    [
-      "Bünning Andreas",
-      "Patrick Schöffling",
-      "Tobias Kreis"
     ],
     [
       "Can-Pierre Richter",
@@ -278,6 +289,16 @@
       "Niko Tursky"
     ],
     [
+      "Christian Nill",
+      "Heiko Neumeier",
+      "Matthias Blaschke"
+    ],
+    [
+      "Christian Otte",
+      "Florian Wagner",
+      "Tim Fox"
+    ],
+    [
       "Christian Rausch",
       "Hermann Birkenfeld",
       "Maximus Roos"
@@ -311,6 +332,11 @@
       "Christoph Marx",
       "Mathias Freiboth",
       "Michael Siegel"
+    ],
+    [
+      "Christoph Scholz",
+      "Juliane Steinhauer",
+      "Sebastian Menn"
     ],
     [
       "Christopher Blum",
@@ -391,6 +417,11 @@
       "Daniel Schösser",
       "Kevin Harwardt",
       "Lars Winter"
+    ],
+    [
+      "Darwin Botthof",
+      "Eike Schucht",
+      "N N"
     ],
     [
       "David Dwight Robert Hudson",
@@ -478,6 +509,11 @@
       "Olivier Pruneau"
     ],
     [
+      "Eric Ebeling",
+      "Marvin Becker",
+      "Paul Herrmann"
+    ],
+    [
       "Eric Friedrich",
       "Ralf Schmitt",
       "Tim Ueberschaer"
@@ -496,6 +532,11 @@
       "Ester Martínez",
       "Henry Bierbaum",
       "Mike Löbert"
+    ],
+    [
+      "Fabian Blum",
+      "Florian Schmidt",
+      "Nico Kreitmair"
     ],
     [
       "Fabian Happel",
@@ -551,6 +592,11 @@
       "Finn Freund",
       "Julian Knopp",
       "Lukas Friedrich"
+    ],
+    [
+      "Florian Axer",
+      "Kim Luca Melms",
+      "Ulla Linskens"
     ],
     [
       "Florian Bajusz",
@@ -618,6 +664,11 @@
       "Wolfgang Müller"
     ],
     [
+      "Gregor Wilhelm",
+      "Kristian Nelkert",
+      "Niels Lorenz"
+    ],
+    [
       "Hans-Jürgen Sopp",
       "Holger Straub",
       "Max Demant"
@@ -671,6 +722,11 @@
       "Jannis Unger",
       "Ken Stüker",
       "Moritz Busanni"
+    ],
+    [
+      "Jens Döring",
+      "Jonathan Klein",
+      "Steffen Kircher"
     ],
     [
       "Jens Held",
@@ -948,6 +1004,11 @@
       "Sebastian Büchling"
     ],
     [
+      "Michael Finn",
+      "Nico Silber",
+      "Oliver Staffa"
+    ],
+    [
       "Michael Wicht",
       "Mirko Döbert",
       "Robin Scheuring"
@@ -956,21 +1017,6 @@
       "Moritz Friedewald",
       "Viktoria Dallwitz",
       "Wayne Dennis Müller"
-    ],
-    [
-      "N. N.",
-      "N. N.",
-      "N. N."
-    ],
-    [
-      "N. N.",
-      "N. N.",
-      "N. N."
-    ],
-    [
-      "N. N.",
-      "N. N.",
-      "N. N."
     ],
     [
       "N. N.",
@@ -1016,6 +1062,11 @@
       "Shalina-Marie Beran",
       "Timo Crößmann",
       "Tom Beister"
+    ],
+    [
+      "Stefan Schubert",
+      "Stefan Voigt",
+      "Ümit Barak"
     ]
   ]
 }

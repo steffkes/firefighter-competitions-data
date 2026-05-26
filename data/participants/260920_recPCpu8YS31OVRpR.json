@@ -1,7 +1,7 @@
 {
   "competition_id": "recPCpu8YS31OVRpR",
   "slots": [],
-  "count": 234,
+  "count": 246,
   "teams": [
     [
       "Adam Slavicek"
@@ -62,6 +62,9 @@
     ],
     [
       "Daniel Finster"
+    ],
+    [
+      "Daniel Havmand"
     ],
     [
       "Daniela Primus"
@@ -220,6 +223,12 @@
       "Miroslav Nevesely"
     ],
     [
+      "Morten Simonsen"
+    ],
+    [
+      "Nico Heesch"
+    ],
+    [
       "Nicole Mrosek"
     ],
     [
@@ -227,6 +236,9 @@
     ],
     [
       "Nils Wegner"
+    ],
+    [
+      "Ole Nedergaard"
     ],
     [
       "Oliver Moj"
@@ -382,6 +394,10 @@
       "Felix Koeppe"
     ],
     [
+      "Daniel Havmand",
+      "Ole Nedergaard"
+    ],
+    [
       "Daniel Schimank",
       "Martin Erbe"
     ],
@@ -442,6 +458,10 @@
       "Uwe Heise"
     ],
     [
+      "Morten Simonsen",
+      "Nico Heesch"
+    ],
+    [
       "Oli Moj",
       "Sören Warzok"
     ],
@@ -471,6 +491,12 @@
       "Lukas Wickmann",
       "Michael Güth",
       "Uwe Heise"
+    ],
+    [
+      "Daniel Havmand",
+      "Morten Simonsen",
+      "Nico Heesch",
+      "Ole Nedergaard"
     ],
     [
       "Fabian Fechner",

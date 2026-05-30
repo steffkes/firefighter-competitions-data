@@ -1,7 +1,7 @@
 {
   "competition_id": "recPCpu8YS31OVRpR",
   "slots": [],
-  "count": 261,
+  "count": 263,
   "teams": [
     [
       "Adam Slavicek"
@@ -426,6 +426,10 @@
     [
       "David Kubiš",
       "Ondra Janota"
+    ],
+    [
+      "David Kubiš",
+      "Simon Schoog-Döhring"
     ],
     [
       "Gerrit Lindlein",

@@ -27,14 +27,25 @@ class CompetitionSpider(Spider):
 
     def parse(self, response):
         for team in response.json()["table"]["teams"]:
+            names = []
+            for person in team["rows"]:
+                name = self.fixName(person["name"]["text"])
+                names.append(name)
+
+                yield ResultItem(
+                    date=self.race_date,
+                    competition_id=self.competition_id,
+                    type="MPA",
+                    duration=self.fixDuration(person["time.main"]["text"]),
+                    names=[name],
+                )
+
             yield ResultItem(
                 date=self.race_date,
                 competition_id=self.competition_id,
                 type="MPA",
                 duration=self.fixDuration(team["data"]["time.main"]["text"]),
-                names=sorted(
-                    map(lambda row: self.fixName(row["name"]["text"]), team["rows"])
-                ),
+                names=sorted(names),
                 rank=ResultRankItem(
                     total=team["data"]["rank.main"],
                 ),

@@ -1,8 +1,11 @@
 {
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [],
-  "count": 96,
+  "count": 98,
   "teams": [
+    [
+      "Achim Keller"
+    ],
     [
       "Alexander Haas"
     ],
@@ -233,6 +236,9 @@
     ],
     [
       "Timo Kämmerle"
+    ],
+    [
+      "Timo Püschner"
     ],
     [
       "Tom Rebhan"

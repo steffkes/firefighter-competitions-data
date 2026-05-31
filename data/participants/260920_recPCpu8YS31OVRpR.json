@@ -1,10 +1,13 @@
 {
   "competition_id": "recPCpu8YS31OVRpR",
   "slots": [],
-  "count": 263,
+  "count": 271,
   "teams": [
     [
       "Adam Slavicek"
+    ],
+    [
+      "Adrian Schratt"
     ],
     [
       "Alan Dittrich"
@@ -23,6 +26,15 @@
     ],
     [
       "Andreas Gassner"
+    ],
+    [
+      "Andreas Huber"
+    ],
+    [
+      "Andreas Jüsche"
+    ],
+    [
+      "Andreas Rummel"
     ],
     [
       "Andreas Wilhelm"
@@ -376,6 +388,10 @@
       "Roman Munzar"
     ],
     [
+      "Adrian Schratt",
+      "Andreas Jüsche"
+    ],
+    [
       "Alan Dittrich",
       "Andreas Wilhelm"
     ],
@@ -386,6 +402,10 @@
     [
       "Andreas Gasner",
       "Thomas Schragner"
+    ],
+    [
+      "Andreas Huber",
+      "Andreas Rummel"
     ],
     [
       "Anja Balke",

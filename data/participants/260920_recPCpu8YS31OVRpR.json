@@ -1,7 +1,7 @@
 {
   "competition_id": "recPCpu8YS31OVRpR",
   "slots": [],
-  "count": 284,
+  "count": 286,
   "teams": [
     [
       "Adam Slavicek"
@@ -413,6 +413,10 @@
     [
       "Alan Dittrich",
       "Robin Winter"
+    ],
+    [
+      "Alexander Reitz",
+      "Florian Menklein"
     ],
     [
       "Andreas Gasner",

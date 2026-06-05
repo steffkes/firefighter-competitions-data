@@ -1,7 +1,7 @@
 {
   "competition_id": "recj7HIkRvhtDJZ08",
   "slots": [],
-  "count": 639,
+  "count": 636,
   "teams": [
     [
       "Aaron Pescoll",
@@ -82,11 +82,6 @@
       "Alexander Wieczorek",
       "Joachim Pfeiffer",
       "Martin Birkner"
-    ],
-    [
-      "Alice Empter",
-      "Eva Reith",
-      "Justus Margraf"
     ],
     [
       "Aline Krouhs",
@@ -170,7 +165,7 @@
     ],
     [
       "Arne Wolf",
-      "Carsten Göring",
+      "Luca Kaufhold",
       "Mark Thielemann"
     ],
     [
@@ -250,8 +245,8 @@
     ],
     [
       "Cedric Göring",
-      "Dominik Paul",
-      "Vanessa Herz"
+      "Felipe Rößler",
+      "Yannik Brand"
     ],
     [
       "Cem Sen",
@@ -260,12 +255,7 @@
     ],
     [
       "Christian Düfel",
-      "Daniel Simon",
-      "Jennifer Krimm"
-    ],
-    [
-      "Christian Düfel",
-      "Noah Rudloff",
+      "Jennifer Krimm",
       "Zelestin Ehrenheim"
     ],
     [
@@ -289,6 +279,11 @@
       "Niko Tursky"
     ],
     [
+      "Christian Koch",
+      "Julia Dawid",
+      "Petra Koch"
+    ],
+    [
       "Christian Nill",
       "Heiko Neumeier",
       "Matthias Blaschke"
@@ -297,11 +292,6 @@
       "Christian Otte",
       "Florian Wagner",
       "Tim Fox"
-    ],
-    [
-      "Christian Rausch",
-      "Hermann Birkenfeld",
-      "Maximus Roos"
     ],
     [
       "Christian Reichert",
@@ -359,11 +349,6 @@
       "Stefan Meudt"
     ],
     [
-      "Cilia Wörenkämper",
-      "Dries Wörenkämper",
-      "Joshua Rein"
-    ],
-    [
       "Claude Kaufmann",
       "Claude Rieff",
       "Martin Loos"
@@ -417,6 +402,11 @@
       "Daniel Schösser",
       "Kevin Harwardt",
       "Lars Winter"
+    ],
+    [
+      "Daniel Simon",
+      "Niklas Metzner",
+      "Tom Hohl"
     ],
     [
       "Darwin Botthof",
@@ -534,6 +524,11 @@
       "Mike Löbert"
     ],
     [
+      "Eva Reith",
+      "Justus Margraf",
+      "Marcus Linker"
+    ],
+    [
       "Fabian Blum",
       "Florian Schmidt",
       "Nico Kreitmair"
@@ -609,11 +604,6 @@
       "Thomas Krause"
     ],
     [
-      "Florian Erbacher",
-      "Markus Röck",
-      "Torben Krieger"
-    ],
-    [
       "Florian Erlenmaier",
       "Florian Richter",
       "Sebastian Stamer"
@@ -674,11 +664,6 @@
       "Max Demant"
     ],
     [
-      "Hendrik Schirra",
-      "Moritz Nagel",
-      "Tobias Weinaus"
-    ],
-    [
       "Henrik Rappe",
       "Ina Pfläging",
       "Martin Ledderhose"
@@ -687,6 +672,11 @@
       "Henry Leo Herrmann",
       "Jonas Bonnet",
       "Oskar Schichtel"
+    ],
+    [
+      "Hermann Birkenfeld",
+      "Jan Ral",
+      "Maximus Roos"
     ],
     [
       "Jakob Seufert",
@@ -740,8 +730,8 @@
     ],
     [
       "Jochen Lüdering",
-      "Stefan Kämper",
-      "Zelestin Ehrenheim"
+      "Sebastian Rohrer",
+      "Stefan Kämper"
     ],
     [
       "Johannes Goldbach",
@@ -776,7 +766,7 @@
     [
       "Julia Aumüller",
       "Nikola Adamovski",
-      "Timo Battenberg"
+      "Raphael Schumann"
     ],
     [
       "Julia Herget",
@@ -854,9 +844,14 @@
       "Torsten Schack"
     ],
     [
+      "Klaus Fischer",
+      "Markus Kroh",
+      "N. N."
+    ],
+    [
       "Larbi Ikkache",
       "Quentin Stiel",
-      "Till Emme"
+      "Till Emmer"
     ],
     [
       "Lars Tjark Roth",
@@ -954,9 +949,9 @@
       "Sven Behnke"
     ],
     [
-      "Markus Kroh",
-      "N. N.",
-      "N. N."
+      "Markus Röck",
+      "Moritz Nagel",
+      "Torben Krieger"
     ],
     [
       "Markus Schäfer",
@@ -1019,6 +1014,11 @@
       "Wayne Dennis Müller"
     ],
     [
+      "Moritz Nagel",
+      "Noah Rudloff",
+      "Tobias Weinaus"
+    ],
+    [
       "N. N.",
       "N. N.",
       "N. N."
@@ -1037,11 +1037,6 @@
       "Niklas Edel",
       "Sascha Vaneslow",
       "Tim Grauel"
-    ],
-    [
-      "Niklas Metzner",
-      "Sebastian Rohrer",
-      "Tom Hohl"
     ],
     [
       "Niklas Pilgrim",

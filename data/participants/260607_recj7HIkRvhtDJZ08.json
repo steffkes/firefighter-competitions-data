@@ -1,17 +1,12 @@
 {
   "competition_id": "recj7HIkRvhtDJZ08",
   "slots": [],
-  "count": 636,
+  "count": 633,
   "teams": [
     [
       "Aaron Pescoll",
       "Benedikt Seeger",
       "Christian Siegmund"
-    ],
-    [
-      "Abdelhak Lamaallam",
-      "Alexander Endters",
-      "Leon Ginic"
     ],
     [
       "Adrian Mandt",
@@ -37,6 +32,11 @@
       "Alexander Bamberger",
       "Ivo Weihert",
       "Maximilian Stark"
+    ],
+    [
+      "Alexander Endters",
+      "Julia Herzog",
+      "Leon Ginic"
     ],
     [
       "Alexander Fischer",
@@ -157,6 +157,11 @@
       "Anton Pientka",
       "Felix Rach",
       "Paul Bretschneider"
+    ],
+    [
+      "Arne Niestrath",
+      "Julia Herget",
+      "Kai Vach"
     ],
     [
       "Arne Ochs",
@@ -321,11 +326,11 @@
     [
       "Christoph Marx",
       "Mathias Freiboth",
-      "Michael Siegel"
+      "Rene Ochs"
     ],
     [
       "Christoph Scholz",
-      "Juliane Steinhauer",
+      "Kim Luca Melms",
       "Sebastian Menn"
     ],
     [
@@ -411,7 +416,7 @@
     [
       "Darwin Botthof",
       "Eike Schucht",
-      "N N"
+      "Juliane Steinhauer"
     ],
     [
       "David Dwight Robert Hudson",
@@ -580,18 +585,13 @@
     ],
     [
       "Finn Becker",
-      "Mathis Wieczorek",
-      "Oliver Gros"
+      "Sebastian Kahlenberg",
+      "Ylvi Brümmer"
     ],
     [
       "Finn Freund",
       "Julian Knopp",
       "Lukas Friedrich"
-    ],
-    [
-      "Florian Axer",
-      "Kim Luca Melms",
-      "Ulla Linskens"
     ],
     [
       "Florian Bajusz",
@@ -669,6 +669,11 @@
       "Martin Ledderhose"
     ],
     [
+      "Henry Charvat",
+      "Mathis Wieczorek",
+      "Oliver Gros"
+    ],
+    [
       "Henry Leo Herrmann",
       "Jonas Bonnet",
       "Oskar Schichtel"
@@ -716,7 +721,7 @@
     [
       "Jens Döring",
       "Jonathan Klein",
-      "Steffen Kircher"
+      "Steffen Kröger"
     ],
     [
       "Jens Held",
@@ -767,11 +772,6 @@
       "Julia Aumüller",
       "Nikola Adamovski",
       "Raphael Schumann"
-    ],
-    [
-      "Julia Herget",
-      "Kai Vach",
-      "Matthias Weber"
     ],
     [
       "Julia Krauß",
@@ -866,7 +866,7 @@
     [
       "Leon Fynn Kreutzer",
       "Marla Gunkel",
-      "Nele Gunkel"
+      "René Fäth"
     ],
     [
       "Leon Lange",
@@ -887,11 +887,6 @@
       "Luca Aupperle",
       "Nicole Held",
       "Tim Lux"
-    ],
-    [
-      "Lucasq Nix",
-      "Magdalena Heck",
-      "Sebastian Kahlenberg"
     ],
     [
       "Lukas Bergmann",
@@ -1004,6 +999,11 @@
       "Oliver Staffa"
     ],
     [
+      "Michael Siegel",
+      "Paul Wolf",
+      "Tom Schieler"
+    ],
+    [
       "Michael Wicht",
       "Mirko Döbert",
       "Robin Scheuring"
@@ -1047,11 +1047,6 @@
       "Noah Hoffmann",
       "Tim Vetter",
       "Tobias Reeg"
-    ],
-    [
-      "Paul Wolf",
-      "Rene Ochs",
-      "Tom Schieler"
     ],
     [
       "Shalina-Marie Beran",

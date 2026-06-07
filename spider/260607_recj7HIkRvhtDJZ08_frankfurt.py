@@ -30,7 +30,7 @@ class CompetitionSpider(Spider):
         ]:
             yield scrapy.FormRequest(
                 method="GET",
-                url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+                url="https://my.raceresult.com/%s/results/list" % self.race_id,
                 formdata={
                     "key": self.race_key,
                     "listname": "Ergebnislisten|EG ZIEL Teamwertung FF&RDC",
@@ -86,7 +86,12 @@ class CompetitionSpider(Spider):
             ] = names
 
             team_gender = list(
-                set(map(lambda ag: ag[0].upper(), [age_group1, age_group2, age_group3]))
+                set(
+                    map(
+                        lambda ag: (ag or " ")[0].upper(),
+                        [age_group1, age_group2, age_group3],
+                    )
+                )
             )
             team_category = team_gender[0] if len(team_gender) == 1 else "X"
 
@@ -109,7 +114,7 @@ class CompetitionSpider(Spider):
                 [duration1, duration2, duration3],
                 [age_group1, age_group2, age_group3],
             ):
-                category = age_group[0].upper()
+                category = (age_group or " ")[0].upper()
 
                 result = ResultItem(
                     date=self.race_date,

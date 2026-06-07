@@ -1,7 +1,7 @@
 {
   "competition_id": "recTUsUPMllM30vNv",
   "slots": [],
-  "count": 40,
+  "count": 42,
   "teams": [
     [
       "Aaron Gunnar Grewe",
@@ -50,6 +50,10 @@
     [
       "Eric Niebergall",
       "Florian Domis"
+    ],
+    [
+      "Finn Weikinger",
+      "Max Koch"
     ],
     [
       "Florian Richter",

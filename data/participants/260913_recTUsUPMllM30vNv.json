@@ -1,7 +1,7 @@
 {
   "competition_id": "recTUsUPMllM30vNv",
   "slots": [],
-  "count": 42,
+  "count": 44,
   "teams": [
     [
       "Aaron Gunnar Grewe",
@@ -46,6 +46,10 @@
     [
       "Daniel Minnert",
       "Florian Erlenmaier"
+    ],
+    [
+      "David Sasso",
+      "Lars Bind"
     ],
     [
       "Eric Niebergall",

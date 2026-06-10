@@ -1,7 +1,7 @@
 {
   "competition_id": "recTUsUPMllM30vNv",
   "slots": [],
-  "count": 44,
+  "count": 52,
   "teams": [
     [
       "Aaron Gunnar Grewe",
@@ -56,6 +56,10 @@
       "Florian Domis"
     ],
     [
+      "Felix Gebhardt",
+      "Marlon Salvatore Mazza"
+    ],
+    [
       "Finn Weikinger",
       "Max Koch"
     ],
@@ -64,12 +68,20 @@
       "Sebastian Stamer"
     ],
     [
+      "Jan Wöbbeking",
+      "Leonard Faber"
+    ],
+    [
       "Julia Dawid",
       "Petra Koch"
     ],
     [
       "Kassandra Paliga",
       "Sebastian Stamer"
+    ],
+    [
+      "Katharina Weck",
+      "Samuel Sasso"
     ],
     [
       "Kilian Fruht",
@@ -90,6 +102,10 @@
     [
       "Maximilian Schlott",
       "Moritz Klingseis"
+    ],
+    [
+      "Wiktor Karger",
+      "Ylvi Brümmer"
     ]
   ]
 }

@@ -1,8 +1,11 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 1082,
+  "count": 1081,
   "teams": [
+    [
+      "Charlotte Breitz"
+    ],
     [
       "Aaron Nees",
       "Tim Finkbeiner"
@@ -364,10 +367,6 @@
       "Francis Köppen"
     ],
     [
-      "Christel Drews",
-      "Marcel Kozlowski"
-    ],
-    [
       "Christian Breuer",
       "Matthias Lohmann"
     ],
@@ -498,6 +497,10 @@
     [
       "Christopher Bertram",
       "Tom Wadsworth"
+    ],
+    [
+      "Christopher Drews",
+      "Marcel Kozlowski"
     ],
     [
       "Christopher Ehrit",
@@ -689,7 +692,7 @@
     ],
     [
       "Dennis Mecking",
-      "Tim Heinlein"
+      "Stephan Braun"
     ],
     [
       "Dennis Mikanovic",
@@ -1620,6 +1623,10 @@
       "Sebastian Waurick"
     ],
     [
+      "Lorenz Rosacker",
+      "Sandro Finette"
+    ],
+    [
       "Luca Braun",
       "Marisa Friedl"
     ],
@@ -1714,6 +1721,10 @@
     [
       "Marco Brünjes",
       "Theile Suhren"
+    ],
+    [
+      "Marco Kaufmann",
+      "Michael Rombach"
     ],
     [
       "Marco Tüxen",
@@ -1868,10 +1879,6 @@
       "Sascha Heinz"
     ],
     [
-      "Michael Rombach",
-      "Moritz Maubach"
-    ],
-    [
       "Michael Siegmund",
       "Sarah Meinerz"
     ],
@@ -2024,10 +2031,6 @@
       "Til Knorr"
     ],
     [
-      "Samuel Frenker-Hackfort",
-      "Yannik Weber"
-    ],
-    [
       "Sandro Starzak",
       "Vincent Meyer"
     ],
@@ -2058,10 +2061,6 @@
     [
       "Stephan Arndt",
       "Tim Seipolt"
-    ],
-    [
-      "Sven Binder",
-      "Timon Luca Hilger"
     ],
     [
       "Thomas Ingenhaag",
@@ -2136,9 +2135,9 @@
       "Timo Over"
     ],
     [
-      "Lorenz Rosacker",
-      "Sandro Finette",
-      "Stephan Braun",
+      "Moureen Dreymüller",
+      "Sven Binder",
+      "Timon Luca Hilger",
       "Tobias Cedzich"
     ],
     [

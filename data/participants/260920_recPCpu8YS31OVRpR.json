@@ -1,0 +1,884 @@
+{
+  "competition_id": "recPCpu8YS31OVRpR",
+  "slots": [],
+  "count": 385,
+  "teams": [
+    [
+      "Adam Slavicek"
+    ],
+    [
+      "Adrian Schratt"
+    ],
+    [
+      "Alan Dittrich"
+    ],
+    [
+      "Alan Dittrich"
+    ],
+    [
+      "Alex Fromme"
+    ],
+    [
+      "Alex Van Mechelen"
+    ],
+    [
+      "Alexander Junge"
+    ],
+    [
+      "Alexander Reitz"
+    ],
+    [
+      "Andreas Gassner"
+    ],
+    [
+      "Andreas Huber"
+    ],
+    [
+      "Andreas Jüsche"
+    ],
+    [
+      "Andreas Rummel"
+    ],
+    [
+      "Andreas Wilhelm"
+    ],
+    [
+      "Anja Balke"
+    ],
+    [
+      "Anja Riehn"
+    ],
+    [
+      "Anja Sudholt"
+    ],
+    [
+      "Anna Köllner"
+    ],
+    [
+      "Anton Reim"
+    ],
+    [
+      "Bart De Smet"
+    ],
+    [
+      "Benjamin Fleischer"
+    ],
+    [
+      "Bianka Wulf"
+    ],
+    [
+      "Björn Herborn"
+    ],
+    [
+      "Carola Hildebrandt"
+    ],
+    [
+      "Cedric Matthäus"
+    ],
+    [
+      "Christian Woelke"
+    ],
+    [
+      "Conrad Gundlach"
+    ],
+    [
+      "Daniel Finster"
+    ],
+    [
+      "Daniel Havmand"
+    ],
+    [
+      "Daniela Primus"
+    ],
+    [
+      "Dario Peter"
+    ],
+    [
+      "David Kubiš"
+    ],
+    [
+      "Dawid Kaszewski"
+    ],
+    [
+      "Dean Stylemans"
+    ],
+    [
+      "Elias Ahrens"
+    ],
+    [
+      "Felix Baßel"
+    ],
+    [
+      "Felix Baßel"
+    ],
+    [
+      "Felix Dörries"
+    ],
+    [
+      "Felix Hentschel"
+    ],
+    [
+      "Florian Menklein"
+    ],
+    [
+      "Formella Rene"
+    ],
+    [
+      "Frank Peter"
+    ],
+    [
+      "František Ridzoň"
+    ],
+    [
+      "František Ridzoň"
+    ],
+    [
+      "Gerhard Kruse"
+    ],
+    [
+      "Gerrit Lindlein"
+    ],
+    [
+      "Hanne Vandersmissen"
+    ],
+    [
+      "Hans-Christian Marwedel"
+    ],
+    [
+      "Hauke Jacobsen"
+    ],
+    [
+      "Hauke Jacobsen"
+    ],
+    [
+      "Helge Sonnenberg"
+    ],
+    [
+      "Henning Bösch"
+    ],
+    [
+      "Henrik Schröder"
+    ],
+    [
+      "Jakub Kapek"
+    ],
+    [
+      "Jakub Šifra"
+    ],
+    [
+      "Jan Kapek"
+    ],
+    [
+      "Jan Rohde"
+    ],
+    [
+      "Jan Theiler"
+    ],
+    [
+      "Jannis Wegner"
+    ],
+    [
+      "Jens Köwilein"
+    ],
+    [
+      "Jens Lüdeke"
+    ],
+    [
+      "Jeroen Govaerts"
+    ],
+    [
+      "Johanna Storms"
+    ],
+    [
+      "Juliane Röttger"
+    ],
+    [
+      "Ján Pipiš"
+    ],
+    [
+      "Ján Pipiš"
+    ],
+    [
+      "Kata Lédeczi"
+    ],
+    [
+      "Kathi Sundermeier"
+    ],
+    [
+      "Klara Katrusakova"
+    ],
+    [
+      "Krzysztof Stencel"
+    ],
+    [
+      "Krzysztof Stencel"
+    ],
+    [
+      "Lars Mayer"
+    ],
+    [
+      "Lars Mayer"
+    ],
+    [
+      "Lena Sophie Behne"
+    ],
+    [
+      "Lubomír Králíček"
+    ],
+    [
+      "Lukas Wickmann"
+    ],
+    [
+      "Marc Hübler"
+    ],
+    [
+      "Marcel Düssil"
+    ],
+    [
+      "Marcel Kelch"
+    ],
+    [
+      "Marcel Wriedt"
+    ],
+    [
+      "Mario Fleerkortte"
+    ],
+    [
+      "Markus Brockers"
+    ],
+    [
+      "Markus Fellner"
+    ],
+    [
+      "Markus Heiss"
+    ],
+    [
+      "Maroš Bošeľa"
+    ],
+    [
+      "Marta Arrobe da Encarnacao"
+    ],
+    [
+      "Martin Erbe"
+    ],
+    [
+      "Martin Mrzena"
+    ],
+    [
+      "Marvin Burger"
+    ],
+    [
+      "Mathias Hey"
+    ],
+    [
+      "Matthias Ascheberg"
+    ],
+    [
+      "Matthias Lemm"
+    ],
+    [
+      "Matthias Schmitt"
+    ],
+    [
+      "Matuš Bali-Hudák"
+    ],
+    [
+      "Matúš Bali-Hudák"
+    ],
+    [
+      "May Tommervold"
+    ],
+    [
+      "Meghann Krueger"
+    ],
+    [
+      "Melanie Schönewald"
+    ],
+    [
+      "Michael Güth"
+    ],
+    [
+      "Michael Schulz"
+    ],
+    [
+      "Michal Veselka"
+    ],
+    [
+      "Mike Hoppe"
+    ],
+    [
+      "Miriam Valarikova"
+    ],
+    [
+      "Miroslav Bloudek"
+    ],
+    [
+      "Miroslav Borbuliak"
+    ],
+    [
+      "Miroslav Nevesely"
+    ],
+    [
+      "Monique Lucius"
+    ],
+    [
+      "Morten Simonsen"
+    ],
+    [
+      "Nico Heesch"
+    ],
+    [
+      "Nico Pötter"
+    ],
+    [
+      "Nicole Mrosek"
+    ],
+    [
+      "Nils Broch"
+    ],
+    [
+      "Nils Wegner"
+    ],
+    [
+      "Norbert Merta"
+    ],
+    [
+      "Olaf Krause"
+    ],
+    [
+      "Ole Nedergaard"
+    ],
+    [
+      "Oliver Moj"
+    ],
+    [
+      "Oliver Nopper"
+    ],
+    [
+      "Ondrej Blazek"
+    ],
+    [
+      "Ondrej Janota"
+    ],
+    [
+      "Pascal Dülge"
+    ],
+    [
+      "Patrik Štefelin"
+    ],
+    [
+      "Pavel Novák"
+    ],
+    [
+      "Pavel Novák"
+    ],
+    [
+      "Phillip Blau"
+    ],
+    [
+      "Ralf Herp"
+    ],
+    [
+      "Rares Schuster"
+    ],
+    [
+      "Rebea Sonnenberg"
+    ],
+    [
+      "Rene Formella"
+    ],
+    [
+      "Robert Lehmann"
+    ],
+    [
+      "Robin Winter"
+    ],
+    [
+      "Robin Winter"
+    ],
+    [
+      "Robo Rapusak"
+    ],
+    [
+      "Roman Munzar"
+    ],
+    [
+      "Ronny Selz"
+    ],
+    [
+      "Rostislav Budar"
+    ],
+    [
+      "Sascha Tischer"
+    ],
+    [
+      "Sebastian Röse"
+    ],
+    [
+      "Simon Burger"
+    ],
+    [
+      "Simon Schoog-Döhring"
+    ],
+    [
+      "Stefan Fetting"
+    ],
+    [
+      "Sven Reuter"
+    ],
+    [
+      "Sören Warzok"
+    ],
+    [
+      "Terézia Foott"
+    ],
+    [
+      "Thomas Bogovits"
+    ],
+    [
+      "Thomas Schragner"
+    ],
+    [
+      "Till Boehe"
+    ],
+    [
+      "Tim Schaffert"
+    ],
+    [
+      "Tobias Brune"
+    ],
+    [
+      "Tobias Fischer"
+    ],
+    [
+      "Tomáš Bobiš"
+    ],
+    [
+      "Tomáš Sirotek"
+    ],
+    [
+      "Tomáš Sirotek"
+    ],
+    [
+      "Tomáš Vondráček"
+    ],
+    [
+      "Torben Voigt"
+    ],
+    [
+      "Ulrich Köllner"
+    ],
+    [
+      "Uwe Heise"
+    ],
+    [
+      "Uwe Schlonsak"
+    ],
+    [
+      "VLadyslav Oliinyk"
+    ],
+    [
+      "Vera Licha"
+    ],
+    [
+      "Volker Hederich"
+    ],
+    [
+      "Wolfgang Stark"
+    ],
+    [
+      "Yannick Eckelt"
+    ],
+    [
+      "Zdenko Jamnik"
+    ],
+    [
+      "Zdeněk Podzimek"
+    ],
+    [
+      "- -",
+      "Oliver Moj"
+    ],
+    [
+      "Adam Slaviček",
+      "Ondra Janota"
+    ],
+    [
+      "Adam Slavíček",
+      "Roman Munzar"
+    ],
+    [
+      "Adrian Schratt",
+      "Andreas Jüsche"
+    ],
+    [
+      "Alan Dittrich",
+      "Andreas Wilhelm"
+    ],
+    [
+      "Alan Dittrich",
+      "Robin Winter"
+    ],
+    [
+      "Alexander Reitz",
+      "Florian Menklein"
+    ],
+    [
+      "Andreas Gasner",
+      "Thomas Schragner"
+    ],
+    [
+      "Andreas Huber",
+      "Andreas Rummel"
+    ],
+    [
+      "Anja Balke",
+      "Marcel Düssil"
+    ],
+    [
+      "Anja Riehn",
+      "Melanie Schönewald"
+    ],
+    [
+      "Anja Sudholt",
+      "Nils Broch"
+    ],
+    [
+      "Anna Köllner",
+      "Rares Schuster"
+    ],
+    [
+      "Annemarie Hohmann",
+      "Jennifer Straub"
+    ],
+    [
+      "Anton Reim",
+      "Marc Hübler"
+    ],
+    [
+      "Bart De Smet",
+      "Hanne Vandersmissen"
+    ],
+    [
+      "Bart De smet",
+      "Jeroen Govaerts"
+    ],
+    [
+      "Björn Herborn",
+      "Volker Hederich"
+    ],
+    [
+      "Callie Starn",
+      "Felix Koeppe"
+    ],
+    [
+      "Cedric Matthäus",
+      "Yannick Eckelt"
+    ],
+    [
+      "Daniel Havmand",
+      "Ole Nedergaard"
+    ],
+    [
+      "Daniel Schimank",
+      "Martin Erbe"
+    ],
+    [
+      "Daniel Toporek",
+      "Krzysztof Stencel"
+    ],
+    [
+      "David Kubiš",
+      "Ondra Janota"
+    ],
+    [
+      "David Kubiš",
+      "Simon Schoog-Döhring"
+    ],
+    [
+      "Dawid Rabzcyk",
+      "Matthias Ascheberg"
+    ],
+    [
+      "Gerrit Lindlein",
+      "Nils Broch"
+    ],
+    [
+      "Hanne Vandermissen",
+      "Terezia Foott"
+    ],
+    [
+      "Hanne Vandersmissen",
+      "Petrunka Cernucká"
+    ],
+    [
+      "Hans-Christian Marwedel",
+      "Vladyslav Oliinyk"
+    ],
+    [
+      "Hauke Jacobsen",
+      "Till Boehe"
+    ],
+    [
+      "Helge Sonnenberg",
+      "Rebea Sonnenberg"
+    ],
+    [
+      "Helge Sonnenberg",
+      "Uwe Schlonsak"
+    ],
+    [
+      "Hornschuh Valentin",
+      "Markus Hohmann"
+    ],
+    [
+      "Jan Kapek",
+      "Tomáš Vondráček"
+    ],
+    [
+      "Jan Kucek",
+      "Steve Kohlscheen"
+    ],
+    [
+      "Jan Rohde",
+      "Tobias Brune"
+    ],
+    [
+      "Johanna Storms",
+      "Mathias Hey"
+    ],
+    [
+      "Juliane Röttger",
+      "Till Boehe"
+    ],
+    [
+      "Kata Lédeczi",
+      "Matthias Ascheberg"
+    ],
+    [
+      "Klara Katrusakova",
+      "Miriam Valarikova"
+    ],
+    [
+      "Kommt Noch",
+      "Thomas Bogovits"
+    ],
+    [
+      "Lea Sophie Behme",
+      "Martin Erbe"
+    ],
+    [
+      "Lena Sophie Behne",
+      "Michele Schammer"
+    ],
+    [
+      "Louis Possler",
+      "Luca Rißler"
+    ],
+    [
+      "Martin Erbe",
+      "Primus Daniela"
+    ],
+    [
+      "Marvin Burger",
+      "Simon Burger"
+    ],
+    [
+      "May Tømmervold",
+      "Vera Licha"
+    ],
+    [
+      "Michael Güth",
+      "Uwe Heise"
+    ],
+    [
+      "Mike Hoppe",
+      "Wolfgang Stark"
+    ],
+    [
+      "Miroslav Nevesely",
+      "XXXX XXXX"
+    ],
+    [
+      "Morten Simonsen",
+      "Nico Heesch"
+    ],
+    [
+      "Norbert Merta",
+      "Robo Rapusak"
+    ],
+    [
+      "Oli Moj",
+      "Sören Warzok"
+    ],
+    [
+      "Oliver Moj",
+      "Vera Licha"
+    ],
+    [
+      "Oliver Nopper",
+      "Robert Lehmann"
+    ],
+    [
+      "Ralf Herp",
+      "Rares Schuster"
+    ],
+    [
+      "Robin Bureš",
+      "Rostislav Budař"
+    ],
+    [
+      "Sven Reuter",
+      "Tim Schaffert"
+    ],
+    [
+      "Terézia Foott",
+      "Ulrich Köllner"
+    ],
+    [
+      "Anja Sudholt",
+      "Gerrit Lindlein",
+      "Nils Broch"
+    ],
+    [
+      "Adrian Schratt",
+      "Andrea Rummel",
+      "Andreas Huber",
+      "Andreas Jüsche"
+    ],
+    [
+      "Alex Van Mechelen",
+      "Bart De Smet",
+      "Dean Stylemans",
+      "Jeroen Govaerts"
+    ],
+    [
+      "Alexander Reitz",
+      "Lukas Wickmann",
+      "Michael Güth",
+      "Uwe Heise"
+    ],
+    [
+      "Daniel Havmand",
+      "Morten Simonsen",
+      "Nico Heesch",
+      "Ole Nedergaard"
+    ],
+    [
+      "Daniel Toporek",
+      "Dawid Rąbczyk",
+      "Krzysztof Stencel",
+      "Mateusz Wesołowski"
+    ],
+    [
+      "Fabian Fechner",
+      "Felix Baßel",
+      "Marcel Wriedt",
+      "Sven Stepputat"
+    ],
+    [
+      "Fabian Fechner",
+      "Felix Baßel",
+      "Marcel Wriedt",
+      "Sven Stepputat"
+    ],
+    [
+      "- -",
+      "Jan Rohde",
+      "Marvin Burger",
+      "Simon Burger",
+      "Tobias Brune"
+    ],
+    [
+      "Adam Slavicek",
+      "David Kubis",
+      "Lukas Navrátil",
+      "Michal Brousil",
+      "Roman Munzar"
+    ],
+    [
+      "Adam Slavicek",
+      "David Kubiš",
+      "Luboš Králíček",
+      "Ondra Blažek",
+      "Ondra Janota"
+    ],
+    [
+      "Alan Dittrich",
+      "Andreas Wilhelm",
+      "Robin Winter",
+      "Sven Reuter",
+      "Tim Schaffert"
+    ],
+    [
+      "Andreas Gaßner",
+      "Markus Fellner",
+      "Markus Heiss",
+      "Thomas Bogovits",
+      "Thomas Schragner"
+    ],
+    [
+      "Anna Köllner",
+      "Benjamin Fleischer",
+      "Matthias Buttig",
+      "Ralf Herp",
+      "Rares Schuster"
+    ],
+    [
+      "Anton Reim",
+      "Jacqueline Otten",
+      "Jan Theiler",
+      "Marc Hübler",
+      "Sandra Nietfeld"
+    ],
+    [
+      "Bart De Smet",
+      "Dean Stylemans",
+      "Hanne Vandersmissen",
+      "Jeroen Govaerts",
+      "Petrunka Cernucka"
+    ],
+    [
+      "Benjamin Claußen",
+      "Christopher Kaupert",
+      "Luca Klockenberg",
+      "Till Boehe",
+      "Till Schumacher"
+    ],
+    [
+      "Christian Woelke",
+      "Conrad Gundlach",
+      "Kirsten Mehnert",
+      "Melanie Schmidt",
+      "Michael Schulz"
+    ],
+    [
+      "Fabian Fechner",
+      "Felix Baßel",
+      "Marcel Wriedt",
+      "Monique Dietrich",
+      "Sven Stepputat"
+    ],
+    [
+      "František Ridzoň",
+      "Ján Pipiš",
+      "Matuš Bali-Hudák",
+      "Pavel Novák",
+      "Tomáš Sirotek"
+    ],
+    [
+      "Klara Katrusakova",
+      "Michal Veselka",
+      "Miriam Valarikova",
+      "Norbert Merta",
+      "Robo Rapušák"
+    ],
+    [
+      "May Tommervold",
+      "Meghann Krüger",
+      "Oli Moy",
+      "Sören Warzok",
+      "Tom Trost"
+    ]
+  ]
+}

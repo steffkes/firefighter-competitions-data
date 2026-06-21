@@ -1,7 +1,7 @@
 {
   "competition_id": "recQxGvHMB5Pk3N1w",
   "slots": [],
-  "count": 1088,
+  "count": 1082,
   "teams": [
     [
       "Aaron Nees",
@@ -148,10 +148,6 @@
       "Marc Müller"
     ],
     [
-      "Andreas Stückmann",
-      "Matthias Barkling"
-    ],
-    [
       "Andreas Thiele",
       "Florian Wilkes"
     ],
@@ -165,7 +161,11 @@
     ],
     [
       "André Jeserig",
-      "Sarah Schönig"
+      "Julien Schmidt"
+    ],
+    [
+      "Anja Sudhof",
+      "Jana Werxhausen"
     ],
     [
       "Ann-Cristin Bettinghausen",
@@ -210,6 +210,10 @@
     [
       "Ben Haupt",
       "Damien Robert"
+    ],
+    [
+      "Ben Haupt",
+      "Gilles Hutmacher"
     ],
     [
       "Ben Luca Rongen",
@@ -358,10 +362,6 @@
     [
       "Ceren Zengin",
       "Matthias Heilmann"
-    ],
-    [
-      "Charel Hoffmann",
-      "Cliff Delvaux"
     ],
     [
       "Charlotte Breitz",
@@ -538,6 +538,10 @@
     [
       "Claudio Kunzmann",
       "Johannes Lang"
+    ],
+    [
+      "Cliff Delvaux",
+      "Yanick Krack"
     ],
     [
       "Colin Thiemann",
@@ -776,10 +780,6 @@
       "Dr. Thomas Werxhausen"
     ],
     [
-      "Dylan Azevedo",
-      "Gilles Hutmacher"
-    ],
-    [
       "Dávid Jörisson",
       "Marcel Graffweg"
     ],
@@ -798,10 +798,6 @@
     [
       "Elias Löscher",
       "Nils Ellerbrok"
-    ],
-    [
-      "Elias Vogt",
-      "Markus Weber"
     ],
     [
       "Elisa Nestler",
@@ -857,7 +853,7 @@
     ],
     [
       "Fabian Glar",
-      "Michael Bastuck"
+      "Florian Hansen"
     ],
     [
       "Fabian Huberty",
@@ -873,7 +869,7 @@
     ],
     [
       "Fabian Kluge",
-      "Sarah Schönig"
+      "Maimuna Krüger"
     ],
     [
       "Fabian Koch",
@@ -1153,7 +1149,7 @@
     ],
     [
       "Honke Pelz",
-      "Timo Klug"
+      "Maximilian Köhler"
     ],
     [
       "Ilja Wolf",
@@ -1242,10 +1238,6 @@
     [
       "Jana Bank",
       "Thomas Werxhausen"
-    ],
-    [
-      "Jana Werxhausen",
-      "Martin Brieden"
     ],
     [
       "Janick Rolff",
@@ -1684,10 +1676,6 @@
       "Nathaly Dahms"
     ],
     [
-      "Lukas Kruthoff",
-      "Tobias Wolf-Kemp"
-    ],
-    [
       "Lukas Müller",
       "Manuel Stöppler"
     ],
@@ -1802,6 +1790,10 @@
     [
       "Mathias Stahl",
       "Stefan Exel"
+    ],
+    [
+      "Matthias Barkling",
+      "Merlin Plümpe"
     ],
     [
       "Matthias Dechert",
@@ -1960,10 +1952,6 @@
       "Raphael Kersten"
     ],
     [
-      "Patrick Niester",
-      "Sascha Körner"
-    ],
-    [
       "Paul Frey",
       "Timo Kreutz"
     ],
@@ -1998,10 +1986,6 @@
     [
       "Piet Bohlscheid",
       "Timon Kehlenbach"
-    ],
-    [
-      "Pit Reuter",
-      "Yanick Krack"
     ],
     [
       "Rafael Baldes",
@@ -2060,6 +2044,10 @@
       "Tom Beister"
     ],
     [
+      "Silas Guse",
+      "Tobias Janta"
+    ],
+    [
       "Silas Mertikat",
       "Timon Stelkens"
     ],
@@ -2112,12 +2100,6 @@
       "Torsten Malina"
     ],
     [
-      "Anne Weiß",
-      "Petra Koch",
-      "Timm Kramer",
-      "Timo Hoss"
-    ],
-    [
       "Elias Trümper",
       "Hannes Marberger",
       "Leon Lückerath",
@@ -2152,6 +2134,12 @@
       "Sven Binder",
       "Timon Luca Hilger",
       "Tobias Cedzich"
+    ],
+    [
+      "Petra Koch",
+      "Thomas Heinold",
+      "Timm Kramer",
+      "Timo Hoss"
     ],
     [
       "Eike Tiemann",

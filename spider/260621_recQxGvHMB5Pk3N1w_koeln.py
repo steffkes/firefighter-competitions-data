@@ -35,7 +35,6 @@ class CompetitionSpider(Spider):
             callback=self.parse_slots,
         )
 
-        """
         for contest, competition_type, data_key in [
             (5, "MPA", "#1_{DE:Feuerwehr-Team mit PA|EN:Firefighters with SCBA}"),
             (
@@ -44,30 +43,19 @@ class CompetitionSpider(Spider):
                 "#1_{DE:Feuerwehr-Team ohne PA|EN:Firefighters without SCBA}",
             ),
         ]:
-            r = requests.get(
-                "https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
-                params={
-                    "key": self.race_key,
-                    "listname": "01 - Detail|Details Team",
-                    "contest": str(contest),
-                },
-            )
-
             yield scrapy.FormRequest(
                 method="GET",
-                url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+                url="https://my.raceresult.com/%s/results/list" % self.race_id,
                 formdata={
                     "key": self.race_key,
                     "contest": str(contest),
-                    "listname": "02 - Ergebnislisten|Mannschaftswertung Ges",
+                    "listname": "02-ERGEBNISSE|Mannschaftswertung Ges",
                 },
                 cb_kwargs={
                     "competition_type": competition_type,
                     "data_key": data_key,
-                    "details": dict(map(lambda row: (row[2], row), r.json()["data"])),
                 },
             )
-        """
 
     def parse_starters(self, response):
         fixName = lambda name: " ".join(reversed(list(map(str.strip, name.split(",")))))
@@ -89,51 +77,56 @@ class CompetitionSpider(Spider):
         if isRegClosed:
             yield SlotItem(competition_id=self.competition_id, amount=0)
 
-    def parse(self, response, data_key, competition_type, details):
+    def parse(self, response, data_key, competition_type):
         for entry in response.json()["data"][data_key]:
-            [_id1, _id2, status, bib, _team, names, age_group, raw_duration] = entry
-
-            # sometimes contains an additional asterik at the end
-            if status[0:4] == "a.k.":  # DNF / DSQ
-                continue
-
-            [category, _] = age_group.split(" ")
-            names = sorted(map(str.strip, names.split("/")))
-            duration = self.fixDuration(raw_duration)
-
             [
-                _id,
-                _id2,
+                _id1,
+                pid,
+                _rank_total,
                 _bib,
-                _person1,
-                _person2,
                 _team,
-                _unknown,
-                _unknown,
-                _label1,
-                _label2,
-                _label3,
-                _label4,
-                _contest,
-                _duration,
-                _speed,
-                rank_total,
-                rank_category,
-                rank_age_group,
-            ] = details[bib]
+                raw_names,
+                _age_group,
+                _raw_duration,
+            ] = entry
 
-            yield ResultItem(
-                date=self.race_date,
-                competition_id=self.competition_id,
-                duration=duration,
-                type=competition_type,
-                category={"MIX": "X"}.get(category, category),
-                names=names,
-                age_group=age_group,
-                rank=ResultRankItem(
-                    total=int(rank_total[:-1]),
-                    category=int(rank_category[:-1]),
-                    age_group=int(rank_age_group[:-1]),
-                ),
-                bib=bib,
+            yield scrapy.FormRequest(
+                method="GET",
+                url="https://my.raceresult.com/%s/details/view" % self.race_id,
+                formdata={"lang": "en", "standalone": "false", "pid": str(pid)},
+                callback=self.parse_detail,
+                cb_kwargs={
+                    "competition_type": competition_type,
+                    "names": raw_names.split(" / "),
+                },
             )
+
+    def parse_detail(self, response, competition_type, names):
+        data = response.json()
+        elementKeys = dict(
+            map(
+                lambda record: (record[1]["ID"], record[0]), enumerate(data["Elements"])
+            )
+        )
+        ranking = data["Elements"][elementKeys["3uDykg"]]["Children"][0]["Children"]
+
+        yield ResultItem(
+            date=self.race_date,
+            competition_id=self.competition_id,
+            duration=self.fixDuration(
+                data["Elements"][elementKeys["2f5s2P"]]["Children"][0]["Children"][0][
+                    "Config"
+                ]["Field"]
+            ),
+            type=competition_type,
+            category={"Männer": "M", "Mixed": "X", "Frauen": "W"}[
+                ranking[1]["Config"]["Title"]
+            ],
+            names=sorted(names),
+            age_group=ranking[2]["Config"]["Title"],
+            rank=ResultRankItem(
+                total=int(ranking[0]["Config"]["Field"][:-1]),
+                category=int(ranking[1]["Config"]["Field"][:-1]),
+                age_group=int(ranking[2]["Config"]["Field"][:-1]),
+            ),
+        )

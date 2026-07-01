@@ -2,10 +2,10 @@
   "competition_id": "rec3CZhk0vSiVwpkM",
   "slots": [
     {
-      "amount": 176
+      "amount": 136
     }
   ],
-  "count": 424,
+  "count": 464,
   "teams": [
     [
       "ABRAM David",
@@ -38,6 +38,10 @@
     [
       "BACHMANN Max",
       "LÖHLEIN Valentin"
+    ],
+    [
+      "BAIER Heiko",
+      "WINKLER Marcel"
     ],
     [
       "BAKKER David",
@@ -84,6 +88,14 @@
       "SÜHS Jason"
     ],
     [
+      "BERG Luis",
+      "KISTER Daniel"
+    ],
+    [
+      "BERG Markus",
+      "BERG Thorben"
+    ],
+    [
       "BEUERMANN Emma",
       "SAUERLAND Mick"
     ],
@@ -98,6 +110,14 @@
     [
       "BLOCK Finn Ole",
       "MATHIES Lucas"
+    ],
+    [
+      "BLUMENSTEIN Alexander",
+      "MERKEL Linus"
+    ],
+    [
+      "BLÜMMERT Fabian",
+      "WIRTZ Katja"
     ],
     [
       "BODE Paul",
@@ -132,6 +152,10 @@
       "MEYENSCHEIN Niclas"
     ],
     [
+      "BRAND Felix",
+      "SCHÄFER Vera"
+    ],
+    [
       "BRAUN Moritz",
       "HEYDER GÖRGEN Stefan"
     ],
@@ -142,6 +166,10 @@
     [
       "BRODDE Jeremy",
       "RAU Steven"
+    ],
+    [
+      "BRODHAGE Nils",
+      "HUGOT Jan-Niklas"
     ],
     [
       "BROSE Pascal",
@@ -164,6 +192,10 @@
       "BUHRAU René"
     ],
     [
+      "BÖHM Felix",
+      "SAUTER Patrick"
+    ],
+    [
       "BÖHM Robert",
       "MEHLER Michael"
     ],
@@ -172,12 +204,16 @@
       "EBERMANN Nick"
     ],
     [
+      "BÜRGE Fabian",
+      "LEINHOS Steve"
+    ],
+    [
       "CARL Daniela",
       "HEIDER Lorena"
     ],
     [
       "COLLATZ Cristina",
-      "LANKES Noah"
+      "WOLF Michael"
     ],
     [
       "CÄSAR Florian",
@@ -228,6 +264,10 @@
       "HARDT Luca"
     ],
     [
+      "DÖRNBRACK Maximilian",
+      "SCHUBERT Salvatore"
+    ],
+    [
       "DÜFFERT Henrik",
       "GLANZ Henry"
     ],
@@ -276,6 +316,10 @@
       "MÜLLER Celine"
     ],
     [
+      "FABIAN Blümmert",
+      "SCHMITT Matthias"
+    ],
+    [
       "FISCHER Christian",
       "MÜLLER Robert"
     ],
@@ -296,12 +340,20 @@
       "REINHARDT Jana"
     ],
     [
+      "FREDE Jessy",
+      "SCHMIDT Florian"
+    ],
+    [
       "FREIGANG Maik",
       "SAUER Sabine"
     ],
     [
       "FRIEDRICH Andreas",
       "SCHOLZ Dominic"
+    ],
+    [
+      "FRIES Johannes",
+      "SCHÄFER Horatio"
     ],
     [
       "FRÖBEL Sebastian",
@@ -350,6 +402,10 @@
     [
       "GROß Christoph",
       "GROßMANN Philipp"
+    ],
+    [
+      "GRÜTZMÜLLER Martin",
+      "KIND Florian"
     ],
     [
       "GUGGEMOS Martin",
@@ -441,7 +497,7 @@
     ],
     [
       "HILDEBRAND Christian",
-      "KREBS Maximilian"
+      "KREBS Mario"
     ],
     [
       "HILPERT Anke",
@@ -462,6 +518,10 @@
     [
       "HOPPSTOCK Rene",
       "KANNENGIEßER Jan Peter"
+    ],
+    [
+      "HÜFNER Holger",
+      "SCHNEIDER Frank"
     ],
     [
       "JAGUSCH Adrian",
@@ -552,6 +612,10 @@
       "SPRANGER Felix"
     ],
     [
+      "KREBS Maximilian",
+      "THÜNE Christian"
+    ],
+    [
       "KRUK Kevin",
       "ROCHOLL Marco"
     ],
@@ -578,6 +642,10 @@
     [
       "LANGENHAHN Erik",
       "RENKER Sean Paul"
+    ],
+    [
+      "LANKES Noah",
+      "MÜLLER René"
     ],
     [
       "LAUTENSCHLÄGER Henri",
@@ -696,6 +764,10 @@
       "TIETGE Jan-Philipp"
     ],
     [
+      "NOACK Leon",
+      "SASHKO Aleksandrov"
+    ],
+    [
       "NOLL Noha-Daniele",
       "WETZEL Finn"
     ],
@@ -734,6 +806,10 @@
     [
       "PÜLS Frederick",
       "STOYE-SEELMANN Melanie"
+    ],
+    [
+      "RAABE Bert",
+      "THIERBACH Marcel"
     ],
     [
       "RAU Christian",
@@ -818,6 +894,10 @@
     [
       "SCHUMANN Andreas",
       "SCHUMANN Marius"
+    ],
+    [
+      "SETZ Christiaan",
+      "TAMS Leona"
     ],
     [
       "SONNENBERG Helge",

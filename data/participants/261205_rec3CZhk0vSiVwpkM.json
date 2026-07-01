@@ -2,10 +2,10 @@
   "competition_id": "rec3CZhk0vSiVwpkM",
   "slots": [
     {
-      "amount": 234
+      "amount": 208
     }
   ],
-  "count": 366,
+  "count": 392,
   "teams": [
     [
       "ABRAM David",
@@ -88,6 +88,10 @@
       "SAUERLAND Mick"
     ],
     [
+      "BEYER Maik",
+      "SCHALLER Manuel"
+    ],
+    [
       "BEßLER Joy",
       "SÄNGER Paul"
     ],
@@ -148,6 +152,10 @@
       "EFF Jana"
     ],
     [
+      "BUHRAU Jörg",
+      "BUHRAU René"
+    ],
+    [
       "BÖHM Robert",
       "MEHLER Michael"
     ],
@@ -176,6 +184,10 @@
       "PAPPERT André"
     ],
     [
+      "DEMBECK Nils",
+      "SCHMIED Torsten"
+    ],
+    [
       "DEPPERT Jochen",
       "MICHALIK Aurel"
     ],
@@ -202,6 +214,10 @@
     [
       "DÖLL Rocky",
       "HARDT Luca"
+    ],
+    [
+      "DÜFFERT Henrik",
+      "GLANZ Henry"
     ],
     [
       "DÜFFERT Mareile",
@@ -242,6 +258,10 @@
     [
       "ERLENMAIER Florian",
       "MÜLLER Celine"
+    ],
+    [
+      "FISCHER Christian",
+      "MÜLLER Robert"
     ],
     [
       "FISCHER Paula",
@@ -288,8 +308,16 @@
       "URBAN Tobias"
     ],
     [
+      "GERBER Colin",
+      "LANGE Niclas"
+    ],
+    [
       "GERBER Janine",
       "HÄNEL Marvin"
+    ],
+    [
+      "GERSTEN Martin",
+      "HAUSMANN Maximilian"
     ],
     [
       "GIERING Jonas",
@@ -352,6 +380,10 @@
       "ROHKOHL Julian"
     ],
     [
+      "HARTMANN Tobias",
+      "LACHMANN Alexander"
+    ],
+    [
       "HARTUNG Felix",
       "MANN Lukas"
     ],
@@ -362,6 +394,10 @@
     [
       "HEIDER Silke",
       "HEIDER Stefan"
+    ],
+    [
+      "HEIN Patrick",
+      "SAUER Sebastian"
     ],
     [
       "HEMMANN Norma",
@@ -386,6 +422,10 @@
     [
       "HILPERT Anke",
       "WEIPRECHT Michael"
+    ],
+    [
+      "HINZ Anton",
+      "WENDT Felix"
     ],
     [
       "HOFMANN Hugo",
@@ -486,6 +526,10 @@
     [
       "KULHÁNEK Jakub",
       "URBAN Petr"
+    ],
+    [
+      "KUMMER Maximilian",
+      "LEBLOND Samuel"
     ],
     [
       "KUNTER Daniel",
@@ -646,6 +690,14 @@
     [
       "RAU Christian",
       "WICHT Michael"
+    ],
+    [
+      "RAUDßUS Max",
+      "TROG Stephan"
+    ],
+    [
+      "RECKOW Maximilian",
+      "SCHUNKE Lars"
     ],
     [
       "REIECKE Damaris",

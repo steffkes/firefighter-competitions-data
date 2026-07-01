@@ -2,10 +2,10 @@
   "competition_id": "rec3CZhk0vSiVwpkM",
   "slots": [
     {
-      "amount": 208
+      "amount": 176
     }
   ],
-  "count": 392,
+  "count": 424,
   "teams": [
     [
       "ABRAM David",
@@ -132,6 +132,10 @@
       "MEYENSCHEIN Niclas"
     ],
     [
+      "BRAUN Moritz",
+      "HEYDER GÖRGEN Stefan"
+    ],
+    [
       "BREIT Jürgen",
       "HOCHREUTHER Thomas"
     ],
@@ -142,6 +146,10 @@
     [
       "BROSE Pascal",
       "LAASER Jean-Pierre"
+    ],
+    [
+      "BRUNNER Eva",
+      "DUPSLAFF Christian"
     ],
     [
       "BUBNER Chiara",
@@ -178,6 +186,10 @@
     [
       "DAHINTEN Marcel",
       "FEIDNER Sebastian"
+    ],
+    [
+      "DAVID Stilper",
+      "FRANK Saupe"
     ],
     [
       "DECKERT Steffen",
@@ -246,6 +258,10 @@
     [
       "EHRICHT Matthias",
       "HENZE Jörg"
+    ],
+    [
+      "ELIEWSKY Stefan",
+      "MAAß Florian"
     ],
     [
       "ENGELHARDT Andreas",
@@ -404,6 +420,10 @@
       "WEDEL Florian"
     ],
     [
+      "HENKE Jonas",
+      "MICHEL Ronny"
+    ],
+    [
       "HENNING Jakob",
       "PFETZING Sarah"
     ],
@@ -420,6 +440,10 @@
       "KAISER Anja"
     ],
     [
+      "HILDEBRAND Christian",
+      "KREBS Maximilian"
+    ],
+    [
       "HILPERT Anke",
       "WEIPRECHT Michael"
     ],
@@ -430,6 +454,10 @@
     [
       "HOFMANN Hugo",
       "OBERENDER Sascha"
+    ],
+    [
+      "HOPPE Mike",
+      "STEINKE Thorsten"
     ],
     [
       "HOPPSTOCK Rene",
@@ -494,6 +522,10 @@
     [
       "KOCH Petra",
       "WEIß Anne-Kathrin"
+    ],
+    [
+      "KOHL Enrico",
+      "STILPER David"
     ],
     [
       "KOHRS Karsten Kala",
@@ -644,6 +676,10 @@
       "RAAB Matthias"
     ],
     [
+      "NEEF Matthias",
+      "PEMPEL Kevin"
+    ],
+    [
       "NEUMANN Janine",
       "RINKE Thomas"
     ],
@@ -664,8 +700,16 @@
       "WETZEL Finn"
     ],
     [
+      "NOWAK Martin",
+      "VOELZKE Maximilian"
+    ],
+    [
       "OBERMANN Jens",
       "SAUERLAND Enja"
+    ],
+    [
+      "OKLITSCHEK Yannik",
+      "OMMERT Simon"
     ],
     [
       "PALUS Marcel",
@@ -678,6 +722,10 @@
     [
       "PETER Niklas",
       "REICHEL Silas"
+    ],
+    [
+      "POSANZ Andrea",
+      "SCHÖNEWALD Melanie"
     ],
     [
       "POSTEL Sven",
@@ -704,6 +752,10 @@
       "ULLRICH Vanessa"
     ],
     [
+      "REITER Eric",
+      "SCHWERDTNER Falk"
+    ],
+    [
       "RESTEL Nico",
       "RÄDER Sandro"
     ],
@@ -714,6 +766,10 @@
     [
       "RICHTER Florian",
       "STAMER Sebastian"
+    ],
+    [
+      "ROCKER Sven",
+      "SCHLONSAK Uwe"
     ],
     [
       "RUCKHARDT Lars",
@@ -736,6 +792,10 @@
       "SCHELLENBERGER Kai"
     ],
     [
+      "SCHLONSAK1 Uwe",
+      "VON SALZEN Jasmin"
+    ],
+    [
       "SCHMITT Konstantin",
       "ZIMMERMANN Ben"
     ],
@@ -750,6 +810,10 @@
     [
       "SCHRECKERT Christian",
       "STAUFFER Peter"
+    ],
+    [
+      "SCHRÖTER Jonas",
+      "WAGNER Michael"
     ],
     [
       "SCHUMANN Andreas",

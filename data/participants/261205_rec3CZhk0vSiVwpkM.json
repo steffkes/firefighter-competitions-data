@@ -2,9 +2,742 @@
   "competition_id": "rec3CZhk0vSiVwpkM",
   "slots": [
     {
-      "amount": 258
+      "amount": 234
     }
   ],
-  "count": 0,
-  "teams": []
+  "count": 366,
+  "teams": [
+    [
+      "ABRAM David",
+      "MARQUARDT Christian"
+    ],
+    [
+      "ACHILLES Julian",
+      "REPPIN Sebastian"
+    ],
+    [
+      "ALBRECHT Rolf",
+      "WERNER Andreas"
+    ],
+    [
+      "ALFANZ Jürgen",
+      "FOIDL Lukas"
+    ],
+    [
+      "ALISCH Tim",
+      "KNIESIGK Jason"
+    ],
+    [
+      "AMTHOR Sven",
+      "FLÄHMIG Elias"
+    ],
+    [
+      "APEL Julian",
+      "KÜHN Vincent"
+    ],
+    [
+      "BACHMANN Max",
+      "LÖHLEIN Valentin"
+    ],
+    [
+      "BAKKER David",
+      "KLAASSEN Rob"
+    ],
+    [
+      "BARNES Raffaela",
+      "MÜNCH Julian"
+    ],
+    [
+      "BAUSEWEIN Sebastian",
+      "HÜMMER Markus"
+    ],
+    [
+      "BECK Moritz",
+      "GÖß Nicole"
+    ],
+    [
+      "BECKER Martin",
+      "FLADUNG Stephan"
+    ],
+    [
+      "BECKER Ronny",
+      "SCHERER Hagen"
+    ],
+    [
+      "BEEZ Markus",
+      "FRÖBA Lukas"
+    ],
+    [
+      "BEHMKE Elias",
+      "MUNZ Luca"
+    ],
+    [
+      "BEHNE Lena Sophie",
+      "SICKERT Florian"
+    ],
+    [
+      "BEHRINGER-FALTIN Cynthia",
+      "SÜßE Jannis"
+    ],
+    [
+      "BEHRINGER-FALTIN Uwe",
+      "SÜHS Jason"
+    ],
+    [
+      "BEUERMANN Emma",
+      "SAUERLAND Mick"
+    ],
+    [
+      "BEßLER Joy",
+      "SÄNGER Paul"
+    ],
+    [
+      "BLOCK Finn Ole",
+      "MATHIES Lucas"
+    ],
+    [
+      "BODE Paul",
+      "KLINGE Kevin"
+    ],
+    [
+      "BOESLER Nadja",
+      "EWALD Frank"
+    ],
+    [
+      "BOGUSLAW Philipp",
+      "LANGBEIN Ronny"
+    ],
+    [
+      "BOHUN Jasmin",
+      "HERNBORN André"
+    ],
+    [
+      "BOLLENRATH Andreas",
+      "GLOTZBACH Matthias"
+    ],
+    [
+      "BORN Ian",
+      "PETZOLD Jamie"
+    ],
+    [
+      "BORST Jannik",
+      "KUNDER Johannes"
+    ],
+    [
+      "BRAND Dominik",
+      "MEYENSCHEIN Niclas"
+    ],
+    [
+      "BREIT Jürgen",
+      "HOCHREUTHER Thomas"
+    ],
+    [
+      "BRODDE Jeremy",
+      "RAU Steven"
+    ],
+    [
+      "BROSE Pascal",
+      "LAASER Jean-Pierre"
+    ],
+    [
+      "BUBNER Chiara",
+      "WAGNER Maximilian"
+    ],
+    [
+      "BUDWEISER Anna",
+      "EFF Jana"
+    ],
+    [
+      "BÖHM Robert",
+      "MEHLER Michael"
+    ],
+    [
+      "BÜCHNER Lenny",
+      "EBERMANN Nick"
+    ],
+    [
+      "CARL Daniela",
+      "HEIDER Lorena"
+    ],
+    [
+      "COLLATZ Cristina",
+      "LANKES Noah"
+    ],
+    [
+      "CÄSAR Florian",
+      "KETTNER Jakob"
+    ],
+    [
+      "DAHINTEN Marcel",
+      "FEIDNER Sebastian"
+    ],
+    [
+      "DECKERT Steffen",
+      "PAPPERT André"
+    ],
+    [
+      "DEPPERT Jochen",
+      "MICHALIK Aurel"
+    ],
+    [
+      "DIERCKS Kevin",
+      "EISOLDT Sven"
+    ],
+    [
+      "DILLINGER Christian",
+      "OLUCHA Joan"
+    ],
+    [
+      "DRÖßMER Christin",
+      "RIEMER Marco"
+    ],
+    [
+      "DUMBACH Philipp",
+      "RAL Jan"
+    ],
+    [
+      "DÖBERT Mirko",
+      "SCHEURING Robin"
+    ],
+    [
+      "DÖLL Rocky",
+      "HARDT Luca"
+    ],
+    [
+      "DÜFFERT Mareile",
+      "FUHRMANN Marvin"
+    ],
+    [
+      "EBERMANN Bruno",
+      "FREUDENBERG Max"
+    ],
+    [
+      "ECK Jordan Lee",
+      "POHLE Lars"
+    ],
+    [
+      "ECKELT Yannick",
+      "MATTHÄUS Cedric"
+    ],
+    [
+      "ECKERT Christian",
+      "SANDER Marcel"
+    ],
+    [
+      "EGLE Lennard",
+      "WILHELM Martin"
+    ],
+    [
+      "EHRICHT Matthias",
+      "HENZE Jörg"
+    ],
+    [
+      "ENGELHARDT Andreas",
+      "LEIPOLD Torsten"
+    ],
+    [
+      "EREN Erkan",
+      "LEITSCH Marietta"
+    ],
+    [
+      "ERLENMAIER Florian",
+      "MÜLLER Celine"
+    ],
+    [
+      "FISCHER Paula",
+      "ROCKAR Sven"
+    ],
+    [
+      "FLADUNG Markus",
+      "GILBERT Simon"
+    ],
+    [
+      "FRANCO Scarlett",
+      "KÖRBER Steven"
+    ],
+    [
+      "FRANKE Martin",
+      "REINHARDT Jana"
+    ],
+    [
+      "FREIGANG Maik",
+      "SAUER Sabine"
+    ],
+    [
+      "FRIEDRICH Andreas",
+      "SCHOLZ Dominic"
+    ],
+    [
+      "FRÖBEL Sebastian",
+      "GROßMANN Mirko"
+    ],
+    [
+      "FRÖHLICH Tobias",
+      "KRÜGER Julia"
+    ],
+    [
+      "GASCHLER Louis",
+      "WARNECKE Sascha"
+    ],
+    [
+      "GAßMANN Jonas",
+      "NUSSBAUM Feodor"
+    ],
+    [
+      "GEHRING Jürgen",
+      "URBAN Tobias"
+    ],
+    [
+      "GERBER Janine",
+      "HÄNEL Marvin"
+    ],
+    [
+      "GIERING Jonas",
+      "JENNRICH Christoph"
+    ],
+    [
+      "GRABARSE Mario",
+      "THOMANN Marcel"
+    ],
+    [
+      "GREIS Alexander",
+      "PHAN Jacqueline"
+    ],
+    [
+      "GROß Christoph",
+      "GROßMANN Philipp"
+    ],
+    [
+      "GUGGEMOS Martin",
+      "MÜLLER Andreas"
+    ],
+    [
+      "GÖRING Cedric",
+      "HUMMEL Noah"
+    ],
+    [
+      "GÜNZEL Markus",
+      "ROST Wendel"
+    ],
+    [
+      "GÜTH Michael",
+      "MARSCHALL Alexander"
+    ],
+    [
+      "HAARHAUS Julian",
+      "MAYER Lars"
+    ],
+    [
+      "HAAS Alexander",
+      "REBHAN Tom"
+    ],
+    [
+      "HABENSTEIN Axel",
+      "KRÖGER Steffen"
+    ],
+    [
+      "HALGASCH Tobias",
+      "NEIPERT Karsten"
+    ],
+    [
+      "HAMMER Jens",
+      "NÖLTE Steffen"
+    ],
+    [
+      "HANNUSCH Tobias",
+      "PAHN Markus"
+    ],
+    [
+      "HANTSCH Tim",
+      "ROHKOHL Julian"
+    ],
+    [
+      "HARTUNG Felix",
+      "MANN Lukas"
+    ],
+    [
+      "HEIDER Jannis",
+      "PFEIL Niklas"
+    ],
+    [
+      "HEIDER Silke",
+      "HEIDER Stefan"
+    ],
+    [
+      "HEMMANN Norma",
+      "WEDEL Florian"
+    ],
+    [
+      "HENNING Jakob",
+      "PFETZING Sarah"
+    ],
+    [
+      "HENTSCHEL Felix",
+      "LEMM Matthias"
+    ],
+    [
+      "HERBORN André",
+      "HERBORN Björn"
+    ],
+    [
+      "HERTEL Stefan",
+      "KAISER Anja"
+    ],
+    [
+      "HILPERT Anke",
+      "WEIPRECHT Michael"
+    ],
+    [
+      "HOFMANN Hugo",
+      "OBERENDER Sascha"
+    ],
+    [
+      "HOPPSTOCK Rene",
+      "KANNENGIEßER Jan Peter"
+    ],
+    [
+      "JAGUSCH Adrian",
+      "REICHELT Kai"
+    ],
+    [
+      "JASMIN Bohun",
+      "NICOLE Tuchbreiter"
+    ],
+    [
+      "JENNRICH Isabell",
+      "SCHULZ Alexander"
+    ],
+    [
+      "JOO Dustin",
+      "JOO Karolin"
+    ],
+    [
+      "JUFFA Marco",
+      "URBACH Verena"
+    ],
+    [
+      "JUFFA Philipp",
+      "LINDLEIN Marius"
+    ],
+    [
+      "KABUTH Stefan",
+      "WURSTER Robin"
+    ],
+    [
+      "KADE Anett",
+      "LUCIUS Monique"
+    ],
+    [
+      "KAFFANKE Kai",
+      "PHILIPP Jasmin"
+    ],
+    [
+      "KAPLAN Christian",
+      "MACHALKE Martin"
+    ],
+    [
+      "KERSTEN Christin",
+      "SCHNECKENHAUS Daniel"
+    ],
+    [
+      "KIEBLER Christof",
+      "KÜLLMER Dennis"
+    ],
+    [
+      "KIRZDÖRFER Timo",
+      "SCHECKLMANN Carsten"
+    ],
+    [
+      "KOCH Christian",
+      "WEIß Alexander"
+    ],
+    [
+      "KOCH Petra",
+      "WEIß Anne-Kathrin"
+    ],
+    [
+      "KOHRS Karsten Kala",
+      "MEIRITZ Maik"
+    ],
+    [
+      "KOSTECKI Finn",
+      "PAULI Vincent"
+    ],
+    [
+      "KOSTECKI Maik",
+      "PÖHL Silvio"
+    ],
+    [
+      "KRAUSE Oliver",
+      "KRAUSE Thomas"
+    ],
+    [
+      "KRAUSE Pascal",
+      "POSER Jonas"
+    ],
+    [
+      "KRAUß Dominik",
+      "SPRANGER Felix"
+    ],
+    [
+      "KRUK Kevin",
+      "ROCHOLL Marco"
+    ],
+    [
+      "KULHÁNEK Jakub",
+      "URBAN Petr"
+    ],
+    [
+      "KUNTER Daniel",
+      "SCHRÖTER Fabian"
+    ],
+    [
+      "KUNZ Rene",
+      "TÄNZER Mirko"
+    ],
+    [
+      "KÜNZEL Sebastian",
+      "NEUGEBAUER Kai"
+    ],
+    [
+      "LANGENHAHN Erik",
+      "RENKER Sean Paul"
+    ],
+    [
+      "LAUTENSCHLÄGER Henri",
+      "PFETZING Andreas"
+    ],
+    [
+      "LAUTERBACH Samira",
+      "TURSKY Niko"
+    ],
+    [
+      "LEDDERHOSE Martin",
+      "PETER Ina"
+    ],
+    [
+      "LEISNER Jessica",
+      "SEIFERT Luca"
+    ],
+    [
+      "LEPPICH Hannes",
+      "LEUNERT Tom"
+    ],
+    [
+      "LEUS Ivan",
+      "PRUIM Christijn"
+    ],
+    [
+      "LIEPE Lukas",
+      "WITTIG Dario"
+    ],
+    [
+      "LIND Oskar",
+      "PIETRUSZKA Laura"
+    ],
+    [
+      "LINDLEIN Gerrit",
+      "PÄTZOLT Daniel"
+    ],
+    [
+      "LINSER Alexander",
+      "LINSER Oliver"
+    ],
+    [
+      "LORENZ Erik",
+      "NIETMANN Brian"
+    ],
+    [
+      "LORENZ Lukas",
+      "MENZEL Toni"
+    ],
+    [
+      "MADER Tobias",
+      "MADER Torben"
+    ],
+    [
+      "MAIER Christoph",
+      "WEIßHAAR Philipp"
+    ],
+    [
+      "MARTIN Johannes",
+      "SCHÜTZE Tim"
+    ],
+    [
+      "MARTIN Jonas",
+      "SAHNER Leah"
+    ],
+    [
+      "MATTHIAS Weickmann",
+      "SAUPE Frank"
+    ],
+    [
+      "MATTHIESSEN Matz",
+      "MORGENDAHL Malte Sören"
+    ],
+    [
+      "MAYER André",
+      "SCHUMACHER Marcel"
+    ],
+    [
+      "MENKLEIN Florian",
+      "WANHELA Laura"
+    ],
+    [
+      "MEYER Axel",
+      "PETERS Florian"
+    ],
+    [
+      "MITSCH Christian",
+      "WEICKMANN Matthias"
+    ],
+    [
+      "MORYN Benedict",
+      "WOLFRAM Peter"
+    ],
+    [
+      "MÜLLER Johannes",
+      "RAAB Matthias"
+    ],
+    [
+      "NEUMANN Janine",
+      "RINKE Thomas"
+    ],
+    [
+      "NEUMANN Paul",
+      "STEIN Fabian"
+    ],
+    [
+      "NEUMANN Paul",
+      "STEIN Fabian"
+    ],
+    [
+      "NIELSON Kjel",
+      "TIETGE Jan-Philipp"
+    ],
+    [
+      "NOLL Noha-Daniele",
+      "WETZEL Finn"
+    ],
+    [
+      "OBERMANN Jens",
+      "SAUERLAND Enja"
+    ],
+    [
+      "PALUS Marcel",
+      "WOLF Mirko"
+    ],
+    [
+      "PAWLAK Grzegorz",
+      "REICHELT Paul Michael"
+    ],
+    [
+      "PETER Niklas",
+      "REICHEL Silas"
+    ],
+    [
+      "POSTEL Sven",
+      "SCHULZE Thomas"
+    ],
+    [
+      "PÜLS Frederick",
+      "STOYE-SEELMANN Melanie"
+    ],
+    [
+      "RAU Christian",
+      "WICHT Michael"
+    ],
+    [
+      "REIECKE Damaris",
+      "ULLRICH Vanessa"
+    ],
+    [
+      "RESTEL Nico",
+      "RÄDER Sandro"
+    ],
+    [
+      "REUTHER Sebastian",
+      "SILLING Torsten"
+    ],
+    [
+      "RICHTER Florian",
+      "STAMER Sebastian"
+    ],
+    [
+      "RUCKHARDT Lars",
+      "THIEME Christoph"
+    ],
+    [
+      "RÖNEKE Niklas",
+      "SAADAT Heliya"
+    ],
+    [
+      "SALOMON Oliver",
+      "STOLLBERG Tobias"
+    ],
+    [
+      "SCHAEFER Steffen",
+      "SCHULER Manuel"
+    ],
+    [
+      "SCHECKENBACH Nino",
+      "SCHELLENBERGER Kai"
+    ],
+    [
+      "SCHMITT Konstantin",
+      "ZIMMERMANN Ben"
+    ],
+    [
+      "SCHMITT Patrick",
+      "SCHMITT Tobias"
+    ],
+    [
+      "SCHNEIDEREIT Kirsten",
+      "SCHWERDT Björn"
+    ],
+    [
+      "SCHRECKERT Christian",
+      "STAUFFER Peter"
+    ],
+    [
+      "SCHUMANN Andreas",
+      "SCHUMANN Marius"
+    ],
+    [
+      "SONNENBERG Helge",
+      "SONNENBERG Rebea"
+    ],
+    [
+      "SPEIER Henrik",
+      "WILKEN Hannah"
+    ],
+    [
+      "SPEIER Tim",
+      "THIEL Dominik"
+    ],
+    [
+      "STANGE René",
+      "WEGERICH Moritz"
+    ],
+    [
+      "STEIN Justin",
+      "WENZEL Leon"
+    ],
+    [
+      "SÖMMER Vincent",
+      "WEIß Hannes"
+    ],
+    [
+      "TUCHBREITER Nicole",
+      "WEICKMANN Matthias"
+    ],
+    [
+      "WEIMAR Stefan",
+      "ZAUN Julia"
+    ],
+    [
+      "WIENEKE Ole",
+      "WÄLDNER Neal"
+    ]
+  ]
 }

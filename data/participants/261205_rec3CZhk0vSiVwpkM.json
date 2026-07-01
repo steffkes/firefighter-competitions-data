@@ -2,10 +2,10 @@
   "competition_id": "rec3CZhk0vSiVwpkM",
   "slots": [
     {
-      "amount": 120
+      "amount": 116
     }
   ],
-  "count": 480,
+  "count": 484,
   "teams": [
     [
       "ABRAM David",
@@ -14,6 +14,10 @@
     [
       "ACHILLES Julian",
       "REPPIN Sebastian"
+    ],
+    [
+      "ALBRECHT Ralf",
+      "BRANDT Sebastian"
     ],
     [
       "ALBRECHT Rolf",
@@ -522,6 +526,10 @@
     [
       "HINZ Anton",
       "WENDT Felix"
+    ],
+    [
+      "HOFFMANN Jan",
+      "WILD Hannes"
     ],
     [
       "HOFMANN Hugo",

@@ -2,10 +2,10 @@
   "competition_id": "rec3CZhk0vSiVwpkM",
   "slots": [
     {
-      "amount": 46
+      "amount": 40
     }
   ],
-  "count": 554,
+  "count": 560,
   "teams": [
     [
       "ABRAM David",
@@ -344,6 +344,10 @@
       "LOMBERG Niklas"
     ],
     [
+      "ENGEL Laura",
+      "LIPPOLD Tim"
+    ],
+    [
       "ENGELHARDT Andreas",
       "LEIPOLD Torsten"
     ],
@@ -608,6 +612,10 @@
       "MACEK Nina"
     ],
     [
+      "HÖRSCHELMANN Daniel",
+      "ROMMERT Tim"
+    ],
+    [
       "HÜFNER Holger",
       "SCHNEIDER Frank"
     ],
@@ -662,6 +670,10 @@
     [
       "KAUFMANN Andreas",
       "WERNER Michael"
+    ],
+    [
+      "KAUFUNG Mario",
+      "PAUL Felix"
     ],
     [
       "KERSTEN Christin",

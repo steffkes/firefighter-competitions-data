@@ -2,10 +2,10 @@
   "competition_id": "rec3CZhk0vSiVwpkM",
   "slots": [
     {
-      "amount": 92
+      "amount": 72
     }
   ],
-  "count": 508,
+  "count": 528,
   "teams": [
     [
       "ABRAM David",
@@ -102,6 +102,10 @@
     [
       "BERG Markus",
       "BERG Thorben"
+    ],
+    [
+      "BERGNER Steffen",
+      "GOLDSMITS Maurice"
     ],
     [
       "BEUERMANN Emma",
@@ -340,8 +344,20 @@
       "MÜLLER Celine"
     ],
     [
+      "ERYTHROPEL Pascal",
+      "PILLACH Benedikt"
+    ],
+    [
       "FABIAN Blümmert",
       "SCHMITT Matthias"
+    ],
+    [
+      "FEHLAU Robert",
+      "JURISCH Nils"
+    ],
+    [
+      "FEHRLE Jennifer",
+      "KAMPRAD Joachim"
     ],
     [
       "FISCHER Christian",
@@ -504,6 +520,10 @@
       "SAUER Sebastian"
     ],
     [
+      "HELLFRITSCH Michel",
+      "PIETZSCH Christoph"
+    ],
+    [
       "HEMMANN Norma",
       "WEDEL Florian"
     ],
@@ -524,8 +544,16 @@
       "HERBORN Björn"
     ],
     [
+      "HERTEL Erik",
+      "KÄUBLER Philip"
+    ],
+    [
       "HERTEL Stefan",
       "KAISER Anja"
+    ],
+    [
+      "HEßELBACH Magdalena",
+      "SCHÄFE Kai"
     ],
     [
       "HILDEBRAND Christian",
@@ -554,6 +582,10 @@
     [
       "HOPPSTOCK Rene",
       "KANNENGIEßER Jan Peter"
+    ],
+    [
+      "HUCK Marcel",
+      "MACEK Nina"
     ],
     [
       "HÜFNER Holger",
@@ -602,6 +634,10 @@
     [
       "KAPLAN Christian",
       "MACHALKE Martin"
+    ],
+    [
+      "KAUFMANN Andreas",
+      "WERNER Michael"
     ],
     [
       "KERSTEN Christin",
@@ -794,6 +830,10 @@
     [
       "MEYER Axel",
       "PETERS Florian"
+    ],
+    [
+      "MEYER Irena",
+      "SCHWARZ Paul"
     ],
     [
       "MITSCH Christian",

@@ -2,10 +2,10 @@
   "competition_id": "rec3CZhk0vSiVwpkM",
   "slots": [
     {
-      "amount": 40
+      "amount": 22
     }
   ],
-  "count": 560,
+  "count": 578,
   "teams": [
     [
       "ABRAM David",
@@ -38,6 +38,10 @@
     [
       "APEL Julian",
       "KÜHN Vincent"
+    ],
+    [
+      "ASTER Pierre",
+      "MÜLLER Patrick"
     ],
     [
       "BACHMANN Max",
@@ -224,6 +228,10 @@
       "MEHLER Michael"
     ],
     [
+      "BÖRNGEN Colin",
+      "MÜLLER Christopher"
+    ],
+    [
       "BÜCHNER Lenny",
       "EBERMANN Nick"
     ],
@@ -238,6 +246,10 @@
     [
       "COLLATZ Cristina",
       "WOLF Michael"
+    ],
+    [
+      "CZYLWIK Tristan",
+      "EICKHOFF Florian"
     ],
     [
       "CÄSAR Florian",
@@ -266,6 +278,10 @@
     [
       "DEPPERT Jochen",
       "MICHALIK Aurel"
+    ],
+    [
+      "DIEMER Lukas",
+      "HEYDER Clemens"
     ],
     [
       "DIERCKS Kevin",
@@ -596,8 +612,16 @@
       "WILD Hannes"
     ],
     [
+      "HOFMANN Andreas",
+      "LANKES Noah"
+    ],
+    [
       "HOFMANN Hugo",
       "OBERENDER Sascha"
+    ],
+    [
+      "HONNEFELLER Sven",
+      "LANGE Leon"
     ],
     [
       "HOPPE Mike",
@@ -605,7 +629,7 @@
     ],
     [
       "HOPPSTOCK Rene",
-      "KANNENGIEßER Jan Peter"
+      "RÖNEKE Niklas"
     ],
     [
       "HUCK Marcel",
@@ -662,6 +686,10 @@
     [
       "KAFFANKE Kai",
       "PHILIPP Jasmin"
+    ],
+    [
+      "KANNENGIEßER Jan Peter",
+      "SAADAT Heliya"
     ],
     [
       "KAPLAN Christian",
@@ -784,10 +812,6 @@
       "RENKER Sean Paul"
     ],
     [
-      "LANKES Noah",
-      "MÜLLER René"
-    ],
-    [
       "LAUTENSCHLÄGER Henri",
       "PFETZING Andreas"
     ],
@@ -834,6 +858,14 @@
     [
       "LINSER Alexander",
       "LINSER Oliver"
+    ],
+    [
+      "LOMBERG Susi",
+      "PRINZ Felix"
+    ],
+    [
+      "LORBEER Philipp",
+      "WEIGANDT Nico"
     ],
     [
       "LORENZ Erik",
@@ -898,6 +930,10 @@
     [
       "MÜLLER Johannes",
       "RAAB Matthias"
+    ],
+    [
+      "MÜLLER René",
+      "SEIß Volker"
     ],
     [
       "NEEF Matthias",
@@ -1032,10 +1068,6 @@
       "THIEME Christoph"
     ],
     [
-      "RÖNEKE Niklas",
-      "SAADAT Heliya"
-    ],
-    [
       "SALOMON Oliver",
       "STOLLBERG Tobias"
     ],
@@ -1082,6 +1114,10 @@
     [
       "SCHUMANN Andreas",
       "SCHUMANN Marius"
+    ],
+    [
+      "SCHWEIGERT Elly",
+      "ZEINER Yvonne"
     ],
     [
       "SEIDEL Sarah",

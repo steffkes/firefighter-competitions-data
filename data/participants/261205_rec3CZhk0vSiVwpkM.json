@@ -2,10 +2,10 @@
   "competition_id": "rec3CZhk0vSiVwpkM",
   "slots": [
     {
-      "amount": 72
+      "amount": 46
     }
   ],
-  "count": 528,
+  "count": 554,
   "teams": [
     [
       "ABRAM David",
@@ -62,6 +62,10 @@
     [
       "BAUSEWEIN Sebastian",
       "HÜMMER Markus"
+    ],
+    [
+      "BECK Jan",
+      "WEIß Thomas"
     ],
     [
       "BECK Moritz",
@@ -162,6 +166,10 @@
     [
       "BORST Jannik",
       "KUNDER Johannes"
+    ],
+    [
+      "BRAKHAGE Lars",
+      "HOFFMANN Jan Christoph"
     ],
     [
       "BRAND Dominik",
@@ -304,6 +312,10 @@
       "POHLE Lars"
     ],
     [
+      "ECK Sophia",
+      "ZIEGLER Lore"
+    ],
+    [
       "ECKELT Yannick",
       "MATTHÄUS Cedric"
     ],
@@ -440,6 +452,10 @@
       "PHAN Jacqueline"
     ],
     [
+      "GROTE Florian",
+      "RÜGGE Lars"
+    ],
+    [
       "GROß Christoph",
       "GROßMANN Philipp"
     ],
@@ -560,6 +576,10 @@
       "KREBS Mario"
     ],
     [
+      "HILEBRAND Lorenz",
+      "PFLEGHAAR Gabriel"
+    ],
+    [
       "HILPERT Anke",
       "WEIPRECHT Michael"
     ],
@@ -620,6 +640,10 @@
       "LINDLEIN Marius"
     ],
     [
+      "JÜNGLING Vincent",
+      "VETTER Mario"
+    ],
+    [
       "KABUTH Stefan",
       "WURSTER Robin"
     ],
@@ -648,12 +672,20 @@
       "KÜLLMER Dennis"
     ],
     [
+      "KIESSBAUER Kevin",
+      "WEIGELT Markus"
+    ],
+    [
       "KIRZDÖRFER Timo",
       "SCHECKLMANN Carsten"
     ],
     [
       "KLUGE Fabian",
       "KRÜGER Maimuna"
+    ],
+    [
+      "KNAUP Dominik",
+      "RÜGGE Tim"
     ],
     [
       "KOCH Christian",
@@ -702,6 +734,14 @@
     [
       "KRUK Kevin",
       "ROCHOLL Marco"
+    ],
+    [
+      "KUHLEMANN Dennis",
+      "RÜGGE Marc"
+    ],
+    [
+      "KUHLEMANN Tobias",
+      "WÜRFEL Robin"
     ],
     [
       "KULHAWY Alexander",
@@ -908,6 +948,10 @@
       "REICHEL Silas"
     ],
     [
+      "PFEIFER Julia",
+      "SCHNELL Sebastian"
+    ],
+    [
       "POLNIK Benny",
       "WENDLER Leon"
     ],
@@ -1004,6 +1048,10 @@
       "SCHMITT Tobias"
     ],
     [
+      "SCHNEIDER Peer",
+      "TEUCHERT Martin"
+    ],
+    [
       "SCHNEIDEREIT Kirsten",
       "SCHWERDT Björn"
     ],
@@ -1022,6 +1070,10 @@
     [
       "SCHUMANN Andreas",
       "SCHUMANN Marius"
+    ],
+    [
+      "SEIDEL Sarah",
+      "ZSCHIESCHE Maik"
     ],
     [
       "SETZ Christiaan",

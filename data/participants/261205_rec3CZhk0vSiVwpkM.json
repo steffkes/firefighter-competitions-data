@@ -2,10 +2,10 @@
   "competition_id": "rec3CZhk0vSiVwpkM",
   "slots": [
     {
-      "amount": 22
+      "amount": 2
     }
   ],
-  "count": 578,
+  "count": 598,
   "teams": [
     [
       "ABRAM David",
@@ -14,6 +14,10 @@
     [
       "ACHILLES Julian",
       "REPPIN Sebastian"
+    ],
+    [
+      "ALBERTI Lysander",
+      "FISCHER Johannes"
     ],
     [
       "ALBRECHT Ralf",
@@ -206,6 +210,10 @@
     [
       "BRUNNER Eva",
       "DUPSLAFF Christian"
+    ],
+    [
+      "BRÜCKMANN Felix",
+      "HAHN Jens"
     ],
     [
       "BUBNER Chiara",
@@ -420,6 +428,14 @@
       "SAUER Sabine"
     ],
     [
+      "FREIMUTH Marius",
+      "PANZER Paul"
+    ],
+    [
+      "FREUDENSTEIN Bastian",
+      "ZERBES Maja"
+    ],
+    [
       "FRIEDRICH Andreas",
       "SCHOLZ Dominic"
     ],
@@ -514,6 +530,14 @@
     [
       "HABENSTEIN Axel",
       "KRÖGER Steffen"
+    ],
+    [
+      "HAFFNER Lukas",
+      "LOHFING Andreas"
+    ],
+    [
+      "HAIN Kay",
+      "WEHRMANN Karl"
     ],
     [
       "HALGASCH Tobias",
@@ -612,6 +636,10 @@
       "WILD Hannes"
     ],
     [
+      "HOFFMANN Kay",
+      "KRAUß Marcel"
+    ],
+    [
       "HOFMANN Andreas",
       "LANKES Noah"
     ],
@@ -634,6 +662,10 @@
     [
       "HUCK Marcel",
       "MACEK Nina"
+    ],
+    [
+      "HUMML Steve",
+      "WEBER Michael"
     ],
     [
       "HÖRSCHELMANN Daniel",
@@ -718,6 +750,10 @@
     [
       "KIRZDÖRFER Timo",
       "SCHECKLMANN Carsten"
+    ],
+    [
+      "KLEIN Jaret",
+      "PFEIFER Finn"
     ],
     [
       "KLUGE Fabian",
@@ -1154,6 +1190,10 @@
     [
       "TUCHBREITER Nicole",
       "WEICKMANN Matthias"
+    ],
+    [
+      "VYHLIDAL Milan",
+      "ČIČMANCOVÁ Ivana"
     ],
     [
       "WEIMAR Stefan",

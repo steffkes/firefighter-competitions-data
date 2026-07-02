@@ -2,10 +2,10 @@
   "competition_id": "rec3CZhk0vSiVwpkM",
   "slots": [
     {
-      "amount": 2
+      "amount": 0
     }
   ],
-  "count": 598,
+  "count": 600,
   "teams": [
     [
       "ABRAM David",
@@ -474,6 +474,10 @@
     [
       "GERSTEN Martin",
       "HAUSMANN Maximilian"
+    ],
+    [
+      "GEWINN Gewinnspiel",
+      "GEWINNSPIEL Gewinn"
     ],
     [
       "GIERING Jonas",

@@ -1,7 +1,7 @@
 {
   "competition_id": "recFv1fiTjY16XynK",
   "slots": [],
-  "count": 716,
+  "count": 714,
   "teams": [
     [
       "Adam Slavíček"
@@ -155,9 +155,6 @@
     ],
     [
       "Dummy"
-    ],
-    [
-      "Dummy Dummy"
     ],
     [
       "Dummy Dummy"
@@ -557,9 +554,6 @@
     ],
     [
       "Sören Warzok"
-    ],
-    [
-      "Thomas Barzen"
     ],
     [
       "Thomas Bogovits"
@@ -1265,6 +1259,12 @@
       "Victoria Klik"
     ],
     [
+      "Alexander Hellwig",
+      "Andreas Willems",
+      "Nico Burelbach",
+      "Thilo Willems"
+    ],
+    [
       "Alexander Marschall",
       "Nils Schmidt",
       "Phil Heise",
@@ -1341,12 +1341,6 @@
       "Maik Boll",
       "Mareike Rosenbaum",
       "Sven Ramaker"
-    ],
-    [
-      "Lukas Bergweiler",
-      "Manuel Schneiders",
-      "Martin Heimes",
-      "Nico Flöder-Rambo"
     ],
     [
       "Lukas Wickmann",

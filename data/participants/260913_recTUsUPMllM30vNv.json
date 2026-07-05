@@ -1,7 +1,7 @@
 {
   "competition_id": "recTUsUPMllM30vNv",
   "slots": [],
-  "count": 90,
+  "count": 92,
   "teams": [
     [
       "Aaron Gunnar Grewe",
@@ -86,6 +86,10 @@
     [
       "Eric Niebergall",
       "Florian Domis"
+    ],
+    [
+      "Fabian Scheidt",
+      "Simon Scheidt"
     ],
     [
       "Fabian Wendel",

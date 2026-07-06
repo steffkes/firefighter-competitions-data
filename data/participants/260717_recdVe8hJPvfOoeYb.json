@@ -1,7 +1,7 @@
 {
   "competition_id": "recdVe8hJPvfOoeYb",
   "slots": [],
-  "count": 341,
+  "count": 384,
   "teams": [
     [
       "Adrian Jagusch"
@@ -61,6 +61,9 @@
       "Christian Dillinger"
     ],
     [
+      "Christian Follmann"
+    ],
+    [
       "Christian Lutat"
     ],
     [
@@ -83,6 +86,9 @@
     ],
     [
       "David Bakker"
+    ],
+    [
+      "David Probst"
     ],
     [
       "Dominic Arnold"
@@ -134,6 +140,9 @@
     ],
     [
       "Hannes Weiß"
+    ],
+    [
+      "Helge Sonnenberg"
     ],
     [
       "Hendrik Kumpe"
@@ -259,6 +268,12 @@
       "Marvin Hänel"
     ],
     [
+      "Marvin Struck"
+    ],
+    [
+      "Marvin Struck"
+    ],
+    [
       "Mathias Hey"
     ],
     [
@@ -293,6 +308,9 @@
     ],
     [
       "Michael Fangmann"
+    ],
+    [
+      "Michael Güth"
     ],
     [
       "Michael Weis"
@@ -349,6 +367,9 @@
       "Rares Schuster"
     ],
     [
+      "Rebea Sonnenberg"
+    ],
+    [
       "René Bode"
     ],
     [
@@ -364,6 +385,9 @@
       "Rupert Kempe"
     ],
     [
+      "Rüdiger Zeuner-Christ"
+    ],
+    [
       "Sascha Michala"
     ],
     [
@@ -377,6 +401,9 @@
     ],
     [
       "Simon Feuerhack"
+    ],
+    [
+      "Simon Polauke"
     ],
     [
       "Stefan Fetting"
@@ -431,6 +458,12 @@
     ],
     [
       "Volker Hederich"
+    ],
+    [
+      "Wiebke Lührs"
+    ],
+    [
+      "Wiebke Lührs"
     ],
     [
       "Yannic Linnemann"
@@ -526,6 +559,10 @@
       "Tobias Fischer"
     ],
     [
+      "Christian Follmann",
+      "David Probst"
+    ],
+    [
       "Daniel Finster",
       "Daniela Primus"
     ],
@@ -570,6 +607,14 @@
       "Stephan Trog"
     ],
     [
+      "Helge Sonnenberg",
+      "Rebea Sonnenberg"
+    ],
+    [
+      "Helge Sonnenberg",
+      "Rüdiger Zeuner-Christ"
+    ],
+    [
       "Hendrik Kumpe",
       "Thore Steinmetz"
     ],
@@ -580,6 +625,14 @@
     [
       "Jannik Werner",
       "Mike Stöbener"
+    ],
+    [
+      "Jannis Christ",
+      "Nils Kleiber"
+    ],
+    [
+      "Jannis Christ",
+      "Rüdiger Zeuner-Christ"
     ],
     [
       "Jasmin Bohun",
@@ -606,6 +659,10 @@
       "Moritz Millnitz"
     ],
     [
+      "Lena Scheibner",
+      "Lukas Wickmann"
+    ],
+    [
       "Lena Schuster",
       "Sören Warzok"
     ],
@@ -616,6 +673,10 @@
     [
       "Leon Zeipel",
       "Moritz Millnitz"
+    ],
+    [
+      "Lukas Wikcmann",
+      "Simon Polauke"
     ],
     [
       "Luzie Henze",
@@ -693,6 +754,12 @@
       "Oliver Wichert"
     ],
     [
+      "Alexander Marschall",
+      "Michael Güth",
+      "Simon Feuerhack",
+      "Simon Polauke"
+    ],
+    [
       "Benjamin Roth",
       "Jasmin Bohun",
       "Jörg Bohun",
@@ -703,6 +770,12 @@
       "Katharina Sundermeier",
       "Maryam Abtahean",
       "Saskia Tetzlaff"
+    ],
+    [
+      "Christian Follmann",
+      "David Probst",
+      "Helge Sonnenberg",
+      "Rüdiger Zeuner-Christ"
     ],
     [
       "Dario Peter",
@@ -754,6 +827,20 @@
       "Sascha Michala",
       "Tobias Fischer",
       "nn nn"
+    ],
+    [
+      "Britta Heise",
+      "Chenoa Polauke",
+      "Franziska Wickmann",
+      "Svenja Lange",
+      "Wiebke Lührs"
+    ],
+    [
+      "Chenoa Polauke",
+      "Lukas Wickmann",
+      "Moritz Bock",
+      "Svenja Lange",
+      "Uwe Heise"
     ],
     [
       "Claudia Mäder",

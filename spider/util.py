@@ -393,6 +393,7 @@ class FccSpider(Spider):
 
 class BadWildbadSpider(Spider):
     ranks = {"category": {}}
+    competition_key = "#1_Feuerwehr-Stäffeleslauf"
 
     def start_requests(self):
         yield scrapy.FormRequest(
@@ -408,7 +409,7 @@ class BadWildbadSpider(Spider):
 
         yield scrapy.FormRequest(
             method="GET",
-            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            url="https://my.raceresult.com/%s/results/list" % self.race_id,
             formdata={
                 "key": self.race_key,
                 "listname": "Online|Zieleinlaufliste",
@@ -451,7 +452,7 @@ class BadWildbadSpider(Spider):
             team,
             raw_duration,
             _time_difference,
-        ] in (response.json()["data"] or {}).get("#1_Feuerwehr-Stäffeleslauf", []):
+        ] in (response.json()["data"] or {}).get(self.competition_key, []):
             duration = "00:%s.0" % raw_duration
 
             rank_total = self.ranks.get("total", 1)

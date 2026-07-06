@@ -1,4 +1,5 @@
 from util import BadWildbadSpider, ParticipantItem
+import re
 
 
 class CompetitionSpider(BadWildbadSpider):
@@ -6,6 +7,8 @@ class CompetitionSpider(BadWildbadSpider):
 
     race_id = "342979"
     race_key = "9522fa0db23d64ba7c0aba8100851fe2"
+
+    competition_key = "#1_Gollmer & Hummel Feuerwehrlauf"
 
     @staticmethod
     def fixName(name):
@@ -24,9 +27,7 @@ class CompetitionSpider(BadWildbadSpider):
             _category,
             _team,
             _empty,
-        ] in (response.json()["data"] or {}).get(
-            "#1_Gollmer & Hummel Feuerwehrlauf", []
-        ):
+        ] in (response.json()["data"] or {}).get(self.competition_key, []):
             yield ParticipantItem(
                 competition_id=self.competition_id, names=[fixName(name)]
             )

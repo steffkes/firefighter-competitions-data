@@ -1,8 +1,11 @@
 {
   "competition_id": "recyE37WyTps1tKvr",
   "slots": [],
-  "count": 89,
+  "count": 107,
   "teams": [
+    [
+      "Alexander Hellwig"
+    ],
     [
       "Anna Köllner"
     ],
@@ -22,10 +25,16 @@
       "Christian Brockers"
     ],
     [
+      "Christian Follmann"
+    ],
+    [
       "Christian Offenbeck"
     ],
     [
       "Christoph Wolfinger"
+    ],
+    [
+      "David Probst"
     ],
     [
       "Dummy Dummy"
@@ -41,6 +50,9 @@
     ],
     [
       "Gerd Müller"
+    ],
+    [
+      "Helge Sonnenberg"
     ],
     [
       "Jasmin Bohun"
@@ -67,6 +79,18 @@
       "Martin Erbe"
     ],
     [
+      "Martin Erbe"
+    ],
+    [
+      "Martin Erbe"
+    ],
+    [
+      "Matthias Ascheberg"
+    ],
+    [
+      "Matthias Ascheberg"
+    ],
+    [
       "Matthias Fritz"
     ],
     [
@@ -83,6 +107,9 @@
     ],
     [
       "Rares Schuster"
+    ],
+    [
+      "Rebea Sonnenberg"
     ],
     [
       "Ruben Werbke"
@@ -127,6 +154,10 @@
       "Markus Brockers"
     ],
     [
+      "Christian Follmann",
+      "David Probst"
+    ],
+    [
       "Christoph Wolfinger",
       "Falk Salzmann"
     ],
@@ -137,6 +168,10 @@
     [
       "Georg Pabst",
       "Gerd Müller"
+    ],
+    [
+      "Helge Sonnenberg",
+      "Rebea Sonnenberg"
     ],
     [
       "Jasmin Bohun",
@@ -159,16 +194,23 @@
       "Rares Schuster"
     ],
     [
-      "Andreas Keller",
-      "Julia Burger",
-      "Patrick Müller",
-      "Thomas Burger"
-    ],
-    [
       "Avdi Bytyci",
       "Georg Pabst",
       "Gerd Müller",
       "Sadri Tola"
+    ],
+    [
+      "Christian Follmann",
+      "David Probst",
+      "Helge Sonnenberg",
+      "Matthias Ascheberg"
+    ],
+    [
+      "Andreas Keller",
+      "Dummy Dummy",
+      "Julia Burger",
+      "Patrick Müller",
+      "Thomas Burger"
     ],
     [
       "Anna Köllner",

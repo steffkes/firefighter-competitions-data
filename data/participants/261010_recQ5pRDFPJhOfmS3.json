@@ -1,6 +1,10 @@
 {
   "competition_id": "recQ5pRDFPJhOfmS3",
-  "slots": [],
+  "slots": [
+    {
+      "amount": 136
+    }
+  ],
   "count": 124,
   "teams": [
     [

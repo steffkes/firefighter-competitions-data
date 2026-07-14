@@ -10,7 +10,7 @@ class CompetitionSpider(Spider):
     def start_requests(self):
         yield scrapy.FormRequest(
             method="GET",
-            url="https://my.raceresult.com/%s/RRRegStart/data/config" % self.race_id,
+            url="https://my.raceresult.com/%s/registration/config" % self.race_id,
             callback=self.parse_slots,
         )
 
@@ -39,9 +39,7 @@ class CompetitionSpider(Spider):
     def parse_slots(self, response):
         yield SlotItem(
             competition_id=self.competition_id,
-            amount=response.json()["RegistrationConfig"]["Registrations"][0][
-                "SlotsLeft"
-            ],
+            amount=response.json()["Registrations"][0]["SlotsLeft"],
         )
 
     def parse_starters_single(self, response):

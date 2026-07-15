@@ -14,17 +14,21 @@ class CompetitionSpider(Spider):
         return " ".join(reversed(name.split(", ")))
 
     def start_requests(self):
-        yield scrapy.FormRequest(
-            method="GET",
-            url="https://my.raceresult.com/%s/participants/list" % self.race_id,
-            formdata={
-                "key": self.race_key,
-                "listname": "Online|Teilnehmer",
-                "f": "Startgruppe 4(Feuerwehr ohne angeschlossener PA)<Ignore><Ignore>",
-            },
-            cb_kwargs={"key": "#3_Startgruppe 4(Feuerwehr ohne angeschlossener PA)"},
-            callback=self.parse_starters,
-        )
+        for key, group in [
+            ("#3", "Startgruppe 4(Feuerwehr ohne angeschlossener PA)"),
+            ("#4", "Startgruppe 5(Feuerwehr mit angeschlossener PA)"),
+        ]:
+            yield scrapy.FormRequest(
+                method="GET",
+                url="https://my.raceresult.com/%s/participants/list" % self.race_id,
+                formdata={
+                    "key": self.race_key,
+                    "listname": "Online|Teilnehmer",
+                    "f": group + "<Ignore><Ignore>",
+                },
+                cb_kwargs={"key": key + "_" + group},
+                callback=self.parse_starters,
+            )
 
     def parse_starters(self, response, key):
         for [

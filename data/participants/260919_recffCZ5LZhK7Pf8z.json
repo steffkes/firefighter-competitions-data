@@ -1,8 +1,14 @@
 {
   "competition_id": "recffCZ5LZhK7Pf8z",
   "slots": [],
-  "count": 5,
+  "count": 15,
   "teams": [
+    [
+      "Alexander Trommer"
+    ],
+    [
+      "Andre Klein"
+    ],
     [
       "Christian Korupp"
     ],
@@ -13,10 +19,34 @@
       "Manfred Hees"
     ],
     [
+      "Markus Steinemann"
+    ],
+    [
+      "Martin Schmid"
+    ],
+    [
+      "Matthias Engels"
+    ],
+    [
       "Max Mayer"
     ],
     [
+      "Nicklas Schulz"
+    ],
+    [
+      "Nils Gromoll"
+    ],
+    [
+      "Stefan Tautz"
+    ],
+    [
+      "Thorsten Mäckle"
+    ],
+    [
       "Tom Eichele"
+    ],
+    [
+      "Yannik Exner"
     ]
   ]
 }

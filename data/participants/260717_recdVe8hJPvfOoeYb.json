@@ -1,7 +1,7 @@
 {
   "competition_id": "recdVe8hJPvfOoeYb",
   "slots": [],
-  "count": 410,
+  "count": 411,
   "teams": [
     [
       "Adrian Jagusch"
@@ -95,6 +95,12 @@
     ],
     [
       "Dominic Arnold"
+    ],
+    [
+      "Dummy Dummy"
+    ],
+    [
+      "Dummy Dummy"
     ],
     [
       "Dániel Furdan"
@@ -226,10 +232,10 @@
       "Lukas Wickmann"
     ],
     [
-      "Lydia Streiter"
+      "Magnus Hirschfeld"
     ],
     [
-      "Magnus Hirschfeld"
+      "Malte Bettles"
     ],
     [
       "Marcel Schneider"
@@ -251,9 +257,6 @@
     ],
     [
       "Mario Poppe"
-    ],
-    [
-      "Marion Zander"
     ],
     [
       "Markus Ahrend"
@@ -377,9 +380,6 @@
     ],
     [
       "Simon Burger"
-    ],
-    [
-      "Simon Feuerhack"
     ],
     [
       "Simon Polauke"
@@ -739,11 +739,6 @@
       "Tobias Fischer"
     ],
     [
-      "Andreas Gaßner",
-      "Lukas Gaßner",
-      "Thomas Bogovits"
-    ],
-    [
       "Brian Nietmann",
       "Erik Lorenz",
       "Manuel Drebing"
@@ -758,6 +753,12 @@
       "Michael Güth",
       "Simon Feuerhack",
       "Simon Polauke"
+    ],
+    [
+      "Andreas Gaßner",
+      "Lukas Gaßner",
+      "Martin Erbe",
+      "Thomas Bogovits"
     ],
     [
       "Benjamin Roth",
@@ -839,7 +840,7 @@
       "Antonia Kulhawy",
       "Björn Herborn",
       "Nicole Mrosek",
-      "Stefan Fetting",
+      "Rares Schuster",
       "Ulrich Koellner"
     ],
     [

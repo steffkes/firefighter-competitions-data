@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 135
+      "amount": 134
     }
   ],
-  "count": 125,
+  "count": 127,
   "teams": [
     [
       "Achim Keller"
@@ -357,6 +357,10 @@
     [
       "Markus Mezger",
       "Simon Mezger"
+    ],
+    [
+      "Martin Lohrberg",
+      "René Stange"
     ],
     [
       "Matthias Kern",

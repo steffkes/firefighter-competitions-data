@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 134
+      "amount": 130
     }
   ],
-  "count": 127,
+  "count": 131,
   "teams": [
     [
       "Achim Keller"
@@ -98,6 +98,9 @@
       "Fabian Wendel"
     ],
     [
+      "Fabian Wiedemann"
+    ],
+    [
       "Falco Gröschel"
     ],
     [
@@ -132,6 +135,9 @@
     ],
     [
       "Joachim Krißmer"
+    ],
+    [
+      "Johannes Müller"
     ],
     [
       "Jonas Hermann"
@@ -171,6 +177,9 @@
     ],
     [
       "Linus Sühring"
+    ],
+    [
+      "Lukas Berkmann"
     ],
     [
       "Manfred Freimut"
@@ -282,6 +291,9 @@
     ],
     [
       "Steve Roidl"
+    ],
+    [
+      "Thomas Berkmann"
     ],
     [
       "Thomas Reinhardt"

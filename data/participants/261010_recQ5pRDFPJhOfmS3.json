@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 130
+      "amount": 129
     }
   ],
-  "count": 131,
+  "count": 132,
   "teams": [
     [
       "Achim Keller"
@@ -120,6 +120,9 @@
     ],
     [
       "Giuliano Loscalzo"
+    ],
+    [
+      "Harald Metzen"
     ],
     [
       "Ina Düll"

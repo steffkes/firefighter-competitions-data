@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 129
+      "amount": 128
     }
   ],
-  "count": 132,
+  "count": 133,
   "teams": [
     [
       "Achim Keller"
@@ -291,6 +291,9 @@
     ],
     [
       "Stefan Kraus"
+    ],
+    [
+      "Stefanie Siebler"
     ],
     [
       "Steve Roidl"

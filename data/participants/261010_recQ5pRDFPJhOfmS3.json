@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 128
+      "amount": 127
     }
   ],
-  "count": 133,
+  "count": 134,
   "teams": [
     [
       "Achim Keller"
@@ -231,6 +231,9 @@
     ],
     [
       "Max Peters"
+    ],
+    [
+      "Maxi Ruepp"
     ],
     [
       "Maximilian Thalhofer"

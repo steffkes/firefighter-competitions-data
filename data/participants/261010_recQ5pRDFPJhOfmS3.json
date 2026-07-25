@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 127
+      "amount": 126
     }
   ],
-  "count": 134,
+  "count": 135,
   "teams": [
     [
       "Achim Keller"
@@ -312,6 +312,9 @@
     ],
     [
       "Tim Kestic"
+    ],
+    [
+      "Tim Speier"
     ],
     [
       "Timo Elser"

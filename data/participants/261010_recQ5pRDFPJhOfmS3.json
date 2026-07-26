@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 126
+      "amount": 125
     }
   ],
-  "count": 135,
+  "count": 136,
   "teams": [
     [
       "Achim Keller"
@@ -177,6 +177,9 @@
     ],
     [
       "Lasse Gellings"
+    ],
+    [
+      "Lea Turbanisch"
     ],
     [
       "Linus Sühring"

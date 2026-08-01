@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 125
+      "amount": 124
     }
   ],
-  "count": 136,
+  "count": 137,
   "teams": [
     [
       "Achim Keller"
@@ -243,6 +243,9 @@
     ],
     [
       "Michael Blattenberger"
+    ],
+    [
+      "Michael Schmaußer"
     ],
     [
       "Nico Schafroth"

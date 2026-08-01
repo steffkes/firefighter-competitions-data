@@ -1,7 +1,7 @@
 {
   "competition_id": "recPCpu8YS31OVRpR",
   "slots": [],
-  "count": 512,
+  "count": 521,
   "teams": [
     [
       "Adam Slavicek"
@@ -80,6 +80,9 @@
     ],
     [
       "Björn Herborn"
+    ],
+    [
+      "Can Richter"
     ],
     [
       "Carola Hildebrandt"
@@ -382,10 +385,16 @@
       "Matúš Bali-Hudák"
     ],
     [
+      "Max Wohlgemuth"
+    ],
+    [
       "May Tommervold"
     ],
     [
       "Meghann Krueger"
+    ],
+    [
+      "Meiko Schöps"
     ],
     [
       "Melanie Schönewald"
@@ -554,6 +563,9 @@
     ],
     [
       "Sören Warzok"
+    ],
+    [
+      "Tamino Steuding"
     ],
     [
       "Terézia Foott"
@@ -1090,6 +1102,13 @@
       "Stefan Fetting",
       "Volker Hederich",
       "Yannic Wagner"
+    ],
+    [
+      "Can-Pierre Richter",
+      "Jasmin Weber",
+      "Max Wohlgemuth",
+      "Meiko Schöps",
+      "Tamino Steuding"
     ],
     [
       "Christian Follmann",

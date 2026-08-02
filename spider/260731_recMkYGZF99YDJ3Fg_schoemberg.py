@@ -23,20 +23,21 @@ class CompetitionSpider(Spider):
 
         yield scrapy.FormRequest(
             method="GET",
-            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            url="https://my.raceresult.com/%s/results/list" % self.race_id,
             formdata={
                 "key": self.race_key,
-                "listname": "01_Baywa und Feuerwehr|Ergebnisliste_Feuerwehr_MW",
+                "listname": "01_Sprint und Feuerwehr|03_Ergebnisliste_Feuerwehr_MW",
                 "contest": "9",
             },
+            callback=self.parse,
         )
 
         yield scrapy.FormRequest(
             method="GET",
-            url="https://my.raceresult.com/%s/RRPublish/data/list" % self.race_id,
+            url="https://my.raceresult.com/%s/results/list" % self.race_id,
             formdata={
                 "key": self.race_key,
-                "listname": "01_Baywa und Feuerwehr|Ergebnisliste_Feuerwehr_Mixed",
+                "listname": "01_Sprint und Feuerwehr|03_Ergebnisliste_Feuerwehr_Mixed",
                 "contest": "9",
             },
             callback=self.parse_mixed,
@@ -72,7 +73,6 @@ class CompetitionSpider(Spider):
                 category=category,
                 duration=duration,
                 names=names,
-                bib=None,
             )
 
     def parse(self, response):

@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 124
+      "amount": 123
     }
   ],
-  "count": 137,
+  "count": 138,
   "teams": [
     [
       "Achim Keller"
@@ -246,6 +246,9 @@
     ],
     [
       "Michael Schmaußer"
+    ],
+    [
+      "Nadia Ehteshamzad"
     ],
     [
       "Nico Schafroth"

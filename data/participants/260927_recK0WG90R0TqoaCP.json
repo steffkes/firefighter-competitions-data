@@ -1,11 +1,15 @@
 {
   "competition_id": "recK0WG90R0TqoaCP",
   "slots": [],
-  "count": 172,
+  "count": 192,
   "teams": [
     [
       "Adrian Till",
       "Oliver Supper"
+    ],
+    [
+      "Alexander Hübner",
+      "Bastian Hübner"
     ],
     [
       "Alexandra Auberger",
@@ -92,6 +96,10 @@
       "Markus Weißer"
     ],
     [
+      "Daniel Oel",
+      "Julian Krause"
+    ],
+    [
       "Daniel Weisse",
       "Stefan Reinhardt"
     ],
@@ -140,6 +148,10 @@
       "Jannik Wanner"
     ],
     [
+      "Florian Rieder",
+      "Martin Bartholomä"
+    ],
+    [
       "Florian Wein",
       "Luis Landwehr"
     ],
@@ -154,6 +166,10 @@
     [
       "Freimut Manfred",
       "Kalle Müller"
+    ],
+    [
+      "Freya Buhlmann",
+      "Meike Bartholomä"
     ],
     [
       "Friedhelm Schwab",
@@ -188,6 +204,14 @@
       "Laurenz Gohlke"
     ],
     [
+      "Jan Fink",
+      "Lars Heselschwerdt"
+    ],
+    [
+      "Jens Roob",
+      "Thorsten Wegener"
+    ],
+    [
       "Jeremias Volk",
       "Nils Häußer"
     ],
@@ -210,6 +234,10 @@
     [
       "Jonas Schwarz",
       "Theo Schmid"
+    ],
+    [
+      "Jonathan Kramer",
+      "Niklas Dobler"
     ],
     [
       "Jonathan Lehre",
@@ -256,12 +284,20 @@
       "Samuel Weihing"
     ],
     [
+      "Kevin Wolf",
+      "Michael Noller"
+    ],
+    [
       "Klemens Hartmann",
       "Samuel Schweinbenz"
     ],
     [
       "Lasse Lienau",
       "Leonard Saile"
+    ],
+    [
+      "Laura Stieb",
+      "Patricia Kleß"
     ],
     [
       "Laurin Fuchs",
@@ -326,6 +362,10 @@
     [
       "Max Hertel",
       "Selina Hörner"
+    ],
+    [
+      "Mia Roob",
+      "Mia Schneckenberger"
     ],
     [
       "Mika Haug",

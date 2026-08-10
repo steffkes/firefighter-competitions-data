@@ -1,10 +1,13 @@
 {
   "competition_id": "recyE37WyTps1tKvr",
   "slots": [],
-  "count": 179,
+  "count": 184,
   "teams": [
     [
       "Alexander Hellwig"
+    ],
+    [
+      "Alexander Sader"
     ],
     [
       "Andre Kühne"
@@ -118,6 +121,9 @@
       "Maximilian Schweizer"
     ],
     [
+      "Mike Weikamm"
+    ],
+    [
       "Patric Hauser"
     ],
     [
@@ -164,6 +170,10 @@
     ],
     [
       "Zora Werbke"
+    ],
+    [
+      "Alexander Sader",
+      "Andre Kühne"
     ],
     [
       "Andreas Wilhelm",
@@ -270,11 +280,6 @@
       "Tim Schaffert"
     ],
     [
-      "Andre Kühne",
-      "Martin Erbe",
-      "Mike Weikamm"
-    ],
-    [
       "David Melsheimer",
       "Kevin Waizenegger",
       "Moritz Weber"
@@ -283,6 +288,12 @@
       "Julian Wehrle",
       "Matthias Graffelder",
       "Peter Joba"
+    ],
+    [
+      "Alexander Sader",
+      "Andre Kühne",
+      "Martin Erbe",
+      "Mike Weikamm"
     ],
     [
       "Andreas Keller",

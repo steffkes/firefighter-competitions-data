@@ -1,7 +1,7 @@
 {
   "competition_id": "recyE37WyTps1tKvr",
   "slots": [],
-  "count": 186,
+  "count": 187,
   "teams": [
     [
       "Alexander Hellwig"
@@ -109,9 +109,6 @@
       "Martin Erbe"
     ],
     [
-      "Matthias Ascheberg"
-    ],
-    [
       "Matthias Fritz"
     ],
     [
@@ -119,6 +116,9 @@
     ],
     [
       "Maximilian Schweizer"
+    ],
+    [
+      "Michel Menten"
     ],
     [
       "Mike Weikamm"
@@ -324,12 +324,6 @@
       "MSG C. Boggs"
     ],
     [
-      "Christian Follmann",
-      "David Probst",
-      "Helge Sonnenberg",
-      "Matthias Ascheberg"
-    ],
-    [
       "Christian Offenbeck",
       "Christoph Wolfinger",
       "Falk Salzmann",
@@ -364,6 +358,13 @@
       "Marcel Lizon",
       "Michael Ambacher",
       "Tobias Heumann"
+    ],
+    [
+      "Alexander Hellwig",
+      "Christian Follmann",
+      "David Probst",
+      "Helge Sonnenberg",
+      "Michel Menten"
     ],
     [
       "Anna Köllner",

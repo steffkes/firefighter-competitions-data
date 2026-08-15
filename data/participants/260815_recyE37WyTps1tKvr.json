@@ -4,9 +4,6 @@
   "count": 187,
   "teams": [
     [
-      "Alexander Hellwig"
-    ],
-    [
       "Alexander Sader"
     ],
     [
@@ -53,6 +50,9 @@
     ],
     [
       "David Probst"
+    ],
+    [
+      "Dummy Dummy"
     ],
     [
       "Dummy Dummy"
@@ -172,6 +172,10 @@
       "Zora Werbke"
     ],
     [
+      "Alexander Hellwig",
+      "Helge Sonnenberg"
+    ],
+    [
       "Alexander Sader",
       "Andre Kühne"
     ],
@@ -234,10 +238,6 @@
     [
       "Georg Pabst",
       "Gerd Müller"
-    ],
-    [
-      "Helge Sonnenberg",
-      "Matthias Ascheberg"
     ],
     [
       "Helge Sonnenberg",

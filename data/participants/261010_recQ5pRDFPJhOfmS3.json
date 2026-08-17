@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 119
+      "amount": 118
     }
   ],
-  "count": 142,
+  "count": 144,
   "teams": [
     [
       "Achim Keller"
@@ -374,6 +374,10 @@
     [
       "Andreas Fischer",
       "Christian Kreit"
+    ],
+    [
+      "Andreas Schmid",
+      "Elias Geisler"
     ],
     [
       "Barbara Brodkorb",

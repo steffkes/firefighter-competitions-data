@@ -15,10 +15,8 @@ class CompetitionSpider(Spider):
     def parse_starters(self, response):
         for table in response.css("table[summary*='TreppenlaufFeuerwehr']"):
             for rows in table.css("tbody tr"):
-                [lastname, firstname, _team, _city, _confirmed] = rows.css(
-                    "td::text"
-                ).getall()
+                row = rows.css("td::text").getall()
                 yield ParticipantItem(
                     competition_id=self.competition_id,
-                    names=["{} {}".format(firstname, lastname)],
+                    names=["{} {}".format(row[1], row[0])],
                 )

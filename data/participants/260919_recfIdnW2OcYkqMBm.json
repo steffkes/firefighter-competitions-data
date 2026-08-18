@@ -2,13 +2,16 @@
   "competition_id": "recfIdnW2OcYkqMBm",
   "slots": [
     {
-      "amount": 157
+      "amount": 156
     }
   ],
-  "count": 4,
+  "count": 5,
   "teams": [
     [
       "Andreas Endres"
+    ],
+    [
+      "Leon Lückerath"
     ],
     [
       "Niklas Lomberg"

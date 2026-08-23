@@ -1,8 +1,12 @@
 {
   "competition_id": "recK0WG90R0TqoaCP",
   "slots": [],
-  "count": 240,
+  "count": 250,
   "teams": [
+    [
+      "Adrian Ganter",
+      "Willy Jäger"
+    ],
     [
       "Adrian Till",
       "Oliver Supper"
@@ -160,6 +164,10 @@
       "Jan Holder"
     ],
     [
+      "Emil Lauber",
+      "Julian Hopf"
+    ],
+    [
       "Emma Schwarz",
       "Joshua Raible"
     ],
@@ -172,8 +180,16 @@
       "Ralph Beyer"
     ],
     [
+      "Felix Kaufmann",
+      "Ralf Hägele"
+    ],
+    [
       "Felix Ringat",
       "Johannes Fais"
+    ],
+    [
+      "Finn Jäger",
+      "Marcel König"
     ],
     [
       "Finn Runge",
@@ -242,6 +258,10 @@
     [
       "Henri Flack",
       "Paul Flack"
+    ],
+    [
+      "Iven Henßler",
+      "Moritz Mohn"
     ],
     [
       "Jael Bordne",

@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 118
+      "amount": 117
     }
   ],
-  "count": 144,
+  "count": 145,
   "teams": [
     [
       "Achim Keller"
@@ -165,6 +165,9 @@
     ],
     [
       "Karsten Neupert"
+    ],
+    [
+      "Keller Hogler"
     ],
     [
       "Kim Schneider"

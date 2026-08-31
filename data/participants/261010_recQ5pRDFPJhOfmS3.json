@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 116
+      "amount": 115
     }
   ],
-  "count": 146,
+  "count": 147,
   "teams": [
     [
       "Achim Keller"
@@ -300,6 +300,9 @@
     ],
     [
       "Robin Scheuring"
+    ],
+    [
+      "Sebastian Menn"
     ],
     [
       "Sebastian Stamer"

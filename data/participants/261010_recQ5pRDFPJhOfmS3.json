@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 117
+      "amount": 116
     }
   ],
-  "count": 145,
+  "count": 146,
   "teams": [
     [
       "Achim Keller"
@@ -306,6 +306,9 @@
     ],
     [
       "Selina Daser"
+    ],
+    [
+      "Simon Eggensberger"
     ],
     [
       "Simon Schleich"

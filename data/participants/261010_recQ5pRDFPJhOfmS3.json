@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 114
+      "amount": 113
     }
   ],
-  "count": 148,
+  "count": 149,
   "teams": [
     [
       "Achim Keller"
@@ -366,6 +366,9 @@
     ],
     [
       "Tobias Maurus"
+    ],
+    [
+      "Tobias Ruoff"
     ],
     [
       "Tom Rebhan"

@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 113
+      "amount": 112
     }
   ],
-  "count": 149,
+  "count": 150,
   "teams": [
     [
       "Achim Keller"
@@ -153,6 +153,9 @@
     ],
     [
       "Julian Birk"
+    ],
+    [
+      "Julian Mewes"
     ],
     [
       "Julian Röscheise"

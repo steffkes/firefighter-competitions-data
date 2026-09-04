@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 112
+      "amount": 110
     }
   ],
-  "count": 150,
+  "count": 154,
   "teams": [
     [
       "Achim Keller"
@@ -412,6 +412,14 @@
     [
       "Hugo Hölzle",
       "Johannes Riederer"
+    ],
+    [
+      "Jakob Schwarz",
+      "Maximilian Zwick"
+    ],
+    [
+      "Jonas Engstle",
+      "Leonhard Schwarz"
     ],
     [
       "Kalle Müller",

@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 109
+      "amount": 108
     }
   ],
-  "count": 155,
+  "count": 156,
   "teams": [
     [
       "Achim Keller"
@@ -30,6 +30,9 @@
     ],
     [
       "Ben Brodbeck"
+    ],
+    [
+      "Benedikt Sommer"
     ],
     [
       "Benjamin Eger-Glaser"

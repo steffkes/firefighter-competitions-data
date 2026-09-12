@@ -1,7 +1,7 @@
 {
   "competition_id": "recPCpu8YS31OVRpR",
   "slots": [],
-  "count": 638,
+  "count": 617,
   "teams": [
     [
       "ALEXANDER SADER"
@@ -14,9 +14,6 @@
     ],
     [
       "Adrian Schratt"
-    ],
-    [
-      "Alan Dittrich"
     ],
     [
       "Alan Dittrich"
@@ -98,9 +95,6 @@
     ],
     [
       "Cedric Matthäus"
-    ],
-    [
-      "Chantal Balzereit"
     ],
     [
       "Chiara Schmidt"
@@ -202,12 +196,6 @@
       "František Ridzoň"
     ],
     [
-      "František Ridzoň"
-    ],
-    [
-      "František Ridzoň"
-    ],
-    [
       "Gerhard Kruse"
     ],
     [
@@ -283,9 +271,6 @@
       "Ján Pipiš"
     ],
     [
-      "Ján Pipiš"
-    ],
-    [
       "János Kiss"
     ],
     [
@@ -310,13 +295,7 @@
       "Krzysztof Stencel"
     ],
     [
-      "Krzysztof Stencel"
-    ],
-    [
       "Lars Mayer"
-    ],
-    [
-      "Laura Andres"
     ],
     [
       "Laura Andres"
@@ -350,9 +329,6 @@
     ],
     [
       "Marcin Gras"
-    ],
-    [
-      "Marek Ludvík"
     ],
     [
       "Marek Ludvík"
@@ -410,9 +386,6 @@
     ],
     [
       "Matuš Bali-Hudák"
-    ],
-    [
-      "Matúš Bali-Hudák"
     ],
     [
       "Max Wohlgemuth"
@@ -499,16 +472,10 @@
       "Olaf Krause"
     ],
     [
-      "Olaf Krause"
-    ],
-    [
       "Ole Nedergaard"
     ],
     [
       "Oliver Bramer"
-    ],
-    [
-      "Oliver Moj"
     ],
     [
       "Oliver Moj"
@@ -535,16 +502,7 @@
       "Pavel Novák"
     ],
     [
-      "Pavel Novák"
-    ],
-    [
       "Paweł Wiatrowski"
-    ],
-    [
-      "Phillip Blau"
-    ],
-    [
-      "Piotr Aleksandrowicz"
     ],
     [
       "Piotr Aleksandrowicz"
@@ -575,9 +533,6 @@
     ],
     [
       "Robin Bureš"
-    ],
-    [
-      "Robin Winter"
     ],
     [
       "Robin Winter"
@@ -637,9 +592,6 @@
       "Sven Ramaker"
     ],
     [
-      "Sven Ramaker"
-    ],
-    [
       "Sven Reuter"
     ],
     [
@@ -683,9 +635,6 @@
     ],
     [
       "Tomáš Bobiš"
-    ],
-    [
-      "Tomáš Sirotek"
     ],
     [
       "Tomáš Sirotek"
@@ -875,10 +824,6 @@
       "Krzysztof Stencel"
     ],
     [
-      "Daniel Toporek",
-      "Krzysztof Stencel"
-    ],
-    [
       "Daniela Primus",
       "May Tommervold"
     ],
@@ -901,6 +846,10 @@
     [
       "David Probst",
       "Emily Kurutz"
+    ],
+    [
+      "David Probst",
+      "Sören Warzok"
     ],
     [
       "Dawid Geiger",
@@ -1112,7 +1061,7 @@
     ],
     [
       "Nikol Endlicherová",
-      "Nikola Cempírková"
+      "Roman Munzar"
     ],
     [
       "Nikol Endlicherová",
@@ -1131,12 +1080,12 @@
       "Robo Rapusak"
     ],
     [
-      "Oli Moj",
-      "Sören Warzok"
-    ],
-    [
       "Oliver Moj",
       "Vera Licha"
+    ],
+    [
+      "Oliver Moy",
+      "Tom Trost"
     ],
     [
       "Oliver Nopper",
@@ -1231,12 +1180,6 @@
       "Morten Simonsen",
       "Nico Heesch",
       "Ole Nedergaard"
-    ],
-    [
-      "Daniel Toporek",
-      "Dawid Rąbczyk",
-      "Krzysztof Stencel",
-      "Mateusz Wesołowski"
     ],
     [
       "Daniel Toporek",
@@ -1420,10 +1363,10 @@
     ],
     [
       "May Tommervold",
-      "Meghann Krüger",
       "Oli Moy",
       "Sören Warzok",
-      "Tom Trost"
+      "Tom Trost",
+      "Vera Licha"
     ]
   ]
 }

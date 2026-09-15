@@ -1,7 +1,7 @@
 {
   "competition_id": "recPCpu8YS31OVRpR",
   "slots": [],
-  "count": 615,
+  "count": 607,
   "teams": [
     [
       "Adam Slavicek"
@@ -175,9 +175,6 @@
       "Fabian Angermann"
     ],
     [
-      "Felix Baßel"
-    ],
-    [
       "Felix Dörries"
     ],
     [
@@ -325,9 +322,6 @@
       "Marcel Kelch"
     ],
     [
-      "Marcel Wriedt"
-    ],
-    [
       "Marcin Gras"
     ],
     [
@@ -374,9 +368,6 @@
     ],
     [
       "Mathias Hey"
-    ],
-    [
-      "Matthias Ascheberg"
     ],
     [
       "Matthias Lemm"
@@ -640,6 +631,9 @@
       "Torben Voigt"
     ],
     [
+      "Tristan Schulze-Windolf"
+    ],
+    [
       "Ulrich Köllner"
     ],
     [
@@ -772,6 +766,10 @@
     [
       "Bart De smet",
       "Jeroen Govaerts"
+    ],
+    [
+      "Bartlomiej Nir-Skibski",
+      "Piotr Aleksandrowicz"
     ],
     [
       "Benjamin Claußen",
@@ -960,10 +958,6 @@
     [
       "Karol Mazur",
       "Mateusz Zieleziecki"
-    ],
-    [
-      "Kata Lédeczi",
-      "Matthias Ascheberg"
     ],
     [
       "Katá Ledeci",
@@ -1161,6 +1155,12 @@
       "Yannick Eckelt"
     ],
     [
+      "Christian Follmann",
+      "David Probst",
+      "Dirk Fischer",
+      "Rüdiger Zeuner-Christ"
+    ],
+    [
       "Daniel Havmand",
       "Morten Simonsen",
       "Nico Heesch",
@@ -1263,13 +1263,6 @@
       "Tamino Steuding"
     ],
     [
-      "Christian Follmann",
-      "David Probst",
-      "Dirk Fischer",
-      "Matthias Ascheberg",
-      "Rüdiger Zeuner-Christ"
-    ],
-    [
       "Christian Woelke",
       "Conrad Gundlach",
       "Kirsten Mehnert",
@@ -1282,13 +1275,6 @@
       "Karol Mazur",
       "Konrad Karoń",
       "Mateusz Zieleziecki"
-    ],
-    [
-      "Fabian Fechner",
-      "Felix Baßel",
-      "Marcel Wriedt",
-      "Monique Dietrich",
-      "Sven Stepputat"
     ],
     [
       "Fischer Tobias",

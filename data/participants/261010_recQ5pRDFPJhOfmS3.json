@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 106
+      "amount": 105
     }
   ],
-  "count": 158,
+  "count": 159,
   "teams": [
     [
       "Achim Keller"
@@ -108,6 +108,9 @@
     ],
     [
       "Felix Lenz"
+    ],
+    [
+      "Finley Renz"
     ],
     [
       "Florian Erlenmaier"

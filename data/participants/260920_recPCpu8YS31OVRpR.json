@@ -1,7 +1,7 @@
 {
   "competition_id": "recPCpu8YS31OVRpR",
   "slots": [],
-  "count": 613,
+  "count": 619,
   "teams": [
     [
       "Adam Slavicek"
@@ -749,6 +749,10 @@
     ],
     [
       "Anja Sudholt",
+      "Lena Sophie Behne"
+    ],
+    [
+      "Anja Sudholt",
       "Nils Broch"
     ],
     [
@@ -766,10 +770,6 @@
     [
       "Bart De Smet",
       "Hanne Vandersmissen"
-    ],
-    [
-      "Bart De smet",
-      "Jeroen Govaerts"
     ],
     [
       "Bartlomiej Nir-Skibski",
@@ -856,6 +856,10 @@
       "Marta Arrobe da Encarnacao"
     ],
     [
+      "Dean Stylemans",
+      "Jeroen Govaerts"
+    ],
+    [
       "Dirk Fischer",
       "Rüdiger Zeuner-Christ"
     ],
@@ -889,7 +893,7 @@
     ],
     [
       "Hanne Vandersmissen",
-      "Petrunka Cernucká"
+      "Nikola Cempirkova"
     ],
     [
       "Hans-Christian Marwedel",
@@ -992,10 +996,6 @@
       "Martin Erbe"
     ],
     [
-      "Lena Sophie Behne",
-      "Michele Schammer"
-    ],
-    [
       "Louis Possler",
       "Luca Rißler"
     ],
@@ -1040,16 +1040,16 @@
       "Uwe Heise"
     ],
     [
+      "Michal Fabian",
+      "Miroslav Nevesely"
+    ],
+    [
       "Mike Hoppe",
       "Wolfgang Stark"
     ],
     [
       "Mike Weikamm",
       "Stefan Truthän"
-    ],
-    [
-      "Miroslav Nevesely",
-      "XXXX XXXX"
     ],
     [
       "Morten Simonsen",
@@ -1136,14 +1136,14 @@
       "Przemysław Mania"
     ],
     [
-      "Ester Neubauerová",
-      "Petra Černucká",
-      "Zuzana Tomková"
+      "Jakub Sifra",
+      "Miroslav Borbuliak",
+      "Tomas Bobis"
     ],
     [
       "Adrian Schratt",
-      "Andrea Rummel",
       "Andreas Huber",
+      "Andreas Rummel",
       "Ralph Kinhackl"
     ],
     [
@@ -1153,16 +1153,16 @@
       "Jeroen Govaerts"
     ],
     [
-      "Alexander Reitz",
-      "Lukas Wickmann",
-      "Michael Güth",
-      "Uwe Heise"
-    ],
-    [
       "Andre Kühne",
       "David Kubis",
       "Martin Erbe",
       "Stefan Truthän"
+    ],
+    [
+      "Anja Sudholt",
+      "Ester Neubauerová",
+      "Nikola Cempirkova",
+      "Petra Černucká"
     ],
     [
       "Cedric Matthäus",
@@ -1171,22 +1171,16 @@
       "Yannick Eckelt"
     ],
     [
-      "Christian Follmann",
-      "David Probst",
-      "Dirk Fischer",
-      "Rüdiger Zeuner-Christ"
-    ],
-    [
       "Daniel Havmand",
       "Morten Simonsen",
       "Nico Heesch",
       "Ole Nedergaard"
     ],
     [
-      "Hans-Jürgen Vogt",
-      "Matthias Schmitt",
-      "Ramona Röse",
-      "Sebastian Röse"
+      "Lena Sophie Behne",
+      "Rostislav Budař",
+      "Stephanie Maschke-Fräßdorf",
+      "Vivian Bauermeister"
     ],
     [
       "Oliver Moy",
@@ -1218,8 +1212,8 @@
     [
       "Adam Slavíček",
       "David Kubiš",
+      "Ester Neubauerová",
       "Nikola Cempirkova",
-      "Petra Černucká",
       "Roman Munzar"
     ],
     [
@@ -1230,6 +1224,13 @@
       "Tim Schaffert"
     ],
     [
+      "Alexander Reitz",
+      "Florian Menklein",
+      "Lukas Wickmann",
+      "Michael Güth",
+      "Uwe Heise"
+    ],
+    [
       "Andreas Gaßner",
       "Markus Fellner",
       "Markus Heiss",
@@ -1238,17 +1239,10 @@
     ],
     [
       "Anna Köllner",
-      "Benjamin Fleischer",
-      "Matthias Buttig",
+      "Jens Köwilein",
+      "Olaf Krause",
       "Ralf Herp",
       "Rares Schuster"
-    ],
-    [
-      "Anton Reim",
-      "Jacqueline Otten",
-      "Jan Theiler",
-      "Marc Hübler",
-      "Sandra Nietfeld"
     ],
     [
       "Bart De Smet",
@@ -1279,6 +1273,13 @@
       "Tamino Steuding"
     ],
     [
+      "Christian Follmann",
+      "David Probst",
+      "Dirk Fischer",
+      "Helge Sonnenberg",
+      "Rüdiger Zeuner-Christ"
+    ],
+    [
       "Christian Woelke",
       "Conrad Gundlach",
       "Kirsten Mehnert",
@@ -1291,6 +1292,20 @@
       "Karol Mazur",
       "Konrad Karoń",
       "Mateusz Zieleziecki"
+    ],
+    [
+      "Daniela Primus",
+      "May Tommervold",
+      "Oli Moy",
+      "Sören Warzok",
+      "Tom Trost"
+    ],
+    [
+      "Felix Dörries",
+      "Hans-Jürgen Vogt",
+      "Mario Fleerkortte",
+      "Rebea Sonnenberg",
+      "Vera Licha"
     ],
     [
       "Fischer Tobias",
@@ -1328,11 +1343,18 @@
       "Thomas Weichert"
     ],
     [
+      "Jacqueline Otten",
+      "Jan Theiler",
+      "Laura Andres",
+      "Marc Hübler",
+      "Sandra Nietfeld"
+    ],
+    [
+      "Jakub Kapek",
       "Jan Kapek",
-      "Tomáš Vondráček",
-      "Xxxx Xxxx",
-      "Xxxx Xxxx",
-      "Xxxx Xxxx"
+      "Marek Ludvik",
+      "Robin Bures",
+      "Tomáš Vondráček"
     ],
     [
       "Klara Katrusakova",
@@ -1342,25 +1364,11 @@
       "Robo Rapušák"
     ],
     [
-      "Lena Sophie Behne",
-      "Michele Schammer",
-      "Rostislav Budař",
-      "Stephanie Maschke-Fräßdorf",
-      "Vivian Bauermeister"
-    ],
-    [
       "Marie-C. Schumann",
       "Marta Arrobe de Encarnacao",
       "Robin Bures",
       "Tomas Vondracek",
       "Uwe Schlonsak"
-    ],
-    [
-      "May Tommervold",
-      "Oli Moy",
-      "Sören Warzok",
-      "Tom Trost",
-      "Vera Licha"
     ]
   ]
 }

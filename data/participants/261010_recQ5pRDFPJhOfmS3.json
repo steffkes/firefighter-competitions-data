@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 107
+      "amount": 106
     }
   ],
-  "count": 157,
+  "count": 158,
   "teams": [
     [
       "Achim Keller"
@@ -216,6 +216,9 @@
     ],
     [
       "Marc Sobeck"
+    ],
+    [
+      "Marcel Link"
     ],
     [
       "Marcus Reindl"

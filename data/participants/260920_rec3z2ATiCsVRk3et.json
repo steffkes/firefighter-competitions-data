@@ -1,13 +1,10 @@
 {
   "competition_id": "rec3z2ATiCsVRk3et",
   "slots": [],
-  "count": 631,
+  "count": 632,
   "teams": [
     [
       "Aron Schäfer"
-    ],
-    [
-      "Bastian Götz"
     ],
     [
       "Darko Zivkovic"
@@ -40,7 +37,7 @@
     ],
     [
       "Alex Föll",
-      "Philipp Kübler"
+      "Rino Dirl"
     ],
     [
       "Alexander Diehm",
@@ -85,10 +82,6 @@
     [
       "Alexander Watson",
       "Pascal Neugebauer"
-    ],
-    [
-      "Alexandra Gottschling",
-      "Raphael Mandrella"
     ],
     [
       "Alfredo Arteaga",
@@ -273,6 +266,10 @@
     [
       "Christoph Beck",
       "Kevin Brütsch"
+    ],
+    [
+      "Christoph Bohnenstengel",
+      "Michael Benitz"
     ],
     [
       "Christoph Brucks",
@@ -484,7 +481,7 @@
     ],
     [
       "Fabian Kluge",
-      "Maimuna Krüger"
+      "Sarah Schönig"
     ],
     [
       "Fabian Langenbacher",
@@ -536,7 +533,7 @@
     ],
     [
       "Felix Conzelmann",
-      "Rui Azevedo"
+      "Patrick Lebherz"
     ],
     [
       "Felix Jäckle",
@@ -548,7 +545,7 @@
     ],
     [
       "Felix Rombach",
-      "Patrick Lebherz"
+      "Rui Azevedo"
     ],
     [
       "Felix Schatek",
@@ -617,10 +614,6 @@
     [
       "Florian Rümler",
       "Kristina Knittel"
-    ],
-    [
-      "Florian Schlutt",
-      "Kilian Schlutt"
     ],
     [
       "Florian Wein",
@@ -804,10 +797,6 @@
     ],
     [
       "Julia Wester",
-      "Marco Weimer"
-    ],
-    [
-      "Julia Wester",
       "Martin Franke"
     ],
     [
@@ -867,6 +856,10 @@
       "Sina Gmelin"
     ],
     [
+      "Kilian Schlutt",
+      "Luisa Kesberger"
+    ],
+    [
       "Lars Kottler",
       "Sascha Unsöld"
     ],
@@ -895,10 +888,6 @@
       "Leon Blaschke"
     ],
     [
-      "Lehel Szöcs",
-      "Thorsten Schäfer"
-    ],
-    [
       "Leon Heller",
       "Markus Rebstock"
     ],
@@ -907,12 +896,16 @@
       "Leroy Dederer"
     ],
     [
+      "Linus Schuler",
+      "Niklas Hanßmann"
+    ],
+    [
       "Louisa Wein",
       "Ruben Heinzelmann"
     ],
     [
       "Luc Schreiner",
-      "Nikolay Shaparin"
+      "Szöcs Lehel"
     ],
     [
       "Luca Bäuerle",
@@ -979,16 +972,8 @@
       "Mark Hermann"
     ],
     [
-      "Maier Jürgen",
-      "Michael Benitz"
-    ],
-    [
       "Manfred Freimut",
       "Niklas Steinhilper"
-    ],
-    [
-      "Manuel Flock",
-      "Martin Mair"
     ],
     [
       "Manuel Lerner",
@@ -1023,12 +1008,20 @@
       "Pascal Hauschild"
     ],
     [
+      "Marcel Oehler",
+      "Szilveszter Favor"
+    ],
+    [
       "Marcel Sulz",
       "Marius Rothfelder"
     ],
     [
       "Marcel Winter",
       "Oliver Söll"
+    ],
+    [
+      "Marco Weimer",
+      "Sabina Schembera"
     ],
     [
       "Marcus Bihler",
@@ -1085,6 +1078,10 @@
     [
       "Martin Kalus",
       "Marvin Faust"
+    ],
+    [
+      "Martin Mair",
+      "Simon Stirle"
     ],
     [
       "Marvin Manz",
@@ -1171,12 +1168,12 @@
       "Salvatore Salamone"
     ],
     [
-      "Niklas Hanßmann",
-      "Philipp Rigoni"
-    ],
-    [
       "Niklas Kießling",
       "Raphael Renner"
+    ],
+    [
+      "Nikolay Sharapin",
+      "Thorsten Schäfer"
     ],
     [
       "Norman Schmid",
@@ -1221,6 +1218,10 @@
     [
       "Philipp Schmidt",
       "Steven Wagner"
+    ],
+    [
+      "Raphael Mandrella",
+      "Tim Isele"
     ],
     [
       "Robin Hübschle",

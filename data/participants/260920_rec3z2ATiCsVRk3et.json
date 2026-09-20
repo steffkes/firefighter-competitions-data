@@ -1,13 +1,22 @@
 {
   "competition_id": "rec3z2ATiCsVRk3et",
   "slots": [],
-  "count": 634,
+  "count": 631,
   "teams": [
     [
       "Aron Schäfer"
     ],
     [
+      "Bastian Götz"
+    ],
+    [
+      "Darko Zivkovic"
+    ],
+    [
       "Konrad Florian Mündlein"
+    ],
+    [
+      "Shelem Garcia Marin"
     ],
     [
       "Adrian Bauer",
@@ -60,10 +69,6 @@
     [
       "Alexander Romer",
       "Maren Jahn"
-    ],
-    [
-      "Alexander Scholz",
-      "Darko Zivkovic"
     ],
     [
       "Alexander Staiber",
@@ -166,10 +171,6 @@
       "Robin Gölz"
     ],
     [
-      "Annalena Anhalt",
-      "Oskar Stetter"
-    ],
-    [
       "Annika Raithle",
       "Jens Heuberger"
     ],
@@ -188,10 +189,6 @@
     [
       "Armin Mannsdörfer",
       "Wolfgang Sorge"
-    ],
-    [
-      "Bastian Götz",
-      "Johannes Göttlinger"
     ],
     [
       "Bastian Hübner",
@@ -303,11 +300,7 @@
     ],
     [
       "Christophe Hoffmann",
-      "Daniel Senger"
-    ],
-    [
-      "Claude Rieff",
-      "Nico Kleer"
+      "Claude Rieff"
     ],
     [
       "Clemens Breinlinger",
@@ -358,8 +351,12 @@
       "Jens Schnekenburger"
     ],
     [
+      "Daniel Senger",
+      "Nico Kleer"
+    ],
+    [
       "Daniel Springer",
-      "Matthias Wegis"
+      "Jürgen Huther"
     ],
     [
       "Daniel Wegmann",
@@ -367,7 +364,7 @@
     ],
     [
       "Daniel Zimmermann",
-      "Julian Schlutt"
+      "Florian Schlutt"
     ],
     [
       "Daniele Rizzo",
@@ -408,10 +405,6 @@
     [
       "Dennis Pfleghaar",
       "Mike Erdenberger"
-    ],
-    [
-      "Dennis Raible",
-      "Monja Haas"
     ],
     [
       "Dirk Hirtz",
@@ -782,6 +775,10 @@
       "Timo Stier"
     ],
     [
+      "Johannes Stiller",
+      "Oskar Stetter"
+    ],
+    [
       "Jonas Buser",
       "Thomas Ley"
     ],
@@ -974,6 +971,10 @@
       "Marvin Katona"
     ],
     [
+      "Lukas Widmann",
+      "Robin Prowasnik"
+    ],
+    [
       "Magnus Kling",
       "Mark Hermann"
     ],
@@ -1035,7 +1036,7 @@
     ],
     [
       "Mario Wehl",
-      "Matthias Hipp"
+      "Timo Wittendorfer"
     ],
     [
       "Maritn Köberle",
@@ -1206,6 +1207,10 @@
       "Ricco Gerber"
     ],
     [
+      "Patrick Weckenmann",
+      "Stefan Haug"
+    ],
+    [
       "Philipp Dongus",
       "Tim Klein"
     ],
@@ -1222,10 +1227,6 @@
       "Till Berge"
     ],
     [
-      "Robin Prowasnik",
-      "Stefan Haug"
-    ],
-    [
       "Robin Wurster",
       "Stefan Kabuth"
     ],
@@ -1240,10 +1241,6 @@
     [
       "Samuel Rist",
       "Valentin Gessler"
-    ],
-    [
-      "Shelem Garcia Marin",
-      "Sven Delitzsch"
     ],
     [
       "Silas Funk",

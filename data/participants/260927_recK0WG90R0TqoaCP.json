@@ -1,7 +1,7 @@
 {
   "competition_id": "recK0WG90R0TqoaCP",
   "slots": [],
-  "count": 302,
+  "count": 304,
   "teams": [
     [
       "Adrian Ganter",
@@ -218,6 +218,10 @@
     [
       "Fabian Wendel",
       "Phillip Burkart"
+    ],
+    [
+      "Falk Lammers",
+      "Lukas Link"
     ],
     [
       "Federico Wahrenburg",
@@ -496,10 +500,6 @@
       "Moritz Grözinger"
     ],
     [
-      "Lukas Link",
-      "Nils Heverhagen"
-    ],
-    [
       "Lukas Müller",
       "Markus Bischoff"
     ],
@@ -578,6 +578,10 @@
     [
       "Mika Jägle",
       "Pierre Biegert"
+    ],
+    [
+      "Nico Farci",
+      "Volodymyr Kalach"
     ],
     [
       "Nico Mutschler",

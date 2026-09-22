@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 105
+      "amount": 100
     }
   ],
-  "count": 159,
+  "count": 164,
   "teams": [
     [
       "Achim Keller"
@@ -89,6 +89,9 @@
       "Daniel Franzelin"
     ],
     [
+      "Daniel Link"
+    ],
+    [
       "Erik Langenhahn"
     ],
     [
@@ -131,7 +134,13 @@
       "Harald Metzen"
     ],
     [
+      "Harald Stengel"
+    ],
+    [
       "Ina Düll"
+    ],
+    [
+      "Ingolf Fritz"
     ],
     [
       "Jakob Wiest"
@@ -144,6 +153,9 @@
     ],
     [
       "Joachim Krißmer"
+    ],
+    [
+      "Johannes Blum"
     ],
     [
       "Johannes Müller"
@@ -348,6 +360,9 @@
     ],
     [
       "Stefanie Siebler"
+    ],
+    [
+      "Steffen Gühring"
     ],
     [
       "Steve Roidl"

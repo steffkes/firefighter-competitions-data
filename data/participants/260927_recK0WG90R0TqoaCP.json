@@ -1,7 +1,7 @@
 {
   "competition_id": "recK0WG90R0TqoaCP",
   "slots": [],
-  "count": 306,
+  "count": 308,
   "teams": [
     [
       "Adrian Ganter",
@@ -50,10 +50,6 @@
     [
       "Andreas Seiler",
       "Ronny Düsterhöft"
-    ],
-    [
-      "André Brogle",
-      "Jan Schade"
     ],
     [
       "Ann-Kathrin Günthner",
@@ -134,6 +130,10 @@
     [
       "Christoph Auberger",
       "Lukas Mahler"
+    ],
+    [
+      "Christoph Neumann",
+      "Tobias Olbrich"
     ],
     [
       "Christopher Hauser",
@@ -340,6 +340,10 @@
       "Lars Heselschwerdt"
     ],
     [
+      "Jan Schade",
+      "Micha Berger"
+    ],
+    [
       "Jannis Deutsch",
       "Markus Vogelmann"
     ],
@@ -512,16 +516,16 @@
       "Marvin Katona"
     ],
     [
-      "Lukas Wacker",
-      "Marc Kaschig"
-    ],
-    [
       "Manuel Maichle",
       "René Hermann"
     ],
     [
       "Marc Hechler",
       "Markus Woland"
+    ],
+    [
+      "Marc Kaschig",
+      "Micha Schmid"
     ],
     [
       "Marcel Dietz",

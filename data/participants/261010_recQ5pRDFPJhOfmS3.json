@@ -2,13 +2,16 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 100
+      "amount": 99
     }
   ],
-  "count": 164,
+  "count": 165,
   "teams": [
     [
       "Achim Keller"
+    ],
+    [
+      "Adrian Ried"
     ],
     [
       "Alexander Haas"

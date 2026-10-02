@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 84
+      "amount": 83
     }
   ],
-  "count": 140,
+  "count": 141,
   "teams": [
     [
       "Achim Keller"
@@ -222,6 +222,9 @@
     ],
     [
       "Lukas Berkmann"
+    ],
+    [
+      "Lukas Wurz"
     ],
     [
       "Manfred Freimut"

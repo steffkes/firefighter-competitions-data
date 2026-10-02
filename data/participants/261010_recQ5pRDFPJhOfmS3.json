@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 97
+      "amount": 84
     }
   ],
-  "count": 166,
+  "count": 140,
   "teams": [
     [
       "Achim Keller"
@@ -143,6 +143,9 @@
       "Harald Stengel"
     ],
     [
+      "Holger Keller"
+    ],
+    [
       "Ina Düll"
     ],
     [
@@ -189,9 +192,6 @@
     ],
     [
       "Karsten Neupert"
-    ],
-    [
-      "Keller Hogler"
     ],
     [
       "Kim Schneider"
@@ -426,58 +426,6 @@
     ],
     [
       "Wolfgang Stark"
-    ],
-    [
-      "Andreas Fischer",
-      "Christian Kreit"
-    ],
-    [
-      "Andreas Schmid",
-      "Elias Geisler"
-    ],
-    [
-      "Barbara Brodkorb",
-      "Lennart Kunze"
-    ],
-    [
-      "Christoph Leidolt",
-      "Moritz Leidolt"
-    ],
-    [
-      "Dieter Held",
-      "Manfred Freimut"
-    ],
-    [
-      "Guido Abele",
-      "KarlHeinz Winter"
-    ],
-    [
-      "Hugo Hölzle",
-      "Johannes Riederer"
-    ],
-    [
-      "Jakob Schwarz",
-      "Maximilian Zwick"
-    ],
-    [
-      "Jonas Engstle",
-      "Leonhard Schwarz"
-    ],
-    [
-      "Kalle Müller",
-      "Marcel Moser"
-    ],
-    [
-      "Markus Mezger",
-      "Simon Mezger"
-    ],
-    [
-      "Martin Lohrberg",
-      "René Stange"
-    ],
-    [
-      "Matthias Kern",
-      "Mischa Bäurle"
     ]
   ]
 }

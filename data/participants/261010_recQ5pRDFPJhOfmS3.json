@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 81
+      "amount": 79
     }
   ],
-  "count": 144,
+  "count": 146,
   "teams": [
     [
       "Achim Keller"
@@ -278,6 +278,9 @@
       "Matthias Aubele"
     ],
     [
+      "Matthias Dechert"
+    ],
+    [
       "Matthias Maurer"
     ],
     [
@@ -384,6 +387,9 @@
     ],
     [
       "Steve Roidl"
+    ],
+    [
+      "Sune Vetter"
     ],
     [
       "Thomas Berkmann"

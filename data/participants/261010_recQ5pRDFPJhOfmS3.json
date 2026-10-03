@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 83
+      "amount": 82
     }
   ],
-  "count": 141,
+  "count": 143,
   "teams": [
     [
       "Achim Keller"
@@ -429,6 +429,10 @@
     ],
     [
       "Wolfgang Stark"
+    ],
+    [
+      "Julian Arnold",
+      "Mario Hoffmann"
     ]
   ]
 }

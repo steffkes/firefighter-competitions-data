@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 82
+      "amount": 81
     }
   ],
-  "count": 143,
+  "count": 144,
   "teams": [
     [
       "Achim Keller"
@@ -339,6 +339,9 @@
     ],
     [
       "Philipp Eiterer"
+    ],
+    [
+      "Regina Flöther"
     ],
     [
       "René Stange"

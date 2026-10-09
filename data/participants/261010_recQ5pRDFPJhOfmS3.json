@@ -2,10 +2,10 @@
   "competition_id": "recQ5pRDFPJhOfmS3",
   "slots": [
     {
-      "amount": 78
+      "amount": 77
     }
   ],
-  "count": 144,
+  "count": 146,
   "teams": [
     [
       "Achim Keller"
@@ -23,6 +23,9 @@
       "Andreas Leibfarth"
     ],
     [
+      "Andreas Schmid"
+    ],
+    [
       "Andreas Sperber"
     ],
     [
@@ -32,13 +35,13 @@
       "André Thieringer"
     ],
     [
-      "Ben Brodbeck"
-    ],
-    [
       "Benedikt Sommer"
     ],
     [
       "Benjamin Eger-Glaser"
+    ],
+    [
+      "Benjamin Schneider"
     ],
     [
       "Bernd Schamberger"
@@ -149,9 +152,6 @@
       "Holger Keller"
     ],
     [
-      "Ina Düll"
-    ],
-    [
       "Ingolf Fritz"
     ],
     [
@@ -230,9 +230,6 @@
       "Lukas Wurz"
     ],
     [
-      "Manfred Freimut"
-    ],
-    [
       "Manuel Bidmon"
     ],
     [
@@ -266,6 +263,9 @@
       "Markus Sturm"
     ],
     [
+      "Martin Mayinger"
+    ],
+    [
       "Marvin Hub"
     ],
     [
@@ -282,6 +282,9 @@
     ],
     [
       "Matthias Maurer"
+    ],
+    [
+      "Matthias Reichart"
     ],
     [
       "Max Peters"
@@ -354,6 +357,9 @@
     ],
     [
       "Robin Scheuring"
+    ],
+    [
+      "Sascha Unsöld"
     ],
     [
       "Sebastian Menn"

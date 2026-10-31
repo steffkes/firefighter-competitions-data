@@ -42,6 +42,32 @@ for path, competition in filter(
     )
     extras.execute_values(cur, "INSERT INTO participants VALUES %s", data)
 
+cur.execute("DROP TABLE IF EXISTS registration")
+cur.execute(
+    """
+CREATE TABLE registration (
+  competition_id TEXT,
+  label TEXT,
+  slots INTEGER
+)
+"""
+)
+
+for path, competition in filter(
+    None, map(loaderFn, sorted(Path("data/participants").glob("*.json")))
+):
+    data = [
+        (
+            competition["competition_id"],
+            slot.get("label"),
+            # some sources count past their quota, there is never less than 0 left
+            max(0, slot["amount"]),
+        )
+        for slot in competition.get("slots", [])
+    ]
+    if data:
+        extras.execute_values(cur, "INSERT INTO registration VALUES %s", data)
+
 cur.execute("DROP TABLE IF EXISTS results")
 cur.execute(
     """

@@ -2,10 +2,10 @@
   "competition_id": "recR98cS89lKBl2HW",
   "slots": [
     {
-      "amount": 45
+      "amount": 44
     }
   ],
-  "count": 180,
+  "count": 182,
   "teams": [
     [
       "Alexander Heise",
@@ -338,6 +338,10 @@
     [
       "Nils Dembeck",
       "Torsten Schmied"
+    ],
+    [
+      "Pahn Markus",
+      "Tobias Hannusch"
     ],
     [
       "Patrick Niedzwetzki",

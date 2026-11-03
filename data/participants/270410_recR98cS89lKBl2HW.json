@@ -2,10 +2,10 @@
   "competition_id": "recR98cS89lKBl2HW",
   "slots": [
     {
-      "amount": 42
+      "amount": 41
     }
   ],
-  "count": 186,
+  "count": 188,
   "teams": [
     [
       "Alexander Heise",
@@ -206,6 +206,10 @@
     [
       "Jan Scharff",
       "Timm Eberle"
+    ],
+    [
+      "Jochen Haesemeyer",
+      "Pascal Seifried"
     ],
     [
       "Johannes Röß",

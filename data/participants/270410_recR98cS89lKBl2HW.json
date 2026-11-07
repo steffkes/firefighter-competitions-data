@@ -2,10 +2,10 @@
   "competition_id": "recR98cS89lKBl2HW",
   "slots": [
     {
-      "amount": 41
+      "amount": 40
     }
   ],
-  "count": 190,
+  "count": 192,
   "teams": [
     [
       "Alexander Heise",
@@ -114,6 +114,10 @@
     [
       "Clemens Gutmann",
       "Hendrik Grießmann"
+    ],
+    [
+      "Constantin Rahn",
+      "Leon Bartusch"
     ],
     [
       "Damian Pyka",

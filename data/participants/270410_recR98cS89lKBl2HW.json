@@ -2,10 +2,10 @@
   "competition_id": "recR98cS89lKBl2HW",
   "slots": [
     {
-      "amount": 40
+      "amount": 39
     }
   ],
-  "count": 194,
+  "count": 196,
   "teams": [
     [
       "Alexander Heise",
@@ -234,6 +234,10 @@
     [
       "Julia Börner",
       "Nadine Zander"
+    ],
+    [
+      "Julian Lohrey",
+      "Marcel Löwer"
     ],
     [
       "Jörg Bohun",

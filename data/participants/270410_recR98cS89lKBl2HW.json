@@ -2,10 +2,10 @@
   "competition_id": "recR98cS89lKBl2HW",
   "slots": [
     {
-      "amount": 38
+      "amount": 37
     }
   ],
-  "count": 200,
+  "count": 204,
   "teams": [
     [
       "Alexander Heise",
@@ -72,6 +72,10 @@
       "Daniel Pätzolt"
     ],
     [
+      "Caroline Andres",
+      "Thomas Andres"
+    ],
+    [
       "Carsten Held",
       "Christian Buhl"
     ],
@@ -110,6 +114,10 @@
     [
       "Christof Kiebler",
       "Dennis Küllmer"
+    ],
+    [
+      "Christoph Schehr",
+      "Lucas Faul"
     ],
     [
       "Clemens Gutmann",

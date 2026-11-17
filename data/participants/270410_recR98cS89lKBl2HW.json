@@ -2,10 +2,10 @@
   "competition_id": "recR98cS89lKBl2HW",
   "slots": [
     {
-      "amount": 37
+      "amount": 36
     }
   ],
-  "count": 204,
+  "count": 206,
   "teams": [
     [
       "Alexander Heise",
@@ -390,6 +390,10 @@
     [
       "Patrick Niedzwetzki",
       "Swen Dausch"
+    ],
+    [
+      "Peter Wehr",
+      "Tobias Schramm"
     ],
     [
       "Philipp Boguslaw",

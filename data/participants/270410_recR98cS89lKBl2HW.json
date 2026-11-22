@@ -2,10 +2,10 @@
   "competition_id": "recR98cS89lKBl2HW",
   "slots": [
     {
-      "amount": 36
+      "amount": 35
     }
   ],
-  "count": 206,
+  "count": 208,
   "teams": [
     [
       "Alexander Heise",
@@ -342,6 +342,10 @@
     [
       "Matthias Weickmann",
       "Nicole Tuchbreiter"
+    ],
+    [
+      "Max Rutz",
+      "Paul Schenk"
     ],
     [
       "Maximilian Wolff",
